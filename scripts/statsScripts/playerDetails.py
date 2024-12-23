@@ -61,12 +61,11 @@ allLeagues = [
 
 allClubs = [
     "stanningley",
-    "pudsey",
-    "burley",
     "littlemoor",
+    "pudsey",
     "farsley",
+    "garforth",
     "new wortley",
+    "burley",
     "wibsey",
-    "bramley",
-    "new armley",
 ]

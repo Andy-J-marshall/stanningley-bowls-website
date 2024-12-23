@@ -13,11 +13,12 @@ displayTeamName = "Stanningley"
 
 # Days played (add duplicate days for second teams suffixed with (A) or (B) etc.)
 teamDays = [
-    "Leeds Monday Combined",
+    "AireWharfe Monday",
     "Leeds Tuesday Vets",
     "Leeds Tuesday",
     "Leeds Half Holiday",
     "AireWharfe Wednesday Pairs",
+    "Leeds Ladies",
     "Leeds Thursday Vets",
     "Leeds Saturday (A)",
     "Leeds Saturday (B)",
@@ -64,7 +65,6 @@ players = [
     "nicola bona",
     "linda barrand",
     "phil thornton",
-    "karl chapman",
 ]
 
 # Players with different spellings of name (lowercase). Also need to add to deduplicateNames function
