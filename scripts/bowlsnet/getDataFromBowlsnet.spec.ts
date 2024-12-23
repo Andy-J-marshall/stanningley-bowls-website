@@ -152,8 +152,7 @@ for (const league of leagues) {
         try {
             const popUp = page
                 .frameLocator('iframe[title="BowlsNet Page"]')
-                .frameLocator('iframe[title="BowlsNet Dlg"]')
-                .getByRole('button', { name: 'Close' });
+                .getByRole('button', { name: 'Continue' });
             const popUpCount = await popUp.count();
             if (popUpCount > 0) {
                 await popUp.click();
@@ -166,7 +165,7 @@ for (const league of leagues) {
         await page
             .frameLocator('iframe[title="BowlsNet Page"]')
             .getByText('Fixtures', { exact: true })
-            .hover();
+            .click();
 
         await page
             .frameLocator('iframe[title="BowlsNet Page"]')
