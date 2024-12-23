@@ -70,6 +70,10 @@ const leagues = [
         day: 'Bradford Saturday',
         url: '/Bradford-Sat',
     },
+    {
+        day: 'Leeds Ladies',
+        url: '/LeedsLadies',
+    },
     // Other leagues of interest
     // {
     //     day: 'North East Leeds Vets',
@@ -78,10 +82,6 @@ const leagues = [
     // {
     //     day: 'Tadcaster',
     //     url: '/Tadcaster',
-    // },
-    // {
-    //     day: 'Leeds Ladies',
-    //     url: '/LeedsLadies',
     // },
     // {
     //     day: 'AireWharfe Saturday',

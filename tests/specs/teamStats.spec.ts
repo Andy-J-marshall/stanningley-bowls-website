@@ -116,6 +116,6 @@ test.describe('Team Stats', () => {
     test(`Stats year dropdown appears if there are multiple years of stats available`, async ({
         yearSelectPage,
     }) => {
-        await yearSelectPage.checkYearDropdownHasAllYearOptions(11);
+        await yearSelectPage.checkYearDropdownHasAllYearOptions(12);
     });
 });

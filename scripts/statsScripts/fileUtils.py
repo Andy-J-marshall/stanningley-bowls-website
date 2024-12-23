@@ -1,7 +1,7 @@
 import json
 from datetime import date
 
-year = str(date.today().year)
+year = "2025"
 
 
 def findEndRowOfFile(league, allRowsInFile):

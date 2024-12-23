@@ -1,0 +1,3086 @@
+{
+    "playerResults": {
+        "alison woodfine": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "alyssa randell": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "andy marshall": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "andy waller": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "clifford brogie": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "colin haque": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "craig clarkson": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "dave eaton": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "derek wilson": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "donald shaw": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "duncan mcphail": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "harvey leonard": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "jim moorin": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "jim swailes": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "joey broadbent": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "john armitage": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "ken green": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "laila packer": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "linda barrand": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "malvin miller": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "martin fulton": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "neil porter": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "nicola bona": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "paul bowes": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "paul leonard": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "peter crowther": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "phil sutcliffe": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "phil thornton": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "richard hodgson": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "rob packer": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "stephen tiernan": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "steve gardner": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "stewart watson": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "stuart potter": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "tracey marshall": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "vanessa lancaster": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        }
+    },
+    "teamResults": [
+        {
+            "day": "AireWharfe Monday",
+            "awayWins": 0,
+            "homeWins": 0,
+            "wins": 0,
+            "awayLosses": 0,
+            "homeLosses": 0,
+            "homeDraws": 0,
+            "awayDraws": 0,
+            "draws": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "losses": 0,
+            "totalGamesPlayed": 0,
+            "agg": 0,
+            "opponentAgg": 0,
+            "results": []
+        },
+        {
+            "day": "Leeds Tuesday Vets",
+            "awayWins": 0,
+            "homeWins": 0,
+            "wins": 0,
+            "awayLosses": 0,
+            "homeLosses": 0,
+            "homeDraws": 0,
+            "awayDraws": 0,
+            "draws": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "losses": 0,
+            "totalGamesPlayed": 0,
+            "agg": 0,
+            "opponentAgg": 0,
+            "results": []
+        },
+        {
+            "day": "Leeds Tuesday",
+            "awayWins": 0,
+            "homeWins": 0,
+            "wins": 0,
+            "awayLosses": 0,
+            "homeLosses": 0,
+            "homeDraws": 0,
+            "awayDraws": 0,
+            "draws": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "losses": 0,
+            "totalGamesPlayed": 0,
+            "agg": 0,
+            "opponentAgg": 0,
+            "results": []
+        },
+        {
+            "day": "Leeds Half Holiday",
+            "awayWins": 0,
+            "homeWins": 0,
+            "wins": 0,
+            "awayLosses": 0,
+            "homeLosses": 0,
+            "homeDraws": 0,
+            "awayDraws": 0,
+            "draws": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "losses": 0,
+            "totalGamesPlayed": 0,
+            "agg": 0,
+            "opponentAgg": 0,
+            "results": []
+        },
+        {
+            "day": "AireWharfe Wednesday Pairs",
+            "awayWins": 0,
+            "homeWins": 0,
+            "wins": 0,
+            "awayLosses": 0,
+            "homeLosses": 0,
+            "homeDraws": 0,
+            "awayDraws": 0,
+            "draws": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "losses": 0,
+            "totalGamesPlayed": 0,
+            "agg": 0,
+            "opponentAgg": 0,
+            "results": []
+        },
+        {
+            "day": "Leeds Ladies",
+            "awayWins": 0,
+            "homeWins": 0,
+            "wins": 0,
+            "awayLosses": 0,
+            "homeLosses": 0,
+            "homeDraws": 0,
+            "awayDraws": 0,
+            "draws": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "losses": 0,
+            "totalGamesPlayed": 0,
+            "agg": 0,
+            "opponentAgg": 0,
+            "results": []
+        },
+        {
+            "day": "Leeds Thursday Vets",
+            "awayWins": 0,
+            "homeWins": 0,
+            "wins": 0,
+            "awayLosses": 0,
+            "homeLosses": 0,
+            "homeDraws": 0,
+            "awayDraws": 0,
+            "draws": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "losses": 0,
+            "totalGamesPlayed": 0,
+            "agg": 0,
+            "opponentAgg": 0,
+            "results": []
+        },
+        {
+            "day": "Leeds Saturday",
+            "awayWins": 0,
+            "homeWins": 0,
+            "wins": 0,
+            "awayLosses": 0,
+            "homeLosses": 0,
+            "homeDraws": 0,
+            "awayDraws": 0,
+            "draws": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "losses": 0,
+            "totalGamesPlayed": 0,
+            "agg": 0,
+            "opponentAgg": 0,
+            "results": []
+        },
+        {
+            "day": "Leeds Saturday (B)",
+            "awayWins": 0,
+            "homeWins": 0,
+            "wins": 0,
+            "awayLosses": 0,
+            "homeLosses": 0,
+            "homeDraws": 0,
+            "awayDraws": 0,
+            "draws": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "losses": 0,
+            "totalGamesPlayed": 0,
+            "agg": 0,
+            "opponentAgg": 0,
+            "results": []
+        }
+    ],
+    "lastUpdated": "23/12/2024",
+    "statsYear": "2025"
+}

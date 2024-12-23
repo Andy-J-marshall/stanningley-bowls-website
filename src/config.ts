@@ -68,7 +68,7 @@ export const config = {
     ],
     historicTeamInfo: [
         {
-            teamNames: ['leeds monday combined', 'airewharfe monday'],
+            teamNames: ['airewharfe monday', 'leeds monday combined'],
         },
         {
             teamNames: ['leeds tuesday vets'],
@@ -84,6 +84,9 @@ export const config = {
         },
         {
             teamNames: ['leeds thursday vets'],
+        },
+        {
+            teamNames: ['leeds ladies'],
         },
         {
             teamNames: ['leeds saturday', 'bradford saturday'],

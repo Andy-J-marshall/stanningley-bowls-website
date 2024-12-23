@@ -10,6 +10,7 @@ import stanningleyStats21 from './data/stanningleyStats2021.json';
 import stanningleyStats22 from './data/stanningleyStats2022.json';
 import stanningleyStats23 from './data/stanningleyStats2023.json';
 import stanningleyStats24 from './data/stanningleyStats2024.json';
+import stanningleyStats25 from './data/stanningleyStats2025.json';
 import littlemoorStats13 from './data/littlemoorStats2013.json';
 import littlemoorStats14 from './data/littlemoorStats2014.json';
 import littlemoorStats15 from './data/littlemoorStats2015.json';
@@ -21,6 +22,7 @@ import littlemoorStats21 from './data/littlemoorStats2021.json';
 import littlemoorStats22 from './data/littlemoorStats2022.json';
 import littlemoorStats23 from './data/littlemoorStats2023.json';
 import littlemoorStats24 from './data/littlemoorStats2024.json';
+import littlemoorStats25 from './data/littlemoorStats2025.json';
 import pudseyStats13 from './data/pudseyStats2013.json';
 import pudseyStats14 from './data/pudseyStats2014.json';
 import pudseyStats15 from './data/pudseyStats2015.json';
@@ -32,6 +34,7 @@ import pudseyStats21 from './data/pudseyStats2021.json';
 import pudseyStats22 from './data/pudseyStats2022.json';
 import pudseyStats23 from './data/pudseyStats2023.json';
 import pudseyStats24 from './data/pudseyStats2024.json';
+import pudseyStats25 from './data/pudseyStats2025.json';
 import allClubsStats13 from './data/allClubsStats2013.json';
 import allClubsStats14 from './data/allClubsStats2014.json';
 import allClubsStats15 from './data/allClubsStats2015.json';
@@ -43,6 +46,7 @@ import allClubsStats21 from './data/allClubsStats2021.json';
 import allClubsStats22 from './data/allClubsStats2022.json';
 import allClubsStats23 from './data/allClubsStats2023.json';
 import allClubsStats24 from './data/allClubsStats2024.json';
+import allClubsStats25 from './data/allClubsStats2025.json';
 
 // Stats for future years will need to be updated here
 
@@ -58,6 +62,7 @@ const stanningleyStatsForEveryYearArray = [
     stanningleyStats22,
     stanningleyStats23,
     stanningleyStats24,
+    stanningleyStats25,
 ];
 
 const allYearStanningleyStats = {
@@ -72,6 +77,7 @@ const allYearStanningleyStats = {
     year2022: stanningleyStats22,
     year2023: stanningleyStats23,
     year2024: stanningleyStats24,
+    year2025: stanningleyStats25,
     allYears: returnPlayerStatsForAllYears(stanningleyStatsForEveryYearArray),
 };
 
@@ -87,6 +93,7 @@ const littlemoorStatsForEveryYearArray = [
     littlemoorStats22,
     littlemoorStats23,
     littlemoorStats24,
+    littlemoorStats25,
 ];
 
 const allYearLittlemoorStats = {
@@ -101,6 +108,7 @@ const allYearLittlemoorStats = {
     year2022: littlemoorStats22,
     year2023: littlemoorStats23,
     year2024: littlemoorStats24,
+    year2025: littlemoorStats25,
     allYears: returnPlayerStatsForAllYears(littlemoorStatsForEveryYearArray),
 };
 
@@ -116,6 +124,7 @@ const pudseyStatsForEveryYearArray = [
     pudseyStats22,
     pudseyStats23,
     pudseyStats24,
+    pudseyStats25,
 ];
 
 const allYearPudseyStats = {
@@ -130,6 +139,7 @@ const allYearPudseyStats = {
     year2022: pudseyStats22,
     year2023: pudseyStats23,
     year2024: pudseyStats24,
+    year2025: pudseyStats25,
     allYears: returnPlayerStatsForAllYears(pudseyStatsForEveryYearArray),
 };
 
@@ -145,6 +155,7 @@ const allClubsStatsForEveryYearArray = [
     allClubsStats22,
     allClubsStats23,
     allClubsStats24,
+    allClubsStats25,
 ];
 
 const allYearAllClubsStats = {
@@ -159,6 +170,7 @@ const allYearAllClubsStats = {
     year2022: allClubsStats22,
     year2023: allClubsStats23,
     year2024: allClubsStats24,
+    year2025: allClubsStats25,
     allYears: returnPlayerStatsForAllYears(allClubsStatsForEveryYearArray),
 };
 
