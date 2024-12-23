@@ -95,7 +95,7 @@ John Alper          21 Kevin Smales         7
 Molly Depledge      14 Andrew Marshall     21 
 David Taylor         9 Shirley Biancardo   21 
 Stuart Marsh         9 Andy Waller         21 
-Roger Boyes         21 David Eaton         15 
+Roger Boyes         21 Dave Eaton          15 
 Keith Render        10 Mario Biancardo     21 
 Jeff Baggaley        1 Steve Gardner       21 
         Aggregate:  64         Aggregate: 120 
@@ -269,7 +269,7 @@ Dennis Cole         17 Simon Hampshaw      21
       Division 3            Wed 26th Apr      
    Stanningley Park       Meanwood Park B     
 Steve Gardner       21 Ian Macfarlaine     11 
-David Eaton         21 Paul Dishman        18 
+Dave Eaton          21 Paul Dishman        18 
 Andy Waller         21 Rory Bligh          18 
 Shirley Biancardo    4 Andy Swain          21 
 Mario Biancardo     21 John Hindle         10 
@@ -448,7 +448,7 @@ Alyssa Randell      16 Dawn Peters         21
 Andy Waller         21 Hazel Goodall       11 
 Mario Biancardo     19 Ken Stockhill       21 
 Malvin Miller       16 Mary Horrocks       21 
-David Eaton         21 Harry Dixon         18 
+Dave Eaton          21 Harry Dixon         18 
 Shirley Biancardo   21 Carol Butters       13 
         Aggregate: 114         Aggregate: 105 
            Points:  25            Points:  23 
@@ -631,7 +631,7 @@ John Ackroyd        13 Martin Costello     21
 
       Division 3            Wed 10th May      
       Fearnville          Stanningley Park    
-Tom Ingram          10 David Eaton         21 
+Tom Ingram          10 Dave Eaton          21 
 Stuart Poulter      18 Shirley Biancardo   21 
 Paul Foster         17 Andrew Marshall     21 
 Madge Cass          15 Andy Waller         21 
@@ -687,7 +687,7 @@ George Ramsden      14 Brian Marshall      21
   Penrose Green Cup         Wed 17th May      
      Round of 32            On Burley 1       
         Colton            Stanningley Park    
-Peter Griffin       13 David Eaton         21 
+Peter Griffin       13 Dave Eaton          21 
 Michael Noble       21 Malvin Miller       11 
 Andrea Ryder         5 Mario Biancardo     21 
 David Clarkson       9 Steve Gardner       21 
@@ -945,7 +945,7 @@ Andy Waller         18 Alan Smith          21
 Steve Gardner       21 David Curland        6 
 Mario Biancardo     21 Frank Powell         3 
 Malvin Miller       19 Phillip Schofield   21 
-David Eaton         21 Gail Schofield      11 
+Dave Eaton          21 Gail Schofield      11 
 Shirley Biancardo   21 Valerie Bush         3 
         Aggregate: 121         Aggregate:  65 
            Points:  28            Points:  13 
@@ -1129,7 +1129,7 @@ Ian Macfarlaine     21 Madge Cass          14
       Division 3            Wed 31st May      
      Gildersome B         Stanningley Park    
 Stuart Wardlaws      9 Shirley Biancardo   21 
-Frank Tempest       16 David Eaton         21 
+Frank Tempest       16 Dave Eaton          21 
 David Norton        21 Steve Gardner       18 
 Frank Hales         13 Andy Waller         21 
 Douglas Cooper       5 Paul Bowes          21 
@@ -1273,7 +1273,7 @@ Jeff Baggaley       13 Rory Bligh          21
    Stanningley Park        Whitkirk BC B      
 Mario Biancardo     21 M Hebden             1 
 Andy Waller         21 James Lancaster     20 
-David Eaton         21 Pauline Farrar       6 
+Dave Eaton          21 Pauline Farrar       6 
 Shirley Biancardo   21 John Hardwick       14 
 Steve Gardner       21 Jenny Mullins        6 
 Paul Bowes          21 Tony Bond            8 
@@ -1430,7 +1430,7 @@ Andy Waller         18 Keith Render        21
 Steve Gardner       21 David Taylor        10 
 Shirley Biancardo   21 Amanda Roberts       6 
 Alyssa Randell      21 Stuart Marsh         8 
-David Eaton         21 Roger Boyes         14 
+Dave Eaton          21 Roger Boyes         14 
         Aggregate: 123         Aggregate:  66 
            Points:  29            Points:  12 
 
@@ -1530,7 +1530,7 @@ Andy Waller         14 Thomas Kaye         21
 Paul Bowes          21 David Smith         14 
 Steve Gardner       21 Alan Box            11 
 Shirley Biancardo   11 Phil Wilsher        21 
-David Eaton         21 David Kaye          15 
+Dave Eaton          21 David Kaye          15 
          Handicap: +20          Handicap: Scr 
         Aggregate: 129         Aggregate: 102 
 
@@ -1720,7 +1720,7 @@ Frank Hales         20 Barry Michaelson    21
    Meanwood Park B        Stanningley Park    
 Ian Macfarlaine     14 Shirley Biancardo   21 
 Julie Keightley     21 Alyssa Randell      14 
-Rory Bligh          18 David Eaton         21 
+Rory Bligh          18 Dave Eaton          21 
 John Hindle         21 Mario Biancardo     13 
 Lynda Heath         21 Andy Waller         16 
 Oliver Delaney      21 Steve Gardner       17 
@@ -1896,7 +1896,7 @@ Stuart Poulter      21 Jeff Baggaley       14
     Western Flatts        Stanningley Park    
 Glennys Ash          4 Paul Bowes          21 
 Geoff Clark         13 Shirley Biancardo   21 
-Dawn Peters         11 David Eaton         21 
+Dawn Peters         11 Dave Eaton          21 
 Mary Horrocks        7 Mario Biancardo     21 
 Hazel Goodall       10 Andrew Marshall     21 
 Ken Stockhill       21 Steve Gardner       13 
@@ -2096,7 +2096,7 @@ Andrew Marshall     21 Paul Foster          8
 Mario Biancardo     21 Mary Black           9 
 Shirley Biancardo   21 Stuart Poulter      13 
 Paul Bowes          21 Fraser Douglas      18 
-David Eaton         21 Madge Cass           5 
+Dave Eaton          21 Madge Cass           5 
 Steve Gardner       21 Ron Leabetter        0 
         Aggregate: 126         Aggregate:  53 
            Points:  30            Points:   9 
@@ -2238,7 +2238,7 @@ Simon Hampshaw      21 Stuart Marsh        15
 Frank Powell         3 Shirley Biancardo   21 
 Valerie Bush         5 Steve Gardner       21 
 Bob Williams        11 Andy Waller         21 
-David Curland       21 David Eaton         14 
+David Curland       21 Dave Eaton          14 
 Dennis Cole          6 Mario Biancardo     21 
 Tommy Fitzgerald     9 Paul Bowes          21 
         Aggregate:  55         Aggregate: 119 
@@ -2335,7 +2335,7 @@ Oliver Delaney      20 Bob Williams        21
   Penrose Green Cup         Wed 26th Jul      
       Qtr-Finals          On Holbeck Moor     
    Stanningley Park        Western Flatts     
-David Eaton          8 Hazel Goodall       21 
+Dave Eaton           8 Hazel Goodall       21 
 Mario Biancardo     21 Ken Stockhill       18 
 Steve Gardner       21 Glennys Ash         11 
 Andrew Marshall     21 Harry Dixon         16 
@@ -2568,7 +2568,7 @@ Oliver Delaney      21 Jeff Baggaley       14
 
       Division 3            Wed 9th Aug       
     Whitkirk BC B         Stanningley Park    
-James Lancaster     21 David Eaton         19 
+James Lancaster     21 Dave Eaton          19 
 John Hardwick       14 Shirley Biancardo   21 
 Tony Bond           21 Mario Biancardo     16 
 Jim Spalding        20 Paul Leonard        21 
@@ -2717,7 +2717,7 @@ Andy Waller         20 Tina Howard         21
 Steve Gardner       21 Jeff Blackburn      20 
 Paul Bowes           9 Ian Howard          21 
 Shirley Biancardo   21 Steve Portman       11 
-David Eaton         14 Perer Whipp         21 
+Dave Eaton          14 Perer Whipp         21 
          Handicap: +20          Handicap: Scr 
         Aggregate: 126         Aggregate: 110 
 
@@ -2773,14 +2773,14 @@ Shirley Biancardo   21 Terry Newsome       19
 Paul Bowes          21 Graham Scholes      20 
 Steve Gardner       17 Graham Hodder       21 
 Mario Biancardo     21 Phil Cox            13 
-David Eaton         16 Philip Hatch        21 
+Dave Eaton          16 Philip Hatch        21 
 Andrew Marshall     21 Simon Cahill        17 
          Handicap: +20          Handicap: Scr 
         Aggregate: 137         Aggregate: 111 
 
       Division 3            Thu 24th Aug      
    Stanningley Park         Gildersome B      
-David Eaton         21 Simon Hampshaw       8 
+Dave Eaton          21 Simon Hampshaw       8 
 Paul Leonard        18 Frank Hales         21 
 Malvin Miller       21 Douglas Cooper      14 
 Shirley Biancardo   21 David Norton        15 

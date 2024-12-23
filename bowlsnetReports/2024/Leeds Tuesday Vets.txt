@@ -5,7 +5,7 @@
       Gildersome            Stanningley Park      
 David Rawson          2 Paul Bowes             21 
 Clifford Pitts       17 Jim Moorin             21 
-David Norton         17 David Eaton            21 
+David Norton         17 Dave Eaton             21 
 Tony Morris          21 Stewart Watson          7 
 Archie McCafferty     4 Neil Porter            21 
 John Ackroyd          4 Peter Crowther         21 
@@ -1215,7 +1215,7 @@ Pam Binns            21 Linda Gaunt             9
 Bob Davison           1 Steve Gardner          21 
 Anthony Caywood       8 Neil Porter            21 
 John McDermott        4 Jim Moorin             21 
-Jeffrey Allman       21 David Eaton            20 
+Jeffrey Allman       21 Dave Eaton             20 
 Malcolm Woodcock      8 Duncan McPhail         21 
 Shirley Allman       16 Stewart Watson         21 
 Peter Caine           6 Peter Crowther         21 

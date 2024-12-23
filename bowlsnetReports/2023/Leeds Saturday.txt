@@ -1922,7 +1922,7 @@ Alison Woodfine     21 David L Miller       6
 Paul Bowes          21 Anne M Miller        6 
 Paul Leonard        10 Phil McStay         21 
 Andy Waller         21 Oliver Devaney      10 
-David Eaton         21 Julie Keightley     11 
+Dave Eaton          21 Julie Keightley     11 
 Stuart Potter       21 Ian Macfarlane      20 
         Aggregate: 157         Aggregate: 103 
            Points:  37            Points:  20 

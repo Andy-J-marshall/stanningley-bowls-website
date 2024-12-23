@@ -63,7 +63,7 @@ Alyssa Randell      21 Clifford Brogie     12
 Malvin Miller       21 Malcolm Dacre        3 
 Neil Porter         15 John Illingworth    21 
 Joey Broadbent      21 Brian Fish          20 
-David Eaton         12 Michael Howsham     21 
+Dave Eaton          12 Michael Howsham     21 
         Aggregate: 111         Aggregate:  82 
            Points:  25            Points:  17 
 
@@ -192,7 +192,7 @@ Lyn Dye             21 Tina Howard         16
      Gildersome A         Stanningley Park    
 Sandra Deegan       21 Alyssa Randell      19 
 Harvey Lockwood     16 Neil Porter         21 
-Tony Morris         21 David Eaton         14 
+Tony Morris         21 Dave Eaton          14 
 David Norton        18 Malvin Miller       21 
 Diane Hales         21 Andy Waller         11 
 Linda Gaunt         13 Joey Broadbent      21 
@@ -367,7 +367,7 @@ Martin Murdoch      20 Mick Harrison       21
         Div 2               Wed 24th Apr      
    Stanningley Park       Moor Allerton A     
 Neil Porter         21 Richard Mansell     14 
-David Eaton         15 Steven Jones        21 
+Dave Eaton          15 Steven Jones        21 
 Joey Broadbent      21 Geoff West           7 
 Steve Gardner       21 George Ramsden       7 
 Malvin Miller       21 Keith Harbage        5 
@@ -500,7 +500,7 @@ Sue Harrison        16 David Clarke        21
      Grove Road A         Stanningley Park    
 David Anker          2 Steve Gardner       21 
 Carol Biscombe      18 Alyssa Randell      21 
-Ian Stavely         16 David Eaton         21 
+Ian Stavely         16 Dave Eaton          21 
 Martin Murdoch      21 Malvin Miller        4 
 Barry Potter        20 Andy Waller         21 
 Peter Allanson      12 Joey Broadbent      21 
@@ -677,7 +677,7 @@ Pat Prosser          8 Martin Kaitcer      21
 Neil Porter         21 Ellen Barraclough   19 
 Andy Waller         18 Sue Harrison        21 
 Paul Bowes          19 Ann Lucas           21 
-David Eaton         21 Stewart Wardlaw     17 
+Dave Eaton          21 Stewart Wardlaw     17 
 Malvin Miller       20 Graham Goodhall     21 
 Alyssa Randell      21 Kath Andrews         7 
         Aggregate: 120         Aggregate: 106 
@@ -785,7 +785,7 @@ Ian Dufton          21 Keith Render        10
      Round of 32            Wed 15th May      
                             On Burley 1       
     Rothwell BC B         Stanningley Park    
-Katie Turner        21 David Eaton         14 
+Katie Turner        21 Dave Eaton          14 
 Lyn Dye             21 Alyssa Randell      12 
 Brian Burrows       11 Steve Gardner       21 
 Matthew Turner      13 Neil Porter         21 
@@ -1098,7 +1098,7 @@ John Alper          21 Brian Fish          18
     Pudsey Park A         Stanningley Park    
 Calum Birkin        10 Steve Gardner       21 
 Dennis Walters      21 Alyssa Randell      13 
-Janet Pearson       16 David Eaton         21 
+Janet Pearson       16 Dave Eaton          21 
 Frank Lindsay       21 Neil Porter         13 
 Carl Birkin         19 Malvin Miller       21 
 Elaine Hill         18 Andy Waller         21 
@@ -1242,7 +1242,7 @@ John West           15 Richard Mansell     21
 Alyssa Randell      21 Anne M Miller       16 
 Andy Waller         21 John Hindle         20 
 Joey Broadbent      21 Rory Bligh           9 
-David Eaton         21 Pat Prosser          7 
+Dave Eaton          21 Pat Prosser          7 
 Malvin Miller       21 Julie Keightley      9 
 Steve Gardner       21 Ian Macfarlaine     16 
         Aggregate: 126         Aggregate:  77 
@@ -1364,7 +1364,7 @@ Laura Love          17 Steve Gardner       21
 David Smith          6 Neil Porter         21 
 Peter Simmons       21 Andy Waller         20 
 Jade Kerry          21 Alyssa Randell      20 
-Nigel Rawlings      17 David Eaton         21 
+Nigel Rawlings      17 Dave Eaton          21 
 David Clarke         3 Joey Broadbent      21 
         Aggregate:  85         Aggregate: 124 
            Points:  17            Points:  28 
@@ -1537,7 +1537,7 @@ Paul Shafar         21 Mick Harrison       18
         Div 2               Wed 19th Jun      
      Burley Park          Stanningley Park    
 Clifford Brogie     21 Alyssa Randell      19 
-Michael Howsham     21 David Eaton         16 
+Michael Howsham     21 Dave Eaton          16 
 Malcolm Dacre        6 Joey Broadbent      21 
 Brian Fish          21 Andy Waller         19 
 John Illingworth    21 Neil Porter         19 
@@ -1673,7 +1673,7 @@ Andy Waller         21 Michael Noble       18
 Malvin Miller       13 John Malthouse      21 
 Steve Gardner       21 Peter Griffin       15 
 Neil Porter         21 Tony Ward           20 
-David Eaton         21 Monica Buckroyd     19 
+Dave Eaton          21 Monica Buckroyd     19 
 Joey Broadbent      21 David Clarkson       2 
          Handicap: +10          Handicap: Scr 
         Aggregate: 128         Aggregate:  95 
@@ -1784,7 +1784,7 @@ Ian Howard          21 Matthew Turner       5
 
         Div 2               Wed 3rd Jul       
    Stanningley Park         Gildersome A      
-David Eaton         15 Sandra Deegan       21 
+Dave Eaton          15 Sandra Deegan       21 
 Malvin Miller       21 Diane Hales          5 
 Neil Porter         21 David Norton         9 
 Joey Broadbent      21 Kevin Smales         6 
@@ -1972,7 +1972,7 @@ Mick Harrison       21 Bev Shillito         5
         Div 2               Wed 10th Jul      
    Moor Allerton A        Stanningley Park    
 Martin Kaitcer      21 Steve Gardner       12 
-Keith Harbage       16 David Eaton         21 
+Keith Harbage       16 Dave Eaton          21 
 Geoff West          21 Neil Porter         18 
 Steven Jones        21 Alyssa Randell      11 
 Richard Mansell      9 Andy Waller         21 
@@ -2116,7 +2116,7 @@ David Clarke         8 Stephen Briggs      21
    Stanningley Park         Grove Road A      
 Alyssa Randell      21 Lynne Mattison       4 
 Joey Broadbent      19 Tony Boyes          21 
-David Eaton         21 Martin Murdoch      12 
+Dave Eaton          21 Martin Murdoch      12 
 Andy Waller         21 Peter Allanson       4 
 Steve Gardner       21 Ray Mattison         5 
 Malvin Miller       21 John West           14 
@@ -2293,7 +2293,7 @@ John Alper          21 Ian Macfarlaine      8
 Stephen Briggs      17 Neil Porter         21 
 Sue Harrison        21 Andy Waller         19 
 Mick Harrison        9 Joey Broadbent      21 
-Dawn Peters         20 David Eaton         21 
+Dawn Peters         20 Dave Eaton          21 
 Kath Andrews        21 Alyssa Randell      16 
 Graham Goodhall     12 Steve Gardner       21 
         Aggregate: 100         Aggregate: 119 
@@ -2438,7 +2438,7 @@ Malvin Miller        9 Mario Biancardo     21
 Andy Waller          6 Paul Hatch          21 
 Neil Porter         20 Jason Potter        21 
 Joey Broadbent      21 Ian Wood            19 
-David Eaton         21 Shirley Biancardo   11 
+Dave Eaton          21 Shirley Biancardo   11 
 Steve Gardner       21 John Lister          5 
          Handicap: +10          Handicap: Scr 
         Aggregate: 108         Aggregate:  98 
@@ -2711,7 +2711,7 @@ Michael Howsham     12 Keith Harbage       21
 
         Div 2               Wed 14th Aug      
    Stanningley Park        Pudsey Park A      
-David Eaton         21 Brian Stevens       19 
+Dave Eaton          21 Brian Stevens       19 
 Malvin Miller       21 Elaine Hill          7 
 Neil Porter         21 Calum Birkin         4 
 Alyssa Randell      21 Janet Pearson       13 
@@ -2845,7 +2845,7 @@ John Alper          19 Martin Murdoch      21
    Meanwood Park B        Stanningley Park    
 Julie Keightley     21 Alyssa Randell      16 
 John King           19 Neil Porter         21 
-John Hindle          9 David Eaton         21 
+John Hindle          9 Dave Eaton          21 
 Ian Macfarlaine      8 Steve Gardner       21 
 Rory Bligh          10 Malvin Miller       21 
 Paul Dishman        10 Andy Waller         21 
@@ -2970,7 +2970,7 @@ Steve Gardner       21 John King           11
 Malvin Miller       21 Julie Keightley     20 
 Neil Porter         21 Rory Bligh          14 
 Alyssa Randell      18 Paul Dishman        21 
-David Eaton         21 John Hindle          9 
+Dave Eaton          21 John Hindle          9 
          Handicap: +10          Handicap: +10 
         Aggregate: 133         Aggregate:  96 
 
@@ -3021,7 +3021,7 @@ Ian Wood            21 Peter Burrows       13
         Div 2               Wed 4th Sep       
    Stanningley Park        Harehills Park     
 Neil Porter         21 Nigel Rawlings       5 
-David Eaton         21 Jade Kerry          18 
+Dave Eaton          21 Jade Kerry          18 
 Alyssa Randell      21 Peter Simmons        7 
 Joey Broadbent      21 David Clarke         4 
 Andy Waller         21 David Smith         13 
@@ -3142,7 +3142,7 @@ John Rowberry       20 Barry Wild          21
         Final               Wed 11th Sep      
                          On Middleton Comm    
    Stanningley Park        Rothwell BC A      
-David Eaton         21 John Whiteley       20 
+Dave Eaton          21 John Whiteley       20 
 Joey Broadbent      13 June Johnson        21 
 Steve Gardner       10 David Kaye          21 
 Neil Porter         10 Phil Wilsher        21 

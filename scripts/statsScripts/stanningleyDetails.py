@@ -44,7 +44,7 @@ players = [
     "steve gardner",
     "neil porter",
     "stewart watson",
-    "david eaton",
+    "dave eaton",
     "tracey marshall",
     "derek wilson",
     "peter crowther",

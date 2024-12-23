@@ -42,7 +42,7 @@ Les Oddy            16 Brian Fish           21
 
       Division 1            Thu 18th Apr       
   Stanningley Park A        Pudsey Park A      
-David Eaton         21 Barbara Nellis       18 
+Dave Eaton          21 Barbara Nellis       18 
 Duncan McPhail      21 Brian Stevens        10 
 Andy Waller         21 Derek Howell          7 
 Alison Woodfine     11 Dennis Walters       21 
@@ -109,7 +109,7 @@ John Hainsworth     11 Joan Middleton       21
     Western Flatts       Stanningley Park A    
 Glynis Ash          21 Phil Sutcliffe       13 
 Carol Butters       10 Alison Woodfine      21 
-Mary Horrocks        8 David Eaton          21 
+Mary Horrocks        8 Dave Eaton           21 
 Hazel Goodall       11 Malvin Miller        21 
 Margaret McPhail    21 Cliff Brogie         20 
 Gary Reddyhoff       8 Colin Haque          21 
@@ -203,7 +203,7 @@ Andy Waller         21 Brian Fish           14
 Alison Woodfine     21 Barry Brown           5 
 Jim Swailes         21 Pauline Stockdale    15 
 Colin Haque         21 David Anker          17 
-David Eaton         11 Steve Pickersgill    21 
+Dave Eaton          11 Steve Pickersgill    21 
 Ken Green           21 Joan Crampton        19 
 Cliff Brogie        21 Malcolm Dacre        14 
         Aggregate: 154          Aggregate: 126 
@@ -293,7 +293,7 @@ David Turner        21 Stuart Wardlaw       18
 David Holmes         9 Alison Woodfine      21 
 David Taylor        21 Jim Swailes          16 
 Sandra Deegan       17 Andy Waller          21 
-Harvey Lockwood     15 David Eaton          21 
+Harvey Lockwood     15 Dave Eaton           21 
 Linda Gaunt          9 Duncan McPhail       21 
 Simon Hampshaw      19 Cliff Brogie         21 
 Kevin Smales        21 Colin Haque          17 
@@ -321,7 +321,7 @@ Christine Glynne    12 Jim Swailes          21
 Mick Hall           21 Malvin Miller        16 
 Brian Ragan         21 Ken Green            10 
 Sue Harrison        17 Andy Waller          21 
-Malcolm Cameron     18 David Eaton          21 
+Malcolm Cameron     18 Dave Eaton           21 
 Les Oddy            21 Cliff Brogie         10 
         Aggregate: 152          Aggregate: 126 
            Points:  34             Points:  27 
@@ -437,7 +437,7 @@ Donald Shaw         21 Ken McRae             7
 Alison Woodfine     21 Marilyn Robinson     18 
 Andy Waller         21 Keith Kincaid         9 
 Duncan McPhail      21 Stuart Wardlaw       14 
-David Eaton         21 John Rowberry         9 
+Dave Eaton          21 John Rowberry         9 
 Ken Green            5 Michael Small        21 
 Colin Haque         21 Glenn Parkinson      19 
         Aggregate: 152          Aggregate: 110 
@@ -562,7 +562,7 @@ Joan Middleton      12 Margaret McPhail     21
 
       Division 1             Thu 6th Jun       
   Stanningley Park A         Gildersome        
-David Eaton         21 Sandra Deegan        12 
+Dave Eaton          21 Sandra Deegan        12 
 Duncan McPhail      21 David Charlesworth    8 
 Malvin Miller       19 David Norton         21 
 Cliff Brogie        17 Simon Hampshaw       21 
@@ -746,7 +746,7 @@ Tommy Parr          21 Malcolm Hallas        8
     Pudsey Park A        Stanningley Park A    
 Frank Lindsay       13 Donald Shaw          21 
 Derek Howell        21 Colin Haque          12 
-Peter Colley         8 David Eaton          21 
+Peter Colley         8 Dave Eaton           21 
 Dennis Walters      21 Ken Green             7 
 Elaine Hill         21 Alison Woodfine       7 
 Janet Pearson       21 Andy Waller           7 
@@ -812,7 +812,7 @@ David Hurd          21 Marion Danby         13
     Pudsey Park A        Stanningley Park A    
 Elaine Hill         12 Cliff Brogie         21 
 Peter Colley        17 Donald Shaw          21 
-David Turner        10 David Eaton          21 
+David Turner        10 Dave Eaton           21 
 Derek Howell        21 Colin Haque          14 
 Dennis Walters      21 Alison Woodfine      12 
 Maveen Tomlinson     9 Andy Waller          21 
@@ -850,7 +850,7 @@ Joan Middleton      21 Brian Fish           18
   Stanningley Park A       Western Flatts      
 Colin Haque         21 Hazel Goodall        20 
 Cliff Brogie        21 Granville Stoyles    15 
-David Eaton         21 Margaret McPhail     19 
+Dave Eaton          21 Margaret McPhail     19 
 Ken Green           20 Susan Reddyhoff      21 
 Donald Shaw         21 Mary Horrocks        13 
 Andy Waller         21 Glynis Ash           10 
@@ -941,7 +941,7 @@ Malcolm Cameron     21 Keith Kincaid         5
       Burley Prk         Stanningley Park A    
 David Anker         18 Colin Haque          21 
 Keith Fleming       21 Alison Woodfine      20 
-Pauline Stockdale   14 David Eaton          21 
+Pauline Stockdale   14 Dave Eaton           21 
 Steve Pickersgill   21 Phil Sutcliffe       11 
 Brian Fish          19 Andy Waller          21 
 Malcolm Dacre       16 Donald Shaw          21 
@@ -1017,7 +1017,7 @@ Stuart Reardon      21 Graham Bluff         11
 
       Division 1            Thu 25th Jul       
   Stanningley Park A     Middleton Community   
-David Eaton         21 Sue Harrison         11 
+Dave Eaton          21 Sue Harrison         11 
 Cliff Brogie        13 Mick Hall            21 
 Jim Swailes         18 Malcolm Hallas       21 
 Colin Haque         21 Terry Maher           8 
@@ -1134,7 +1134,7 @@ Sue Harrison        21 Granville Stoyles    14
 
       Division 1             Thu 1st Aug       
     Scatcherd Pk A       Stanningley Park A    
-Keith Kincaid       14 David Eaton          21 
+Keith Kincaid       14 Dave Eaton           21 
 John Rowberry       17 Alison Woodfine      21 
 Joan Middleton      21 Donald Shaw          19 
 Marilyn Robinson    21 Colin Haque           6 
@@ -1227,7 +1227,7 @@ Glynis Ash          21 Keith Kincaid        20
       Gildersome         Stanningley Park A    
 David Norton        21 Alison Woodfine      12 
 David Holmes        21 Donald Shaw           8 
-David Charlesworth   9 David Eaton          21 
+David Charlesworth   9 Dave Eaton           21 
 Frank Hales         15 Cliff Brogie         21 
 Sandra Deegan       21 Malvin Miller        15 
 Linda Gaunt         21 Jim Swailes          10 
@@ -1399,7 +1399,7 @@ Jim Swailes         12 Mick Hall            21
 Donald Shaw         12 Les Oddy             21 
 Alison Woodfine     14 Malcolm Hallas       21 
 Malvin Miller       21 Brian Ragan           6 
-David Eaton         15 Mick Harrison        21 
+Dave Eaton          15 Mick Harrison        21 
 Andy Waller         14 Sue Harrison         21 
 Duncan McPhail      21 Christine Glynne      9 
 Cliff Brogie        21 Malcolm Cameron      18 

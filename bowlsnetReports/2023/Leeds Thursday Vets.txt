@@ -6,7 +6,7 @@
       Burley Prk         Stanningley Park A   
 Cliff Roy           13 Dave Hudson         21 
 Malcolm Woodcock    11 Cliff Brogie        21 
-Barry Palmer         5 David Eaton         21 
+Barry Palmer         5 Dave Eaton          21 
 Keith Fleming       20 Andy Waller         21 
 Malcolm Dacre       20 Shirley Biancardo   21 
 Brian Fish          17 Mario Biancardo     21 
@@ -114,7 +114,7 @@ Shirley Biancardo   21 Mick Harrison       14
 Cliff Brogie        17 Les Oddy            21 
 Alison Woodfine     10 Sue Harrison        21 
 Malvin Miller       21 Brian Ragan          7 
-David Eaton          8 Mick Hall           21 
+Dave Eaton           8 Mick Hall           21 
 Andy Waller         21 Christine Glynne    11 
         Aggregate: 140         Aggregate: 121 
            Points:  31            Points:  25 
@@ -265,7 +265,7 @@ Keith Fleming       21 Andrew Thrippleton  11
       Division 1            Thu 11th May      
   Stanningley Park A       Scatcherd Pk A     
 Andy Waller         21 George Bentley       7 
-David Eaton         21 Keith Kincaid        8 
+Dave Eaton          21 Keith Kincaid        8 
 Shirley Biancardo   21 Jeff Holt           16 
 Malvin Miller       21 Michael Small       12 
 Mario Biancardo     21 Geoff Firth          8 
@@ -317,7 +317,7 @@ Ken McRae            7 Graham Bluff        21
       Division 1            Thu 18th May      
     Western Flatts       Stanningley Park A   
 Hazel Goodall       15 Malvin Miller       21 
-Margaret McPhail    21 David Eaton         11 
+Margaret McPhail    21 Dave Eaton          11 
 Mary Horrocks       21 Colin Haque          8 
 Anne Lucas           2 Mario Biancardo     21 
 Bob Davison         21 Alison Woodfine     18 
@@ -398,7 +398,7 @@ Gez Collins         21 Michael Geary       11
       Qtr-Finals         On Gildersome B.C.   
     Western Flatts       Stanningley Park A   
 Margaret McPhail    21 Shirley Biancardo   20 
-Anne Lucas           9 David Eaton         21 
+Anne Lucas           9 Dave Eaton          21 
 Hazel Goodall       21 Malvin Miller        9 
 Mary Horrocks       19 Mario Biancardo     21 
 Glynis Ash           7 Derek Wilson        21 
@@ -443,7 +443,7 @@ Cedric Briggs       14 Andy Waller         21
 Maureen Morris      12 Shirley Biancardo   21 
 Fred Hargreaves      7 Donald Shaw         21 
 Gordon Sadler        4 Cliff Brogie        21 
-Keith Worrall       12 David Eaton         21 
+Keith Worrall       12 Dave Eaton          21 
 Glynn Barrett        0 Mario Biancardo     21 
         Aggregate:  79         Aggregate: 158 
            Points:  13            Points:  37 
@@ -546,7 +546,7 @@ Shirley Biancardo   21 Janet Pearson       12
 Donald Shaw         13 Elaine Hill         21 
 Alison Woodfine     21 David Turner         4 
 Cliff Brogie        21 Brian Stevens       18 
-David Eaton         21 Frank Lindsay        5 
+Dave Eaton          21 Frank Lindsay        5 
 Andy Waller         21 Derek Howell        12 
 Mario Biancardo     15 Dennis Walters      21 
         Aggregate: 150         Aggregate: 114 
@@ -640,7 +640,7 @@ Albert Beggs        18 Michael Geary       21
   Stanningley Park A         Burley Prk       
 Mario Biancardo     21 Joan Crampton        9 
 Alison Woodfine     20 Malcolm Dacre       21 
-David Eaton         21 Pauline Stockdale   13 
+Dave Eaton          21 Pauline Stockdale   13 
 Cliff Brogie        21 *No Player*          0 
 Andy Waller         21 Barry Brown          3 
 Malvin Miller       21 *No Player*          0 
@@ -744,7 +744,7 @@ Bill Pyett           3 Michael Stott       21
  Middleton Community     Stanningley Park A   
 Mick Hall           21 Derek Wilson         6 
 Les Oddy            21 Cliff Brogie        14 
-Malcolm Cameron      9 David Eaton         21 
+Malcolm Cameron      9 Dave Eaton          21 
 Mick Harrison       21 Malvin Miller        9 
 Sue Harrison        21 Donald Shaw         14 
 Roy Tebbutt          9 Mario Biancardo     21 
@@ -932,7 +932,7 @@ George Bentley      21 Derek Wilson         9
 Michael Small       21 Alison Woodfine     11 
 Geoff Firth         21 Colin Haque          7 
 Michael Stott       21 Andy Waller         11 
-Jeff Holt           21 David Eaton          7 
+Jeff Holt           21 Dave Eaton           7 
 Graham Goodall      21 Malvin Miller       20 
         Aggregate: 153         Aggregate: 107 
            Points:  35            Points:  21 
@@ -984,7 +984,7 @@ Malvin Miller       21 Maveen Tomlinson     5
 Colin Haque         17 Peter Colley        21 
 Mario Biancardo     21 Granville Stoyles    6 
 Alison Woodfine     21 Ron Lavan           12 
-David Eaton         21 Mary Horrocks       11 
+Dave Eaton          21 Mary Horrocks       11 
 Donald Shaw         21 Bob Davison          4 
         Aggregate: 164         Aggregate:  75 
            Points:  38            Points:  14 
@@ -1063,7 +1063,7 @@ Mario Biancardo     21 Gerry Faller         3
 Malvin Miller       21 Josie M Burdon      11 
 Andy Waller         21 Maureen Morris       4 
 Shirley Biancardo   21 *No Player*          0 
-David Eaton         21 Fred Hargreaves      8 
+Dave Eaton          21 Fred Hargreaves      8 
         Aggregate: 159         Aggregate:  68 
            Points:  37            Points:  12 
 
@@ -1190,7 +1190,7 @@ Derek Howell        20 Donald Shaw         21
 Bill Pyett          16 Alison Woodfine     21 
 Dennis Walters       6 Mario Biancardo     21 
 Barbara Nellis      21 Cliff Brogie        12 
-David Turner        19 David Eaton         21 
+David Turner        19 Dave Eaton          21 
 Brian Stevens       21 Andy Waller         15 
 Janet Pearson        1 Shirley Biancardo   21 
 Elaine Hill         21 Malvin Miller       20 

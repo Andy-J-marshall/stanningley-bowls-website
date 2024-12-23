@@ -19,7 +19,7 @@ Wayne Warburton     21 Michael Stott       16
      League Div 1                             
     Cross Flatts A       Stanningley Park A   
 Mario Biancardo     21 Malvin Miller        6 
-Paul Hatch          21 David Eaton         15 
+Paul Hatch          21 Dave Eaton          15 
 John Lister         12 Andrew Marshall     21 
 Jason Potter        21 Stuart Potter       20 
 Danny Towning       21 Andy Waller          6 
@@ -144,7 +144,7 @@ Simon Hemmingway    21 Steve Milton         9
         Div 1               Sat 20th Apr      
      League Div 1                             
   Stanningley Park A        Gildersome A      
-David Eaton         21 Diane Hales          3 
+Dave Eaton          21 Diane Hales          3 
 Martin Fulton       21 Sandra Deegan        7 
 Alyssa Randell      21 Linda Gaunt          9 
 Paul Bowes          21 Graham Gaunt         9 
@@ -355,7 +355,7 @@ Tim Newton          17 John Hindle         21
      League Div 1                             
   Stanningley Park A        Holbeck Moor      
 Paul Bowes          21 Hilary Campbell      6 
-David Eaton         21 Geoff Warburton     14 
+Dave Eaton          21 Geoff Warburton     14 
 Martin Fulton       21 George Ellener       3 
 Steve Gardner       21 Helen Milton         3 
 Malvin Miller       21 Brian Thompson       7 
@@ -481,7 +481,7 @@ Geoff Warburton     12 Paul Shackleton     21
      League Div 1                             
   Stanningley Park A      Scatcherd Park A    
 Paul Bowes          21 Graham Goodhall     18 
-David Eaton         21 Ian Dufton          17 
+Dave Eaton          21 Ian Dufton          17 
 Martin Fulton       12 Michael Stott       21 
 Steve Gardner       21 Jeff Holt            8 
 Andrew Marshall     21 Martin Huxley       16 
@@ -595,7 +595,7 @@ Ellen Barraclough   16 Peter Colley        21
 Derek McCormack     19 Steve Gardner       21 
 Tony Auty           15 Paul Bowes          21 
 Bob Emerson         21 Alyssa Randell      18 
-Damien Wright       21 David Eaton         17 
+Damien Wright       21 Dave Eaton          17 
 Mark Rastrick       21 Malvin Miller       15 
 David Brooke         9 Stuart Potter       21 
 Joe Adams           11 Andrew Marshall     21 
@@ -635,7 +635,7 @@ Paul Shackleton     21 Reece Pratt          9
      League Div 1                             
    Sth Leeds Cons B      Stanningley Park A   
 Alan Goodall         5 Andrew Marshall     21 
-Chloe Grant          7 David Eaton         21 
+Chloe Grant          7 Dave Eaton          21 
 Barbara Wherret     14 Steve Gardner       21 
 Arthur Horne        13 Malvin Miller       21 
 Jackie Cross         9 Stuart Potter       21 
@@ -789,7 +789,7 @@ Joe Adams           21 Ian Wood            12
      League Div 1                             
   Stanningley Park A       Holbeck Ltd A      
 Paul Bowes          21 Richard Perry       10 
-David Eaton         18 Lisa Hogan          21 
+Dave Eaton          18 Lisa Hogan          21 
 Martin Fulton       21 James Cuffe         15 
 Steve Gardner       21 Jason Ream          13 
 Andrew Marshall     20 Alex Perry          21 
@@ -916,7 +916,7 @@ Paul Shackleton     21 *No Player*          0
        Meanwood          Stanningley Park A   
 Barbara Gray        18 Steve Gardner       21 
 David L Miller      13 Alyssa Randell      21 
-Julie Keightley      8 David Eaton         21 
+Julie Keightley      8 Dave Eaton          21 
 Douglas Blair       16 Paul Bowes          21 
 Ian Macfarlane      21 Jim Swailes         14 
 Pat Blackburn       21 Malvin Miller       16 
@@ -1029,7 +1029,7 @@ Jim Bootland        21 Alan Goodall         4
 Alyssa Randell      11 Steve Longley       21 
 Paul Bowes          21 Andrew Cole         17 
 Steve Gardner       21 Malcolm Crowson     12 
-David Eaton         21 Neil Porter         17 
+Dave Eaton          21 Neil Porter         17 
 Jim Swailes         21 Iain Baker          15 
 Stuart Potter       19 Gerry Wood          21 
 Malvin Miller       12 Danny Dawson        21 
@@ -1108,7 +1108,7 @@ Reece Pratt         21 Rory Blight         18
   Stanningley Park A        New Wortley       
 Paul Bowes          21 Steve Longley       14 
 Joey Broadbent      21 Thomas Cuddy         4 
-David Eaton          8 Andrew Cole         21 
+Dave Eaton           8 Andrew Cole         21 
 Martin Fulton       21 Colin Peace         13 
 Steve Gardner       21 Paul Shackleton     14 
 Andrew Marshall     21 Malcolm Crowson     14 
@@ -1373,7 +1373,7 @@ John Hindle         14 Paul Shackleton     21
      League Div 1                             
      Gildersome A        Stanningley Park A   
 Sandra Deegan       17 Steve Gardner       21 
-Dougie Cooper       11 David Eaton         21 
+Dougie Cooper       11 Dave Eaton          21 
 Frank Hales          9 Paul Bowes          21 
 Linda Gaunt          8 Joey Broadbent      21 
 Diane Hales         21 Stuart Potter       18 
@@ -1528,7 +1528,7 @@ Daniel Howcroft     20 Hilary Campbell     21
   Stanningley Park A      Sth Leeds Cons A    
 Paul Bowes          21 Tony Auty           10 
 Joey Broadbent      21 Reece Pratt          9 
-David Eaton         21 Malcolm Whipp        8 
+Dave Eaton          21 Malcolm Whipp        8 
 Martin Fulton       21 Simon Hemmingway    15 
 Steve Gardner       21 Paul Sittlinton      7 
 Andrew Marshall     21 Mark Rastrick        5 
@@ -1667,7 +1667,7 @@ John Hindle         13 Bob Emerson         21
      League Div 1                             
      Holbeck Moor        Stanningley Park A   
 Hilary Campbell      2 Joey Broadbent      21 
-Steve Brown         21 David Eaton          8 
+Steve Brown         21 Dave Eaton           8 
 Wayne Warburton     11 Alyssa Randell      21 
 Helen Milton         1 Paul Bowes          21 
 George Ellener       7 Stuart Potter       21 
@@ -1809,7 +1809,7 @@ Walter Stockhill    21 Terry Maher          1
 Paul Bowes          21 Barbara Wherret      7 
 Joey Broadbent      21 Malcolm Whipp        2 
 Steve Gardner       20 Joe Adams           21 
-David Eaton         21 Paul Sittlinton      3 
+Dave Eaton          21 Paul Sittlinton      3 
 Stuart Potter       18 Brenda Moscrop      21 
 Alyssa Randell      11 Damien Wright       21 
 Andrew Marshall     14 Mark Rastrick       21 
@@ -1928,7 +1928,7 @@ Paul Hainsworth     13 Derek McCormack     21
 Michael Stott       13 Andrew Marshall     21 
 Ian Dufton          20 Steve Gardner       21 
 Geoff Firth         11 Joey Broadbent      21 
-Stuart Wardlaw      21 David Eaton         19 
+Stuart Wardlaw      21 Dave Eaton          19 
 Martin Huxley        8 Richard Hodgson     21 
 Graham Goodhall     21 Jim Swailes         18 
 Raymond Ball        16 Paul Bowes          21 
@@ -2071,7 +2071,7 @@ Joey Broadbent      21 Paul Sittlinton      5
 Alyssa Randell      21 Dave Kellet          2 
 Steve Gardner       21 Bob Emerson         12 
 Richard Hodgson     20 Joe Adams           21 
-David Eaton         21 Chloe Grant         13 
+Dave Eaton          21 Chloe Grant         13 
 Stuart Potter       21 Jackie Cross         4 
         Aggregate: 167         Aggregate:  78 
            Points:  39            Points:  13 
@@ -2210,7 +2210,7 @@ Jason Ream           3 Andrew Marshall     21
 Simon Linsell        9 Jim Swailes         21 
 Richard Perry       18 Richard Hodgson     21 
 Lisa Hogan           4 Paul Bowes          21 
-James Cuffe         21 David Eaton         11 
+James Cuffe         21 Dave Eaton          11 
 Alex Perry          21 Joey Broadbent       7 
 Paul Hainsworth     21 Steve Gardner       10 
         Aggregate: 116         Aggregate: 133 
@@ -2332,7 +2332,7 @@ Mick Harrison       21 Peter Nicholson      7
                          On Sth Leeds Cons    
   Stanningley Park A       Cross Flatts A     
 Paul Bowes          21 Ian Wood             9 
-David Eaton         21 Shirley Biancardo   15 
+Dave Eaton          21 Shirley Biancardo   15 
 Martin Fulton       21 Jim Bootland         9 
 Steve Gardner       12 Mario Biancardo     21 
 Richard Hodgson     21 Paul Hatch          11 
@@ -2539,7 +2539,7 @@ David L Miller       5 Joe Adams           21
      New Wortley         Stanningley Park A   
 Gerry Wood          21 Paul Bowes          11 
 Andrew Cole         10 Martin Fulton       21 
-Angela Morley       21 David Eaton          9 
+Angela Morley       21 Dave Eaton           9 
 Stephen Morley       3 Steve Gardner       21 
 Iain Baker          19 Jim Swailes         21 
 Neil Porter         21 Stuart Potter       18 
@@ -2707,7 +2707,7 @@ Alex Perry          21 Paul Shackleton      8
 Alyssa Randell      21 Stephanie Wood       8 
 Martin Fulton       21 Ian Wood            16 
 Stuart Potter       20 Shirley Biancardo   21 
-David Eaton         15 Mario Biancardo     21 
+Dave Eaton          15 Mario Biancardo     21 
 Jim Swailes         21 Jason Potter        18 
 Richard Hodgson     21 Jim Bootland        17 
 Andrew Marshall     21 Paul Hatch          13 

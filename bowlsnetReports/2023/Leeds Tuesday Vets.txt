@@ -45,7 +45,7 @@ David Lyons        21 John Hainsworth    16
   Stanningley Park         Gildersome       
 Jim Moorin         21 David Rawson        3 
 Shirley Biancardo  21 Harvey Lockwood    13 
-David Eaton        21 Clifford Pitts     11 
+Dave Eaton         21 Clifford Pitts     11 
 Peter Crowther     21 Linda Gaunt         9 
 Duncan McPhail     21 David Norton        2 
 Stewart Watson     21 Frank Hales         3 
@@ -113,7 +113,7 @@ Margaret Wood       5 Shirley Biancardo  21
 Michael Bennett    11 Jim Moorin         21 
 Jeff Linley         6 Duncan McPhail     21 
 Gez Collins        11 Peter Crowther     21 
-Richard Tatum      21 David Eaton         9 
+Richard Tatum      21 Dave Eaton          9 
 Brian Hodgson      21 Mario Biancardo    19 
 Martin McGowan     16 Steve Gardner      21 
        Aggregate: 106        Aggregate: 154 
@@ -180,7 +180,7 @@ Duncan McPhail     21 Jeff Warburton     10
 Shirley Biancardo  21 Jim Barker          9 
 John Armitage      21 Steve Milton       15 
 Mario Biancardo    21 Steve Brown        13 
-David Eaton        21 George Ellener     18 
+Dave Eaton         21 George Ellener     18 
        Aggregate: 159        Aggregate: 101 
           Points:  37           Points:  19 
 
@@ -603,7 +603,7 @@ Margaret Finister  14 Jim Jordan         21
    Western Flatts       Stanningley Park    
 Lillian Pickles     5 Shirley Biancardo  21 
 John Manson        21 Jim Moorin         15 
-Joan Crampton      11 David Eaton        21 
+Joan Crampton      11 Dave Eaton         21 
 Geoff Clark        13 Peter Crowther     21 
 Glennys Ash         5 Stewart Watson     21 
 Margaret McPhail   21 Andy Waller         8 
@@ -695,7 +695,7 @@ Margaret Wood      21 Carol Matthews     18
 Frank Hales        11 Jim Moorin         21 
 Stuart Wardlaws     6 Shirley Biancardo  21 
 Harvey Lockwood     7 John Armitage      21 
-Archie McCafferty   8 David Eaton        21 
+Archie McCafferty   8 Dave Eaton         21 
 David Rawson       16 Peter Crowther     21 
 Kevin Smales       21 Duncan McPhail     17 
 Tony Morris        17 Mario Biancardo    21 
@@ -764,7 +764,7 @@ Shirley Biancardo  21 Richard Tatum       4
 John Armitage      21 Colin Whitley      11 
 Jim Moorin         21 Gerry Horgan        6 
 Duncan McPhail     21 Martin McGowan     13 
-David Eaton        21 Michael Bennett    16 
+Dave Eaton         21 Michael Bennett    16 
        Aggregate: 168        Aggregate:  85 
           Points:  40           Points:  14 
 
@@ -814,7 +814,7 @@ Hilary Campbell     3 Shirley Biancardo  21
 Jim Barker          9 Steve Gardner      21 
 Pat Parker         17 Jim Moorin         21 
 George Ellener     12 Mario Biancardo    21 
-Jeff Warburton      9 David Eaton        21 
+Jeff Warburton      9 Dave Eaton         21 
 Steve Brown        21 Stewart Watson      9 
 Steve Milton       15 Duncan McPhail     21 
        Aggregate:  92        Aggregate: 156 

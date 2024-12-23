@@ -72,6 +72,7 @@ def returnAdjustedRowNumberFor6PlayerTeams(league, rowsDownAdjustmentInt):
 
 def returnAggRowDownNumber(team, teamsWithDifferentNumberOfPlayers):
     lowerTeam = team.lower()
+
     if lowerTeam.startswith("airewharfe monday"):
         return 2
 
