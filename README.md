@@ -145,7 +145,7 @@ A number of manual changes are required at the end of each calendar year.
     - If adding or removing a second team, updated the following:
         - `teamNames` - Add the lowercase team names for the B team
         - `teamDays` - Suffix the league name with (A) and (B) for each team e.g. `['Leeds Saturday (A)', 'Leeds Saturday (B)']`. If there is no longer a B team, remove any suffixes
-        - `teamsWithWithDifferentNumberOfPlayersToLeagueNorm` - Add any teams that have a different number of players to the league norm e.g. Bradford Saturday teams only have 8 players outside of the top 2 divisions from 2025 season onwards
+        - `teamsWithWithDifferentNumberOfPlayersToLeagueNorm` - Add any teams that have a different number of players to the league norm e.g. Bradford Saturday teams only have 8 players outside of the top 3 divisions
 
 2. Update `playerDetails.py`:
 

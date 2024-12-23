@@ -38,7 +38,7 @@ teamDays = [
 ]
 
 # Some leagues have different number of players depending on the division. Make sure you match the team name exactly as it appears in teamDays
-teamsWithWithDifferentNumberOfPlayersToLeagueNorm = []  # update for Sat B in 2025
+teamsWithWithDifferentNumberOfPlayersToLeagueNorm = []
 
 
 # Every player (lowercase)
