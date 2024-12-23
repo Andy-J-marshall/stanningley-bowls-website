@@ -36,7 +36,7 @@ const teams = [
     },
     {
         name: 'Leeds Thursday Vets',
-        link: 'https://bowlsnet.uk/leeds-ThuVets',
+        link: 'https://bowlsnet.uk/Leeds-ThuVets',
         img: thurVetsImg,
     },
     {
