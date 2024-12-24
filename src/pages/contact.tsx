@@ -44,7 +44,7 @@ function Contact() {
                 <img className="logos" src={facebookImg} alt="Facebook link" />
             </a>
             <div>
-                <h1>location</h1>
+                <h2>location</h2>
                 <p>
                     {config.teamNames.fullName} is situated within Stanningley
                     Park. Follow the footpath round and the entrance is between
