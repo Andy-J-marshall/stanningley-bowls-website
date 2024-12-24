@@ -1,11 +1,10 @@
-import arnoldClarkLogoImg from '../../images/supporters/arnold_clark_grant.png';
-import asdaLogoImg from '../../images/supporters/asda_foundation.png';
 import joeyLogoImg from '../../images/supporters/joey.png';
-import beaLogoImg from '../../images/supporters/bramley_elderly_action.png';
+import asdaLogoImg from '../../images/supporters/asda_foundation.png';
+import loveLeedsParksImg from '../../images/supporters/loveLeedsParks.png';
+import arnoldClarkLogoImg from '../../images/supporters/arnold_clark_grant.png';
 import heyNeighbourLogoImg from '../../images/supporters/hey_neighbour_grant.png';
-import squeakerLogoImg from '../../images/supporters/squeaker.png';
-import wldLogoImg from '../../images/supporters/west_leeds_dispatch.png';
-import eastFundraisingImg from '../../images/supporters/easyFundraising.png';
+import heritageFundImg from '../../images/supporters/heritageFund.png';
+import easyFundraisingImg from '../../images/supporters/easyFundraising.png';
 
 function Supporters() {
     return (
@@ -25,10 +24,10 @@ function Supporters() {
                     alt="support-logo1"
                 />
             </a>
-            <a target="_blank" href="https://bramleyea.org.uk">
+            <a target="_blank" href="https://loveleedsparks.org.uk">
                 <img
                     className="supporters-logos"
-                    src={beaLogoImg}
+                    src={loveLeedsParksImg}
                     alt="support-logo2"
                 />
             </a>
@@ -49,24 +48,20 @@ function Supporters() {
                     alt="support-logo4"
                 />
             </a>
-            <a target="_blank" href="http://www.thesqueaker.co.uk">
+            <a target="_blank" href="https://www.heritagefund.org.uk">
                 <img
                     className="supporters-logos"
-                    src={squeakerLogoImg}
+                    src={heritageFundImg}
                     alt="support-logo5"
                 />
             </a>
-            <a target="_blank" href="https://westleedsdispatch.com">
+            <a
+                target="_blank"
+                href="https://www.easyfundraising.org.uk/support-a-good-cause/step-1/?char=370321&invite=7sk19t&referral-campaign=c2s&utm_campaign=web-referral"
+            >
                 <img
                     className="supporters-logos"
-                    src={wldLogoImg}
-                    alt="support-logo6"
-                />
-            </a>
-            <a target="_blank" href="https://www.easyfundraising.org.uk/support-a-good-cause/step-1/?char=370321&invite=7sk19t&referral-campaign=c2s&utm_campaign=web-referral">
-                <img
-                    className="supporters-logos"
-                    src={eastFundraisingImg}
+                    src={easyFundraisingImg}
                     alt="support-logo7"
                 />
             </a>
