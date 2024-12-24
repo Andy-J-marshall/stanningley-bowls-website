@@ -12,7 +12,7 @@ function Membership() {
     });
 
     return (
-        <div id="members" className="center page-component">
+        <div id="members" className="page-component info-component center">
             <h1>membership</h1>
             <p>
                 {config.teamNames.fullName} welcomes new members of any age or

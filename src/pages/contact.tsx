@@ -16,7 +16,7 @@ function Contact() {
     });
 
     return (
-        <div id="contact-page" className="page-component center">
+        <div id="contact-page" className="page-component info-component center">
             <h1>contact us</h1>
             <p>
                 Get in touch via email:{' '}

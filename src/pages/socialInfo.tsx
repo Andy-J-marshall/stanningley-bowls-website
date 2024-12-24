@@ -11,7 +11,10 @@ function SocialInfo() {
     });
 
     return (
-        <div id="social-membership" className="center page-component">
+        <div
+            id="social-membership"
+            className="page-component info-component center"
+        >
             <div id="social-info">
                 <h1>social bowling</h1>
                 <p>
