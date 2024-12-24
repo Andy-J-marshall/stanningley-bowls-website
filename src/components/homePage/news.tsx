@@ -1,9 +1,8 @@
 import { useState } from 'react';
 import { Button, Card, Collapse, Col, Row } from 'react-bootstrap';
-import news1Img from '../../images/news/fundraising.png';
-import news2Img from '../../images/news/volunteering.png';
-import news3Img from '../../images/news/ladies.png';
-import news from '../../news.json';
+import fundraisingImg from '../../images/news/fundraising.png';
+import volunteeringImg from '../../images/news/volunteering.png';
+import ladiesImg from '../../images/news/ladies.png';
 
 function News() {
     const [expandNews1, setExpandNews1] = useState(false);
@@ -30,32 +29,38 @@ function News() {
 
     const newsItems = [
         {
-            title: news[0].title,
-            openingLine: news[0].openingLine,
-            mainText: news[0].mainText,
-            linkText: news[0].linkText,
-            link: news[0].link,
-            imgSrc: news1Img,
+            title: 'FUNDRAISING',
+            openingLine:
+                'Stanningley has signed up to EasyFundraising to raise money for the club.',
+            mainText:
+                "We will earn commission for everything you purchase online if you shop via the EasyFundraising app, and it won't cost you anything. Please sign up by clicking the below link.",
+            linkText: 'Sign up',
+            link: 'https://www.easyfundraising.org.uk/support-a-good-cause/step-1/?char=370321&invite=7sk19t&referral-campaign=c2s&utm_campaign=web-referral',
+            imgSrc: fundraisingImg,
             callback: handleNewsExpand1,
             expanded: expandNews1,
         },
         {
-            title: news[1].title,
-            openingLine: news[1].openingLine,
-            mainText: news[1].mainText,
-            linkText: news[1].linkText,
-            link: news[1].link,
-            imgSrc: news2Img,
+            title: 'VOLUNTEERING',
+            openingLine:
+                'Volunteer days are planned to help keep the club clean and tidy over winter.',
+            mainText:
+                'These will be every other Saturday between 10am and 12pm, starting on the 19th October. Members and non-members are welcome to help out.',
+            linkText: '',
+            link: '',
+            imgSrc: volunteeringImg,
             callback: handleNewsExpand2,
             expanded: expandNews2,
         },
         {
-            title: news[2].title,
-            openingLine: news[2].openingLine,
-            mainText: news[2].mainText,
-            linkText: news[2].linkText,
-            link: news[2].link,
-            imgSrc: news3Img,
+            title: 'LADIES TEAM',
+            openingLine:
+                'We are entering a team into the Leeds Ladies League for the 2025 season.',
+            mainText:
+                'If you are interested in playing then please contact a club member. No experience is necessary.',
+            linkText: '',
+            link: '',
+            imgSrc: ladiesImg,
             callback: handleNewsExpand3,
             expanded: expandNews3,
         },
