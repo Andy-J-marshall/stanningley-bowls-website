@@ -11,7 +11,10 @@ function SocialInfo() {
     });
 
     return (
-        <div id="social-membership" className="center page-component">
+        <div
+            id="social-membership"
+            className="page-component info-component center"
+        >
             <div id="social-info">
                 <h1>social bowling</h1>
                 <p>
@@ -30,7 +33,7 @@ function SocialInfo() {
             </div>
             <div id="group-info">
                 <br />
-                <h1>group sessions</h1>
+                <h2>group sessions</h2>
                 <p>
                     We can offer private use of the green for groups up to 15
                     people. Crown green bowling is suitable for a wide range of

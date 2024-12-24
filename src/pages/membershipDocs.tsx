@@ -9,7 +9,7 @@ function MembershipDocs() {
     const handleShow = () => setShow(true);
 
     return (
-        <div className="center" style={{ padding: '1.5rem' }}>
+        <div className="center" style={{ padding: '0.5rem' }}>
             <Button style={{ backgroundColor: '#0081a4' }} onClick={handleShow}>
                 Membership Documents
             </Button>

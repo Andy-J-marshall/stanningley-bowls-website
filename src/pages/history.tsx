@@ -22,19 +22,21 @@ function History() {
 
     return (
         <div id="history-page" className="page-component center">
-            <h1>history</h1>
-            <p>
-                There has been crown green bowling at {fullName} for over 100
-                years. Below is a selection of photos, statistics, records and
-                trophies over that period.
-            </p>
-            <p>
-                There are a number of years missing,{' '}
-                <a className="link" href={emailUrl}>
-                    contact us
-                </a>{' '}
-                if you can help fill in the gaps.
-            </p>
+            <div className="info-component">
+                <h1>history</h1>
+                <p>
+                    There has been crown green bowling at {fullName} for over
+                    100 years. Below is a selection of photos, statistics,
+                    records and trophies over that period.
+                </p>
+                <p>
+                    There are a number of years missing,{' '}
+                    <a className="link" href={emailUrl}>
+                        contact us
+                    </a>{' '}
+                    if you can help fill in the gaps.
+                </p>
+            </div>
             <Row sm={1} md={2} lg={3} xl={4} className="g-4 tabs">
                 <Col>
                     <Card bg="light" style={{ width: '18rem' }}>

@@ -3,16 +3,13 @@ import MembershipDocs from './membershipDocs';
 import socialBowlingImg from '../images/websiteImages/social-bowling.png';
 import { config } from '../config';
 
-const { leedsCouncilFee, bowlingPriceOnly, bowlingPrice, socialPrice } =
-    config.membership;
-
 function Membership() {
     useEffect(() => {
         window.scrollTo(0, 0);
     });
 
     return (
-        <div id="members" className="center page-component">
+        <div id="members" className="page-component info-component center">
             <h1>membership</h1>
             <p>
                 {config.teamNames.fullName} welcomes new members of any age or
@@ -34,21 +31,18 @@ function Membership() {
                 or speak to a member if you are interested in joining.
             </p>
             <MembershipDocs />
-            <h3>full bowling membership - £{bowlingPrice}</h3>
+            <h3>full bowling membership</h3>
             <p>
                 For members who want to play in one of our teams and have full
-                green access.
-            </p>
-            <p>
-                This includes the £{bowlingPriceOnly} membership fee plus the £
-                {leedsCouncilFee} Leeds Council season fee.
+                green access. This includes the membership fee plus the Leeds
+                Council season fee.
             </p>
             <p>
                 If you have already paid your annual green fee at another Leeds
-                Parks bowling club then you only need to pay the £
-                {bowlingPriceOnly} membership fee.
+                Parks bowling club then you only need to pay the club's
+                membership fee.
             </p>
-            <h3>social membership - £{socialPrice}</h3>
+            <h3>social membership</h3>
             <p>
                 For new or infrequent bowlers who want to attend social sessions
                 and club tournaments.
