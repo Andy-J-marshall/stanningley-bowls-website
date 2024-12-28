@@ -84,7 +84,7 @@ function History() {
             <br />
             <p>
                 Due to some record keeping inaccuracies we have a number of
-                years missing from the Club Cup Competition, contact us{' '}
+                years missing from the Club Cup competition, please{' '}
                 <a className="link" href={emailUrl}>
                     contact us
                 </a>{' '}
