@@ -29,7 +29,7 @@ function Navigation() {
                         navbarScroll
                     >
                         <NavDropdown
-                            title="TEAMS"
+                            title="TEAM"
                             id="basic-nav-dropdown"
                             className="navigation"
                         >
@@ -100,10 +100,23 @@ function Navigation() {
                             </Nav.Item>
                         </NavDropdown>
                         <NavDropdown
-                            title="THE CLUB"
+                            title="CLUB"
                             id="basic-nav-dropdown"
                             className="navigation"
                         >
+                            <Nav.Item
+                                as={Link}
+                                to="/about"
+                                className="tabs link"
+                            >
+                                <Nav.Link
+                                    as="div"
+                                    href="/about"
+                                    eventKey="/about"
+                                >
+                                    ABOUT US
+                                </Nav.Link>
+                            </Nav.Item>
                             <Nav.Item
                                 as={Link}
                                 to="/membership"

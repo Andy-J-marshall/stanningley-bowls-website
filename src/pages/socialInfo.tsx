@@ -18,9 +18,14 @@ function SocialInfo() {
             <div id="social-info">
                 <h1>social bowling</h1>
                 <p>
-                    Come along to one of our open social bowling sessions,
-                    complete beginners are welcome and the first session is
-                    free.
+                    Everyone is welcome to come along to one of our regular
+                    social bowling sessions during the season. Practise by
+                    yourself or find a friend to compete against. Depending on
+                    numbers we sometimes play a fun round robin tournament or a
+                    game of 'killer' to mix it up. Beginners are welcome to try
+                    out crown green bowling, all equipment is provided and one
+                    of our members will happily show you how to get started,
+                    your first session is completely free.
                 </p>
                 <p>
                     See the{' '}
@@ -29,16 +34,28 @@ function SocialInfo() {
                     </a>{' '}
                     page for the latest dates and times.
                 </p>
-                <img style={{ width: '98%' }} src={socialBowlingImg}></img>
+                <img
+                    style={{ width: '98%', paddingBottom: '1rem' }}
+                    src={socialBowlingImg}
+                ></img>
+                <h2>benefits of crown green bowling</h2>
+                <ul>
+                    <li>A healthy low impact form of exercise</li>
+                    <li>Improves mental health and general wellbeing</li>
+                    <li>Exercises the mind with strategic thinking</li>
+                    <li>A great way to destress and relax</li>
+                    <li>An easy way to socialise and avoid isolation</li>
+                    <li>Low cost and minimal equipment required</li>
+                    <li>Most importantly, it's fun!</li>
+                </ul>
             </div>
             <div id="group-info">
-                <br />
                 <h2>group sessions</h2>
                 <p>
-                    We can offer private use of the green for groups up to 15
+                    We can offer private use of the green for groups of up to 15
                     people. Crown green bowling is suitable for a wide range of
                     ages and abilities so is the ideal activity for corporate
-                    team building, youth clubs or social events.
+                    team building, youth clubs or other social events.
                 </p>
                 <p>
                     Under 18s must be supervised by an adult in the group. All

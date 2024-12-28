@@ -10,6 +10,7 @@ import Records from './pages/records';
 import TeamStats from './pages/teamStats';
 import TeamInfo from './pages/teamInfo';
 import PlayerStats from './pages/playerStats';
+import About from './pages/about';
 import History from './pages/history';
 import SocialInfo from './pages/socialInfo';
 import Fixtures from './pages/fixtures';
@@ -147,6 +148,7 @@ function App() {
                         }
                     />
                     <Route path="/contact" element={<Contact />} />
+                    <Route path="/about" element={<About />} />
                     <Route path="/history" element={<History />} />
                 </Routes>
             </main>
