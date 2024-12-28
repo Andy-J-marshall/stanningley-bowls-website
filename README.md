@@ -169,8 +169,8 @@ A number of manual changes are required at the end of each calendar year.
 
     - Change the `historicTeamInfo` property include league data for any new teams or second teams
     - Update the `allTeamsInLeaguesSince2013` array to include an extra keys (second team teams need to be suffixed with ' (b)')
-
 8. Update the bowlsnet URLs in `teamInfo.tsx` if any have changed
+9. Update the `membership.tsx`, `about.tsx`, and `socialInfo.tsx` components with any new information
 
 ## Data
 
