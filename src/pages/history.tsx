@@ -25,12 +25,20 @@ function History() {
             <h1>history</h1>
             <p>
                 There has been competitive crown green bowling at{' '}
-                {config.teamNames.fullName} for well over 100 years. Below is a
-                selection of photos, statistics, records and trophies from over
-                that period. Our Club Cup has been run every single year since
-                1911 and is highly coveted by members. In 2023 we introduced a
-                conciliatory shield competition which has been a welcome
-                inclusive addition to the annual competition.
+                {config.teamNames.fullName} for well over 100 years. Click the
+                links below to see a selection of photos, statistics, records
+                and trophies from over that period. welcome inclusive addition
+                to the annual competition.
+            </p>
+            <p>
+                Sadly we have a number of gaps in our our record keeping
+                regarding the Club Cup competition and also other league and
+                trophies wins, please{' '}
+                <a className="link" href={emailUrl}>
+                    contact us
+                </a>{' '}
+                if you think you can help or if you have any other historical
+                photos or stories about the club and its members.
             </p>
             <Row
                 sm={1}
@@ -81,21 +89,17 @@ function History() {
                     </Card>
                 </Col>
             </Row>
-            <br />
-            <p>
-                Due to some record keeping inaccuracies we have a number of
-                years missing from the Club Cup competition, please{' '}
-                <a className="link" href={emailUrl}>
-                    contact us
-                </a>{' '}
-                if you can help fill in the gaps or if you have any other
-                historical photos or stories about the club and its members.
-            </p>
+            <h2>club cup</h2>
             <img
                 style={{ width: '98%', paddingBottom: '1rem' }}
                 src={clubCupImg}
             ></img>
-            <h2>club cup winners</h2>
+            <p>
+                From left to right: Rich Hodgson being presented the
+                conciliatory shield 2024, the entrants in the 2024 club cup and
+                John Armitage winning the club cup in 2024.
+            </p>
+            <h4>previous winners</h4>
             <ListGroup style={{ width: '80%' }}>
                 {clubCupWinners.map((record, idx) => {
                     return (
