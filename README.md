@@ -162,15 +162,14 @@ A number of manual changes are required at the end of each calendar year.
 1. Import the new stats files into `statsData.ts` and update the exported objects and arrays with the new files.
 2. Update `statsSelectCallback` in `App.tsx` with the reference to the new year's stats file. Also update the default stats and year to display in the useState hook.
 3. Add a dropdown item for the new year in the `yearSelectDropdown.tsx` component
-4. If there are any new teams added, update the `teamTabs.tsx`, `playerStatsTeams.tsx`, `teamStats.tsx`, and `teamInfo.tsx` components. Ensure any null checks are added for each new team so the components continue to work for previous years. Make sure `returnTabName` in `statsHelper.ts` displays the team name correctly
+4. If there are any new teams added, update the `teamTabs.tsx`, `playerStatsTeams.tsx`, `teamStats.tsx`, and `teamInfo.tsx` components. Make sure `returnTabName` in `statsHelper.ts` displays the team name correctly
 5. Update `History.tsx` with any trophies won
-6. Update `playersHelper.ts` with the name of any new teams or second teams. Keep the old name for the first team and put the B team stats inside a null check for backwards compatibility for previous years. These stats need to be imported and used in `playerTeamStats.tsx`
-7. Configure the `config.ts` file with the new year's data:
+6. Configure the `config.ts` file with the new year's data:
 
     - Change the `historicTeamInfo` property include league data for any new teams or second teams
     - Update the `allTeamsInLeaguesSince2013` array to include an extra keys (second team teams need to be suffixed with ' (b)')
-8. Update the bowlsnet URLs in `teamInfo.tsx` if any have changed
-9. Update the `membership.tsx`, `about.tsx`, and `socialInfo.tsx` components with any new information
+7. Update the bowlsnet URLs in `teamInfo.tsx` if any have changed
+8. Update the `membership.tsx`, `about.tsx`, and `socialInfo.tsx` components with any new information
 
 ## Data
 
