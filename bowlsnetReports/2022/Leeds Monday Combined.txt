@@ -63,7 +63,7 @@ Mario Biancardo       21 Brenda Moscrop         5
 Paul Bowes            17 Malcolm Colinson      21 
 Alyssa Randell           Chris Walsh              
 Andy Waller           21 Julie Cavalli          2 
-Andy Marshall            Arthur Horne             
+Andrew Marshall          Arthur Horne             
           Aggregate: 118           Aggregate:  67 
              Points:  26              Points:  14 
 
@@ -87,7 +87,7 @@ David Charlesworth     7 Jeff Allman           21
 David Taylor          12 Mario Biancardo       21 
 Linda Gaunt           21 Clifford Brogie       15 
 Frank Hales            8 Andy Waller           21 
-David Rawson             Andy Marshall            
+David Rawson             Andrew Marshall            
 Harvey Lockwood       21 Paul Bowes            17 
 Kevin Smales             Alyssa Randell           
           Aggregate:  72           Aggregate: 116 
@@ -179,7 +179,7 @@ Jeff Allman           21 Wendy Sykes           19
 Mario Biancardo       21 Jenny Holiday          7 
 Alyssa Randell        21 Pat Blackburn          7 
 Paul Bowes               Maureen Sheridan         
-Andy Marshall         21 Julie Keightley        3 
+Andrew Marshall       21 Julie Keightley        3 
 Andy Waller              Oliver Delaney           
           Aggregate: 126           Aggregate:  49 
              Points:  30              Points:   8 
@@ -231,7 +231,7 @@ Hazel Goodall          3 Mario Biancardo       21
 Granville Stoyles     11 Craig Clarkson        21 
 Glennys Ash           13 Alyssa Randell        21 
 Dot Taylor               Paul Bowes               
-Carol Butters         15 Andy Marshall         21 
+Carol Butters         15 Andrew Marshall       21 
 Ken Stockhill            Andy Waller              
           Aggregate:  66           Aggregate: 126 
              Points:  12              Points:  30 
@@ -296,7 +296,7 @@ Mario Biancardo       21 Ian Baker              5
 Shirley Biancardo     21 Danny Dawson          15 
 Paul Bowes            21 Paul Shackleton       19 
 Alyssa Randell           Ann Hughes               
-Andy Marshall         17 Keith Sellars         21 
+Andrew Marshall       17 Keith Sellars         21 
 Andy Waller              Stuart Reardon           
           Aggregate: 122           Aggregate:  84 
              Points:  28              Points:  17 
@@ -322,7 +322,7 @@ Darren Robinson        7 Mario Biancardo       21
 Laura Love            19 Steve Gardner         21 
 Jade Kerry             9 Paul Bowes            21 
 Sharon Kerry             Alyssa Randell           
-Peter Simmons         21 Andy Marshall         12 
+Peter Simmons         21 Andrew Marshall       12 
 James Wright - Green     Andy Waller              
           Aggregate:  85           Aggregate: 114 
              Points:  17              Points:  26 
@@ -414,7 +414,7 @@ Clifford Brogie        9 Jason Cooper          21
 Jeff Allman           13 Gary Dennison         21 
 Shirley Allman           Nicola Pearson           
 Alyssa Randell        21 Trevor Hawkin          7 
-Andy Marshall            Nigel Richardson         
+Andrew Marshall          Nigel Richardson         
           Aggregate:  91           Aggregate: 109 
              Points:  18              Points:  25 
 
@@ -437,7 +437,7 @@ Dave Taylor           21 Clifford Brogie        7
 Bob Taylor            21 Shirley Biancardo     15 
 Ryan Lynch            21 Mario Biancardo       14 
 Harry Dixon           21 Craig Clarkson        10 
-Pat Skelton           10 Andy Marshall         21 
+Pat Skelton           10 Andrew Marshall       21 
 Barbara Taylor           Alyssa Randell           
 Ron Lavan             21 Jeff Allman           14 
 Keith Skelton            Shirley Allman           
@@ -607,7 +607,7 @@ Craig Clarkson        21 Barry Tobin           17
 Mario Biancardo       21 P Hardy               20 
 Shirley Biancardo     21 G Hodder              14 
 Alyssa Randell        13 Helen Johnson         21 
-Andy Marshall            S Cahill                 
+Andrew Marshall          S Cahill                 
 Bernie Miller          8 T Newsome             21 
 Jeff Allman              G Scholes                
           Aggregate: 105           Aggregate: 111 
@@ -632,7 +632,7 @@ Michael Wood          21 Bernie Miller         10
 Jack Williamson       21 Mario Biancardo       11 
 Tony Sharpe           21 Shirley Biancardo      5 
 Adam Sharpe           21 Craig Clarkson         9 
-Eddie Fisher          18 Andy Marshall         21 
+Eddie Fisher          18 Andrew Marshall       21 
 Eugene Kellegher         Alyssa Randell           
 Lynn Wilcox           21 Shirley Allman         4 
 Peter Wilcox             Jeff Allman              
@@ -751,7 +751,7 @@ Josh Lucas            10 Mario Biancardo       21
 Michael Gore          21 Paul Bowes            17 
 Malcolm Colinson      20 Jeff Allman           21 
 Dave Kellett             Shirley Allman           
-Julie Cavalli         21 Andy Marshall         15 
+Julie Cavalli         21 Andrew Marshall       15 
 Chris Walsh              Alyssa Randell           
           Aggregate: 112           Aggregate: 113 
              Points:  25              Points:  25 
@@ -775,7 +775,7 @@ Clifford Brogie        8 Sandra Deegan         21
 Shirley Biancardo     21 Kevin Smales           8 
 Paul Bowes            21 Linda Gaunt            2 
 Mario Biancardo       21 David Taylor          14 
-Andy Marshall         21 David Rawson           7 
+Andrew Marshall       21 David Rawson           7 
 Alyssa Randell           Mick Ross                
 Jeff Allman           21 Cliff Pitts           19 
 Shirley Allman           Frank Hales              
@@ -880,7 +880,7 @@ Oliver Delaney        12 Clifford Brogie       21
 Tina Howard           21 Craig Clarkson         9 
 Jimmy Wilson           8 Mario Biancardo       21 
 Julie Keightley       13 Alyssa Randell        21 
-Chris Bartlett           Andy Marshall            
+Chris Bartlett           Andrew Marshall            
 Graham Hey            21 Jeff Allman            8 
 John King                Shirley Allman           
           Aggregate:  92           Aggregate: 101 
@@ -933,7 +933,7 @@ Paul Bowes            21 Cedric Ash             9
 Mario Biancardo       21 *No Player*            0 
 Jeff Allman           21 Dot Taylor            19 
 Shirley Allman           Glennys Ash              
-Andy Marshall         21 *No Player*            0 
+Andrew Marshall       21 *No Player*            0 
 Alyssa Randell           ----------               
           Aggregate: 126           Aggregate:  47 
              Points:  30              Points:   8 
@@ -996,7 +996,7 @@ Martin Heys           21 Shirley Biancardo     19
 Angela Morley         14 Craig Clarkson        21 
 Stephen Morley        16 Mario Biancardo       21 
 Danny Dawson          21 Clifford Brogie       16 
-Stephanie Mundell     21 Andy Marshall         14 
+Stephanie Mundell     21 Andrew Marshall       14 
 David Hudson             Alyssa Randell           
 Ann Hughes             9 Jeff Allman           21 
 Keith Sellars            Shirley Allman           
@@ -1023,7 +1023,7 @@ Craig Clarkson        12 Laura Love            21
 Mario Biancardo       21 Darren Robinson       10 
 Clifford Brogie       21 Ahmed Hassoun         12 
 Alyssa Randell        21 Sharon Kerry           6 
-Andy Marshall            Jade Kerry               
+Andrew Marshall          Jade Kerry               
 Vanessa Lancaster     21 James Wright - Green   8 
 Paul Bowes               Peter Simmons            
           Aggregate: 117           Aggregate:  66 
@@ -1129,7 +1129,7 @@ Jason Cooper          21 Clifford Brogie        5
 Gary Dennison         21 Paul Bowes            20 
 Nicola Pearson           Vanessa Lancaster        
 Lyn Dye               14 Alyssa Randell        21 
-Nigel Richardson         Andy Marshall            
+Nigel Richardson         Andrew Marshall            
           Aggregate: 103           Aggregate:  95 
              Points:  21              Points:  21 
 
@@ -1154,7 +1154,7 @@ Mario Biancardo       21 Ryan Lynch            20
 Andy Waller           21 Dave Taylor           19 
 Paul Bowes             8 Harry Dixon           21 
 Vanessa Lancaster        Keith Skelton            
-Andy Marshall         21 Ron Lavan             11 
+Andrew Marshall       21 Ron Lavan             11 
 Alyssa Randell           Pat Skelton              
           Aggregate: 113           Aggregate:  98 
              Points:  26              Points:  20 
@@ -1311,7 +1311,7 @@ G Hodder              21 Jeff Allman           10
 Helen Johnson         21 Vanessa Lancaster      8 
 Thomas Johnson           Paul Bowes               
 T Newsome             21 Alyssa Randell         7 
-G Scholes                Andy Marshall            
+G Scholes                Andrew Marshall            
           Aggregate: 126           Aggregate:  53 
              Points:  30              Points:   8 
 
@@ -1322,7 +1322,7 @@ Craig Clarkson        21 Jimmy Hughes           6
 Clifford Brogie        5 Natalie Hughes        21 
 Mario Biancardo       16 Michael Wood          21 
 Alyssa Randell         4 Lynn Wilcox           21 
-Andy Marshall            Rachel Quirk             
+Andrew Marshall          Rachel Quirk             
 Jeff Allman            8 Peter Wilcox          21 
 Shirley Allman           Eddie Fisher             
           Aggregate:  75           Aggregate:  99 

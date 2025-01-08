@@ -38,7 +38,7 @@ test.describe('Player stats - search', () => {
         yearSelectPage,
     }) => {
         await yearSelectPage.selectYear(2023);
-        await playerSearchPage.searchForPlayer('Andy Marshall');
+        await playerSearchPage.searchForPlayer('Andrew Marshall');
 
         await yearSelectPage.selectYear(2021);
         await expect(playerSearchPage.noResultsMessage).toBeVisible();

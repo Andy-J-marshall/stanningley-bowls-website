@@ -29,7 +29,7 @@ teamsWithWithDifferentNumberOfPlayersToLeagueNorm = []
 
 # Every player (lowercase)
 players = [
-    "andy marshall",
+    "andrew marshall",
     "alyssa randell",
     "paul bowes",
     "andy waller",
@@ -72,7 +72,7 @@ players = [
 duplicatePlayerNames = [
     "duncan mc phail",
     "stuart watson",
-    "andrew marshall",
+    "andy marshall",
     "andrew waller",
     "cliff brogie",
     "james moorin",

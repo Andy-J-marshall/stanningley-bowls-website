@@ -45,7 +45,7 @@ teamsWithWithDifferentNumberOfPlayersToLeagueNorm = []
 players = [
     "alyssa randell",
     "stuart potter",
-    "andy marshall",
+    "andrew marshall",
     "stewart watson",
     "paul bowes",
     "martin fulton",
@@ -57,7 +57,7 @@ players = [
 # Players with different spellings of name (lowercase). Also need to add to deduplicateNames function
 duplicatePlayerNames = [
     "stuart watson",
-    "andrew marshall",
+    "andy marshall",
     "james moorin",
     "phillip thornton",
     "philip thornton",

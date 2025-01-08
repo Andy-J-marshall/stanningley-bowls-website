@@ -194,9 +194,9 @@ describe('#RecordsHelper Tests', () => {
                 mostWins: 18,
                 bestAverage: 8.15,
                 bestWinPerc: 85.71428571428571,
-                mostWinsPlayer: ['andy marshall'],
+                mostWinsPlayer: ['andrew marshall'],
                 bestAveragePlayer: ['paul bowes'],
-                bestWinPercPlayer: ['andy marshall'],
+                bestWinPercPlayer: ['andrew marshall'],
             });
         });
 

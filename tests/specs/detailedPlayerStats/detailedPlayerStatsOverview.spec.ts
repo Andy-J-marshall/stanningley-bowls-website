@@ -13,7 +13,7 @@ test.describe('Player detailed stats - overview', () => {
     });
 
     const clubPlayers: Array<string> = [
-        'Andy Marshall',
+        'Andrew Marshall',
         'Andy Waller',
         'Paul Bowes',
         'Alyssa Randell',
@@ -59,7 +59,7 @@ test.describe('Player detailed stats - overview', () => {
         'John Armitage',
         'Duncan McPhail',
         'Peter Crowther',
-        'Andy Marshall',
+        'Andrew Marshall',
     ];
     for (const player of allClubsPlayers) {
         test(`Summary of player's all team stats are correct for ${player} in 2023`, async ({

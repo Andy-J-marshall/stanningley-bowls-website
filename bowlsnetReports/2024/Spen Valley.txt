@@ -484,7 +484,7 @@ Mark McGuire          15 Mark Goodall          21
 
        Division 1              Wed 17th Apr       
      Littlemoor - B       Mirfield Old Bank - A   
-Andy Marshall         21 Aiden Fox             14 
+Andrew Marshall       21 Aiden Fox             14 
 Angela Carter         21 John Hopkinson         7 
 Jim Moorin            21 Andrew Mitchell       17 
 John Stocks           21 Tony Green            14 
@@ -822,7 +822,7 @@ Andy Bairstow         21 Mason Lindley          8
 
        Division 1              Wed 24th Apr       
   Brighouse Sports - A        Littlemoor - B      
-Daniel Dunkerley      21 Andy Marshall          9 
+Daniel Dunkerley      21 Andrew Marshall        9 
 Robert Hopper         21 Philip Thornton        9 
 John Horsley          21 John Stocks           10 
 Nigel Briggs          21 Alan Mazurke          12 
@@ -1140,7 +1140,7 @@ John Stocks           21 Andy Walker           20
 Stuart Watson         21 Andy Robinson          7 
 Philip Thornton       21 Tim Hall               8 
 Alan Mazurke          21 Josh Walker           18 
-Andy Marshall         20 Jason Townend         21 
+Andrew Marshall       20 Jason Townend         21 
 Nicky Dewhirst        18 Michael Rhodes        21 
           Aggregate: 164           Aggregate: 123 
              Points:   8              Points:   2 
@@ -1334,7 +1334,7 @@ Joe Mellor            14 Stuart Watson         21
 Eddie Hill            21 Stuart Potter          3 
 Nick Jagger           13 John Stocks           21 
 Thomas Jagger         21 Philip Thornton       12 
-Ian Wilson            14 Andy Marshall         21 
+Ian Wilson            14 Andrew Marshall       21 
 Andy Bairstow         21 Alan Mazurke          15 
 Chris Sowden          20 Nicky Dewhirst        21 
           Aggregate: 145           Aggregate: 125 
@@ -1439,7 +1439,7 @@ Mark Ellis            19 Stuart Watson         21
 Debi Davis            21 Nicky Dewhirst        13 
 Garry Walker          21 Alan Mazurke           6 
 Philip Bryant         21 Jim Moorin            12 
-Andrew Wood           21 Andy Marshall         17 
+Andrew Wood           21 Andrew Marshall       17 
 Chris Ellis           21 John Armitage         17 
           Aggregate: 156           Aggregate: 128 
              Points:   7              Points:   3 
@@ -1803,7 +1803,7 @@ Angela Carter          6 Gary Amatt            21
 John Stocks           21 David Collinson        6 
 Jim Moorin            21 Mark McGuire          12 
 Stuart Watson         21 Jacob Amatt           15 
-Andy Marshall         21 Michael Armitage      16 
+Andrew Marshall       21 Michael Armitage      16 
 Alan Mazurke           6 Malcolm Preston       21 
           Aggregate: 138           Aggregate: 113 
              Points:   8              Points:   2 
@@ -2218,7 +2218,7 @@ Simon Metcalfe        21 John Stocks           12
 Kevin Rankin          21 Paul Bowes            12 
 David Hilliam         21 Jim Moorin            13 
 Mason Lindley         21 Steve Longley         19 
-Craig Farquharson     21 Andy Marshall         15 
+Craig Farquharson     21 Andrew Marshall       15 
 Dave Rankin           21 Glen Pratt             3 
 Duncan Reeves         13 Nicky Dewhirst        21 
           Aggregate: 160           Aggregate: 101 
@@ -2647,7 +2647,7 @@ Alan Mazurke          13 Stan Elwell           21
 John Armitage         21 Paul Tobin            13 
 Jim Moorin            21 David Lightfoot       16 
 Stuart Watson         14 Michael Wood          21 
-Andy Marshall         21 Dale Hardcastle       20 
+Andrew Marshall       21 Dale Hardcastle       20 
 Paul Bowes            21 Scott Bailey           8 
 Nicky Dewhirst        21 Duncan Ruddlesden     19 
           Aggregate: 153           Aggregate: 129 
@@ -2842,7 +2842,7 @@ Jim Moorin            20 Tony Riley            21
 Glen Pratt            21 Stuart Fletcher        9 
 Stuart Watson         21 Richard Hobson        20 
 Philip Thornton       21 Gordon Johnson        16 
-Andy Marshall          6 David Southwell       21 
+Andrew Marshall        6 David Southwell       21 
 Nicky Dewhirst        21 Dale Dyson            14 
 Alan Mazurke          14 Helen Simpson         21 
           Aggregate: 145           Aggregate: 131 
@@ -3208,7 +3208,7 @@ Jim Moorin            21 Chris Sowden          17
 Stuart Watson         17 Nick Jagger           21 
 Alan Mazurke          21 Nigel Wormald         17 
 Paul Bowes            21 Andy Bairstow         20 
-Andy Marshall         16 Stuart Firth          21 
+Andrew Marshall       16 Stuart Firth          21 
           Aggregate: 159           Aggregate: 144 
              Points:   8              Points:   2 
 
@@ -3528,7 +3528,7 @@ Debi Davis            21 Jacob Amatt           16
  Mirfield Old Bank - A        Littlemoor - B      
 John Hopkinson        18 John Stocks           21 
 Andrew Sykes          21 Alan Mazurke          13 
-Alan Thompson         15 Andy Marshall         21 
+Alan Thompson         15 Andrew Marshall       21 
 Tony Green            21 Nicky Dewhirst         3 
 Andrew Mitchell       21 Jim Moorin             4 
 Aiden Fox              7 Paul Bowes            21 
@@ -4191,7 +4191,7 @@ Paul Garside          18 Neil Shaw             21
  Cleckheaton Sports - A       Littlemoor - B      
 Tim Hall              21 Philip Thornton        7 
 Michael Rhodes        21 Stuart Watson         13 
-John Ineson           21 Andy Marshall         14 
+John Ineson           21 Andrew Marshall       14 
 Andy Robinson         17 John Stocks           21 
 John Wilson           21 Paul Bowes            17 
 Tony Throup           21 Nicky Dewhirst         5 
@@ -4506,7 +4506,7 @@ Angela Carter         11 Chris Ellis           21
 Jim Moorin            21 Peter Ellis           14 
 Stuart Watson         16 Philip Bryant         21 
 Philip Thornton       18 Mark Goodall          21 
-Andy Marshall         10 Mark Ellis            21 
+Andrew Marshall       10 Mark Ellis            21 
 Alan Mazurke          21 Debi Davis            17 
 Steve Longley         21 Garry Walker          15 
           Aggregate: 139           Aggregate: 135 
@@ -4870,7 +4870,7 @@ Malcolm Preston       21 Philip Thornton       17
 Jacob Amatt           11 Jim Moorin            21 
 Gary Amatt            14 John Stocks           21 
 Mark McGuire          18 Stuart Watson         21 
-Stephen Wainwright    21 Andy Marshall         17 
+Stephen Wainwright    21 Andrew Marshall       17 
 David Armitage        21 Alyssa Randell        18 
 Kath Robinson         21 Nicky Dewhirst        12 
           Aggregate: 148           Aggregate: 132 
@@ -5476,7 +5476,7 @@ Sean Carter           16 Sam Donnelly          21
 
        Division 1              Wed 14th Aug       
      Littlemoor - B           Pudsey BC - B       
-Andy Marshall         21 Pam Lindley           13 
+Andrew Marshall       21 Pam Lindley           13 
 John Stocks           21 Kevin Rankin          20 
 Paul Bowes            21 Steve Emmett          12 
 Jim Moorin            21 David Hilliam          3 
@@ -5834,7 +5834,7 @@ Scott Bailey          21 Alyssa Randell        16
 Michael Wood          13 Philip Thornton       21 
 David Lightfoot       21 Stuart Watson         11 
 Owen Laurie           21 Jim Moorin            13 
-Howard Broadbent      21 Andy Marshall         11 
+Howard Broadbent      21 Andrew Marshall       11 
           Aggregate: 151           Aggregate: 128 
              Points:   7              Points:   3 
 

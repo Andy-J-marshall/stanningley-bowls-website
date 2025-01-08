@@ -6,12 +6,12 @@ test.describe('Player summary stats - filters', () => {
         await playerSummaryPage.goto();
     });
 
-    test('Summary of Andy Marshall stats for club with filters are correct', async ({
+    test('Summary of Andrew Marshall stats for club with filters are correct', async ({
         playerSummaryPage,
         playerStatOptionsPage,
         yearSelectPage,
     }) => {
-        playerSummaryPage.setPlayerToFind('andy marshall');
+        playerSummaryPage.setPlayerToFind('andrew marshall');
 
         await yearSelectPage.selectYear(2023);
 

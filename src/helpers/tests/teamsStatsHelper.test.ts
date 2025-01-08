@@ -64,11 +64,11 @@ describe('#teamStatsHelper Tests', () => {
                 'leeds saturday'
             );
             const player = allPlayerStats.find(
-                (player) => player.player === 'andy marshall'
+                (player) => player.player === 'andrew marshall'
             );
 
             expect(player).to.deep.contain({
-                player: 'andy marshall',
+                player: 'andrew marshall',
                 games: 14,
                 wins: 6,
                 average: 1.0714285714285714,

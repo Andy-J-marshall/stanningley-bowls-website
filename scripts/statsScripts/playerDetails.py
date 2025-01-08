@@ -20,8 +20,8 @@ def deduplicateNames(name):
     name = playerStatsHelper.standardiseName(name)
     if name == "duncan mc phail":
         name = "duncan mcphail"
-    if name == "andrew marshall":
-        name = "andy marshall"
+    if name == "andy marshall":
+        name = "andrew marshall"
     if name == "stuart watson":
         name = "stewart watson"
     if name == "cliff brogie":

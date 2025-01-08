@@ -265,7 +265,7 @@ Stuart Birch        7 Steve Wright       21
     Thursday Div           Thu 3rd Oct      
                            On Wetherby      
      Gutter Rats        Kippax Flounders    
-Andy Marshall      21 Liam Todd          15 
+Andrew Marshall    21 Liam Todd          15 
 Lee Prentice       21 Julie Goldup        7 
 Duncan Ruddlesden  21 Steve Shannon       3 
 Rob Carroll        21 Andy Savery         8 
@@ -511,7 +511,7 @@ Steve Wright       21 Ellis Owen          5
 Nigel Turner       21 Dani Moore          4 
 Lee Prentice       21 Brian Baldry        5 
 Duncan Ruddlesden  21 Iain Johnson        7 
-Andy Marshall      21 Carol Abbott       10 
+Andrew Marshall    21 Carol Abbott       10 
        Aggregate:  84        Aggregate:  26 
 
     Thursday Div          Thu 17th Oct      
@@ -744,7 +744,7 @@ Iain Johnson        7 Steve Probert      21
      Gutter Rats             Cas Mix        
 L Hudson           21 Karen Portman      20 
 Lee Prentice        7 Ellis Owen         21 
-Andy Marshall      21 Steve Portman      13 
+Andrew Marshall    21 Steve Portman      13 
 Rob Carroll        21 Garry Dennison     19 
        Aggregate:  70        Aggregate:  73 
 
@@ -1075,7 +1075,7 @@ Mick Galley        19 Steve Shannon      21
     Thursday Div          Thu 21st Nov      
                            On Wetherby      
   Scholes Old Gits         Gutter Rats      
-James Frisby       21 Andy Marshall      10 
+James Frisby       21 Andrew Marshall    10 
 Alan Braithwaite   10 L Hudson           21 
 Steve Probert       3 Duncan Ruddlesden  21 
 Steve Wright       16 Rob Carroll        21 
