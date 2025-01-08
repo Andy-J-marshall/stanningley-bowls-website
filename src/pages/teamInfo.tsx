@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import { Card, Button, Row, Col } from 'react-bootstrap';
+// TODO update image
 import monImg from '../images/websiteImages/mon-team.png';
 import tuesVetsImg from '../images/websiteImages/tuesVets-team.png';
 import thurVetsImg from '../images/websiteImages/thursVets-team.png';
@@ -7,11 +8,13 @@ import satImg from '../images/websiteImages/sat-team.png';
 import tuesImg from '../images/websiteImages/tues-team.png';
 import wedImg from '../images/websiteImages/wed-team.png';
 import wedPairsImg from '../images/websiteImages/wedPairs-team.png';
+// TODO change image
+import ladiesImg from '../images/websiteImages/wedPairs-team.png';
 
 const teams = [
     {
-        name: 'Leeds Monday Combined',
-        link: 'https://bowlsnet.uk/Leeds-MonComb',
+        name: 'AireWharfe Monday',
+        link: 'https://bowlsnet.uk/AW-Mon',
         img: monImg,
     },
     {
@@ -39,6 +42,12 @@ const teams = [
         link: 'https://bowlsnet.uk/Leeds-ThuVets',
         img: thurVetsImg,
     },
+    {
+        name: 'Leeds Ladies',
+        link: 'https://bowlsnet.uk/LeedsLadies',
+        img: ladiesImg,
+    },
+    // TODO add leeds ladies here
     {
         name: 'Leeds Saturday',
         link: 'https://bowlsnet.uk/Leeds-Sat',

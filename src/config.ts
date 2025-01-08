@@ -79,6 +79,7 @@ export const config = {
         {
             teamNames: ['leeds thursday vets'],
         },
+        { teamNames: ['leeds ladies'] },
         {
             teamNames: ['leeds saturday', 'bradford saturday'],
         },
