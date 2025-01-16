@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 import { Image } from 'react-bootstrap';
 import joeyLogoImg from '../images/supporters/joey.png';
 import loveLeedsParksImg from '../images/supporters/loveLeedsParks.png';
+import heritageFundImg from '../images/supporters/heritageFund.png';
 import { config } from '../config';
 
 const { emailUrl } = config.socialLinks;
@@ -55,6 +56,14 @@ function Sponsors() {
                     className="supporters-logos"
                     rounded
                     src={loveLeedsParksImg}
+                    fluid
+                ></Image>
+            </a>
+            <a target="_blank" href="https://www.heritagefund.org.uk">
+                <Image
+                    className="supporters-logos"
+                    rounded
+                    src={heritageFundImg}
                     fluid
                 ></Image>
             </a>
