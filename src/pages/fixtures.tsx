@@ -6,7 +6,7 @@ function Fixtures() {
     });
 
     return (
-        <div id="fixture" className="center page-component">
+        <div id="fixtures-page" className="center page-component">
             <h1>fixtures</h1>
             <iframe
                 id="fixture-calendar"

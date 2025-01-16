@@ -52,7 +52,7 @@ function TeamInfo() {
     });
 
     return (
-        <div id="team-info" className="page-component center">
+        <div id="team-info-page" className="page-component center">
             <h1>teams</h1>
             <Row xs={1} md={2} xl={3} className="g-4 tabs">
                 {teams.map((team, idx) => (
