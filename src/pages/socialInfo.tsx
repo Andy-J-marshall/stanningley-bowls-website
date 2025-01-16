@@ -12,7 +12,7 @@ function SocialInfo() {
 
     return (
         <div
-            id="social-membership"
+            id="social-info-page"
             className="page-component info-component center"
         >
             <div id="social-info">

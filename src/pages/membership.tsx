@@ -9,7 +9,10 @@ function Membership() {
     });
 
     return (
-        <div id="members" className="page-component info-component center">
+        <div
+            id="membership-page"
+            className="page-component info-component center"
+        >
             <h1>membership</h1>
             <p>
                 {config.teamNames.fullName} welcomes new members of any age or
