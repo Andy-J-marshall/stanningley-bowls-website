@@ -3,6 +3,7 @@ import { Image } from 'react-bootstrap';
 import joeyLogoImg from '../images/supporters/joey.png';
 import loveLeedsParksImg from '../images/supporters/loveLeedsParks.png';
 import heritageFundImg from '../images/supporters/heritageFund.png';
+import easyFundraisingImg from '../images/supporters/easyFundraising.png';
 import { config } from '../config';
 
 const { emailUrl } = config.socialLinks;
@@ -64,6 +65,23 @@ function Sponsors() {
                     className="supporters-logos"
                     rounded
                     src={heritageFundImg}
+                    fluid
+                ></Image>
+            </a>
+            <hr />
+
+            <h3>easy fundraising</h3>
+            <p>
+                You can support the club by shopping through Easy Fundraising.
+            </p>
+            <a
+                target="_blank"
+                href="https://www.easyfundraising.org.uk/support-a-good-cause/step-1/?char=362452&invite=7sk19t&referral-campaign=s2s&utm_campaign=web-referral"
+            >
+                <Image
+                    className="supporters-logos"
+                    rounded
+                    src={easyFundraisingImg}
                     fluid
                 ></Image>
             </a>

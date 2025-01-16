@@ -31,6 +31,13 @@ function Supporters() {
                     alt="support-logo2"
                 />
             </a>
+            <a target="_blank" href="https://www.heritagefund.org.uk">
+                <img
+                    className="supporters-logos"
+                    src={heritageFundImg}
+                    alt="support-logo5"
+                />
+            </a>
             <a
                 target="_blank"
                 href="https://www.arnoldclark.com/community-fund"
@@ -46,13 +53,6 @@ function Supporters() {
                     className="supporters-logos"
                     src={heyNeighbourLogoImg}
                     alt="support-logo4"
-                />
-            </a>
-            <a target="_blank" href="https://www.heritagefund.org.uk">
-                <img
-                    className="supporters-logos"
-                    src={heritageFundImg}
-                    alt="support-logo5"
                 />
             </a>
             <a
