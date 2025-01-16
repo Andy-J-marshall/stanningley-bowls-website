@@ -36,7 +36,7 @@ function Sponsors() {
             </p>
             <a target="_blank" href="https://www.joeysportsmassage.co.uk">
                 <Image
-                    className="supporters-logos"
+                    className="sponsors-logos"
                     rounded
                     src={joeyLogoImg}
                     fluid
@@ -54,7 +54,7 @@ function Sponsors() {
             </p>
             <a target="_blank" href="https://loveleedsparks.org.uk">
                 <Image
-                    className="supporters-logos"
+                    className="sponsors-logos"
                     rounded
                     src={loveLeedsParksImg}
                     fluid
@@ -62,7 +62,7 @@ function Sponsors() {
             </a>
             <a target="_blank" href="https://www.heritagefund.org.uk">
                 <Image
-                    className="supporters-logos"
+                    className="sponsors-logos"
                     rounded
                     src={heritageFundImg}
                     fluid
@@ -79,7 +79,7 @@ function Sponsors() {
                 href="https://www.easyfundraising.org.uk/support-a-good-cause/step-1/?char=362452&invite=7sk19t&referral-campaign=s2s&utm_campaign=web-referral"
             >
                 <Image
-                    className="supporters-logos"
+                    className="sponsors-logos"
                     rounded
                     src={easyFundraisingImg}
                     fluid

@@ -149,8 +149,13 @@ h5 {
 }
 
 .supporters-logos {
-    width: 10%;
-    margin: 1rem;
+    width: 14%;
+    margin: 0.3rem 1rem;
+}
+
+.sponsors-logos {
+    width: 30%;
+    margin-right: 2rem;
 }
 
 .footnote {
