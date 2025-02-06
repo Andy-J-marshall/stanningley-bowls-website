@@ -72,6 +72,10 @@ const leagues = [
     },
     // Other leagues of interest
     // {
+    //     day: 'Ossett Horbury',
+    //     url: '/Ossett',
+    // },
+    // {
     //     day: 'North East Leeds Vets',
     //     url: '/NELeedsVets',
     // },
