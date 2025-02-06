@@ -1,6 +1,8 @@
 import { useEffect } from 'react';
 import { Image } from 'react-bootstrap';
 import joeyLogoImg from '../images/supporters/joey.png';
+import vacShackImg from '../images/supporters/vac_shack_pudsey.png';
+import laneEndImg from '../images/supporters/lane_end_garages.png';
 import loveLeedsParksImg from '../images/supporters/loveLeedsParks.png';
 import heritageFundImg from '../images/supporters/heritageFund.png';
 import easyFundraisingImg from '../images/supporters/easyFundraising.png';
@@ -39,6 +41,42 @@ function Sponsors() {
                     className="sponsors-logos"
                     rounded
                     src={joeyLogoImg}
+                    fluid
+                ></Image>
+            </a>
+
+            <hr />
+
+            <h3>vac shack</h3>
+            <p>
+                Vac Shack are dedicated to providing high class products and
+                after sale service, with 20 years experience supplying quality
+                appliances and our installation services.
+            </p>
+            <a target="_blank" href="http://www.vacshack.co.uk">
+                <Image
+                    className="sponsors-logos"
+                    rounded
+                    src={vacShackImg}
+                    fluid
+                ></Image>
+            </a>
+
+            <hr />
+
+            <h3>lane end garage</h3>
+            <p>
+                Lane End Garage is a well established, family run business that
+                has been trading since 1947. Based in Lowtown, Pudsey, the
+                garage offers a range of services including used car sales, car
+                services and repairs, MOT testing, car diagnostics, electrical
+                repairs and air conditioning
+            </p>
+            <a target="_blank" href="https://www.laneendgarage.uk">
+                <Image
+                    className="sponsors-logos"
+                    rounded
+                    src={laneEndImg}
                     fluid
                 ></Image>
             </a>
