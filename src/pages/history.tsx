@@ -8,8 +8,8 @@ import {
     ListGroupItem,
 } from 'react-bootstrap';
 import clubCupImg from '../images/websiteImages/club_cup_2024.png';
-import historicTeamImg from '../images/websiteImages/historic-team-photo.png';
-import historicStatsImg from '../images/websiteImages/historic-stats.png';
+import historicTeamImg from '../images/websiteImages/historic_team_photo.png';
+import historicStatsImg from '../images/websiteImages/historic_stats.png';
 import clubCupWinners from '../data/clubCupWinners.json';
 import { config } from '../config';
 

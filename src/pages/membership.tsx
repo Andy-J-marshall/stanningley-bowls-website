@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import MembershipDocs from './membershipDocs';
-import socialBowlingImg from '../images/websiteImages/social-bowling.png';
+import socialBowlingImg from '../images/websiteImages/social_bowling.png';
 import { config } from '../config';
 
 function Membership() {
