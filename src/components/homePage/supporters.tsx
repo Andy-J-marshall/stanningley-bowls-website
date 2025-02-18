@@ -1,10 +1,10 @@
 import joeyLogoImg from '../../images/supporters/joey.png';
 import loveLeedsParksImg from '../../images/supporters/loveLeedsParks.png';
-import heyNeighbourLogoImg from '../../images/supporters/hey_neighbour_grant.png';
 import heritageFundImg from '../../images/supporters/heritageFund.png';
 import easyFundraisingImg from '../../images/supporters/easyFundraising.png';
 import vacShackImg from '../../images/supporters/vac_shack_pudsey.png';
 import laneEndImg from '../../images/supporters/lane_end_garages.png';
+import floorGuysImg from '../../images/supporters/the_floor_guys.png';
 
 function Supporters() {
     return (
@@ -45,10 +45,10 @@ function Supporters() {
                     alt="support-logo3"
                 />
             </a>
-            <a target="_blank" href="https://www.heyneighbour.org.uk">
+            <a target="_blank" href="https://www.thefloorguys.net">
                 <img
                     className="supporters-logos"
-                    src={heyNeighbourLogoImg}
+                    src={floorGuysImg}
                     alt="support-logo4"
                 />
             </a>

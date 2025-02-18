@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 import { Image } from 'react-bootstrap';
 import joeyLogoImg from '../images/supporters/joey.png';
 import vacShackImg from '../images/supporters/vac_shack_pudsey.png';
+import floorGuysImg from '../images/supporters/the_floor_guys.png';
 import loveLeedsParksImg from '../images/supporters/loveLeedsParks.png';
 import heritageFundImg from '../images/supporters/heritageFund.png';
 import easyFundraisingImg from '../images/supporters/easyFundraising.png';
@@ -43,7 +44,6 @@ function Sponsors() {
                     fluid
                 ></Image>
             </a>
-
             <hr />
 
             <h3>vac shack</h3>
@@ -60,7 +60,25 @@ function Sponsors() {
                     fluid
                 ></Image>
             </a>
+            <hr />
 
+            <h3>the floor guys</h3>
+            <p>
+                The Floor Guys have a well earned name as leading flooring
+                installers; offering affordable, competitive and honest prices.
+                With the two owners having over 40 years experience in fitting,
+                they promise the journey from picking your new floor covering
+                all the way through to fitting and aftercare will be seamless
+                and worry free.
+            </p>
+            <a target="_blank" href="https://www.thefloorguys.net">
+                <Image
+                    className="sponsors-logos"
+                    rounded
+                    src={floorGuysImg}
+                    fluid
+                ></Image>
+            </a>
             <hr />
 
             <h3>love leeds parks</h3>
