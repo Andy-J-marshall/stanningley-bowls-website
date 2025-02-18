@@ -3,9 +3,9 @@ import { Image } from 'react-bootstrap';
 import joeyLogoImg from '../images/supporters/joey.png';
 import vacShackImg from '../images/supporters/vac_shack_pudsey.png';
 import floorGuysImg from '../images/supporters/the_floor_guys.png';
-import loveLeedsParksImg from '../images/supporters/loveLeedsParks.png';
-import heritageFundImg from '../images/supporters/heritageFund.png';
-import easyFundraisingImg from '../images/supporters/easyFundraising.png';
+import loveLeedsParksImg from '../images/supporters/love_leeds_parks.png';
+import heritageFundImg from '../images/supporters/heritage_fund.png';
+import easyFundraisingImg from '../images/supporters/easy_fundraising.png';
 import { config } from '../config';
 
 const { emailUrl } = config.socialLinks;
