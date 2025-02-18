@@ -1,17 +1,19 @@
 import { useEffect } from 'react';
 import { Card, Button, Row, Col } from 'react-bootstrap';
-import monImg from '../images/websiteImages/mon-team.png';
-import tuesVetsImg from '../images/websiteImages/tuesVets-team.png';
-import thurVetsImg from '../images/websiteImages/thursVets-team.png';
-import satImg from '../images/websiteImages/sat-team.png';
-import tuesImg from '../images/websiteImages/tues-team.png';
-import wedImg from '../images/websiteImages/wed-team.png';
-import wedPairsImg from '../images/websiteImages/wedPairs-team.png';
+import monImg from '../images/teams/airewharfe_monday.png';
+import tuesVetsImg from '../images/teams/leeds_tuesday_vets.png';
+import thurVetsImg from '../images/teams/leeds_thursday_vets.png';
+import satAImg from '../images/teams/leeds_saturday_a.png';
+import satBImg from '../images/teams/leeds_saturday_b.png';
+import tuesImg from '../images/teams/leeds_tuesday.png';
+import wedImg from '../images/teams/leeds_half_holiday.png';
+import ladiesImg from '../images/teams/leeds_ladies_thursday.png';
+import wedPairsImg from '../images/teams/airewharfe_wednesday.png';
 
 const teams = [
     {
         name: 'Leeds Monday Combined',
-        link: 'https://bowlsnet.uk/Leeds-MonComb',
+        link: 'https://bowlsnet.uk/AW-Mon',
         img: monImg,
     },
     {
@@ -40,9 +42,19 @@ const teams = [
         img: thurVetsImg,
     },
     {
-        name: 'Leeds Saturday',
+        name: 'Leeds Ladies',
+        link: 'https://bowlsnet.uk/LeedsLadies',
+        img: ladiesImg,
+    },
+    {
+        name: 'Leeds Saturday A',
         link: 'https://bowlsnet.uk/Leeds-Sat',
-        img: satImg,
+        img: satAImg,
+    },
+    {
+        name: 'Leeds Saturday B',
+        link: 'https://bowlsnet.uk/Leeds-Sat',
+        img: satBImg,
     },
 ];
 
