@@ -32,10 +32,10 @@ function About() {
                 to introduce newer players to competitive bowling.
             </p>
             <p>
-                Last season the teams had great success winning 3 leagues, 2 cup
-                trophies and coming a very close second in 4 others, with
-                several of our players featuring in the top 10 of the averages
-                in the leagues.
+                Last season the teams had great success winning 3 leagues and a
+                cup, and coming a very close second in 4 others, with several of
+                our players featuring in the top 10 of the averages in the
+                leagues.
             </p>
             <img
                 style={{ width: '98%', paddingBottom: '1rem' }}
