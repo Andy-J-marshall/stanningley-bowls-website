@@ -21,6 +21,9 @@ export function returnTabName(teamName: string) {
     if (teamName.toLowerCase().includes('half holiday')) {
         displayName = 'WED';
     }
+    if (teamName.toLowerCase().includes('ladies')) {
+        displayName = 'LADIES';
+    }
     return displayName;
 }
 

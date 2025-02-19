@@ -128,6 +128,6 @@ test.describe('Player detailed stats - overview', () => {
     }) => {
         await yearSelectPage.selectYear(2022);
         await playerSearchPage.searchForPlayer('Jack Roberts');
-        await yearSelectPage.checkYearDropdownHasAllYearOptions(12);
+        await yearSelectPage.checkYearDropdownHasAllYearOptions(13);
     });
 });

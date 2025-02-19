@@ -159,16 +159,17 @@ A number of manual changes are required at the end of each calendar year.
 
 ## Web application
 
-1. Import the new stats files into `statsData.ts` and update the exported objects and arrays with the new files.
-2. Update `statsSelectCallback` in `App.tsx` with the reference to the new year's stats file. Also update the default stats and year to display in the useState hook.
+1. Import the new stats files into `statsData.ts` and update the exported objects and arrays with the new files
+2. Update `statsSelectCallback` in `App.tsx` with the reference to the new year's stats file. Also update the default stats and year to display in the useState hook
 3. Add a dropdown item for the new year in the `yearSelectDropdown.tsx` component
-4. If there are any new teams added, update the `records.tsx`, `teamStats.tsx` and `teamInfo.tsx` components. Make sure `returnTabName` in `statsHelper.ts` displays the team name correctly. Check the team stats appear in the dropdown in the `playerStats.tsx` component, and in `playerStatsTeams.tsx`.
-5. Update `History.tsx` with any trophies won
-6. Configure the `config.ts` file with the new year's data:
+4. If there are any new teams added, update the `records.tsx` and `teamStats.tsx`. Make sure `returnTabName` in `statsHelper.ts` displays the team name correctly. Check the team stats appear in the dropdown in the `playerStats.tsx` component, and in `playerStatsTeams.tsx`
+5. Update the `teamInfo.tsx` component with any new team information. Also check bowlsnet URLs are correct
+6. Update `history.tsx` with any trophies won
+7. Configure the `config.ts` file with the new year's data:
 
     - Change the `historicTeamInfo` property include league data for any new teams or second teams
     - Update the `allTeamsInLeaguesSince2013` array to include an extra keys (second team teams need to be suffixed with ' (b)')
-7. Update the bowlsnet URLs in `teamInfo.tsx` if any have changed
+
 8. Update the `membership.tsx`, `about.tsx`, and `socialInfo.tsx` components with any new information
 
 ## Data
