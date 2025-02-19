@@ -1,13 +1,13 @@
 import { Nav, Carousel, Image, Container } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
-import statsImg from '../../images/carousel/carousel-01.png';
-import membershipImg from '../../images/carousel/carousel-02.png';
-import eventsImg from '../../images/carousel/carousel-03.png';
+import statsImg from '../../images/carousel/carousel_stats.png';
+import membershipImg from '../../images/carousel/carousel_membership.png';
+import eventsImg from '../../images/carousel/carousel_events.png';
 import { config } from '../../config';
 
 function HomePageCarousel() {
     return (
-        <Container fluid>
+        <Container id="carousel" fluid>
             <Nav defaultActiveKey="/home">
                 <Carousel fade>
                     <Carousel.Item>

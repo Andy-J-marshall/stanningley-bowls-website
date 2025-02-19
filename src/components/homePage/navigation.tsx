@@ -1,6 +1,6 @@
 import { Navbar, Nav, Container, NavDropdown, Image } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import logoImg from '../../images/logos/brand-logo-blue-bg.png';
+import logoImg from '../../images/logos/brand_logo_blue_bg.png';
 
 function Navigation() {
     return (
@@ -154,6 +154,19 @@ function Navigation() {
                                     eventKey="/history"
                                 >
                                     HISTORY
+                                </Nav.Link>
+                            </Nav.Item>
+                            <Nav.Item
+                                as={Link}
+                                to="/sponsors"
+                                className="tabs link"
+                            >
+                                <Nav.Link
+                                    as="div"
+                                    href="/sponsors"
+                                    eventKey="/sponsors"
+                                >
+                                    SPONSORS
                                 </Nav.Link>
                             </Nav.Item>
                         </NavDropdown>

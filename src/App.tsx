@@ -14,6 +14,7 @@ import About from './pages/about';
 import History from './pages/history';
 import SocialInfo from './pages/socialInfo';
 import Fixtures from './pages/fixtures';
+import Sponsors from './pages/sponsors';
 import Navigation from './components/homePage/navigation';
 import Footer from './components/homePage/footer';
 import YearSelectDropdown from './components/homePage/yearSelectDropdown';
@@ -150,6 +151,7 @@ function App() {
                     <Route path="/contact" element={<Contact />} />
                     <Route path="/about" element={<About />} />
                     <Route path="/history" element={<History />} />
+                    <Route path="/sponsors" element={<Sponsors />} />
                 </Routes>
             </main>
             <Footer />

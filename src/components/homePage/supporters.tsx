@@ -1,10 +1,10 @@
 import joeyLogoImg from '../../images/supporters/joey.png';
-import asdaLogoImg from '../../images/supporters/asda_foundation.png';
-import loveLeedsParksImg from '../../images/supporters/loveLeedsParks.png';
-import arnoldClarkLogoImg from '../../images/supporters/arnold_clark_grant.png';
-import heyNeighbourLogoImg from '../../images/supporters/hey_neighbour_grant.png';
-import heritageFundImg from '../../images/supporters/heritageFund.png';
-import easyFundraisingImg from '../../images/supporters/easyFundraising.png';
+import loveLeedsParksImg from '../../images/supporters/love_leeds_parks.png';
+import heritageFundImg from '../../images/supporters/heritage_fund.png';
+import easyFundraisingImg from '../../images/supporters/easy_fundraising.png';
+import vacShackImg from '../../images/supporters/vac_shack_pudsey.png';
+import laneEndImg from '../../images/supporters/lane_end_garages.png';
+import floorGuysImg from '../../images/supporters/the_floor_guys.png';
 
 function Supporters() {
     return (
@@ -17,10 +17,10 @@ function Supporters() {
                     alt="support-logo0"
                 />
             </a>
-            <a target="_blank" href="https://www.asdafoundation.org">
+            <a target="_blank" href="https://www.laneendgarage.uk">
                 <img
                     className="supporters-logos"
-                    src={asdaLogoImg}
+                    src={laneEndImg}
                     alt="support-logo1"
                 />
             </a>
@@ -31,28 +31,25 @@ function Supporters() {
                     alt="support-logo2"
                 />
             </a>
-            <a
-                target="_blank"
-                href="https://www.arnoldclark.com/community-fund"
-            >
-                <img
-                    className="supporters-logos"
-                    src={arnoldClarkLogoImg}
-                    alt="support-logo3"
-                />
-            </a>
-            <a target="_blank" href="https://www.heyneighbour.org.uk">
-                <img
-                    className="supporters-logos"
-                    src={heyNeighbourLogoImg}
-                    alt="support-logo4"
-                />
-            </a>
             <a target="_blank" href="https://www.heritagefund.org.uk">
                 <img
                     className="supporters-logos"
                     src={heritageFundImg}
                     alt="support-logo5"
+                />
+            </a>
+            <a target="_blank" href="http://www.vacshack.co.uk">
+                <img
+                    className="supporters-logos"
+                    src={vacShackImg}
+                    alt="support-logo3"
+                />
+            </a>
+            <a target="_blank" href="https://www.thefloorguys.net">
+                <img
+                    className="supporters-logos"
+                    src={floorGuysImg}
+                    alt="support-logo4"
                 />
             </a>
             <a

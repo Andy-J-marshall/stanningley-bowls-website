@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
-import socialBowlingImg from '../images/websiteImages/social-bowling2.png';
-import groupBowlingImg from '../images/websiteImages/group-bowling.png';
+import socialBowlingImg from '../images/websiteImages/social_bowling2.png';
+import groupBowlingImg from '../images/websiteImages/group_bowling.png';
 import { config } from '../config';
 
 const { facebookUrl } = config.socialLinks;
@@ -12,7 +12,7 @@ function SocialInfo() {
 
     return (
         <div
-            id="social-membership"
+            id="social-info-page"
             className="page-component info-component center"
         >
             <div id="social-info">
