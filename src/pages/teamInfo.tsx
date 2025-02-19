@@ -12,7 +12,7 @@ import wedPairsImg from '../images/teams/airewharfe_wednesday.png';
 
 const teams = [
     {
-        name: 'Leeds Monday Combined',
+        name: 'AireWharfe Monday',
         link: 'https://bowlsnet.uk/AW-Mon',
         img: monImg,
     },
