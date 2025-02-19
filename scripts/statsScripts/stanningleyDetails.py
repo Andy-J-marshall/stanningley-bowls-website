@@ -99,5 +99,6 @@ traitorPlayers = {
     "Leeds Half Holiday": ["clifford brogie"],
     "AireWharfe Wednesday Pairs": [],
     "Leeds Thursday Vets": ["neil porter"],
+    "Leeds Ladies": [],
     "Leeds Saturday": ["clifford brogie", "neil porter"],
 }

@@ -48,6 +48,7 @@ allLeagues = [
     "Leeds Half Holiday",
     "Leeds Thursday Vets",
     "Leeds Saturday",
+    "Leeds Ladies",
     "Mirfield",
     "Spen Valley",
     "AireWharfe Monday",
