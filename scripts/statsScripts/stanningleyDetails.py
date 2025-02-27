@@ -70,6 +70,7 @@ players = [
     "mary spears",
     "louise roberts",
     "eleanor graves",
+    "alex perry",
 ]
 
 # Players with different spellings of name (lowercase). Also need to add to deduplicateNames function
@@ -83,6 +84,7 @@ duplicatePlayerNames = [
     "phillip thornton",
     "philip thornton",
     "jim swales",
+    "elenor graves",
 ]
 
 

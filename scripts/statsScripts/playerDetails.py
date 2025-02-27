@@ -38,6 +38,8 @@ def deduplicateNames(name):
         name = "phil thornton"
     if name == "jim swales":
         name = "jim swailes"
+    if name == "elenor graves":
+        name = "eleanor graves"
     return name
 
 
@@ -68,4 +70,5 @@ allClubs = [
     "farsley",
     "new wortley",
     "wibsey",
+    "holbeck",
 ]

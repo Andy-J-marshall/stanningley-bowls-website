@@ -52,10 +52,11 @@ players = [
     "richard hodgson",
     "stewart watson",
     "linda barrand",
+    "eleanor graves",
 ]
 
 # Players with different spellings of name (lowercase). Also need to add to deduplicateNames function
-duplicatePlayerNames = ["stuart watson"]
+duplicatePlayerNames = ["stuart watson", "elenor graves"]
 
 # Add players who play for other teams in leagues the team player in (lowercase)
 traitorPlayers = {
