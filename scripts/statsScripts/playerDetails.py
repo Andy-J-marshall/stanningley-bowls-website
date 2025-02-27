@@ -51,6 +51,7 @@ allLeagues = [
     "Leeds Ladies",
     "Mirfield",
     "Spen Valley",
+    "Ossett and Horbury",
     "AireWharfe Monday",
     "AireWharfe Wednesday Pairs",
     "AireWharfe Vets",
@@ -63,11 +64,8 @@ allLeagues = [
 allClubs = [
     "stanningley",
     "pudsey",
-    "burley",
     "littlemoor",
     "farsley",
     "new wortley",
     "wibsey",
-    "bramley",
-    "new armley",
 ]

@@ -14,12 +14,12 @@ displayTeamName = "Stanningley"
 # Days played (add duplicate days for second teams suffixed with (A) or (B) etc.)
 teamDays = [
     "AireWharfe Monday",
+    "AireWharfe Wednesday Pairs",
+    "Leeds Ladies",
     "Leeds Tuesday Vets",
     "Leeds Tuesday",
     "Leeds Half Holiday",
-    "AireWharfe Wednesday Pairs",
     "Leeds Thursday Vets",
-    "Leeds Ladies",
     "Leeds Saturday (A)",
     "Leeds Saturday (B)",
 ]

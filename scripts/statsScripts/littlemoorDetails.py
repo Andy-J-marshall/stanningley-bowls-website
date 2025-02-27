@@ -28,10 +28,11 @@ teamDays = [
     "AireWharfe Monday (B)",
     "Mirfield (A)",
     "Mirfield (B)",
-    "Bradford Half Holiday (A)",
-    "Bradford Half Holiday (B)",
     "Spen Valley (A)",
     "Spen Valley (B)",
+    "Ossett and Horbury"
+    "Bradford Half Holiday (A)",
+    "Bradford Half Holiday (B)",
     "Bradford Vets",
     "Bradford Saturday (A)",
     "Bradford Saturday (B)",
