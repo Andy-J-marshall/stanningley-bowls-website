@@ -83,14 +83,16 @@ test.describe('Records', () => {
         );
     });
 
+    // TODO fix this test
     test('Records not show for Wednesday Pairs in 2023 as team did not exist', async ({
         recordsPage,
         teamTabsPage,
         yearSelectPage,
     }) => {
-        await yearSelectPage.selectYear(2023);
+        await yearSelectPage.selectYear(2024);
         await teamTabsPage.selectWedPairsTeamTab();
-
+        
+        await yearSelectPage.selectYear(2023);
         await expect(recordsPage.noGamesMessage).toBeVisible();
     });
 
@@ -99,6 +101,7 @@ test.describe('Records', () => {
         teamTabsPage,
         yearSelectPage,
     }) => {
+        await yearSelectPage.selectYear(2024);
         await teamTabsPage.selectMondayTeamTab();
 
         await yearSelectPage.selectYear(2018);
