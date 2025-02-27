@@ -65,7 +65,11 @@ players = [
     "nicola bona",
     "linda barrand",
     "phil thornton",
+    "bob marshall",
     "karen uttley",
+    "mary spears",
+    "louise roberts",
+    "eleanor graves",
 ]
 
 # Players with different spellings of name (lowercase). Also need to add to deduplicateNames function
