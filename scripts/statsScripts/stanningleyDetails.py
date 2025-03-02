@@ -101,10 +101,10 @@ traitorPlayers = {
         # TODO jim swailes? peter crowther?
     ],
     "Leeds Tuesday Vets": [],
-    "Leeds Tuesday": ["neil porter"],
+    "Leeds Tuesday": ["neil porter", "alex perry"],
     "Leeds Half Holiday": ["clifford brogie"],
     "AireWharfe Wednesday Pairs": [],
     "Leeds Thursday Vets": ["neil porter"],
     "Leeds Ladies": [],
-    "Leeds Saturday": ["clifford brogie", "neil porter"],
+    "Leeds Saturday": ["clifford brogie", "neil porter", "alex perry"],
 }

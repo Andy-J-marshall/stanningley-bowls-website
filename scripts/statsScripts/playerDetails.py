@@ -54,6 +54,7 @@ allLeagues = [
     "Mirfield",
     "Spen Valley",
     "Ossett and Horbury",
+    "Tadcaster",
     "AireWharfe Monday",
     "AireWharfe Wednesday Pairs",
     "AireWharfe Vets",
@@ -71,4 +72,5 @@ allClubs = [
     "new wortley",
     "wibsey",
     "holbeck",
+    "garforth",
 ]

@@ -78,14 +78,14 @@ const leagues = [
         day: 'Bradford Saturday',
         url: '/Bradford-Sat',
     },
+    {
+        day: 'Tadcaster',
+        url: '/Tadcaster',
+    },
     // Other leagues of interest
     // {
     //     day: 'North East Leeds Vets',
     //     url: '/NELeedsVets',
-    // },
-    // {
-    //     day: 'Tadcaster',
-    //     url: '/Tadcaster',
     // },
     // {
     //     day: 'AireWharfe Saturday',
