@@ -128,7 +128,7 @@ test.describe('Player summary stats - filters', () => {
         await playerSummaryPage.validateSummaryStats(62, 31, 50, 2.08);
     });
 
-    test.only('Summary of Neil Porter stats for singles and pairs games for all clubs are correct', async ({
+    test('Summary of Neil Porter stats for singles and pairs games for all clubs are correct', async ({
         playerSummaryPage,
         playerStatOptionsPage,
         yearSelectPage,

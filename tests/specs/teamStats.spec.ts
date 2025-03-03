@@ -91,6 +91,7 @@ test.describe('Team Stats', () => {
         teamTabsPage,
         yearSelectPage,
     }) => {
+        await yearSelectPage.selectYear(2024);
         await teamTabsPage.selectMondayTeamTab();
 
         await yearSelectPage.selectYear(2013);
