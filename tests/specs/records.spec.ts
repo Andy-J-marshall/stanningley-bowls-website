@@ -83,7 +83,6 @@ test.describe('Records', () => {
         );
     });
 
-    // TODO fix this test
     test('Records not show for Wednesday Pairs in 2023 as team did not exist', async ({
         recordsPage,
         teamTabsPage,
