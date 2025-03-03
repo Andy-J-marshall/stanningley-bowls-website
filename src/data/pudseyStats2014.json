@@ -1,5 +1,129 @@
 {
     "playerResults": {
+        "paul bowes": {
+            "totalAgg": 815,
+            "totalAggAgainst": 685,
+            "availableAgg": 882,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 462,
+            "availableAwayAgg": 420,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 430,
+            "totalHomeAggAgainst": 324,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 385,
+            "totalAwayAggAgainst": 361,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 16,
+            "homeLosses": 6,
+            "awayWins": 10,
+            "awayLosses": 10,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 42,
+            "results": [
+                "paul bowes 21 - 7 robert taylor",
+                "paul bowes 21 - 10 peter sargesson",
+                "paul bowes 20 - 21 paul hardy",
+                "paul bowes 18 - 21 steve gardner",
+                "paul bowes 21 - 10 m thornton",
+                "paul bowes 21 - 14 graham hirst",
+                "paul bowes 21 - 17 paul hawes",
+                "paul bowes 18 - 21 andrew sargesson",
+                "paul bowes 21 - 19 tony green",
+                "paul bowes 14 - 21 glen pratt",
+                "paul bowes 21 - 9 adam mosley",
+                "paul bowes 19 - 21 roger green",
+                "paul bowes 21 - 11 tracy (lad) preston",
+                "paul bowes 21 - 17 ira jeffers",
+                "paul bowes 21 - 10 dawn (lad) bray",
+                "paul bowes 21 - 20 neil mylan",
+                "paul bowes 15 - 21 robert wilkinson",
+                "paul bowes 21 - 20 michael maguire",
+                "paul bowes 21 - 14 janet hopper",
+                "paul bowes 21 - 5 jason woodhouse",
+                "paul bowes 20 - 21 anthony sutcliffe",
+                "paul bowes 21 - 15 graham roberts",
+                "paul bowes 21 - 16 brian sweeney",
+                "paul bowes 21 - 2 david greenwood",
+                "paul bowes 21 - 18 philip richards",
+                "paul bowes 21 - 17 richard gleghorn",
+                "paul bowes 21 - 16 paul fincher",
+                "paul bowes 17 - 21 scott bloodworth (a)",
+                "paul bowes 18 - 21 robert k wilkinson",
+                "paul bowes 19 - 21 ian dewhirst",
+                "paul bowes 16 - 21 neil simpson (a)",
+                "paul bowes 8 - 21 mike lambert",
+                "paul bowes 16 - 21 don jones (a)",
+                "paul bowes 21 - 16 robert king",
+                "paul bowes 21 - 11 paul ridealgh",
+                "paul bowes 21 - 9 will gilroy",
+                "paul bowes 21 - 18 paul ridealgh",
+                "paul bowes 21 - 16 paul jacques (a)",
+                "paul bowes 19 - 21 kevin siddle",
+                "paul bowes 14 - 21 steve bowes",
+                "paul bowes 18 - 21 robert jeffrey's",
+                "paul bowes 21 - 12 helen simpson"
+            ],
+            "airewharfe monday": {
+                "games": 1,
+                "wins": 1,
+                "aggDiff": 14
+            },
+            "airewharfe monday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield (b)": {
+                "games": 11,
+                "wins": 6,
+                "aggDiff": 31
+            },
+            "spen valley": {
+                "games": 6,
+                "wins": 5,
+                "aggDiff": 21
+            },
+            "spen valley (b)": {
+                "games": 9,
+                "wins": 8,
+                "aggDiff": 64
+            },
+            "bradford saturday": {
+                "games": 5,
+                "wins": 0,
+                "aggDiff": -27
+            },
+            "bradford saturday (b)": {
+                "games": 10,
+                "wins": 6,
+                "aggDiff": 27
+            },
+            "bradford saturday (c)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
         "richard hodgson": {
             "totalAgg": 755,
             "totalAggAgainst": 769,
