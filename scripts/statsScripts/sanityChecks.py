@@ -142,140 +142,140 @@ def checkPlayerStatsValuesIncreased(
 
     with open(filePath, "r") as jsonFile:
         file = json.load(jsonFile)
-        existingPlayerStats = file["playerResults"][player]
+        existingPlayerStats = file["playerResults"].get(player)
+        if existingPlayerStats is not None:
+            # Check total games
+            if existingPlayerStats["totalGamesPlayed"] > updatedStats["totalGamesPlayed"]:
+                raise Exception(f"totalGamesPlayed for {player} lower than before")
 
-        # Check total games
-        if existingPlayerStats["totalGamesPlayed"] > updatedStats["totalGamesPlayed"]:
-            raise Exception(f"totalGamesPlayed for {player} lower than before")
+            # Check wins
+            if existingPlayerStats["homeWins"] > updatedStats["homeWins"]:
+                raise Exception(f"homeWins for {player} lower than before")
+            if existingPlayerStats["awayWins"] > updatedStats["awayWins"]:
+                raise Exception(f"awayWins for {player} lower than before")
+            if existingPlayerStats["cupWins"] > updatedStats["cupWins"]:
+                raise Exception(f"cupWins for {player} lower than before")
 
-        # Check wins
-        if existingPlayerStats["homeWins"] > updatedStats["homeWins"]:
-            raise Exception(f"homeWins for {player} lower than before")
-        if existingPlayerStats["awayWins"] > updatedStats["awayWins"]:
-            raise Exception(f"awayWins for {player} lower than before")
-        if existingPlayerStats["cupWins"] > updatedStats["cupWins"]:
-            raise Exception(f"cupWins for {player} lower than before")
+            # Check losses
+            if existingPlayerStats["homeLosses"] > updatedStats["homeLosses"]:
+                raise Exception(f"homeLosses for {player} lower than before")
+            if existingPlayerStats["awayLosses"] > updatedStats["awayLosses"]:
+                raise Exception(f"awayLosses for {player} lower than before")
+            if existingPlayerStats["cupLosses"] > updatedStats["cupLosses"]:
+                raise Exception(f"cupLosses for {player} lower than before")
 
-        # Check losses
-        if existingPlayerStats["homeLosses"] > updatedStats["homeLosses"]:
-            raise Exception(f"homeLosses for {player} lower than before")
-        if existingPlayerStats["awayLosses"] > updatedStats["awayLosses"]:
-            raise Exception(f"awayLosses for {player} lower than before")
-        if existingPlayerStats["cupLosses"] > updatedStats["cupLosses"]:
-            raise Exception(f"cupLosses for {player} lower than before")
+            # Check pairs wins/losses
+            if existingPlayerStats["pairWins"] > updatedStats["pairWins"]:
+                raise Exception(f"pairWins for {player} lower than before")
+            if existingPlayerStats["pairLosses"] > updatedStats["pairLosses"]:
+                raise Exception(f"pairLosses for {player} lower than before")
 
-        # Check pairs wins/losses
-        if existingPlayerStats["pairWins"] > updatedStats["pairWins"]:
-            raise Exception(f"pairWins for {player} lower than before")
-        if existingPlayerStats["pairLosses"] > updatedStats["pairLosses"]:
-            raise Exception(f"pairLosses for {player} lower than before")
+            # check pairs home/away/cup wins
+            if existingPlayerStats["pairHomeWins"] > updatedStats["pairHomeWins"]:
+                raise Exception(f"pairHomeWins for {player} lower than before")
+            if existingPlayerStats["pairAwayWins"] > updatedStats["pairAwayWins"]:
+                raise Exception(f"pairAwayWins for {player} lower than before")
+            if existingPlayerStats["pairCupWins"] > updatedStats["pairCupWins"]:
+                raise Exception(f"pairCupWins for {player} lower than before")
 
-        # check pairs home/away/cup wins
-        if existingPlayerStats["pairHomeWins"] > updatedStats["pairHomeWins"]:
-            raise Exception(f"pairHomeWins for {player} lower than before")
-        if existingPlayerStats["pairAwayWins"] > updatedStats["pairAwayWins"]:
-            raise Exception(f"pairAwayWins for {player} lower than before")
-        if existingPlayerStats["pairCupWins"] > updatedStats["pairCupWins"]:
-            raise Exception(f"pairCupWins for {player} lower than before")
+            # check pairs home/away/cup losses
+            if existingPlayerStats["pairHomeLosses"] > updatedStats["pairHomeLosses"]:
+                raise Exception(f"pairHomeLosses for {player} lower than before")
+            if existingPlayerStats["pairAwayLosses"] > updatedStats["pairAwayLosses"]:
+                raise Exception(f"pairAwayLosses for {player} lower than before")
+            if existingPlayerStats["pairCupLosses"] > updatedStats["pairCupLosses"]:
+                raise Exception(f"pairCupLosses for {player} lower than before")
 
-        # check pairs home/away/cup losses
-        if existingPlayerStats["pairHomeLosses"] > updatedStats["pairHomeLosses"]:
-            raise Exception(f"pairHomeLosses for {player} lower than before")
-        if existingPlayerStats["pairAwayLosses"] > updatedStats["pairAwayLosses"]:
-            raise Exception(f"pairAwayLosses for {player} lower than before")
-        if existingPlayerStats["pairCupLosses"] > updatedStats["pairCupLosses"]:
-            raise Exception(f"pairCupLosses for {player} lower than before")
+            # Check aggregates
+            if existingPlayerStats["totalAgg"] > updatedStats["totalAgg"]:
+                raise Exception(f"totalAgg for {player} lower than before")
+            if existingPlayerStats["totalAggAgainst"] > updatedStats["totalAggAgainst"]:
+                raise Exception(f"totalAggAgainst for {player} lower than before")
 
-        # Check aggregates
-        if existingPlayerStats["totalAgg"] > updatedStats["totalAgg"]:
-            raise Exception(f"totalAgg for {player} lower than before")
-        if existingPlayerStats["totalAggAgainst"] > updatedStats["totalAggAgainst"]:
-            raise Exception(f"totalAggAgainst for {player} lower than before")
+            # Check available aggregates
+            if existingPlayerStats["availableAgg"] > updatedStats["availableAgg"]:
+                raise Exception(f"availableAgg for {player} lower than before")
+            if existingPlayerStats["availableHomeAgg"] > updatedStats["availableHomeAgg"]:
+                raise Exception(f"availableHomeAgg for {player} lower than before")
+            if existingPlayerStats["availableAwayAgg"] > updatedStats["availableAwayAgg"]:
+                raise Exception(f"availableAwayAgg for {player} lower than before")
 
-        # Check available aggregates
-        if existingPlayerStats["availableAgg"] > updatedStats["availableAgg"]:
-            raise Exception(f"availableAgg for {player} lower than before")
-        if existingPlayerStats["availableHomeAgg"] > updatedStats["availableHomeAgg"]:
-            raise Exception(f"availableHomeAgg for {player} lower than before")
-        if existingPlayerStats["availableAwayAgg"] > updatedStats["availableAwayAgg"]:
-            raise Exception(f"availableAwayAgg for {player} lower than before")
+            # Check home/away aggregates
+            if existingPlayerStats["totalHomeAgg"] > updatedStats["totalHomeAgg"]:
+                raise Exception(f"totalHomeAgg for {player} lower than before")
+            if existingPlayerStats["totalAwayAgg"] > updatedStats["totalAwayAgg"]:
+                raise Exception(f"totalAwayAgg for {player} lower than before")
+            if (
+                existingPlayerStats["totalHomeAggAgainst"]
+                > updatedStats["totalHomeAggAgainst"]
+            ):
+                raise Exception(f"totalHomeAggAgainst for {player} lower than before")
+            if (
+                existingPlayerStats["totalAwayAggAgainst"]
+                > updatedStats["totalAwayAggAgainst"]
+            ):
+                raise Exception(f"totalAwayAggAgainst for {player} lower than before")
 
-        # Check home/away aggregates
-        if existingPlayerStats["totalHomeAgg"] > updatedStats["totalHomeAgg"]:
-            raise Exception(f"totalHomeAgg for {player} lower than before")
-        if existingPlayerStats["totalAwayAgg"] > updatedStats["totalAwayAgg"]:
-            raise Exception(f"totalAwayAgg for {player} lower than before")
-        if (
-            existingPlayerStats["totalHomeAggAgainst"]
-            > updatedStats["totalHomeAggAgainst"]
-        ):
-            raise Exception(f"totalHomeAggAgainst for {player} lower than before")
-        if (
-            existingPlayerStats["totalAwayAggAgainst"]
-            > updatedStats["totalAwayAggAgainst"]
-        ):
-            raise Exception(f"totalAwayAggAgainst for {player} lower than before")
+            # Check pairs aggregates
+            if existingPlayerStats["totalPairsAgg"] > updatedStats["totalPairsAgg"]:
+                raise Exception(f"totalPairsAgg for {player} lower than before")
+            if (
+                existingPlayerStats["totalPairsAggAgainst"]
+                > updatedStats["totalPairsAggAgainst"]
+            ):
+                raise Exception(f"totalPairsAggAgainst for {player} lower than before")
+            if existingPlayerStats["availablePairsAgg"] > updatedStats["availablePairsAgg"]:
+                raise Exception(f"availablePairsAgg for {player} lower than before")
 
-        # Check pairs aggregates
-        if existingPlayerStats["totalPairsAgg"] > updatedStats["totalPairsAgg"]:
-            raise Exception(f"totalPairsAgg for {player} lower than before")
-        if (
-            existingPlayerStats["totalPairsAggAgainst"]
-            > updatedStats["totalPairsAggAgainst"]
-        ):
-            raise Exception(f"totalPairsAggAgainst for {player} lower than before")
-        if existingPlayerStats["availablePairsAgg"] > updatedStats["availablePairsAgg"]:
-            raise Exception(f"availablePairsAgg for {player} lower than before")
+            # Check pairs home aggregates
+            if existingPlayerStats["totalPairsHomeAgg"] > updatedStats["totalPairsHomeAgg"]:
+                raise Exception(f"totalPairsHomeAgg for {player} lower than before")
+            if (
+                existingPlayerStats["totalPairsHomeAggAgainst"]
+                > updatedStats["totalPairsHomeAggAgainst"]
+            ):
+                raise Exception(f"totalPairsHomeAggAgainst for {player} lower than before")
+            if (
+                existingPlayerStats["availablePairsHomeAgg"]
+                > updatedStats["availablePairsHomeAgg"]
+            ):
+                raise Exception(f"availablePairsHomeAgg for {player} lower than before")
 
-        # Check pairs home aggregates
-        if existingPlayerStats["totalPairsHomeAgg"] > updatedStats["totalPairsHomeAgg"]:
-            raise Exception(f"totalPairsHomeAgg for {player} lower than before")
-        if (
-            existingPlayerStats["totalPairsHomeAggAgainst"]
-            > updatedStats["totalPairsHomeAggAgainst"]
-        ):
-            raise Exception(f"totalPairsHomeAggAgainst for {player} lower than before")
-        if (
-            existingPlayerStats["availablePairsHomeAgg"]
-            > updatedStats["availablePairsHomeAgg"]
-        ):
-            raise Exception(f"availablePairsHomeAgg for {player} lower than before")
+            # Check pairs away aggregates
+            if existingPlayerStats["totalPairsAwayAgg"] > updatedStats["totalPairsAwayAgg"]:
+                raise Exception(f"totalPairsAwayAgg for {player} lower than before")
+            if (
+                existingPlayerStats["totalPairsAwayAggAgainst"]
+                > updatedStats["totalPairsAwayAggAgainst"]
+            ):
+                raise Exception(f"totalPairsAwayAggAgainst for {player} lower than before")
+            if (
+                existingPlayerStats["availablePairsAwayAgg"]
+                > updatedStats["availablePairsAwayAgg"]
+            ):
+                raise Exception(f"availablePairsAwayAgg for {player} lower than before")
 
-        # Check pairs away aggregates
-        if existingPlayerStats["totalPairsAwayAgg"] > updatedStats["totalPairsAwayAgg"]:
-            raise Exception(f"totalPairsAwayAgg for {player} lower than before")
-        if (
-            existingPlayerStats["totalPairsAwayAggAgainst"]
-            > updatedStats["totalPairsAwayAggAgainst"]
-        ):
-            raise Exception(f"totalPairsAwayAggAgainst for {player} lower than before")
-        if (
-            existingPlayerStats["availablePairsAwayAgg"]
-            > updatedStats["availablePairsAwayAgg"]
-        ):
-            raise Exception(f"availablePairsAwayAgg for {player} lower than before")
+            # Check results
+            if len(existingPlayerStats["results"]) > len(updatedStats["results"]):
+                raise Exception(f"fewer results for {player} than before")
 
-        # Check results
-        if len(existingPlayerStats["results"]) > len(updatedStats["results"]):
-            raise Exception(f"fewer results for {player} than before")
+            # Check team stats
+            if checkTeamStatsBool:
+                for team in teamDays:
+                    teamName = statsHelper.returnTeamNameToStoreData(team).lower()
+                    playerTeamStats = updatedStats[teamName]
 
-        # Check team stats
-        if checkTeamStatsBool:
-            for team in teamDays:
-                teamName = statsHelper.returnTeamNameToStoreData(team).lower()
-                playerTeamStats = updatedStats[teamName]
-
-                if playerTeamStats["games"] > existingPlayerStats[teamName]["games"]:
-                    raise Exception(f"{teamName} games for {player} lower than before")
-                if playerTeamStats["wins"] > existingPlayerStats[teamName]["wins"]:
-                    raise Exception(f"{teamName} wins for {player} lower than before")
-                if (
-                    playerTeamStats["aggDiff"]
-                    > existingPlayerStats[teamName]["aggDiff"]
-                ):
-                    raise Exception(
-                        f"{teamName} aggDiff for {player} lower than before"
-                    )
+                    if playerTeamStats["games"] > existingPlayerStats[teamName]["games"]:
+                        raise Exception(f"{teamName} games for {player} lower than before")
+                    if playerTeamStats["wins"] > existingPlayerStats[teamName]["wins"]:
+                        raise Exception(f"{teamName} wins for {player} lower than before")
+                    if (
+                        playerTeamStats["aggDiff"]
+                        > existingPlayerStats[teamName]["aggDiff"]
+                    ):
+                        raise Exception(
+                            f"{teamName} aggDiff for {player} lower than before"
+                        )
 
 
 def checkPlayerTeamStats(updatedStats, teamDays):
