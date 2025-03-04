@@ -31,11 +31,11 @@ teamDays = [
     "Mirfield (A)",
     "Mirfield (B)",
     "Mirfield (C)",
+    "Bradford Half Holiday (A)",
+    "Bradford Half Holiday (B)",
     "Spen Valley (A)",
     "Spen Valley (B)",
     "Spen Valley (C)",
-    "Bradford Half Holiday (A)",
-    "Bradford Half Holiday (B)",
     "Bradford Vets (A)",
     "Bradford Vets (B)",
     "Bradford Saturday (A)",
@@ -45,7 +45,6 @@ teamDays = [
 
 # Some leagues have different number of players depending on the division. Make sure you match the team name exactly as it appears in teamDays
 teamsWithWithDifferentNumberOfPlayersToLeagueNorm = []
-
 
 # Every player (lowercase)
 players = [

@@ -28,12 +28,12 @@ teamDays = [
     "AireWharfe Monday (B)",
     "Mirfield (A)",
     "Mirfield (B)",
-    "Spen Valley (A)",
-    "Spen Valley (B)",
-    "Ossett and Horbury"
     "Bradford Half Holiday (A)",
     "Bradford Half Holiday (B)",
+    "Spen Valley (A)",
+    "Spen Valley (B)",
     "Bradford Vets",
+    "Ossett and Horbury"
     "Bradford Saturday (A)",
     "Bradford Saturday (B)",
 ]
@@ -79,5 +79,6 @@ traitorPlayers = {
     "Bradford Half Holiday": [],
     "Spen Valley": [],
     "Bradford Vets": [],
+    "Ossett and Horbury": [],
     "Bradford Saturday": [],
 }
