@@ -94,6 +94,6 @@ test.describe('Player summary stats', () => {
     test('Stats year dropdown appears if there are multiple years of stats available', async ({
         yearSelectPage,
     }) => {
-        await yearSelectPage.checkYearDropdownHasAllYearOptions(12);
+        await yearSelectPage.checkYearDropdownHasAllYearOptions(13);
     });
 });

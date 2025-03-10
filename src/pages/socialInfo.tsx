@@ -43,7 +43,7 @@ function SocialInfo() {
                     <li>A healthy low impact form of exercise</li>
                     <li>Improves mental health and general wellbeing</li>
                     <li>Exercises the mind with strategic thinking</li>
-                    <li>A great way to destress and relax</li>
+                    <li>A great way to de-stress and relax</li>
                     <li>An easy way to socialise and avoid isolation</li>
                     <li>Low cost and minimal equipment required</li>
                     <li>Most importantly, it's fun!</li>

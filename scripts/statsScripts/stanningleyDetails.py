@@ -48,7 +48,6 @@ players = [
     "dave eaton",
     "tracey marshall",
     "derek wilson",
-    "peter crowther",
     "laila packer",
     "paul leonard",
     "malvin miller",
@@ -65,7 +64,12 @@ players = [
     "nicola bona",
     "linda barrand",
     "phil thornton",
+    "bob marshall",
     "karen uttley",
+    "mary spears",
+    "louise roberts",
+    "eleanor graves",
+    "alex perry",
 ]
 
 # Players with different spellings of name (lowercase). Also need to add to deduplicateNames function
@@ -79,6 +83,7 @@ duplicatePlayerNames = [
     "phillip thornton",
     "philip thornton",
     "jim swales",
+    "elenor graves",
 ]
 
 
@@ -92,12 +97,13 @@ traitorPlayers = {
         "martin fulton",
         "duncan mcphail",
         "john armitage",
-        # TODO jim swailes? peter crowther?
+        "jim swailes",
     ],
     "Leeds Tuesday Vets": [],
-    "Leeds Tuesday": ["neil porter"],
+    "Leeds Tuesday": ["neil porter", "alex perry"],
     "Leeds Half Holiday": ["clifford brogie"],
     "AireWharfe Wednesday Pairs": [],
     "Leeds Thursday Vets": ["neil porter"],
-    "Leeds Saturday": ["clifford brogie", "neil porter"],
+    "Leeds Ladies": [],
+    "Leeds Saturday": ["clifford brogie", "neil porter", "alex perry"],
 }

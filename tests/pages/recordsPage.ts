@@ -33,9 +33,11 @@ export class RecordsPage {
     constructor(page: Page) {
         this.page = page;
 
-        this.noGamesMessage = page.getByText(
-            'Stanningley did not play on this day for the selected year'
-        );
+        this.noGamesMessage = page
+            .getByText(
+                'Stanningley did not play on this day for the selected year'
+            )
+            .first();
 
         this.mondayTeamRecords = page.locator(
             '#team-select-tabs-tabpane-mon .team-records'

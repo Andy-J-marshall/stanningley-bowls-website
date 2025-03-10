@@ -88,9 +88,10 @@ test.describe('Records', () => {
         teamTabsPage,
         yearSelectPage,
     }) => {
-        await yearSelectPage.selectYear(2023);
+        await yearSelectPage.selectYear(2024);
         await teamTabsPage.selectWedPairsTeamTab();
-
+        
+        await yearSelectPage.selectYear(2023);
         await expect(recordsPage.noGamesMessage).toBeVisible();
     });
 
@@ -99,6 +100,7 @@ test.describe('Records', () => {
         teamTabsPage,
         yearSelectPage,
     }) => {
+        await yearSelectPage.selectYear(2024);
         await teamTabsPage.selectMondayTeamTab();
 
         await yearSelectPage.selectYear(2018);
@@ -127,6 +129,6 @@ test.describe('Records', () => {
     test(`Records year dropdown appears if there are multiple years of records available`, async ({
         yearSelectPage,
     }) => {
-        await yearSelectPage.checkYearDropdownHasAllYearOptions(11);
+        await yearSelectPage.checkYearDropdownHasAllYearOptions(12);
     });
 });

@@ -38,6 +38,8 @@ def deduplicateNames(name):
         name = "phil thornton"
     if name == "jim swales":
         name = "jim swailes"
+    if name == "elenor graves":
+        name = "eleanor graves"
     return name
 
 
@@ -48,8 +50,11 @@ allLeagues = [
     "Leeds Half Holiday",
     "Leeds Thursday Vets",
     "Leeds Saturday",
+    "Leeds Ladies",
     "Mirfield",
     "Spen Valley",
+    "Ossett and Horbury",
+    "Tadcaster",
     "AireWharfe Monday",
     "AireWharfe Wednesday Pairs",
     "AireWharfe Vets",
@@ -62,11 +67,10 @@ allLeagues = [
 allClubs = [
     "stanningley",
     "pudsey",
-    "burley",
     "littlemoor",
     "farsley",
     "new wortley",
     "wibsey",
-    "bramley",
-    "new armley",
+    "holbeck",
+    "garforth",
 ]

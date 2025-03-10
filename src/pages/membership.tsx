@@ -55,8 +55,8 @@ function Membership() {
                 have bowls suitable for all adults and also children from
                 approx. 8 years old. Our members will be happy to show you how
                 to get started but we do not offer any official coaching or
-                lessons. It is a very simple sport to pick up once you know the
-                basics and you can become competent very quickly with regular
+                lessons. It is a simple sport to pick up once you know the
+                basics and you can become competent quickly with regular
                 practise.
             </p>
             <img style={{ width: '98%' }} src={socialBowlingImg}></img>
