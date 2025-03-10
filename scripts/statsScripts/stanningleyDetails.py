@@ -48,7 +48,6 @@ players = [
     "dave eaton",
     "tracey marshall",
     "derek wilson",
-    "peter crowther",
     "laila packer",
     "paul leonard",
     "malvin miller",
@@ -98,7 +97,7 @@ traitorPlayers = {
         "martin fulton",
         "duncan mcphail",
         "john armitage",
-        # TODO jim swailes? peter crowther?
+        "jim swailes",
     ],
     "Leeds Tuesday Vets": [],
     "Leeds Tuesday": ["neil porter", "alex perry"],
