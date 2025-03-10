@@ -3,6 +3,7 @@ import { Image } from 'react-bootstrap';
 import joeyLogoImg from '../images/supporters/joey.png';
 import vacShackImg from '../images/supporters/vac_shack_pudsey.png';
 import floorGuysImg from '../images/supporters/the_floor_guys.png';
+import leedsElectricalImg from '../images/supporters/leeds_electrical.png';
 import loveLeedsParksImg from '../images/supporters/love_leeds_parks.png';
 import heritageFundImg from '../images/supporters/heritage_fund.png';
 import easyFundraisingImg from '../images/supporters/easy_fundraising.png';
@@ -28,6 +29,23 @@ function Sponsors() {
                 </a>{' '}
                 for more information.
             </p>
+            <hr />
+
+            <h3>leeds electrical distribution</h3>
+            <p>
+                Leeds Electrical Distribution stock Commercial electrical
+                products and components with a vast range of cables and wiring
+                solutions to contractors, electricians, and businesses of all
+                sizes to meet their specific project requirements.
+            </p>
+            <a target="_blank" href="https://leedselectrical.com">
+                <Image
+                    className="sponsors-logos"
+                    rounded
+                    src={leedsElectricalImg}
+                    fluid
+                ></Image>
+            </a>
             <hr />
 
             <h3>joey sports massage therapy</h3>
