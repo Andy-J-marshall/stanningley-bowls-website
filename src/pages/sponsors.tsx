@@ -25,7 +25,7 @@ function Sponsors() {
             <h1>sponsors</h1>
             <p>
                 If you are interested in a sponsorship package, please{' '}
-                <a className="link" href={emailUrl}>
+                <a className="link" href="/#/contact">
                     contact us
                 </a>{' '}
                 for more information.
@@ -34,10 +34,17 @@ function Sponsors() {
 
             <h3>leeds electrical distribution</h3>
             <p>
-                Leeds Electrical Distribution stock Commercial electrical
-                products and components with a vast range of cables and wiring
-                solutions to contractors, electricians, and businesses of all
-                sizes to meet their specific project requirements.
+                <a
+                    className="link"
+                    target="_blank"
+                    href="https://leedselectrical.com"
+                >
+                    Leeds Electrical Distribution
+                </a>{' '}
+                stock Commercial electrical products and components with a vast
+                range of cables and wiring solutions to contractors,
+                electricians, and businesses of all sizes to meet their specific
+                project requirements.
             </p>
             <a target="_blank" href="https://leedselectrical.com">
                 <Image
@@ -51,7 +58,14 @@ function Sponsors() {
 
             <h3>howden insurance</h3>
             <p>
-                Howden do insurance differently. They're not about cookie-cutter,
+                <a
+                    className="link"
+                    target="_blank"
+                    href="https://www.howdeninsurance.co.uk"
+                >
+                    Howden
+                </a>{' '}
+                do insurance differently. They're not about cookie-cutter,
                 off-the-shelf, one-size-fits-all insurance. They do people-first
                 insurance, understanding the specifics of your insurance needs
                 and match them with the insurer that's best placed to provide
@@ -72,7 +86,15 @@ function Sponsors() {
             <p>
                 If you're suffering due to a sports injury, or your body just
                 needs a little TLC, then it's time to get in touch with the team
-                at Joey Sports Massage Therapy.
+                at{' '}
+                <a
+                    className="link"
+                    target="_blank"
+                    href="https://www.joeysportsmassage.co.uk"
+                >
+                    Joey Sports Massage Therapy
+                </a>
+                .
             </p>
             <a target="_blank" href="https://www.joeysportsmassage.co.uk">
                 <Image
@@ -86,9 +108,16 @@ function Sponsors() {
 
             <h3>vac shack</h3>
             <p>
-                Vac Shack are dedicated to providing high class products and
-                after sale service, with 20 years experience supplying quality
-                appliances and our installation services.
+                <a
+                    className="link"
+                    target="_blank"
+                    href="http://www.vacshack.co.uk"
+                >
+                    Vac Shack
+                </a>{' '}
+                are dedicated to providing high class products and after sale
+                service, with 20 years experience supplying quality appliances
+                and our installation services.
             </p>
             <a target="_blank" href="http://www.vacshack.co.uk">
                 <Image
@@ -102,12 +131,18 @@ function Sponsors() {
 
             <h3>the floor guys</h3>
             <p>
-                The Floor Guys have a well earned name as leading flooring
-                installers; offering affordable, competitive and honest prices.
-                With the two owners having over 40 years experience in fitting,
-                they promise the journey from picking your new floor covering
-                all the way through to fitting and aftercare will be seamless
-                and worry free.
+                <a
+                    className="link"
+                    target="_blank"
+                    href="https://www.thefloorguys.net"
+                >
+                    The Floor Guys
+                </a>{' '}
+                have a well earned name as leading flooring installers; offering
+                affordable, competitive and honest prices. With the two owners
+                having over 40 years experience in fitting, they promise the
+                journey from picking your new floor covering all the way through
+                to fitting and aftercare will be seamless and worry free.
             </p>
             <a target="_blank" href="https://www.thefloorguys.net">
                 <Image
@@ -146,7 +181,16 @@ function Sponsors() {
 
             <h3>easy fundraising</h3>
             <p>
-                You can support the club by shopping through Easy Fundraising.
+                You can support the club by doing your online shopping through{' '}
+                <a
+                    className="link"
+                    target="_blank"
+                    href="https://www.easyfundraising.org.uk/support-a-good-cause/step-1/?char=362452&invite=7sk19t&referral-campaign=s2s&utm_campaign=web-referral"
+                >
+                    Easy Fundraising
+                </a>
+                . The club will gain cashback for every purchase you make at no
+                extra cost to you.
             </p>
             <a
                 target="_blank"
