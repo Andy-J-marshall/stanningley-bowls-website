@@ -5,6 +5,7 @@ import vacShackImg from '../../images/supporters/vac_shack_pudsey.png';
 import laneEndImg from '../../images/supporters/lane_end_garages.png';
 import floorGuysImg from '../../images/supporters/the_floor_guys.png';
 import leedsElectricalImg from '../../images/supporters/leeds_electrical.png';
+import howdenInsuranceImg from '../../images/supporters/howden_insurance.png';
 
 function Supporters() {
     return (
@@ -52,14 +53,18 @@ function Supporters() {
                     alt="support-logo4"
                 />
             </a>
-            <a
-                target="_blank"
-                href="https://leedselectrical.com"
-            >
+            <a target="_blank" href="https://leedselectrical.com">
                 <img
                     className="supporters-logos"
                     src={leedsElectricalImg}
                     alt="support-logo7"
+                />
+            </a>
+            <a target="_blank" href="https://www.howdeninsurance.co.uk">
+                <img
+                    className="supporters-logos"
+                    src={howdenInsuranceImg}
+                    alt="support-logo6"
                 />
             </a>
         </div>

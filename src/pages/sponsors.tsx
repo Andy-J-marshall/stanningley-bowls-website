@@ -7,6 +7,7 @@ import leedsElectricalImg from '../images/supporters/leeds_electrical.png';
 import loveLeedsParksImg from '../images/supporters/love_leeds_parks.png';
 import heritageFundImg from '../images/supporters/heritage_fund.png';
 import easyFundraisingImg from '../images/supporters/easy_fundraising.png';
+import howdenInsuranceImg from '../images/supporters/howden_insurance.png';
 import { config } from '../config';
 
 const { emailUrl } = config.socialLinks;
@@ -43,6 +44,25 @@ function Sponsors() {
                     className="sponsors-logos"
                     rounded
                     src={leedsElectricalImg}
+                    fluid
+                ></Image>
+            </a>
+            <hr />
+
+            <h3>howden insurance</h3>
+            <p>
+                Howden do insurance differently. They're not about cookie-cutter,
+                off-the-shelf, one-size-fits-all insurance. They do people-first
+                insurance, understanding the specifics of your insurance needs
+                and match them with the insurer that's best placed to provide
+                that cover, at the right price. Personal, tailored, great value
+                cover.
+            </p>
+            <a target="_blank" href="https://www.howdeninsurance.co.uk">
+                <Image
+                    className="sponsors-logos"
+                    rounded
+                    src={howdenInsuranceImg}
                     fluid
                 ></Image>
             </a>
