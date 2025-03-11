@@ -10,7 +10,7 @@ import easyFundraisingImg from '../images/supporters/easy_fundraising.png';
 import howdenInsuranceImg from '../images/supporters/howden_insurance.png';
 import { config } from '../config';
 
-const { emailUrl } = config.socialLinks;
+const { fullName } = config.teamNames;
 
 function Sponsors() {
     useEffect(() => {
@@ -71,6 +71,10 @@ function Sponsors() {
                 and match them with the insurer that's best placed to provide
                 that cover, at the right price. Personal, tailored, great value
                 cover.
+            </p>
+            <p>
+                If you need an insurance quote, phone the Harrogate branch on
+                01423 647 220 and mention {fullName}.
             </p>
             <a target="_blank" href="https://www.howdeninsurance.co.uk">
                 <Image
