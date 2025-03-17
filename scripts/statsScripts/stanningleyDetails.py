@@ -69,7 +69,6 @@ players = [
     "mary spears",
     "louise roberts",
     "eleanor graves",
-    "alex perry",
 ]
 
 # Players with different spellings of name (lowercase). Also need to add to deduplicateNames function
@@ -100,10 +99,10 @@ traitorPlayers = {
         "jim swailes",
     ],
     "Leeds Tuesday Vets": [],
-    "Leeds Tuesday": ["neil porter", "alex perry"],
+    "Leeds Tuesday": ["neil porter"],
     "Leeds Half Holiday": ["clifford brogie"],
     "AireWharfe Wednesday Pairs": [],
     "Leeds Thursday Vets": ["neil porter"],
     "Leeds Ladies": [],
-    "Leeds Saturday": ["clifford brogie", "neil porter", "alex perry"],
+    "Leeds Saturday": ["clifford brogie", "neil porter"],
 }

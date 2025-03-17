@@ -71,6 +71,5 @@ allClubs = [
     "farsley",
     "new wortley",
     "wibsey",
-    "holbeck",
     "garforth",
 ]
