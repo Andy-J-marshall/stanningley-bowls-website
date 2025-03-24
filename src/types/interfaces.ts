@@ -254,12 +254,17 @@ export interface WrapperProps {
     children: React.ReactNode;
 }
 
-export type NewsItemProps = {
+export interface NewsItemProps {
     title: string;
-    openingLine: string;
-    mainText?: string;
     imgSrc: string;
-};
+    expanded: boolean;
+    openingText: string;
+    mainText: string;
+    closingText?: string;
+    link?: string;
+    linkText?: string;
+    callback: () => void;
+}
 
 export interface orderByButtonProps {
     name: string;
