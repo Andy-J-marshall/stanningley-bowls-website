@@ -243,6 +243,239 @@
                 "aggDiff": 29
             }
         },
+        "john armitage": {
+            "totalAgg": 918,
+            "totalAggAgainst": 766,
+            "availableAgg": 1050,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 546,
+            "availableAwayAgg": 504,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 501,
+            "totalHomeAggAgainst": 328,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 417,
+            "totalAwayAggAgainst": 438,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 20,
+            "homeLosses": 6,
+            "awayWins": 11,
+            "awayLosses": 13,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 50,
+            "results": [
+                "john armitage 21 - 10 thomas morris",
+                "john armitage 21 - 8 ian haigh",
+                "john armitage 13 - 21 dave fox",
+                "john armitage 21 - 9 lewis cooper",
+                "john armitage 21 - 15 paul rooks",
+                "john armitage 21 - 15 scott tattersley",
+                "john armitage 21 - 12 james payne",
+                "john armitage 8 - 21 mark brain",
+                "john armitage 16 - 21 mark atkinson",
+                "john armitage 10 - 21 andy hodgson",
+                "john armitage 21 - 7 gary foulkes",
+                "john armitage 16 - 21 shaun kelly",
+                "john armitage 21 - 16 will gilroy",
+                "john armitage 10 - 21 tony throup",
+                "john armitage 21 - 14 josh dunford",
+                "john armitage 21 - 16 nathan webster",
+                "john armitage 15 - 21 wayne moseley",
+                "john armitage 21 - 9 martin peacock",
+                "john armitage 14 - 21 karen hill",
+                "john armitage 21 - 1 janice naylor",
+                "john armitage 21 - 11 martin laycock",
+                "john armitage 21 - 15 rachel telford",
+                "john armitage 19 - 21 mick rennison",
+                "john armitage 14 - 21 stuart wilson",
+                "john armitage 12 - 21 dave upton",
+                "john armitage 11 - 21 neil nicholson",
+                "john armitage 18 - 21 tony naylor",
+                "john armitage 19 - 21 mark thompson",
+                "john armitage 21 - 6 john sample",
+                "john armitage 21 - 16 steve briggs",
+                "john armitage 21 - 3 bob jeffries",
+                "john armitage 21 - 10 andy hodgson",
+                "john armitage 18 - 21 neil nicholson",
+                "john armitage 15 - 21 malcolm iles",
+                "john armitage 21 - 20 robert holmes",
+                "john armitage 21 - 9 graeme dytiche",
+                "john armitage 11 - 21 richard hobson",
+                "john armitage 21 - 7 mark reynolds",
+                "john armitage 21 - 6 terry kelly",
+                "john armitage 21 - 20 jon wood",
+                "john armitage 21 - 8 mick duke",
+                "john armitage 21 - 9 thomas hanson",
+                "john armitage 21 - 14 jordan brown",
+                "john armitage 21 - 12 steve wilkinson",
+                "john armitage 21 - 15 richard hobson",
+                "john armitage 21 - 19 mark reynolds",
+                "john armitage 21 - 19 terry kelly",
+                "john armitage 13 - 21 philip dowgill",
+                "john armitage 21 - 16 david cooper",
+                "john armitage 15 - 21 gary wike"
+            ],
+            "bradford monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield": {
+                "games": 17,
+                "wins": 10,
+                "aggDiff": 29
+            },
+            "mirfield (b)": {
+                "games": 1,
+                "wins": 1,
+                "aggDiff": 12
+            },
+            "spen valley": {
+                "games": 15,
+                "wins": 7,
+                "aggDiff": 42
+            },
+            "spen valley (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday": {
+                "games": 17,
+                "wins": 13,
+                "aggDiff": 69
+            },
+            "bradford saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "neil porter": {
+            "totalAgg": 331,
+            "totalAggAgainst": 308,
+            "availableAgg": 399,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 252,
+            "availableAwayAgg": 147,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 229,
+            "totalHomeAggAgainst": 179,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 102,
+            "totalAwayAggAgainst": 129,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 9,
+            "homeLosses": 3,
+            "awayWins": 2,
+            "awayLosses": 5,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 19,
+            "results": [
+                "neil porter 20 - 21 barry tinker",
+                "neil porter 21 - 10 jake dearden",
+                "neil porter 21 - 20 richard bentley",
+                "neil porter 11 - 21 c heaton",
+                "neil porter 21 - 18 robert dickinson",
+                "neil porter 9 - 21 steve gledhill",
+                "neil porter 21 - 11 david peacock",
+                "neil porter 11 - 21 scott fisher",
+                "neil porter 9 - 21 stephen walker",
+                "neil porter 21 - 13 graham oliver",
+                "neil porter 21 - 12 graham hall",
+                "neil porter 21 - 10 tony quinn",
+                "neil porter 8 - 21 nigel cranston",
+                "neil porter 19 - 21 peter mcgowan",
+                "neil porter 21 - 18 wally whytell",
+                "neil porter 21 - 14 phillip rayner",
+                "neil porter 21 - 8 peter oliver",
+                "neil porter 21 - 6 nick crowther",
+                "neil porter 13 - 21 chris wood"
+            ],
+            "bradford monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield (b)": {
+                "games": 9,
+                "wins": 4,
+                "aggDiff": -20
+            },
+            "spen valley": {
+                "games": 1,
+                "wins": 1,
+                "aggDiff": 8
+            },
+            "spen valley (b)": {
+                "games": 2,
+                "wins": 2,
+                "aggDiff": 20
+            },
+            "bradford vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday": {
+                "games": 1,
+                "wins": 0,
+                "aggDiff": -13
+            },
+            "bradford saturday (b)": {
+                "games": 6,
+                "wins": 4,
+                "aggDiff": 28
+            }
+        },
         "paul bowes": {
             "totalAgg": 573,
             "totalAggAgainst": 511,
