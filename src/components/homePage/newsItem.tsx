@@ -8,7 +8,7 @@ function NewsItem(props: NewsItemProps) {
     const openingText = props.openingText;
     const mainText = props.mainText;
     const closingText = props.closingText;
-    const link = props.link;
+    const linkUrl = props.linkUrl;
     const linkText = props.linkText;
     const callback = props.callback;
 
@@ -46,7 +46,7 @@ function NewsItem(props: NewsItemProps) {
                             >
                                 <a
                                     className="carousel-link"
-                                    href={link}
+                                    href={linkUrl}
                                     target="_blank"
                                 >
                                     {linkText}

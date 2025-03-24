@@ -38,7 +38,7 @@ function News() {
                         openingText="Stanningley has signed up to EasyFundraising to raise money for the club."
                         mainText="We will earn commission for everything you purchase online if you shop via the EasyFundraising app, and it won't cost you anything. Please sign up by clicking the below link."
                         linkText="Sign up"
-                        link="https://www.easyfundraising.org.uk/support-a-good-cause/step-1/?char=370321&invite=7sk19t&referral-campaign=c2s&utm_campaign=web-referral"
+                        linkUrl="https://www.easyfundraising.org.uk/support-a-good-cause/step-1/?char=370321&invite=7sk19t&referral-campaign=c2s&utm_campaign=web-referral"
                         imgSrc={fundraisingImg}
                         callback={handleNewsExpand1}
                         expanded={expandNews1}

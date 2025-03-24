@@ -261,7 +261,7 @@ export interface NewsItemProps {
     openingText: string;
     mainText: string;
     closingText?: string;
-    link?: string;
+    linkUrl?: string;
     linkText?: string;
     callback: () => void;
 }
