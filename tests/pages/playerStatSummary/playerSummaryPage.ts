@@ -15,7 +15,7 @@ export class PlayerSummaryPage {
         this.page = page;
 
         this.playerRows = page.locator('#player-stats-per-team tbody');
-        this.noGamesMessage = page.getByText('no player stats found');
+        this.noGamesMessage = page.getByText('no stats found for the selected year');
 
         this.games = page.locator('#steve-gardner-games');
         this.wins = page.locator('#steve-gardner-wins');

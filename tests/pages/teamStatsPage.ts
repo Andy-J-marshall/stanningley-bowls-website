@@ -50,7 +50,7 @@ export class TeamStatsPage {
             )
             .first();
         this.noStatsMessage = page.getByText(
-            'No team stats available for the selected year'
+            'No stats available for the selected year'
         );
 
         this.mondayTeamStats = page.locator(
