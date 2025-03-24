@@ -72,7 +72,7 @@ test.describe('Player stats - Other Clubs', () => {
         await yearSelectPage.selectYear(2014);
         await playerStatOptionsPage.selectTeamFromDropdown('Mirfield (B)');
 
-        await expect(playerSummaryPage.playerRows).toHaveCount(1);
+        await expect(playerSummaryPage.playerRows).toHaveCount(3);
         await playerSummaryPage.validateSummaryStats(14, 9, 64, 2.07);
     });
 
@@ -137,7 +137,7 @@ test.describe('Player stats - Other Clubs', () => {
         await expect(playerSummaryPage.playerRows).toHaveCount(32);
 
         await playerStatOptionsPage.selectClubFromDropdown('Littlemoor');
-        await expect(playerSummaryPage.playerRows).toHaveCount(5);
+        await expect(playerSummaryPage.playerRows).toHaveCount(6);
 
         await playerStatOptionsPage.selectClubFromDropdown('Stanningley');
         await expect(playerSummaryPage.playerRows).toHaveCount(32);
@@ -155,7 +155,7 @@ test.describe('Player stats - Other Clubs', () => {
         await expect(playerSummaryPage.playerRows).toHaveCount(9);
 
         await playerStatOptionsPage.selectClubFromDropdown('Littlemoor');
-        await expect(playerSummaryPage.playerRows).toHaveCount(0);
+        await expect(playerSummaryPage.playerRows).toHaveCount(1);
 
         await playerStatOptionsPage.selectClubFromDropdown('Pudsey');
         await expect(playerSummaryPage.playerRows).toHaveCount(1);
@@ -167,6 +167,6 @@ test.describe('Player stats - Other Clubs', () => {
         await expect(playerSummaryPage.playerRows).toHaveCount(15);
 
         await playerStatOptionsPage.selectClubFromDropdown('Littlemoor');
-        await expect(playerSummaryPage.playerRows).toHaveCount(0);
+        await expect(playerSummaryPage.playerRows).toHaveCount(1);
     });
 });
