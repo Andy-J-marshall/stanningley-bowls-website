@@ -63,12 +63,13 @@ players = [
     "rob packer",
     "nicola bona",
     "linda barrand",
-    "phil thornton",
     "bob marshall",
     "karen uttley",
     "mary spears",
     "louise roberts",
     "eleanor graves",
+    "kate hall",
+    "sarah connolly",
 ]
 
 # Players with different spellings of name (lowercase). Also need to add to deduplicateNames function
@@ -89,7 +90,6 @@ duplicatePlayerNames = [
 # Add players who play for other teams in leagues the team player in (lowercase)
 traitorPlayers = {
     "AireWharfe Monday": [
-        "phil thornton",
         "jim moorin",
         "stewart watson",
         "richard hodgson",

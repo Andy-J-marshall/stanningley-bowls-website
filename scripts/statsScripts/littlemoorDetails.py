@@ -45,12 +45,10 @@ teamsWithWithDifferentNumberOfPlayersToLeagueNorm = []
 # Every player (lowercase)
 players = [
     "alyssa randell",
-    "stuart potter",
     "andrew marshall",
     "stewart watson",
     "paul bowes",
     "martin fulton",
-    "phil thornton",
     "john armitage",
     "jim moorin",
 ]
@@ -72,7 +70,6 @@ traitorPlayers = {
         "stewart watson",
         "andrew marshall",
         "alyssa randell",
-        "stuart potter",
         "paul bowes",
     ],
     "Mirfield": ["stewart watson"],
