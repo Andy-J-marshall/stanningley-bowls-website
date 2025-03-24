@@ -240,6 +240,114 @@
                 "aggDiff": 0
             }
         },
+        "martin fulton": {
+            "totalAgg": 590,
+            "totalAggAgainst": 436,
+            "availableAgg": 651,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 315,
+            "availableAwayAgg": 336,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 298,
+            "totalHomeAggAgainst": 186,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 292,
+            "totalAwayAggAgainst": 250,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 13,
+            "homeLosses": 2,
+            "awayWins": 10,
+            "awayLosses": 6,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 31,
+            "results": [
+                "martin fulton 21 - 10 doug hamilton",
+                "martin fulton 21 - 10 john smith",
+                "martin fulton 12 - 21 john spinks",
+                "martin fulton 21 - 11 d smith",
+                "martin fulton 13 - 21 joel abdy",
+                "martin fulton 12 - 21 robert maude",
+                "martin fulton 21 - 18 alan hardcastle",
+                "martin fulton 21 - 3 derek hawes",
+                "martin fulton 20 - 21 phil hill",
+                "martin fulton 21 - 19 alan peacock",
+                "martin fulton 21 - 15 john smith",
+                "martin fulton 21 - 13 ian kemp",
+                "martin fulton 16 - 21 m g sykes",
+                "martin fulton 13 - 21 rob craven",
+                "martin fulton 21 - 11 adrian cooper",
+                "martin fulton 21 - 12 michael white",
+                "martin fulton 5 - 21 danny revell",
+                "martin fulton 21 - 20 phil hill",
+                "martin fulton 21 - 5 ralph sissons",
+                "martin fulton 21 - 14 john arundel",
+                "martin fulton 21 - 16 john butterworth",
+                "martin fulton 21 - 8 david hodgson (a)",
+                "martin fulton 21 - 8 ray charles",
+                "martin fulton 21 - 8 roger stopford",
+                "martin fulton 21 - 8 alan readyhough",
+                "martin fulton 21 - 12 gary dixon",
+                "martin fulton 21 - 13 robert firth",
+                "martin fulton 21 - 10 peter finnie",
+                "martin fulton 21 - 7 jordan brown (a)",
+                "martin fulton 21 - 17 john butterworth",
+                "martin fulton 16 - 21 walter stockhill"
+            ],
+            "bradford monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield (b)": {
+                "games": 18,
+                "wins": 11,
+                "aggDiff": 33
+            },
+            "bradford half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford half holiday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday": {
+                "games": 2,
+                "wins": 2,
+                "aggDiff": 23
+            },
+            "bradford saturday (b)": {
+                "games": 11,
+                "wins": 10,
+                "aggDiff": 98
+            }
+        },
         "steve gardner": {
             "totalAgg": 255,
             "totalAggAgainst": 226,

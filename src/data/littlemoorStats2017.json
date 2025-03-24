@@ -375,6 +375,104 @@
                 "aggDiff": 0
             }
         },
+        "martin fulton": {
+            "totalAgg": 270,
+            "totalAggAgainst": 264,
+            "availableAgg": 336,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 189,
+            "availableAwayAgg": 147,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 158,
+            "totalHomeAggAgainst": 133,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 112,
+            "totalAwayAggAgainst": 131,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 5,
+            "homeLosses": 4,
+            "awayWins": 3,
+            "awayLosses": 4,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 16,
+            "results": [
+                "martin fulton 11 - 21 dave upton",
+                "martin fulton 12 - 21 tom marsland",
+                "martin fulton 9 - 21 tom marsland",
+                "martin fulton 6 - 21 j metcalf",
+                "martin fulton 21 - 14 michael rhodes",
+                "martin fulton 11 - 21 colin scorah",
+                "martin fulton 21 - 16 jeremy talbot",
+                "martin fulton 21 - 6 simon rothwell",
+                "martin fulton 21 - 19 richard taylor",
+                "martin fulton 18 - 21 daniel bousfield",
+                "martin fulton 21 - 12 graham tandy",
+                "martin fulton 21 - 5 james makepeace",
+                "martin fulton 21 - 17 graham blenkinsop",
+                "martin fulton 21 - 7 callum wadsworth",
+                "martin fulton 18 - 21 daniel bousfield",
+                "martin fulton 17 - 21 steven gilroy"
+            ],
+            "bradford monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield": {
+                "games": 4,
+                "wins": 0,
+                "aggDiff": -46
+            },
+            "mirfield (b)": {
+                "games": 11,
+                "wins": 8,
+                "aggDiff": 56
+            },
+            "spen valley": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday": {
+                "games": 1,
+                "wins": 0,
+                "aggDiff": -4
+            },
+            "bradford saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
         "neil porter": {
             "totalAgg": 331,
             "totalAggAgainst": 308,

@@ -395,6 +395,114 @@
                 "aggDiff": 13
             }
         },
+        "martin fulton": {
+            "totalAgg": 374,
+            "totalAggAgainst": 358,
+            "availableAgg": 441,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 210,
+            "availableAwayAgg": 231,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 191,
+            "totalHomeAggAgainst": 147,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 183,
+            "totalAwayAggAgainst": 211,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 6,
+            "homeLosses": 4,
+            "awayWins": 3,
+            "awayLosses": 8,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 21,
+            "results": [
+                "martin fulton 21 - 13 andrew heaume",
+                "martin fulton 21 - 14 ernie wearing",
+                "martin fulton 21 - 12 rob carroll",
+                "martin fulton 9 - 21 jack dyson",
+                "martin fulton 14 - 21 steve gilroy",
+                "martin fulton 21 - 5 ryan lysons",
+                "martin fulton 14 - 21 wayne ditchfield",
+                "martin fulton 18 - 21 mark booth",
+                "martin fulton 20 - 21 regan mark",
+                "martin fulton 21 - 20 tommy boyd snr",
+                "martin fulton 12 - 21 paul ingleby",
+                "martin fulton 21 - 11 andy spragg",
+                "martin fulton 21 - 15 adam graham",
+                "martin fulton 21 - 7 anton haigh",
+                "martin fulton 20 - 21 brian holdsworth",
+                "martin fulton 12 - 21 james senior",
+                "martin fulton 19 - 21 david southwell",
+                "martin fulton 14 - 21 sally turner",
+                "martin fulton 17 - 21 philip dowgill",
+                "martin fulton 21 - 9 james senior",
+                "martin fulton 16 - 21 paul warwick"
+            ],
+            "bradford monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield": {
+                "games": 12,
+                "wins": 6,
+                "aggDiff": 12
+            },
+            "mirfield (b)": {
+                "games": 3,
+                "wins": 2,
+                "aggDiff": 19
+            },
+            "bradford half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday": {
+                "games": 5,
+                "wins": 1,
+                "aggDiff": -10
+            },
+            "bradford saturday (b)": {
+                "games": 1,
+                "wins": 0,
+                "aggDiff": -5
+            }
+        },
         "neil porter": {
             "totalAgg": 115,
             "totalAggAgainst": 84,

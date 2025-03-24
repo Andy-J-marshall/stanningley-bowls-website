@@ -187,6 +187,89 @@
                 "wins": 1,
                 "aggDiff": 4
             }
+        },
+        "martin fulton": {
+            "totalAgg": 216,
+            "totalAggAgainst": 194,
+            "availableAgg": 231,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 126,
+            "availableAwayAgg": 105,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 121,
+            "totalHomeAggAgainst": 103,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 95,
+            "totalAwayAggAgainst": 91,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 3,
+            "homeLosses": 3,
+            "awayWins": 2,
+            "awayLosses": 3,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 11,
+            "results": [
+                "martin fulton 21 - 15 mark mcgorlick",
+                "martin fulton 21 - 8 graham roberts",
+                "martin fulton 21 - 7 matthew jacques",
+                "martin fulton 19 - 21 peter wilcox",
+                "martin fulton 15 - 21 andrew heenan",
+                "martin fulton 19 - 21 richard bloodworth (a)",
+                "martin fulton 19 - 21 keith hall (b)",
+                "martin fulton 21 - 18 steve wilkinson",
+                "martin fulton 19 - 21 alan bray",
+                "martin fulton 21 - 20 kieren smith",
+                "martin fulton 20 - 21 jack summers"
+            ],
+            "bradford monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday": {
+                "games": 11,
+                "wins": 5,
+                "aggDiff": 22
+            },
+            "bradford saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
         }
     },
     "teamResults": [

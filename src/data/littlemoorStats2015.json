@@ -412,6 +412,119 @@
                 "aggDiff": 0
             }
         },
+        "martin fulton": {
+            "totalAgg": 384,
+            "totalAggAgainst": 337,
+            "availableAgg": 441,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 231,
+            "availableAwayAgg": 210,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 218,
+            "totalHomeAggAgainst": 156,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 166,
+            "totalAwayAggAgainst": 181,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 9,
+            "homeLosses": 2,
+            "awayWins": 4,
+            "awayLosses": 6,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 21,
+            "results": [
+                "martin fulton 21 - 8 glen mcafferty",
+                "martin fulton 21 - 19 liam fallas",
+                "martin fulton 13 - 21 dave fox",
+                "martin fulton 8 - 21 kristian shuttleworth",
+                "martin fulton 21 - 19 ernie wearing",
+                "martin fulton 21 - 14 andy mitchell",
+                "martin fulton 21 - 17 dean scarth",
+                "martin fulton 16 - 21 colin haywood",
+                "martin fulton 21 - 10 peter clarke",
+                "martin fulton 16 - 21 ian shuttleworth",
+                "martin fulton 18 - 21 ernie wearing",
+                "martin fulton 21 - 15 peter senior",
+                "martin fulton 17 - 21 dean scarth",
+                "martin fulton 21 - 17 colin haywood",
+                "martin fulton 21 - 12 iain grant",
+                "martin fulton 21 - 5 danny revell",
+                "martin fulton 18 - 21 john packer",
+                "martin fulton 21 - 10 david jacques",
+                "martin fulton 21 - 17 nichole farrar",
+                "martin fulton 21 - 6 tony riley",
+                "martin fulton 5 - 21 james wilcox"
+            ],
+            "bradford monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield": {
+                "games": 14,
+                "wins": 8,
+                "aggDiff": 11
+            },
+            "mirfield (b)": {
+                "games": 2,
+                "wins": 2,
+                "aggDiff": 25
+            },
+            "bradford half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford half holiday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday": {
+                "games": 5,
+                "wins": 3,
+                "aggDiff": 11
+            },
+            "bradford saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
         "neil porter": {
             "totalAgg": 105,
             "totalAggAgainst": 62,
