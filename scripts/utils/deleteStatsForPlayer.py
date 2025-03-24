@@ -7,9 +7,9 @@ import json
 data_folder = "src/data"
 
 # Set the name of the property to delete
-playerNameToDelete = "phil thornton"
+playerNameToDelete = "peter crowther"
 # Set the years to exclude
-statYearsToKeep = ["2019", "2020"]
+statYearsToKeep = ["2023", "2024"]
 
 # Iterate through each file in the folder
 for filename in os.listdir(data_folder):

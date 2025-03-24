@@ -28,18 +28,18 @@ const allYearAllClubsStats: ClubStatsMap = statsData.allYearAllClubsStats;
 
 function App() {
     const [stanningleyStats, setStanningleyStats] = useState<FullStatsFile>(
-        statsData.allYearStanningleyStats.year2024
+        statsData.allYearStanningleyStats.year2025
     );
     const [littlemoorStats, setLittlemoorStats] = useState<FullStatsFile>(
-        statsData.allYearLittlemoorStats.year2024
+        statsData.allYearLittlemoorStats.year2025
     );
     const [pudseyStats, setPudseyStats] = useState<FullStatsFile>(
-        statsData.allYearPudseyStats.year2024
+        statsData.allYearPudseyStats.year2025
     );
     const [allClubsStats, setAllClubsStats] = useState<FullStatsFile>(
-        statsData.allYearAllClubsStats.year2024
+        statsData.allYearAllClubsStats.year2025
     );
-    const [yearToDisplay, setYearToDisplay] = useState('2024');
+    const [yearToDisplay, setYearToDisplay] = useState('2025');
 
     useEffect(() => {
         WebFont.load({

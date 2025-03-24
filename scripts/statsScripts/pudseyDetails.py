@@ -36,7 +36,6 @@ teamDays = [
     "Spen Valley (A)",
     "Spen Valley (B)",
     "Spen Valley (C)",
-    "Spen Valley (D)",
     "Bradford Vets (A)",
     "Bradford Vets (B)",
     "Bradford Saturday (A)",
@@ -47,16 +46,16 @@ teamDays = [
 # Some leagues have different number of players depending on the division. Make sure you match the team name exactly as it appears in teamDays
 teamsWithWithDifferentNumberOfPlayersToLeagueNorm = []
 
-
 # Every player (lowercase)
 players = [
     "richard hodgson",
     "stewart watson",
     "linda barrand",
+    "eleanor graves",
 ]
 
 # Players with different spellings of name (lowercase). Also need to add to deduplicateNames function
-duplicatePlayerNames = ["stuart watson"]
+duplicatePlayerNames = ["stuart watson", "elenor graves"]
 
 # Add players who play for other teams in leagues the team player in (lowercase)
 traitorPlayers = {

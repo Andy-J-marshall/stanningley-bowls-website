@@ -66,14 +66,14 @@ test.describe('Player stats - Other Clubs', () => {
         playerStatOptionsPage,
         yearSelectPage,
     }) => {
-        playerSummaryPage.setPlayerToFind('martin fulton');
+        playerSummaryPage.setPlayerToFind('steve gardner');
 
         await playerStatOptionsPage.selectClubFromDropdown('Littlemoor');
         await yearSelectPage.selectYear(2014);
         await playerStatOptionsPage.selectTeamFromDropdown('Mirfield (B)');
 
         await expect(playerSummaryPage.playerRows).toHaveCount(3);
-        await playerSummaryPage.validateSummaryStats(18, 11, 61, 1.83);
+        await playerSummaryPage.validateSummaryStats(14, 9, 64, 2.07);
     });
 
     test('Can filter venue stats in 2024', async ({
@@ -84,18 +84,18 @@ test.describe('Player stats - Other Clubs', () => {
         playerSummaryPage.setPlayerToFind('linda barrand');
 
         await playerStatOptionsPage.selectClubFromDropdown('Pudsey');
-        await yearSelectPage.selectYear(2023);
+        await yearSelectPage.selectYear(2024);
 
-        await playerSummaryPage.validateSummaryStats(22, 4, 18, -6.45);
+        await playerSummaryPage.validateSummaryStats(26, 4, 15, -8.35);
 
         await playerStatOptionsPage.selectCupOnlyRadio();
-        await playerSummaryPage.validateSummaryStats(1, 0, 0, -12.0);
+        await playerSummaryPage.validateSummaryStats(1, 0, 0, -16.0);
 
         await playerStatOptionsPage.selectHomeOnlyRadio();
-        await playerSummaryPage.validateSummaryStats(12, 2, 17, -7.08);
+        await playerSummaryPage.validateSummaryStats(12, 2, 17, -6.50);
 
         await playerStatOptionsPage.selectAwayOnlyRadio();
-        await playerSummaryPage.validateSummaryStats(9, 2, 22, -5.0);
+        await playerSummaryPage.validateSummaryStats(13, 2, 15, -9.46);
     });
 
     test('Can filter game type stats in 2023', async ({
@@ -137,7 +137,7 @@ test.describe('Player stats - Other Clubs', () => {
         await expect(playerSummaryPage.playerRows).toHaveCount(32);
 
         await playerStatOptionsPage.selectClubFromDropdown('Littlemoor');
-        await expect(playerSummaryPage.playerRows).toHaveCount(7);
+        await expect(playerSummaryPage.playerRows).toHaveCount(6);
 
         await playerStatOptionsPage.selectClubFromDropdown('Stanningley');
         await expect(playerSummaryPage.playerRows).toHaveCount(32);
@@ -148,25 +148,25 @@ test.describe('Player stats - Other Clubs', () => {
         playerStatOptionsPage,
         yearSelectPage,
     }) => {
-        await yearSelectPage.selectYear(2018);
+        await yearSelectPage.selectYear(2019);
         await playerStatOptionsPage.selectTeamFromDropdown(
             'Bradford Half Holiday'
         );
-        await expect(playerSummaryPage.playerRows).toHaveCount(8);
+        await expect(playerSummaryPage.playerRows).toHaveCount(9);
 
         await playerStatOptionsPage.selectClubFromDropdown('Littlemoor');
-        await expect(playerSummaryPage.playerRows).toHaveCount(2);
+        await expect(playerSummaryPage.playerRows).toHaveCount(1);
 
         await playerStatOptionsPage.selectClubFromDropdown('Pudsey');
-        await expect(playerSummaryPage.playerRows).toHaveCount(0);
+        await expect(playerSummaryPage.playerRows).toHaveCount(1);
 
         await playerStatOptionsPage.selectTeamFromDropdown('Bradford Saturday');
-        await expect(playerSummaryPage.playerRows).toHaveCount(1);
+        await expect(playerSummaryPage.playerRows).toHaveCount(2);
 
         await playerStatOptionsPage.selectClubFromDropdown('Stanningley');
         await expect(playerSummaryPage.playerRows).toHaveCount(15);
 
         await playerStatOptionsPage.selectClubFromDropdown('Littlemoor');
-        await expect(playerSummaryPage.playerRows).toHaveCount(2);
+        await expect(playerSummaryPage.playerRows).toHaveCount(1);
     });
 });

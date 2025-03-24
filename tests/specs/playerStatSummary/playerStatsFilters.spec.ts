@@ -136,16 +136,16 @@ test.describe('Player summary stats - filters', () => {
         playerSummaryPage.setPlayerToFind('neil porter');
 
         await playerStatOptionsPage.selectAllClubsFromDropdown();
-        await yearSelectPage.selectYear(2023);
+        await yearSelectPage.selectYear(2024);
 
         await playerStatOptionsPage.selectSinglesOnlyRadio();
-        await playerSummaryPage.validateSummaryStats(31, 20, 65, 4.74);
-
+        await playerSummaryPage.validateSummaryStats(77, 55, 71, 5.26);
+        
         await playerStatOptionsPage.selectAllGameTypesRadio();
-        await playerSummaryPage.validateSummaryStats(33, 22, 67, 5.03);
+        await playerSummaryPage.validateSummaryStats(78, 56, 72, 5.35);
 
         await playerStatOptionsPage.selectPairsOnlyRadio();
-        await playerSummaryPage.validateSummaryStats(2, 2, 100, 9.5);
+        await playerSummaryPage.validateSummaryStats(1, 1, 100, 12);
     });
 
     test('Summary of Bernie Miller stats since 2013 for all clubs and all years is correct', async ({

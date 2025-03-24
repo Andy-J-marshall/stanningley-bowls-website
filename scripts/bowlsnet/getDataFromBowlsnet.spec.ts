@@ -27,16 +27,16 @@ const leagues = [
         url: '/Leeds-Wed',
     },
     {
-        day: 'AireWharfe Wednesday Pairs',
-        url: '/AW-WedPairs',
-    },
-    {
         day: 'Leeds Thursday Vets',
         url: '/Leeds-ThuVets',
     },
     {
         day: 'Leeds Saturday',
         url: '/Leeds-Sat',
+    },
+    {
+        day: 'Leeds Ladies',
+        url: '/LeedsLadies',
     },
     {
         day: 'Mirfield',
@@ -47,8 +47,16 @@ const leagues = [
         url: '/WestRiding',
     },
     {
+        day: 'Ossett and Horbury',
+        url: '/Ossett',
+    },
+    {
         day: 'AireWharfe Monday',
         url: '/AW-Mon',
+    },
+    {
+        day: 'AireWharfe Wednesday Pairs',
+        url: '/AW-WedPairs',
     },
     {
         day: 'AireWharfe Vets',
@@ -70,22 +78,14 @@ const leagues = [
         day: 'Bradford Saturday',
         url: '/Bradford-Sat',
     },
+    {
+        day: 'Tadcaster',
+        url: '/Tadcaster',
+    },
     // Other leagues of interest
-    // {
-    //     day: 'Ossett Horbury',
-    //     url: '/Ossett',
-    // },
     // {
     //     day: 'North East Leeds Vets',
     //     url: '/NELeedsVets',
-    // },
-    // {
-    //     day: 'Tadcaster',
-    //     url: '/Tadcaster',
-    // },
-    // {
-    //     day: 'Leeds Ladies',
-    //     url: '/LeedsLadies',
     // },
     // {
     //     day: 'AireWharfe Saturday',

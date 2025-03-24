@@ -44,11 +44,13 @@ export class TeamStatsPage {
     constructor(page: Page) {
         this.page = page;
 
-        this.noGamesMessage = page.getByText(
-            'Stanningley did not play on this day for the selected year'
-        );
+        this.noGamesMessage = page
+            .getByText(
+                'Stanningley did not play on this day for the selected year'
+            )
+            .first();
         this.noStatsMessage = page.getByText(
-            'No team stats available for the selected year'
+            'No stats available for the selected year'
         );
 
         this.mondayTeamStats = page.locator(

@@ -33,6 +33,7 @@ teamDays = [
     "Spen Valley (A)",
     "Spen Valley (B)",
     "Bradford Vets",
+    "Ossett and Horbury"
     "Bradford Saturday (A)",
     "Bradford Saturday (B)",
 ]
@@ -44,32 +45,35 @@ teamsWithWithDifferentNumberOfPlayersToLeagueNorm = []
 # Every player (lowercase)
 players = [
     "alyssa randell",
-    "stuart potter",
     "andrew marshall",
     "stewart watson",
     "paul bowes",
     "martin fulton",
-    "phil thornton",
     "john armitage",
     "jim moorin",
 ]
+
 
 # Players with different spellings of name (lowercase). Also need to add to deduplicateNames function
 duplicatePlayerNames = [
     "stuart watson",
     "andy marshall",
     "james moorin",
-    "phillip thornton",
-    "philip thornton",
 ]
 
 
 # Add players who play for other teams in leagues the team player in (lowercase)
 traitorPlayers = {
-    "AireWharfe Monday": ["stewart watson"],
+    "AireWharfe Monday": [
+        "stewart watson",
+        "andrew marshall",
+        "alyssa randell",
+        "paul bowes",
+    ],
     "Mirfield": ["stewart watson"],
     "Bradford Half Holiday": [],
     "Spen Valley": [],
     "Bradford Vets": [],
+    "Ossett and Horbury": [],
     "Bradford Saturday": [],
 }

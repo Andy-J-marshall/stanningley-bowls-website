@@ -96,7 +96,7 @@ function TeamStats(props: TeamStatsProps) {
         return (
             <div className="center" style={{ width: '95%' }}>
                 <h1>team stats</h1>
-                <p>No team stats available for the selected year</p>
+                <p>No stats available for the selected year</p>
             </div>
         );
     }
