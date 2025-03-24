@@ -59,8 +59,6 @@ duplicatePlayerNames = [
     "stuart watson",
     "andy marshall",
     "james moorin",
-    "phillip thornton",
-    "philip thornton",
 ]
 
 
