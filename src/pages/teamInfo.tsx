@@ -13,46 +13,55 @@ import wedPairsImg from '../images/teams/airewharfe_wednesday.png';
 const teams = [
     {
         name: 'AireWharfe Monday',
+        captain: 'Stuart Potter',
         link: 'https://bowlsnet.uk/AW-Mon',
         img: monImg,
     },
     {
         name: 'Leeds Tuesday Vets',
+        captain: 'Andy Waller',
         link: 'https://bowlsnet.uk/Leeds-TueVets',
         img: tuesVetsImg,
     },
     {
         name: 'Leeds Tuesday',
+        captain: 'Andrew Marshall',
         link: 'https://bowlsnet.uk/Leeds-Tue',
         img: tuesImg,
     },
     {
         name: 'Leeds Half Holiday',
+        captain: 'Andy Waller',
         link: 'https://bowlsnet.uk/Leeds-Wed',
         img: wedImg,
     },
     {
         name: 'AireWharfe Wednesday Pairs',
+        captain: 'Laila Packer',
         link: 'https://bowlsnet.uk/AW-WedPairs',
         img: wedPairsImg,
     },
     {
         name: 'Leeds Thursday Vets',
+        captain: 'Derek Wilson',
         link: 'https://bowlsnet.uk/Leeds-ThuVets',
         img: thurVetsImg,
     },
     {
         name: 'Leeds Ladies',
+        captain: 'Nicola Bona',
         link: 'https://bowlsnet.uk/LeedsLadies',
         img: ladiesImg,
     },
     {
         name: 'Leeds Saturday A',
+        captain: 'Paul Bowes',
         link: 'https://bowlsnet.uk/Leeds-Sat',
         img: satAImg,
     },
     {
         name: 'Leeds Saturday B',
+        captain: 'Derek Wilson',
         link: 'https://bowlsnet.uk/Leeds-Sat',
         img: satBImg,
     },
@@ -77,6 +86,7 @@ function TeamInfo() {
                             />
                             <Card.Body>
                                 <Card.Title>{team.name}</Card.Title>
+                                <Card.Text>Captain: {team.captain}</Card.Text>
                                 <Button
                                     style={{ backgroundColor: '#0081a4' }}
                                     href={team.link}
