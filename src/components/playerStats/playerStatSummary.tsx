@@ -226,7 +226,7 @@ function PlayerStatSummary(props: PlayerStatSummaryProps) {
         const playerCount = statsToUse.filter((p) => p.games > 0).length;
 
         if (playerCount === 0) {
-            return <h4>no stats available for the selected year</h4>;
+            return <p>No stats available for the selected year</p>;
         } else {
             return (
                 <Table id="player-stats-per-team" striped bordered hover>
