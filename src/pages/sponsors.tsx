@@ -8,6 +8,7 @@ import loveLeedsParksImg from '../images/supporters/love_leeds_parks.png';
 import heritageFundImg from '../images/supporters/heritage_fund.png';
 import easyFundraisingImg from '../images/supporters/easy_fundraising.png';
 import howdenInsuranceImg from '../images/supporters/howden_insurance.png';
+import howdensImg from '../images/supporters/howdens.png';
 import { config } from '../config';
 
 const { fullName } = config.teamNames;
@@ -105,6 +106,35 @@ function Sponsors() {
                     className="sponsors-logos"
                     rounded
                     src={joeyLogoImg}
+                    fluid
+                ></Image>
+            </a>
+            <hr />
+
+            <h3>howdens stanningley</h3>
+            <p>
+                <a
+                    className="link"
+                    target="_blank"
+                    href="https://www.howdens.com/find-a-depot/stanningley"
+                >
+                    Howdens Stanningley
+                </a>{' '}
+                has an excellent reputation for expert design and customer
+                service among local trade professionals and homeowners alike.
+                With extensive experience in the kitchen and joinery business,
+                their friendly team are on hand to help with any project, large
+                or small, offering product insight, trade account support,
+                kitchen planning, and more. .
+            </p>
+            <a
+                target="_blank"
+                href="https://www.howdens.com/find-a-depot/stanningley"
+            >
+                <Image
+                    className="sponsors-logos"
+                    rounded
+                    src={howdensImg}
                     fluid
                 ></Image>
             </a>
