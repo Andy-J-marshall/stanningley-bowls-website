@@ -87,30 +87,6 @@ function Sponsors() {
             </a>
             <hr />
 
-            <h3>joey sports massage therapy</h3>
-            <p>
-                If you're suffering due to a sports injury, or your body just
-                needs a little TLC, then it's time to get in touch with the team
-                at{' '}
-                <a
-                    className="link"
-                    target="_blank"
-                    href="https://www.joeysportsmassage.co.uk"
-                >
-                    Joey Sports Massage Therapy
-                </a>
-                .
-            </p>
-            <a target="_blank" href="https://www.joeysportsmassage.co.uk">
-                <Image
-                    className="sponsors-logos"
-                    rounded
-                    src={joeyLogoImg}
-                    fluid
-                ></Image>
-            </a>
-            <hr />
-
             <h3>howdens stanningley</h3>
             <p>
                 <a
@@ -125,7 +101,7 @@ function Sponsors() {
                 With extensive experience in the kitchen and joinery business,
                 their friendly team are on hand to help with any project, large
                 or small, offering product insight, trade account support,
-                kitchen planning, and more. .
+                kitchen planning, and more.
             </p>
             <a
                 target="_blank"
@@ -138,6 +114,13 @@ function Sponsors() {
                     fluid
                 ></Image>
             </a>
+            <hr />
+
+            <h3>jug & barrel</h3>
+            <p>
+                The Jug & Barrel in Stanningley is the official pub for{' '}
+                {fullName}.
+            </p>
             <hr />
 
             <h3>vac shack</h3>
@@ -183,6 +166,30 @@ function Sponsors() {
                     className="sponsors-logos"
                     rounded
                     src={floorGuysImg}
+                    fluid
+                ></Image>
+            </a>
+            <hr />
+
+            <h3>joey sports massage therapy</h3>
+            <p>
+                If you're suffering due to a sports injury, or your body just
+                needs a little TLC, then it's time to get in touch with the team
+                at{' '}
+                <a
+                    className="link"
+                    target="_blank"
+                    href="https://www.joeysportsmassage.co.uk"
+                >
+                    Joey Sports Massage Therapy
+                </a>
+                .
+            </p>
+            <a target="_blank" href="https://www.joeysportsmassage.co.uk">
+                <Image
+                    className="sponsors-logos"
+                    rounded
+                    src={joeyLogoImg}
                     fluid
                 ></Image>
             </a>
