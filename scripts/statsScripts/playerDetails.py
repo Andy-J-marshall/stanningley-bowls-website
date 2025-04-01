@@ -34,6 +34,8 @@ def deduplicateNames(name):
         name = "jim moorin"
     if name == "jim swales":
         name = "jim swailes"
+    if name == "jimmy swailes":
+        name = "jim swailes"
     if name == "elenor graves":
         name = "eleanor graves"
     return name
