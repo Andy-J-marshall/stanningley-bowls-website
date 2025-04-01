@@ -154,12 +154,10 @@ for (const league of leagues) {
 
         // Click pop up if present
         try {
-            const popUp = page
-                .frameLocator('iframe[title="BowlsNet Page"]')
-                .getByRole('button', { name: 'Continue' });
-            const popUpCount = await popUp.count();
+            const noticePage = page.getByRole('button', { name: 'Continue' });
+            const popUpCount = await noticePage.count();
             if (popUpCount > 0) {
-                await popUp.click();
+                await noticePage.click();
             }
         } catch (error) {
             console.log(`No popup to click for ${league.day}, continuing...`);
