@@ -81,7 +81,7 @@ duplicatePlayerNames = [
     "cliff brogie",
     "james moorin",
     "jim swales",
-    "jimmy swailes"
+    "jimmy swailes",
     "elenor graves",
 ]
 
