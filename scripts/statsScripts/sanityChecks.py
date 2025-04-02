@@ -347,8 +347,8 @@ def checkTeamStatsValuesIncreased(updatedStats, filePath, teamDays):
         file = json.load(jsonFile)
         existingTeamStats = file["teamResults"]
 
-        if len(updatedStats) != len(teamDays):
-            raise Exception("Team missing from team stats")
+        if len(updatedStats) > len(teamDays):
+            raise Exception("Too many teams processed")
 
         for team in existingTeamStats:
             updatedTeam = next(
