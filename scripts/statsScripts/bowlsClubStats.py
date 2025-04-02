@@ -73,6 +73,9 @@ for team in clubDetails.teamDays:
         teamNameUsedForLeague, teamNameToUse = returnTeamNameForLeague(
             allRowsInFile, team, clubDetails.displayTeamName, clubDetails.teamNames
         )
+        if teamNameUsedForLeague is None or teamNameToUse is None:
+            print(args.club, "not found in league file:", team)
+            continue
 
         checkTeamName(team, teamNameUsedForLeague, clubDetails.displayTeamName)
 

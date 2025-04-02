@@ -110,7 +110,7 @@ def returnTeamNameForLeague(
                     possibleTeamNamesUsed.append(possibleTeamName)
 
     if len(possibleTeamNamesUsed) == 0:
-        raise Exception("No team name found")
+        return None, None
 
     teamNameUsedForLeague = max(possibleTeamNamesUsed, key=len)
     return teamNameUsedForLeague, teamNameToUse

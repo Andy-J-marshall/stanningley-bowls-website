@@ -33,7 +33,7 @@ teamDays = [
     "Spen Valley (A)",
     "Spen Valley (B)",
     "Bradford Vets",
-    "Ossett and Horbury"
+    "Ossett and Horbury",
     "Bradford Saturday (A)",
     "Bradford Saturday (B)",
 ]

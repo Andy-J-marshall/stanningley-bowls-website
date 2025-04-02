@@ -1,6 +1,496 @@
 {
-    "playerResults": {},
-    "teamResults": [],
-    "lastUpdated": "19/02/2025",
+    "playerResults": {
+        "eleanor graves": {
+            "totalAgg": 14,
+            "totalAggAgainst": 21,
+            "availableAgg": 21,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 21,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 14,
+            "totalAwayAggAgainst": 21,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 1,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 1,
+            "results": [
+                "eleanor graves 14 - 21 janet warburton"
+            ],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe monday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe vets": {
+                "games": 1,
+                "wins": 0,
+                "aggDiff": -7
+            },
+            "mirfield": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield (c)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford half holiday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley (c)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday (c)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "linda barrand": {
+            "totalAgg": 4,
+            "totalAggAgainst": 21,
+            "availableAgg": 21,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 21,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 4,
+            "totalAwayAggAgainst": 21,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 1,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 1,
+            "results": [
+                "linda barrand 4 - 21 alan byers"
+            ],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe monday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe vets": {
+                "games": 1,
+                "wins": 0,
+                "aggDiff": -17
+            },
+            "mirfield": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield (c)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford half holiday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley (c)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday (c)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "richard hodgson": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe monday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield (c)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford half holiday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley (c)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday (c)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
+        "stewart watson": {
+            "totalAgg": 0,
+            "totalAggAgainst": 0,
+            "availableAgg": 0,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 0,
+            "results": [],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe monday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "mirfield (c)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford half holiday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "spen valley (c)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford vets (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "bradford saturday (c)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        }
+    },
+    "teamResults": [
+        {
+            "day": "AireWharfe Vets",
+            "awayWins": 0,
+            "homeWins": 0,
+            "wins": 0,
+            "awayLosses": 1,
+            "homeLosses": 0,
+            "homeDraws": 0,
+            "awayDraws": 0,
+            "draws": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "losses": 1,
+            "totalGamesPlayed": 1,
+            "agg": 23,
+            "opponentAgg": 32,
+            "results": [
+                "Grove Hill 3 - 1 Pudsey"
+            ]
+        }
+    ],
+    "lastUpdated": "02/04/2025",
     "statsYear": "2025"
 }
