@@ -1,5 +1,6 @@
 import re
 import argparse
+from datetime import datetime
 
 from teamStatsHelper import (
     findHomeAndAwayTeamGameRows,
@@ -74,7 +75,9 @@ for team in clubDetails.teamDays:
             allRowsInFile, team, clubDetails.displayTeamName, clubDetails.teamNames
         )
         if teamNameUsedForLeague is None or teamNameToUse is None:
-            print(args.club, "not found in league file:", team)
+            # Checks the team name appears in the league file if it is after the 1st of May
+            if datetime.now().month > 4:
+                raise Exception(f"{args.club} not found in league file for {team}")
             continue
 
         checkTeamName(team, teamNameUsedForLeague, clubDetails.displayTeamName)
