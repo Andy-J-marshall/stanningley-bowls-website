@@ -3,6 +3,7 @@ import argparse
 from datetime import datetime
 
 from teamStatsHelper import (
+    checkTeamName,
     findHomeAndAwayTeamGameRows,
     isCupGame,
     returnTeamScoreRowDownNumber,
@@ -13,7 +14,6 @@ from teamStatsHelper import (
 from sanityChecks import (
     checksTeamStats,
     checkPlayerStats,
-    checkTeamName,
     validatePlayerNotProcessedTwice,
 )
 from fileUtils import findEndRowOfFile, returnTodayDate, saveFile, year
@@ -80,151 +80,158 @@ for team in clubDetails.teamDays:
                 raise Exception(f"{args.club} not found in league file for {team}")
             continue
 
-        checkTeamName(team, teamNameUsedForLeague, clubDetails.displayTeamName)
+        continueGeneratingStats = checkTeamName(
+            team, teamNameUsedForLeague, clubDetails.displayTeamName
+        )
+        if not continueGeneratingStats:
+            print(f"Skipping {team} as it doesn't exist in the league report file yet")
+            continue
 
         # Find the cup games in the stats
         cupGameRows = findCupGameRows(allRowsInFile, endRow)
 
         #### TEAM STATS ####
-        # Find team's home and away games
-        homeRows, awayRows = findHomeAndAwayTeamGameRows(
-            allRowsInFile, teamNameUsedForLeague, clubDetails.displayTeamName
-        )
-
-        # Find team results and scores
-        awayWins = 0
-        awayLosses = 0
-        homeWins = 0
-        homeLosses = 0
-        homeDraws = 0
-        awayDraws = 0
-        cupWins = 0
-        cupLosses = 0
-        teamAgg = 0
-        opponentAgg = 0
-        results = []
-
-        for rowNumber, line in enumerate(allRowsInFile, start=0):
-            row = allRowsInFile[rowNumber]
-
-            # Check if cup game
-            cupRow = allRowsInFile[rowNumber - 1]
-            cupGameBool = isCupGame(cupRow)
-
-            # Find the number of rows down for the team scores
-            totalNumberOfRowsAdjustmentInt = returnTeamScoreRowDownNumber(
-                cupGameBool, allRowsInFile, rowNumber, league
+        # Team stats are only generated for Stanningley
+        if args.club == "stanningley":
+            # Find team's home and away games
+            homeRows, awayRows = findHomeAndAwayTeamGameRows(
+                allRowsInFile, teamNameUsedForLeague, clubDetails.displayTeamName
             )
 
-            # Prevents attempting to process a line that doesn't exist
-            if rowNumber + totalNumberOfRowsAdjustmentInt >= endRow:
-                break
+            # Find team results and scores
+            awayWins = 0
+            awayLosses = 0
+            homeWins = 0
+            homeLosses = 0
+            homeDraws = 0
+            awayDraws = 0
+            cupWins = 0
+            cupLosses = 0
+            teamAgg = 0
+            opponentAgg = 0
+            results = []
 
-            # Save the scores
-            text = allRowsInFile[rowNumber + totalNumberOfRowsAdjustmentInt]
-            if text and type(text) is str:
-                matchScore = re.findall(r"\d+", text)
-            if len(matchScore) == 2:
-                homeScore = int(matchScore[0].strip())
-                awayScore = int(matchScore[1].strip())
+            for rowNumber, line in enumerate(allRowsInFile, start=0):
+                row = allRowsInFile[rowNumber]
 
-            # Save the aggregates
-            if cupGameBool:
-                homeAgg = homeScore
-                awayAgg = awayScore
-            else:
-                baseRowDownAdjustment = returnBaseRowDownNumber(False, True)
-                adjustmentForLeagueInt = returnAggRowDownNumber(
-                    team,
-                    clubDetails.teamsWithWithDifferentNumberOfPlayersToLeagueNorm,
+                # Check if cup game
+                cupRow = allRowsInFile[rowNumber - 1]
+                cupGameBool = isCupGame(cupRow)
+
+                # Find the number of rows down for the team scores
+                totalNumberOfRowsAdjustmentInt = returnTeamScoreRowDownNumber(
+                    cupGameBool, allRowsInFile, rowNumber, league
                 )
-                adjustFor6PlayerTeamsInt = returnAdjustedRowNumberFor6PlayerTeams(
-                    league, 0
-                )
-                adjustment = (
-                    baseRowDownAdjustment
-                    + adjustmentForLeagueInt
-                    - adjustFor6PlayerTeamsInt
-                )
-                if rowNumber + adjustment >= endRow:
-                    continue
-                text = allRowsInFile[rowNumber + adjustment]
+
+                # Prevents attempting to process a line that doesn't exist
+                if rowNumber + totalNumberOfRowsAdjustmentInt >= endRow:
+                    break
+
+                # Save the scores
+                text = allRowsInFile[rowNumber + totalNumberOfRowsAdjustmentInt]
                 if text and type(text) is str:
-                    matchAgg = re.findall(r"\d+", text)
-                if len(matchAgg) == 2:
-                    homeAgg = int(matchAgg[0].strip())
-                    awayAgg = int(matchAgg[1].strip())
+                    matchScore = re.findall(r"\d+", text)
+                if len(matchScore) == 2:
+                    homeScore = int(matchScore[0].strip())
+                    awayScore = int(matchScore[1].strip())
 
-            # Home games
-            rowText = allRowsInFile[rowNumber]
-            if rowNumber in homeRows:
-                opponent = rowText.split(teamNameUsedForLeague)[1]
-                opponent = opponent.replace("&amp;", "&").strip()
-                result = f"{teamNameToUse} {homeScore} - {awayScore} {opponent}"
-                results.append(result)
-                if homeScore > awayScore:
-                    if cupGameBool:
-                        cupWins = cupWins + 1
-                    else:
-                        homeWins = homeWins + 1
-                elif homeScore < awayScore:
-                    if cupGameBool:
-                        cupLosses = cupLosses + 1
-                    else:
-                        homeLosses = homeLosses + 1
-                elif awayScore == homeScore:
-                    homeDraws = homeDraws + 1
-                teamAgg = teamAgg + homeAgg
-                opponentAgg = opponentAgg + awayAgg
+                # Save the aggregates
+                if cupGameBool:
+                    homeAgg = homeScore
+                    awayAgg = awayScore
+                else:
+                    baseRowDownAdjustment = returnBaseRowDownNumber(False, True)
+                    adjustmentForLeagueInt = returnAggRowDownNumber(
+                        team,
+                        clubDetails.teamsWithWithDifferentNumberOfPlayersToLeagueNorm,
+                    )
+                    adjustFor6PlayerTeamsInt = returnAdjustedRowNumberFor6PlayerTeams(
+                        league, 0
+                    )
+                    adjustment = (
+                        baseRowDownAdjustment
+                        + adjustmentForLeagueInt
+                        - adjustFor6PlayerTeamsInt
+                    )
+                    if rowNumber + adjustment >= endRow:
+                        continue
+                    text = allRowsInFile[rowNumber + adjustment]
+                    if text and type(text) is str:
+                        matchAgg = re.findall(r"\d+", text)
+                    if len(matchAgg) == 2:
+                        homeAgg = int(matchAgg[0].strip())
+                        awayAgg = int(matchAgg[1].strip())
 
-            # Away games
-            if rowNumber in awayRows:
-                opponent = rowText.split(teamNameUsedForLeague)[0]
-                opponent = opponent.replace("&amp;", "&").strip()
-                result = f"{opponent} {homeScore} - {awayScore} {teamNameToUse}"
-                results.append(result)
-                if awayScore > homeScore:
-                    if cupGameBool:
-                        cupWins = cupWins + 1
-                    else:
-                        awayWins = awayWins + 1
-                elif awayScore < homeScore:
-                    if cupGameBool:
-                        cupLosses = cupLosses + 1
-                    else:
-                        awayLosses = awayLosses + 1
-                elif awayScore == homeScore:
-                    awayDraws = awayDraws + 1
-                opponentAgg = opponentAgg + homeAgg
-                teamAgg = teamAgg + awayAgg
+                # Home games
+                rowText = allRowsInFile[rowNumber]
+                if rowNumber in homeRows:
+                    opponent = rowText.split(teamNameUsedForLeague)[1]
+                    opponent = opponent.replace("&amp;", "&").strip()
+                    result = f"{teamNameToUse} {homeScore} - {awayScore} {opponent}"
+                    results.append(result)
+                    if homeScore > awayScore:
+                        if cupGameBool:
+                            cupWins = cupWins + 1
+                        else:
+                            homeWins = homeWins + 1
+                    elif homeScore < awayScore:
+                        if cupGameBool:
+                            cupLosses = cupLosses + 1
+                        else:
+                            homeLosses = homeLosses + 1
+                    elif awayScore == homeScore:
+                        homeDraws = homeDraws + 1
+                    teamAgg = teamAgg + homeAgg
+                    opponentAgg = opponentAgg + awayAgg
 
-        # Store team result data
-        teamResults = {
-            "day": teamNameToStoreData,
-            "awayWins": awayWins,
-            "homeWins": homeWins,
-            "wins": awayWins + homeWins + cupWins,
-            "awayLosses": awayLosses,
-            "homeLosses": homeLosses,
-            "homeDraws": homeDraws,
-            "awayDraws": awayDraws,
-            "draws": homeDraws + awayDraws,
-            "cupWins": cupWins,
-            "cupLosses": cupLosses,
-            "losses": homeLosses + awayLosses + cupLosses,
-            "totalGamesPlayed": awayWins
-            + homeWins
-            + cupWins
-            + awayLosses
-            + homeLosses
-            + cupLosses
-            + awayDraws
-            + homeDraws,
-            "agg": teamAgg,
-            "opponentAgg": opponentAgg,
-            "results": results,
-        }
-        allTeamResults.append(teamResults)
+                # Away games
+                if rowNumber in awayRows:
+                    opponent = rowText.split(teamNameUsedForLeague)[0]
+                    opponent = opponent.replace("&amp;", "&").strip()
+                    result = f"{opponent} {homeScore} - {awayScore} {teamNameToUse}"
+                    results.append(result)
+                    if awayScore > homeScore:
+                        if cupGameBool:
+                            cupWins = cupWins + 1
+                        else:
+                            awayWins = awayWins + 1
+                    elif awayScore < homeScore:
+                        if cupGameBool:
+                            cupLosses = cupLosses + 1
+                        else:
+                            awayLosses = awayLosses + 1
+                    elif awayScore == homeScore:
+                        awayDraws = awayDraws + 1
+                    opponentAgg = opponentAgg + homeAgg
+                    teamAgg = teamAgg + awayAgg
+
+            # Store team result data
+            teamResults = {
+                "day": teamNameToStoreData,
+                "awayWins": awayWins,
+                "homeWins": homeWins,
+                "wins": awayWins + homeWins + cupWins,
+                "awayLosses": awayLosses,
+                "homeLosses": homeLosses,
+                "homeDraws": homeDraws,
+                "awayDraws": awayDraws,
+                "draws": homeDraws + awayDraws,
+                "cupWins": cupWins,
+                "cupLosses": cupLosses,
+                "losses": homeLosses + awayLosses + cupLosses,
+                "totalGamesPlayed": awayWins
+                + homeWins
+                + cupWins
+                + awayLosses
+                + homeLosses
+                + cupLosses
+                + awayDraws
+                + homeDraws,
+                "agg": teamAgg,
+                "opponentAgg": opponentAgg,
+                "results": results,
+            }
+            allTeamResults.append(teamResults)
 
         #### PLAYER STATS ####
 
@@ -294,8 +301,9 @@ dataToExport = {
 filename = f"src/data/{clubDetails.displayTeamName.lower()}Stats{year}.json"
 
 # Sanity checks on the data
-# TODO team stats incorrect for spen league? Only for cup games due to 12 players
-checksTeamStats(allTeamResults, filename, clubDetails.teamDays)
+# TODO remove team stats for pudsey/littlemoor for old years
+if args.club == "stanningley":
+    checksTeamStats(allTeamResults, filename, clubDetails.teamDays)
 checkPlayerStats(playerStats, filename, True, clubDetails.players, clubDetails.teamDays)
 
 # Save the file

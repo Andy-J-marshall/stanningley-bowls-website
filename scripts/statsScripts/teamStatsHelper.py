@@ -52,6 +52,10 @@ def returnTeamScoreRowDownNumber(cupGameBool, allRowsInFile, rowNumber, league):
         ):
             rowsDownAdjustmentInt -= 1
 
+        # Spen cup games have 12 player teams
+        if "spen" in league.lower():
+            rowsDownAdjustmentInt -= 5
+
     totalNumberOfRowsAdjustmentInt = (
         baseAdjustment - rowsDownAdjustmentInt + rowsUpAdjustmentInt
     )
@@ -137,3 +141,25 @@ def findHomeAndAwayTeamGameRows(allRowsInFile, teamNameUsedForLeague, displayTea
                     awayRow.append(rowNumber)
 
     return homeRow, awayRow
+
+
+def checkTeamName(name, nameUsedForLeague, expectedDisplayName):
+    continueGenerating = True
+
+    # Checks team not processed twice
+    if name.lower().endswith(" (a)") and nameUsedForLeague.lower().endswith(" b"):
+        raise Exception("B team found for A team stats")
+    if name.lower().endswith(" (b)") and nameUsedForLeague.lower().endswith(" a"):
+        raise Exception("A team found for B team stats")
+
+    # Checks valid team name found
+    if expectedDisplayName.lower() not in nameUsedForLeague.lower():
+        raise Exception("Incorrect team name found")
+
+    # Checks not picking up wrong team if one of the teams has not played a game yet
+    if name.lower().endswith(" (a)") and not nameUsedForLeague.lower().endswith(" a"):
+        continueGenerating = False
+    if name.lower().endswith(" (b)") and not nameUsedForLeague.lower().endswith(" b"):
+        continueGenerating = False
+
+    return continueGenerating

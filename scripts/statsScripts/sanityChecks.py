@@ -288,19 +288,19 @@ def checkPlayerStatsValuesIncreased(
                     playerTeamStats = updatedStats[teamName]
 
                     if (
-                        existingPlayerStats[teamName]["games"]
-                        > playerTeamStats["games"]
+                        playerTeamStats["games"]
+                        < existingPlayerStats[teamName]["games"]
                     ):
                         raise Exception(
                             f"{teamName} games for {player} lower than before"
                         )
-                    if existingPlayerStats[teamName]["wins"] > playerTeamStats["wins"]:
+                    if playerTeamStats["wins"] < existingPlayerStats[teamName]["wins"]:
                         raise Exception(
                             f"{teamName} wins for {player} lower than before"
                         )
                     if (
-                        existingPlayerStats[teamName]["aggDiff"]
-                        > playerTeamStats["aggDiff"]
+                        playerTeamStats["aggDiff"]
+                        < existingPlayerStats[teamName]["aggDiff"]
                     ):
                         raise Exception(
                             f"{teamName} aggDiff for {player} lower than before"
@@ -454,15 +454,6 @@ def checkForDuplicateResults(results, name):
         print("WARNING: check for potential duplicate results for: " + name)
         print(results)
         print("------------")
-
-
-def checkTeamName(team, teamNameUsedForLeague, expectedTeamDisplayName):
-    if team.lower().endswith(" (a)") and teamNameUsedForLeague.lower().endswith(" b"):
-        raise Exception("B team found for A team stats")
-    if team.lower().endswith(" (b)") and teamNameUsedForLeague.lower().endswith(" a"):
-        raise Exception("A team found for B team stats")
-    if expectedTeamDisplayName.lower() not in teamNameUsedForLeague.lower():
-        raise Exception("Incorrect team name found")
 
 
 def validatePlayerNotProcessedTwice(rowNumber, homePlayerRow, awayPlayerRow):

@@ -677,48 +677,7 @@
             }
         }
     },
-    "teamResults": [
-        {
-            "day": "Spen Valley",
-            "awayWins": 0,
-            "homeWins": 0,
-            "wins": 1,
-            "awayLosses": 0,
-            "homeLosses": 0,
-            "homeDraws": 0,
-            "awayDraws": 0,
-            "draws": 0,
-            "cupWins": 1,
-            "cupLosses": 0,
-            "losses": 0,
-            "totalGamesPlayed": 1,
-            "agg": 21,
-            "opponentAgg": 16,
-            "results": [
-                "Littlemoor A 21 - 16 Clayton Victoria"
-            ]
-        },
-        {
-            "day": "Spen Valley (B)",
-            "awayWins": 0,
-            "homeWins": 0,
-            "wins": 1,
-            "awayLosses": 0,
-            "homeLosses": 0,
-            "homeDraws": 0,
-            "awayDraws": 0,
-            "draws": 0,
-            "cupWins": 1,
-            "cupLosses": 0,
-            "losses": 0,
-            "totalGamesPlayed": 1,
-            "agg": 21,
-            "opponentAgg": 19,
-            "results": [
-                "Elland BC 19 - 21 Littlemoor B"
-            ]
-        }
-    ],
+    "teamResults": [],
     "lastUpdated": "06/04/2025",
     "statsYear": "2025"
 }
