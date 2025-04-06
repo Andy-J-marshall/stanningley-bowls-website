@@ -40,11 +40,15 @@ parser.add_argument(
 args = parser.parse_args()
 
 # Import the appropriate club details module based on the argument
-if args.club == "littlemoor":
-    import littlemoorDetails as clubDetails
-elif args.club == "stanningley":
+generateTeamStats = True
+if args.club == "stanningley":
+    generateTeamStats = True
     import stanningleyDetails as clubDetails
+elif args.club == "littlemoor":
+    generateTeamStats = False
+    import littlemoorDetails as clubDetails
 elif args.club == "pudsey":
+    generateTeamStats = False
     import pudseyDetails as clubDetails
 
 playerStats = returnListOfPlayerStats(clubDetails.teamDays, True, clubDetails.players)
@@ -92,7 +96,7 @@ for team in clubDetails.teamDays:
 
         #### TEAM STATS ####
         # Team stats are only generated for Stanningley
-        if args.club == "stanningley":
+        if generateTeamStats:
             # Find team's home and away games
             homeRows, awayRows = findHomeAndAwayTeamGameRows(
                 allRowsInFile, teamNameUsedForLeague, clubDetails.displayTeamName
@@ -301,7 +305,7 @@ dataToExport = {
 filename = f"src/data/{clubDetails.displayTeamName.lower()}Stats{year}.json"
 
 # Sanity checks on the data
-if args.club == "stanningley":
+if generateTeamStats:
     checksTeamStats(allTeamResults, filename, clubDetails.teamDays)
 checkPlayerStats(playerStats, filename, True, clubDetails.players, clubDetails.teamDays)
 
