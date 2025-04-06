@@ -301,7 +301,6 @@ dataToExport = {
 filename = f"src/data/{clubDetails.displayTeamName.lower()}Stats{year}.json"
 
 # Sanity checks on the data
-# TODO remove team stats for pudsey/littlemoor for old years
 if args.club == "stanningley":
     checksTeamStats(allTeamResults, filename, clubDetails.teamDays)
 checkPlayerStats(playerStats, filename, True, clubDetails.players, clubDetails.teamDays)
