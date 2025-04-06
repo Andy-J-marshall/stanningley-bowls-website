@@ -294,6 +294,7 @@ dataToExport = {
 filename = f"src/data/{clubDetails.displayTeamName.lower()}Stats{year}.json"
 
 # Sanity checks on the data
+# TODO team stats incorrect for spen league? Only for cup games due to 12 players
 checksTeamStats(allTeamResults, filename, clubDetails.teamDays)
 checkPlayerStats(playerStats, filename, True, clubDetails.players, clubDetails.teamDays)
 
