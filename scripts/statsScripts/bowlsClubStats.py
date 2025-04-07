@@ -307,6 +307,7 @@ filename = f"src/data/{clubDetails.displayTeamName.lower()}Stats{year}.json"
 # Sanity checks on the data
 if generateTeamStats:
     checksTeamStats(allTeamResults, filename, clubDetails.teamDays)
+# TODO missing chunky from Monday AW?
 checkPlayerStats(playerStats, filename, True, clubDetails.players, clubDetails.teamDays)
 
 # Save the file
