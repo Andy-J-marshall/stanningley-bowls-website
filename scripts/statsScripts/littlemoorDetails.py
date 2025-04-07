@@ -12,6 +12,8 @@ teamNames = [
     "Pudsey Littlemoor A",
     "Pudsey Littlemoor B",
     "Littlemoor S&SC",
+    "Littlemoor S&SC A",
+    "Littlemoor S&SC B",
     "Littlemoor S&SC 'A'",
     "Littlemoor S&SC 'B'",
     "Littlemoor S & SC",

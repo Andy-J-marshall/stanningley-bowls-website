@@ -193,25 +193,25 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 0,
-            "totalAggAgainst": 0,
-            "availableAgg": 0,
+            "totalAgg": 21,
+            "totalAggAgainst": 2,
+            "availableAgg": 21,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 0,
+            "availableHomeAgg": 21,
             "availableAwayAgg": 0,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 0,
-            "totalHomeAggAgainst": 0,
+            "totalHomeAgg": 21,
+            "totalHomeAggAgainst": 2,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 0,
             "totalAwayAggAgainst": 0,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 0,
+            "homeWins": 1,
             "homeLosses": 0,
             "awayWins": 0,
             "awayLosses": 0,
@@ -225,17 +225,19 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 0,
-            "results": [],
+            "totalGamesPlayed": 1,
+            "results": [
+                "jim moorin 21 - 2 janice connaleigh"
+            ],
             "airewharfe monday": {
                 "games": 0,
                 "wins": 0,
                 "aggDiff": 0
             },
             "airewharfe monday (b)": {
-                "games": 0,
-                "wins": 0,
-                "aggDiff": 0
+                "games": 1,
+                "wins": 1,
+                "aggDiff": 19
             },
             "mirfield": {
                 "games": 0,
@@ -289,12 +291,12 @@
             }
         },
         "john armitage": {
-            "totalAgg": 21,
-            "totalAggAgainst": 9,
-            "availableAgg": 21,
+            "totalAgg": 38,
+            "totalAggAgainst": 30,
+            "availableAgg": 42,
             "availablePairsAgg": 0,
             "availableHomeAgg": 0,
-            "availableAwayAgg": 0,
+            "availableAwayAgg": 21,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -303,14 +305,14 @@
             "totalHomeAggAgainst": 0,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 0,
-            "totalAwayAggAgainst": 0,
+            "totalAwayAgg": 17,
+            "totalAwayAggAgainst": 21,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 0,
             "homeLosses": 0,
             "awayWins": 0,
-            "awayLosses": 0,
+            "awayLosses": 1,
             "cupWins": 1,
             "cupLosses": 0,
             "pairWins": 0,
@@ -321,14 +323,15 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 1,
+            "totalGamesPlayed": 2,
             "results": [
+                "john armitage 17 - 21 dean scarth",
                 "john armitage 21 - 9 myles summers"
             ],
             "airewharfe monday": {
-                "games": 0,
+                "games": 1,
                 "wins": 0,
-                "aggDiff": 0
+                "aggDiff": -4
             },
             "airewharfe monday (b)": {
                 "games": 0,
