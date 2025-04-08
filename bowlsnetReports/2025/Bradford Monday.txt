@@ -1,6 +1,42 @@
 === Bradford (Mon. Evening) 2025 (as of Tue 8th Apr)
 === Comp. Match Cards
 
+  Division 1 - Thurston         Mon 7th Apr       
+         Farsley                 Tyersal A        
+Stuart Brook           13 Simon Metcalfe       21 
+Peter Crowther         16 Mason Lindley        21 
+Jim Swailes            21 Wendy Shimbles       18 
+Peter Scott            15 Chris Mordue         21 
+Duncan McPhail          8 Gary Wike            21 
+Richard Whittaker      16 Pam Lindley          21 
+           Aggregate:  89          Aggregate: 123 
+               Games:   1              Games:   5 
+              Points:   6             Points:  20 
+
+  Division 1 - Thurston         Mon 7th Apr       
+      West Bradford           Spen Victoria A     
+Kevin Buckley           6 Andy Hodgson         21 
+Stuart Graham          21 Peter Ellis          16 
+Colin Isles             7 Philip Smith         21 
+Mark Chambers           8 Mark Ellis           21 
+Mark Woolner           14 Mark Goodall         21 
+Paul Wood               7 Debi Davis           21 
+           Aggregate:  63          Aggregate: 121 
+               Games:   1              Games:   5 
+              Points:   2             Points:  24 
+
+  Division 1 - Thurston         Mon 7th Apr       
+     Heckmondwike A           Shipley Club A      
+Gareth Harwood         21 Graham Baggley       16 
+Kathleen Field         16 David Bland          21 
+Norman Booth            6 Richard Bloodworth   21 
+Gerald Bromley         18 Craig Fenton         21 
+Charlie Sykes          14 Ian Jacques          21 
+Eddie Temple            9 Stuart Wilson        21 
+           Aggregate:  84          Aggregate: 121 
+               Games:   1              Games:   5 
+              Points:   5             Points:  21 
+
 Division 3 - City Sports        Mon 7th Apr       
        Queensbury             Drighlington B      
 Lorraine Birch          8 Mick Tolson          21 
@@ -12,5 +48,29 @@ Keith Turner           21 Andy Brooke          13
            Aggregate: 112          Aggregate:  82 
                Games:   4              Games:   2 
               Points:  19             Points:   7 
+
+Division 3 - City Sports        Mon 7th Apr       
+        Thornton                 Clayton B        
+Barry Austin           20 Sue Findlay          21 
+Philip Ford             5 Joe Midgley          21 
+Mervyn Gration          9 Shaun Toehill        21 
+Karen Brame            21 Paul Emery            5 
+Dawn Rigget            21 Trevor Bateman        8 
+Kenny McCafferty       21 Steve Edgley          9 
+           Aggregate:  97          Aggregate:  85 
+               Games:   3              Games:   3 
+              Points:  15             Points:  11 
+
+Division 3 - City Sports        Mon 7th Apr       
+        Tyersal B               Brackenhill       
+Byron Whalley          21 Ellie Campbell        6 
+Brenda Hudson          17 John Howarth         21 
+John Smith             21 Jackie Wilkinson      5 
+Russell Hudson         21 Kathy Wilford         9 
+Terry King              8 Madeline Gamble      21 
+Jeffrey Smith          21 Bob Armitage          9 
+           Aggregate: 109          Aggregate:  71 
+               Games:   4              Games:   2 
+              Points:  20             Points:   6 
 
 
