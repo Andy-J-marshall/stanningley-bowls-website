@@ -225,6 +225,22 @@ Andy Waller            21 Ernest Johnson       16
                Games:   6              Games:   4 
               Points:  21             Points:   9 
 
+       Division 3               Mon 7th Apr       
+       Myrtle Park               Menston A        
+Mike Wilson             5 Simon Cowley 'A'     21 
+Harrison Charles       17 Laurie Robinson 'A'  21 
+Keith Brown            21 Gary Skeet           17 
+Martin Slater          21 Gwen Smith 'A'        8 
+Maureen Wood           21 Keith Bond           12 
+Tom Barnes             21 Gail Singh           16 
+Barbara Brook          11 Nigel Buckley        21 
+Alan Wood              18 Les Schofield        21 
+Stephen Turner         21 Ian Smith            14 
+Chris Dickerson        12 Shaun Johnson        21 
+           Aggregate: 168          Aggregate: 172 
+               Games:   5              Games:   5 
+              Points:  14             Points:  16 
+
        Division 4               Mon 7th Apr       
         Calverley              Greenbottom B      
 Alan Horsfield         19 Trevor Dawson        21 
@@ -240,6 +256,22 @@ Roy Whiteley           20 Allan Jukes          21
            Aggregate: 160          Aggregate: 197 
                Games:   2              Games:   8 
               Points:   8             Points:  22 
+
+       Division 4               Mon 7th Apr       
+      Yeadon Park B               Adel B          
+Shirley Nicholson      21 Sue Pagdin           12 
+Mark Wilson            21 Alan Nicholson        6 
+Lynne Myers            20 Sheena Parker        21 
+Julie Watson           21 Steve Richardson     10 
+Tracy Wilson           21 Marion Rider         16 
+Christine Scott        18 Phil Hayward         21 
+Joan Baker              8 Dave Brown           21 
+Stan Parker            21 John Auty            16 
+Barry Slater           21 Graham Clough         8 
+Maureen Slater         15 Les Tugwell          21 
+           Aggregate: 187          Aggregate: 152 
+               Games:   6              Games:   4 
+              Points:  20             Points:  10 
 
        Division 4               Mon 7th Apr       
         Menston B                 Baildon         
@@ -259,7 +291,7 @@ Peter Gaston            6 Geoff Hanson         21
 
        Division 4               Mon 7th Apr       
        Holt Park B            Wharfemeadows B     
-Mick Sadler            17 John Parker          21 
+David Sadler           17 John Parker          21 
 Bruce Hetherington     15 Janet Warburton      21 
 Terry Cook             21 Gill Godden           8 
 Ray Boast              21 John Farquhar        12 
