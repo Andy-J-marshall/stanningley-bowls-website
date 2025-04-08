@@ -68,6 +68,6 @@ allClubs = [
     "littlemoor",
     "farsley",
     "new wortley",
-    "wibsey",
+    "meanwood",
     "garforth",
 ]
