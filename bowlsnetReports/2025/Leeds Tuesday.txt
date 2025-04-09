@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday) 2025 (as of Tue 8th Apr)
+=== Leeds & District (Tuesday) 2025 (as of Wed 9th Apr)
 === League Match Cards
 
      Division 1            Tue 8th Apr       
@@ -28,6 +28,19 @@ Matt Turner        13 Andrew Ford         21
           Points:  24            Points:  33 
 
      Division 1            Tue 8th Apr       
+    Holbeck Ltd A           Meanwood A       
+Kian Hendry        21 Douglas Blair       12 
+Kyle Hainsworth     8 Michael Gregory     21 
+Jason Ream         13 Simon Walder        21 
+Lisa Hogan         13 Andy Swain          21 
+Paul Hainsworth     8 Chris Daysh         21 
+Alex Perry         21 Ian Howard          15 
+Richard Perry      21 Lynda Heath         18 
+James Cuffe        21 Steve Jones         17 
+       Aggregate: 126         Aggregate: 146 
+          Points:  26            Points:  32 
+
+     Division 1            Tue 8th Apr       
     Saville Park          Churwell Park      
 Karen Portman      21 Mick Harrison       20 
 Ellis Owen         21 Steve Briggs         6 
@@ -39,6 +52,19 @@ Carolyn Duckett    21 Lawrie Bairstow     13
 Liam Massey        16 Robert Spink        21 
        Aggregate: 163         Aggregate: 115 
           Points:  38            Points:  22 
+
+     Division 2            Tue 8th Apr       
+      Holt Park             Manston Pk       
+John Patrick       21 Michael Monaghan    13 
+Peter Byford       21 Elizabeth Quigley   20 
+Sylvia Petty       18 Jim Jordan          21 
+Colin Chadwick     21 Stephen Jackson      4 
+Debbie Sandles     21 Anthony Marsden     19 
+Graham Hill        21 David Wall          15 
+Peter Sandles      12 Jonathan Moriaty    21 
+Mike Cox           21 John Wilson         16 
+       Aggregate: 156         Aggregate: 129 
+          Points:  36            Points:  26 
 
      Division 2            Tue 8th Apr       
    East End Park A        New Wortley A      
@@ -91,6 +117,19 @@ Stephen Morris      8 Mike Gould          21
 David Turner        9 John Alper          21 
        Aggregate: 103         Aggregate: 145 
           Points:  20            Points:  33 
+
+     Division 3            Tue 8th Apr       
+    New Farnley B             Colton         
+Bob Taylor         16 Anthony Rushfirth   21 
+Howard Fowler      21 Stuart Birch        14 
+Hazel Goodall      15 Andrew Stocks       21 
+Jean Milner        21 James Watkins       11 
+Barbara Taylor     21 David Ryder         18 
+Graham Davison     20 Nicholas Ryder      21 
+Roger Milner       21 David Clarkson      15 
+John Ingham        21 Mick Galley          6 
+       Aggregate: 156         Aggregate: 127 
+          Points:  35            Points:  27 
 
      Division 3            Tue 8th Apr       
     Garforth C C          Middleton Comm     
