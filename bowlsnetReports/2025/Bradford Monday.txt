@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Wed 9th Apr)
+=== Bradford (Mon. Evening) 2025 (as of Thu 10th Apr)
 === Comp. Match Cards
 
   Division 1 - Thurston          Mon 7th Apr         
@@ -84,5 +84,17 @@ Jeffrey Smith          21 Bob Armitage             9
            Aggregate: 109             Aggregate:  71 
                Games:   4                 Games:   2 
               Points:  20                Points:   6 
+
+Division 3 - City Sports         Thu 10th Apr        
+     Bradford Moor A           Bradford Moor B       
+Sharon Queripel        17 Edward East             21 
+Tracy Duxbury          21 Martin Barraclough      17 
+Christine Jarvis       21 Geoff Woodfine           5 
+Michael Jarvis         21 Margaret East            3 
+Mark Durrans 'A'       21 Diane Barraclough       14 
+Neil Duxbury           21 John Appleyard           9 
+           Aggregate: 122             Aggregate:  69 
+               Games:   5                 Games:   1 
+              Points:  23                Points:   3 
 
 
