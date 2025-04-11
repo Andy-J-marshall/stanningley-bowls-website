@@ -539,9 +539,9 @@
             ]
         },
         "jim moorin": {
-            "totalAgg": 63,
-            "totalAggAgainst": 25,
-            "availableAgg": 63,
+            "totalAgg": 72,
+            "totalAggAgainst": 46,
+            "availableAgg": 84,
             "availablePairsAgg": 0,
             "availableHomeAgg": 42,
             "availableAwayAgg": 21,
@@ -562,7 +562,7 @@
             "awayWins": 1,
             "awayLosses": 0,
             "cupWins": 0,
-            "cupLosses": 0,
+            "cupLosses": 1,
             "pairWins": 0,
             "pairLosses": 0,
             "pairHomeWins": 0,
@@ -571,10 +571,11 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 3,
+            "totalGamesPlayed": 4,
             "results": [
                 "jim moorin 21 - 5 brenda chaffer",
                 "jim moorin 21 - 18 mark hopps",
+                "jim moorin 9 - 21 chris bedford",
                 "jim moorin 21 - 2 janice connaleigh"
             ]
         },
@@ -1419,9 +1420,9 @@
             ]
         },
         "stewart watson": {
-            "totalAgg": 115,
-            "totalAggAgainst": 72,
-            "availableAgg": 126,
+            "totalAgg": 131,
+            "totalAggAgainst": 93,
+            "availableAgg": 147,
             "availablePairsAgg": 0,
             "availableHomeAgg": 42,
             "availableAwayAgg": 63,
@@ -1442,7 +1443,7 @@
             "awayWins": 2,
             "awayLosses": 1,
             "cupWins": 1,
-            "cupLosses": 0,
+            "cupLosses": 1,
             "pairWins": 0,
             "pairLosses": 0,
             "pairHomeWins": 0,
@@ -1451,11 +1452,12 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 6,
+            "totalGamesPlayed": 7,
             "results": [
                 "stewart watson 21 - 12 ian tindal",
                 "stewart watson 21 - 8 graham bickerdike",
                 "stewart watson 21 - 9 stephen kenworthy",
+                "stewart watson 16 - 21 matthew jacques",
                 "stewart watson 21 - 12 terri durrans",
                 "stewart watson 10 - 21 mick bastow",
                 "stewart watson 21 - 10 wendy spivey"
@@ -1617,6 +1619,6 @@
             ]
         }
     },
-    "lastUpdated": "10/04/2025",
+    "lastUpdated": "11/04/2025",
     "statsYear": "2025"
 }

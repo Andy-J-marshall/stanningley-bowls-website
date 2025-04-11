@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Thu 10th Apr)
+=== West Riding & Spen Valley 2025 (as of Fri 11th Apr)
 === League Match Cards
 
       Round of 32                Fri 4th Apr          
@@ -234,5 +234,39 @@ Neil Wood Snr         21 Wayne Hudson              11
 Steve Hartley         21 Daren Goodall             19 
 Ian Vickers           13 Graham Higgins            21 
           Aggregate: 227               Aggregate: 185 
+
+      Round of 16                Fri 11th Apr         
+                                On Eccleshill         
+      Shipley - A               Littlemoor - B        
+Graham Baggley         9 Mark Dobson               21 
+Chris Bedford         21 Jim Moorin                 9 
+David Bland           21 Jonathan Orbell            8 
+Scott Bloodworth      19 Zinedine Ayub             21 
+Steve Cooper          21 Philip Thornton           10 
+Craig Fenton          21 Lewis Cooper              16 
+Ian Jacques           21 Danny Marsland             6 
+Matthew Jacques       21 Stuart Watson             16 
+Daniel Metcalfe       21 Scott Normington          10 
+Neil Nicholson        21 Alan Mazurke              11 
+John Sample           13 Adam Mellor               21 
+Neil Simpson          18 Glen Pratt                21 
+          Aggregate: 227               Aggregate: 170 
+
+      Round of 16                Fri 11th Apr         
+                                  On Holbeck          
+     Pudsey BC - B             Harold Club - A        
+Matthew Leaf           9 Glen McAfferty            21 
+Logan Preston         11 Eddie Hill                21 
+Simon Metcalfe        21 Thomas Jagger             19 
+Wendy Shimbles        15 Chris Sowden              21 
+Thomas Morris         17 Trevor Benn               21 
+Stuart Hanson         14 Neil Tordoff              21 
+Dean Scarth           17 Gareth Metcalf            21 
+David Hilliam         11 Joe Mellor                21 
+Mason Lindley         21 Nigel Wormald             11 
+Dave Smith            21 Andy Bairstow             12 
+Peter Simpson         21 Ian Wilson                16 
+Pam Lindley           21 Shaun Godfrey             15 
+          Aggregate: 199               Aggregate: 220 
 
 
