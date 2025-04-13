@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Sat 12th Apr)
+=== Bradford (Saturday) 2025 (as of Sun 13th Apr)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -129,6 +129,70 @@ Jane Hollingworth          21 Nicky Rooks               14
                Aggregate: 186               Aggregate: 177 
                   Points:  16                  Points:  14 
 
+     Division 2 (Godwin)              Sat 12th Apr         
+          Hightown                     Clayton A           
+Sean Carter                21 Peter Oliver               7 
+Jude Hatfield-Goodall      21 Paul Demetriades          16 
+Poppy Fox                  21 Joe Bray                  18 
+Darren Goodall             12 Andy Walker               21 
+David Rayner               13 Chris Wilson              21 
+Adam Darby                 15 June Wilson               21 
+Roy Carter                 15 Dave Jowett               21 
+Eddie Gilbert              18 Myles Summers             21 
+Jacob Hatfield-Goodall     20 Jack Summers              21 
+Tom Gilbert                20 Paul Gill                 21 
+                   Games:   3                   Games:   7 
+               Aggregate: 176               Aggregate: 188 
+                  Points:  11                  Points:  19 
+
+     Division 2 (Godwin)              Sat 12th Apr         
+        Asa Briggs A                  Hove Edge A          
+Stuart King                21 Jean Winchcombe            6 
+Malcolm Iles 'A'           19 Julie Best                21 
+Andy Denton                18 Steve Mallinson           21 
+Michael Frost               9 Chloe Hirst               21 
+Clive Foord 'A'            12 Linda Gledhill            21 
+Jordan Brown 'B'           21 Suzi Ladbrooke             9 
+Carl Smith                 21 Lynn Carter               13 
+Garry Woodhead             21 Julie Mallinson           15 
+Jason Watters              21 Steve Haigh                9 
+Scott Sansom               21 Andy Carter               11 
+                   Games:   6                   Games:   4 
+               Aggregate: 184               Aggregate: 147 
+                  Points:  20                  Points:  10 
+
+     Division 3 (Mellor)              Sat 12th Apr         
+         Guiseley B                Brighouse Sports B      
+Gary Whelan                21 Nigel Marshall            11 
+Peter Storey               17 Anthony Naylor            21 
+Lynne Ogden                10 Richard Hobson            21 
+Christine Boyd             21 Mac Delorosa              14 
+Jeremy Jones               21 Jamie Horsley             13 
+Jack Boyd                  15 Jason Horsley             21 
+Caroline Corbett           11 Dale Dyson                21 
+Ralph Sissons              18 Corey Fountain            21 
+Colin Matthewman           21 Ian Moxon                 18 
+Roger Waite                21 Neal Hopper               18 
+                   Games:   5                   Games:   5 
+               Aggregate: 176               Aggregate: 179 
+                  Points:  14                  Points:  16 
+
+     Division 3 (Mellor)              Sat 12th Apr         
+           Wyke B                    Harold Club A         
+Richard Kerr               21 Stewart Firth             11 
+Ian Wilson 'A'             21 Joe Mellor                 9 
+Stephen Ward               15 Andy Malone               21 
+Nigel Swales               20 David Halligan            21 
+Michael Walton             16 Shaun Godfrey             21 
+Matthew Hicks              12 Eddie Hill                21 
+Brian Kettle               16 Andy Bairstow             21 
+Colin Fallows              17 Nicky Jagger              21 
+Vincent Kerr               11 Tom Jagger                21 
+Dominic Hanson              7 Chris Sowden              21 
+                   Games:   2                   Games:   8 
+               Aggregate: 156               Aggregate: 188 
+                  Points:   8                  Points:  22 
+
      Division 3 (Mellor)              Sat 12th Apr         
        Spen Victoria B                Burley Park          
 Andy Hodgson               21 Steven Gilroy             19 
@@ -246,6 +310,34 @@ Andrew Jacobs              19 Keith Goodall             21
                   Points:  12                  Points:  16 
 
  Division 5 (Haigh) 8 Player          Sat 12th Apr         
+        Asa Briggs C                   Oakenshaw           
+David Trudgill             21 Pat Priestley 'A'          9 
+Alan Standing              21 Eric Oldroyd               7 
+Sean Schofield             15 John Priestley            21 
+Kathleen Sansom            21 Richard Stewart           16 
+Neil Morritt               20 Geoff Forder              21 
+Donald Harrison            21 Ian Gomersall              5 
+Bob Hiley                  21 John Garside              14 
+Arthur Schofield           21 Les Kear                   9 
+                   Games:   6                   Games:   2 
+               Aggregate: 161               Aggregate: 102 
+                  Points:  22                  Points:   6 
+
+ Division 5 (Haigh) 8 Player          Sat 12th Apr         
+    Cleckheaton Sports B              Brackenhill          
+Geoff Akerman               6 John Howarth              21 
+Geoff Thornton             21 Jackie Wilkinson           6 
+Andrea Brearley             9 Bob Armitage              21 
+Anne Watkinson             14 Andrew Mackrill           21 
+Janet Inness               21 Kathy Wilford             12 
+Helen Seed                 14 Tony Cockcroft            21 
+Lynn Seddon                21 Graham Wilkinson           7 
+Alex Green                 11 Madeline Gamble           21 
+                   Games:   3                   Games:   5 
+               Aggregate: 117               Aggregate: 130 
+                  Points:  11                  Points:  17 
+
+ Division 5 (Haigh) 8 Player          Sat 12th Apr         
        Spen Victoria C               Bailiff Bridge        
 Ken Spencer                21 Malcolm Park              19 
 Justine Wood               21 Sandra Franz               9 
@@ -258,6 +350,20 @@ Archie Wood                21 Andy Stoutt               18
                    Games:   4                   Games:   4 
                Aggregate: 146               Aggregate: 148 
                   Points:  13                  Points:  15 
+
+ Division 6 (Riley) 8 Player          Sat 12th Apr         
+          Clayton B                   Bowling Park         
+Trevor Bateman             21 Trevor Yeadon             12 
+Sue Findlay                21 Violet Rodgers            10 
+Ian Findlay                 9 Jackie Swindell           21 
+Shaun Toehill              21 John Chisholm              4 
+Joe Midgley                21 Sheila Krysik             19 
+Peter Barker               21 Christine Kilner          12 
+Malcolm Riggs              21 Carol Chisholm             5 
+Steve Edgley                8 Keith Robertson           21 
+                   Games:   6                   Games:   2 
+               Aggregate: 143               Aggregate: 104 
+                  Points:  20                  Points:   8 
 
  Division 6 (Riley) 8 Player          Sat 12th Apr         
          Guiseley C                  Bradford Moor         
