@@ -547,9 +547,9 @@
             ]
         },
         "jim moorin": {
-            "totalAgg": 93,
-            "totalAggAgainst": 56,
-            "availableAgg": 105,
+            "totalAgg": 112,
+            "totalAggAgainst": 77,
+            "availableAgg": 126,
             "availablePairsAgg": 0,
             "availableHomeAgg": 63,
             "availableAwayAgg": 21,
@@ -570,7 +570,7 @@
             "awayWins": 1,
             "awayLosses": 0,
             "cupWins": 0,
-            "cupLosses": 1,
+            "cupLosses": 2,
             "pairWins": 0,
             "pairLosses": 0,
             "pairHomeWins": 0,
@@ -579,35 +579,36 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 5,
+            "totalGamesPlayed": 6,
             "results": [
                 "jim moorin 21 - 5 brenda chaffer",
                 "jim moorin 21 - 18 mark hopps",
                 "jim moorin 9 - 21 chris bedford",
                 "jim moorin 21 - 2 janice connaleigh",
+                "jim moorin 19 - 21 ken garbett",
                 "jim moorin 21 - 10 michael sansom"
             ]
         },
         "jim swailes": {
-            "totalAgg": 117,
-            "totalAggAgainst": 108,
-            "availableAgg": 126,
+            "totalAgg": 138,
+            "totalAggAgainst": 120,
+            "availableAgg": 147,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 63,
+            "availableHomeAgg": 84,
             "availableAwayAgg": 63,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 63,
-            "totalHomeAggAgainst": 47,
+            "totalHomeAgg": 84,
+            "totalHomeAggAgainst": 59,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 54,
             "totalAwayAggAgainst": 61,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 3,
+            "homeWins": 4,
             "homeLosses": 0,
             "awayWins": 1,
             "awayLosses": 2,
@@ -621,14 +622,15 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 6,
+            "totalGamesPlayed": 7,
             "results": [
                 "jim swailes 21 - 13 martin mcgowan",
                 "jim swailes 20 - 21 gary haley",
                 "jim swailes 13 - 21 linda gaunt",
                 "jim swailes 21 - 16 jeff blackburn",
                 "jim swailes 21 - 19 iain baker",
-                "jim swailes 21 - 18 wendy shimbles"
+                "jim swailes 21 - 18 wendy shimbles",
+                "jim swailes 21 - 12 kevin wood"
             ]
         },
         "joey broadbent": {
@@ -668,18 +670,18 @@
             "results": []
         },
         "john armitage": {
-            "totalAgg": 112,
-            "totalAggAgainst": 79,
-            "availableAgg": 126,
+            "totalAgg": 123,
+            "totalAggAgainst": 100,
+            "availableAgg": 147,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 21,
+            "availableHomeAgg": 42,
             "availableAwayAgg": 63,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 21,
-            "totalHomeAggAgainst": 9,
+            "totalHomeAgg": 32,
+            "totalHomeAggAgainst": 30,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 49,
@@ -687,7 +689,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 1,
-            "homeLosses": 0,
+            "homeLosses": 1,
             "awayWins": 1,
             "awayLosses": 2,
             "cupWins": 2,
@@ -700,13 +702,14 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 6,
+            "totalGamesPlayed": 7,
             "results": [
                 "john armitage 21 - 9 carol matthews",
                 "john armitage 21 - 12 david steel",
                 "john armitage 21 - 9 myles summers",
                 "john armitage 21 - 7 bailey dawson",
                 "john armitage 17 - 21 dean scarth",
+                "john armitage 11 - 21 neil mylan",
                 "john armitage 11 - 21 matthew jacques"
             ]
         },
@@ -1641,6 +1644,6 @@
             ]
         }
     },
-    "lastUpdated": "13/04/2025",
+    "lastUpdated": "14/04/2025",
     "statsYear": "2025"
 }

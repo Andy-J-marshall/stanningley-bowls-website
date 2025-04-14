@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Sun 13th Apr)
+=== Bradford (Mon. Evening) 2025 (as of Mon 14th Apr)
 === Comp. Match Cards
 
   Division 1 - Thurston          Mon 7th Apr         
@@ -96,5 +96,77 @@ Neil Duxbury           21 John Appleyard           9
            Aggregate: 122             Aggregate:  69 
                Games:   5                 Games:   1 
               Points:  23                Points:   3 
+
+  Division 1 - Thurston          Mon 14th Apr        
+         Farsley               Spen Victoria A       
+Peter Crowther         21 Andy Hodgson            10 
+Jim Swailes            21 Kevin Wood              12 
+Ian Swinfield          10 Philip Smith            21 
+Stuart Brook           19 Peter Ellis             21 
+Peter Scott             9 Debi Davis              21 
+Derek Pickering        21 Mark Goodall            19 
+           Aggregate: 101             Aggregate: 104 
+               Games:   3                 Games:   3 
+              Points:  12                Points:  14 
+
+  Division 1 - Thurston          Mon 14th Apr        
+        Hightown                Heckmondwike A       
+Daren Munt             21 Eddie Temple             3 
+Peter Simpson          21 Kathleen Field           7 
+Alex Edmondson         21 Charlie Sykes           10 
+Tom Gilbert            21 Norman Booth            11 
+Jude Hatfield-Goodall  21 Gerald Bromley          15 
+Logan Preston          18 Gareth Harwood          21 
+           Aggregate: 123             Aggregate:  67 
+               Games:   5                 Games:   1 
+              Points:  23                Points:   3 
+
+  Division 1 - Thurston          Mon 14th Apr        
+     Crowghyll Park               Asa Briggs         
+Sue Farrell            18 Carl Smith              21 
+Derek Carroll          21 Curtis Brown             5 
+Phil Robinson          21 James Klenk             14 
+Eddie Prince           10 Paula Graham            21 
+Andy Matthews          21 Garry Woodhead          12 
+Richard Briggs         21 Michael Frost           12 
+           Aggregate: 112             Aggregate:  85 
+               Games:   4                 Games:   2 
+              Points:  18                Points:   8 
+
+Division 3 - City Sports         Mon 14th Apr        
+       Queensbury                 Clayton B          
+Lorraine Birch         21 Joe Midgley             11 
+Michael Clare          21 Shaun Toehill            4 
+David Jarvis           14 Sue Findlay             21 
+Muriel Keighley        21 Paul Emery              10 
+John Moore             15 Trevor Bateman          21 
+Keith Turner            5 Steve Edgley            21 
+           Aggregate:  97             Aggregate:  88 
+               Games:   3                 Games:   3 
+              Points:  15                Points:  11 
+
+Division 3 - City Sports         Mon 14th Apr        
+     Bradford Moor B              Tyersal B          
+Edward East            15 Jeffrey Smith           21 
+John Appleyard         17 Brenda Hudson           21 
+Martin Barraclough     10 Byron Whalley           21 
+Dave English            0 John Smith              21 
+Geoff Woodfine         15 Edgar Rhodes            21 
+Diane Barraclough      10 Russell Hudson          21 
+           Aggregate:  67             Aggregate: 126 
+               Games:   0                 Games:   6 
+              Points:   1                Points:  25 
+
+Division 3 - City Sports         Mon 14th Apr        
+     Drighlington B              Brackenhill         
+Karl Denville          20 John Howarth            21 
+Peter Thompson         21 Jackie Wilkinson        13 
+Andrew Haigh            6 Graham Wilkinson 'A'    21 
+Pat Brooke             15 Bob Armitage            21 
+Vicky Haigh            14 Kathy Wilford           21 
+David Dowse             5 Madeline Gamble         21 
+           Aggregate:  81             Aggregate: 118 
+               Games:   1                 Games:   5 
+              Points:   5                Points:  21 
 
 
