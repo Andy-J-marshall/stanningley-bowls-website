@@ -120,12 +120,12 @@
             }
         },
         "linda barrand": {
-            "totalAgg": 25,
-            "totalAggAgainst": 31,
-            "availableAgg": 42,
+            "totalAgg": 34,
+            "totalAggAgainst": 52,
+            "availableAgg": 63,
             "availablePairsAgg": 0,
             "availableHomeAgg": 21,
-            "availableAwayAgg": 21,
+            "availableAwayAgg": 42,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -134,14 +134,14 @@
             "totalHomeAggAgainst": 10,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 4,
-            "totalAwayAggAgainst": 21,
+            "totalAwayAgg": 13,
+            "totalAwayAggAgainst": 42,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 1,
             "homeLosses": 0,
             "awayWins": 0,
-            "awayLosses": 1,
+            "awayLosses": 2,
             "cupWins": 0,
             "cupLosses": 0,
             "pairWins": 0,
@@ -152,10 +152,11 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 2,
+            "totalGamesPlayed": 3,
             "results": [
                 "linda barrand 4 - 21 alan byers",
-                "linda barrand 21 - 10 dorcas kirk"
+                "linda barrand 21 - 10 dorcas kirk",
+                "linda barrand 9 - 21 mike wilson"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -168,9 +169,9 @@
                 "aggDiff": 0
             },
             "airewharfe vets": {
-                "games": 2,
+                "games": 3,
                 "wins": 1,
-                "aggDiff": -6
+                "aggDiff": -18
             },
             "mirfield": {
                 "games": 0,
@@ -357,12 +358,12 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 21,
-            "totalAggAgainst": 12,
-            "availableAgg": 21,
+            "totalAgg": 31,
+            "totalAggAgainst": 33,
+            "availableAgg": 42,
             "availablePairsAgg": 0,
             "availableHomeAgg": 0,
-            "availableAwayAgg": 21,
+            "availableAwayAgg": 42,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -371,14 +372,14 @@
             "totalHomeAggAgainst": 0,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 21,
-            "totalAwayAggAgainst": 12,
+            "totalAwayAgg": 31,
+            "totalAwayAggAgainst": 33,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 0,
             "homeLosses": 0,
             "awayWins": 1,
-            "awayLosses": 0,
+            "awayLosses": 1,
             "cupWins": 0,
             "cupLosses": 0,
             "pairWins": 0,
@@ -389,9 +390,10 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 1,
+            "totalGamesPlayed": 2,
             "results": [
-                "stewart watson 21 - 12 terri durrans"
+                "stewart watson 21 - 12 terri durrans",
+                "stewart watson 10 - 21 andy swain"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -419,9 +421,9 @@
                 "aggDiff": 0
             },
             "mirfield (c)": {
-                "games": 0,
+                "games": 1,
                 "wins": 0,
-                "aggDiff": 0
+                "aggDiff": -11
             },
             "bradford half holiday": {
                 "games": 0,
@@ -476,6 +478,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "14/04/2025",
+    "lastUpdated": "16/04/2025",
     "statsYear": "2025"
 }

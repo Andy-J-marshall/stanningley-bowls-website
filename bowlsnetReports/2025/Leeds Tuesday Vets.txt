@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday Over 55s) 2025 (as of Mon 14th Apr)
+=== Leeds & District (Tuesday Over 55s) 2025 (as of Wed 16th Apr)
 === League Match Cards
 
                            Tue 1st Apr      
@@ -42,7 +42,7 @@ Steve Milton       21 Brian Fish         16
 
                            Tue 1st Apr      
   Stanningley Park     Horsforth Woodside.  
-Neil Porter        21 Ann Miller          3 
+Neil Porter        21 Anne Miller         3 
 Steve Gardner      21 Stuart Tennant      7 
 Jim Moorin         21 Brenda Chaffer      5 
 John Armitage      21 Carol Matthews      9 
@@ -98,11 +98,11 @@ Phil Hill          21 Barbara Wherret    10
 Graham Hodder      21 Mal Collinson      13 
 Ian Vickers        21 Alan Goodall        5 
 Ralph Taylor       21 Bob Emerson        14 
-Brian Thompson     21 Dave Brooke        11 
+Brian Thompson     21 Dave Brooke        12 
 Paul Lawson        21 Janet Stockdale    12 
 Paul Hatch         21 Jackie Cross       10 
 Tony Green         21 Dave Hinchcliff     2 
-       Aggregate: 168        Aggregate:  77 
+       Aggregate: 168        Aggregate:  78 
           Points:  40           Points:  13 
 
                            Tue 8th Apr      
@@ -156,5 +156,83 @@ Margaret Finister  16 Steve Milton       21
 Jack Finister      21 Michael Stott      15 
        Aggregate: 127        Aggregate: 144 
           Points:  26           Points:  32 
+
+                          Tue 15th Apr      
+      Cranmore            Bramley Park      
+Donald Chadwick    21 Anthony Caywood     6 
+Graham Bluff       21 John McDermott     12 
+Marvin Stafford    21 Peter Caine        10 
+Ray Watson         16 Hugh Callard       21 
+Harry Gillett      21 Shirley Allman     13 
+Deborah Stafford   15 Barry Palmer       21 
+Peter Nicholson    21 Jeffrey Allman     19 
+Jeff Higgins        6 Brian Fish         21 
+       Aggregate: 142        Aggregate: 123 
+          Points:  32           Points:  26 
+
+                          Tue 15th Apr      
+  Harehills Park A         Gildersome       
+Ian Vickers        21 David Rawson       10 
+Ralph Taylor       21 David Taylor        7 
+Graham Hodder      21 Graham Gaunt        1 
+Phil Hill          21 Frank Hales        20 
+Paul Lawson        21 Kevin Smales       13 
+Tony Green         21 John Ackroyd        5 
+Paul Hatch         21 Tony Morris         4 
+Brian Thompson     11 Linda Gaunt        21 
+       Aggregate: 158        Aggregate:  81 
+          Points:  37           Points:  15 
+
+                          Tue 15th Apr      
+    Holbeck Moor       Horsforth Woodside.  
+Hilary Campbell    18 Graham Hey         21 
+Carl Mahon         21 David Miller       10 
+George Ellener     12 Ian Tindal         21 
+Pat Parker         16 Colin Davison      21 
+Michael Stott      21 Anne Miller        14 
+Julie Mathews      21 Edward Vaughan     10 
+Steve Milton       21 Martin McGowan      5 
+Steve Brown        21 David Lyons         7 
+       Aggregate: 151        Aggregate: 109 
+          Points:  34           Points:  23 
+
+                          Tue 15th Apr      
+  Stanningley Park       Western Flatts     
+Stewart Watson     21 Andrew Ash         14 
+Dave Eaton         21 Susan Reddyhoff    14 
+John Armitage      21 Gary Reddyhoff     11 
+Steve Gardner      21 Shirley Barker      3 
+Paul Bowes         21 Granville Stoyles   6 
+Andy Waller        21 Anne Lucas         15 
+Neil Porter        21 John Manson        10 
+Jimmy Swailes      21 Stewart Wardlow    10 
+       Aggregate: 168        Aggregate:  83 
+          Points:  40           Points:  14 
+
+                          Tue 15th Apr      
+    Drighlington           Barwick BC       
+Phil Keating       19 Jennifer Dodgson   21 
+Kenny Oates        21 Margaret Finister   4 
+Di Hoole           19 Jane Boyd          21 
+Rod Fox            21 Derek Harding       9 
+Duncan Newton       6 Derek Dobson       21 
+David Dowse        21 Chris Boyd         15 
+John Roberts       21 Pam Binns           4 
+Tony Carpenter     21 Jack Finister      11 
+       Aggregate: 149        Aggregate: 106 
+          Points:  34           Points:  21 
+
+                          Tue 15th Apr      
+    Sth Lds Cons          Saville Park      
+Bob Emerson        18 Mark Hopps         21 
+Alan Goodall       13 Sylvia Bickerdike  21 
+Dave Hinchcliff     6 Lynne Hopps        21 
+Janet Stockdale    21 David Beck         11 
+Jackie Cross       18 Jack Sharp         21 
+Barbara Wherret    18 John Peacock       21 
+Mal Collinson       6 Gary Haley         21 
+Dave Brooke        10 Steve Portman      21 
+       Aggregate: 110        Aggregate: 158 
+          Points:  23           Points:  37 
 
 

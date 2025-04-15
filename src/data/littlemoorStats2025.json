@@ -193,9 +193,9 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 70,
-            "totalAggAgainst": 54,
-            "availableAgg": 84,
+            "totalAgg": 51,
+            "totalAggAgainst": 33,
+            "availableAgg": 63,
             "availablePairsAgg": 0,
             "availableHomeAgg": 42,
             "availableAwayAgg": 0,
@@ -216,7 +216,7 @@
             "awayWins": 0,
             "awayLosses": 0,
             "cupWins": 0,
-            "cupLosses": 2,
+            "cupLosses": 1,
             "pairWins": 0,
             "pairLosses": 0,
             "pairHomeWins": 0,
@@ -225,10 +225,9 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 4,
+            "totalGamesPlayed": 3,
             "results": [
                 "jim moorin 21 - 2 janice connaleigh",
-                "jim moorin 19 - 21 ken garbett",
                 "jim moorin 9 - 21 chris bedford",
                 "jim moorin 21 - 10 michael sansom"
             ],
@@ -238,9 +237,9 @@
                 "aggDiff": 0
             },
             "airewharfe monday (b)": {
-                "games": 2,
+                "games": 1,
                 "wins": 1,
-                "aggDiff": 17
+                "aggDiff": 19
             },
             "mirfield": {
                 "games": 0,
@@ -689,6 +688,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "14/04/2025",
+    "lastUpdated": "16/04/2025",
     "statsYear": "2025"
 }

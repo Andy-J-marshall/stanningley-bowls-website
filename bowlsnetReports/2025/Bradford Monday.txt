@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Mon 14th Apr)
+=== Bradford (Mon. Evening) 2025 (as of Wed 16th Apr)
 === Comp. Match Cards
 
   Division 1 - Thurston          Mon 7th Apr         
@@ -133,6 +133,18 @@ Richard Briggs         21 Michael Frost           12
                Games:   4                 Games:   2 
               Points:  18                Points:   8 
 
+  Division 1 - Thurston          Mon 14th Apr        
+        Tyersal A               Shipley Club A       
+Simon Metcalfe         12 Matthew Jacques         21 
+Wendy Shimbles          8 David Bland             21 
+Mason Lindley          21 Ian Jacques             15 
+Chris Mordue           21 Stuart Wilson           12 
+Pam Lindley            21 Graham Baggley          17 
+Gary Wike              21 Craig Fenton            13 
+           Aggregate: 104             Aggregate:  99 
+               Games:   4                 Games:   2 
+              Points:  15                Points:  11 
+
 Division 3 - City Sports         Mon 14th Apr        
        Queensbury                 Clayton B          
 Lorraine Birch         21 Joe Midgley             11 
@@ -156,6 +168,18 @@ Diane Barraclough      10 Russell Hudson          21
            Aggregate:  67             Aggregate: 126 
                Games:   0                 Games:   6 
               Points:   1                Points:  25 
+
+Division 3 - City Sports         Mon 14th Apr        
+        West Royd              Bradford Moor A       
+Jan McGuiness          17 Mark Durrans 'A'        21 
+Sandra Knell           16 Sharon Queripel         21 
+Howard Gothard          1 Neil Duxbury            21 
+Hazel Stanclif         17 Tracy Duxbury           21 
+Anne Gothard           14 Christine Jarvis        21 
+Elizabeth Farrar       20 Michael Jarvis          21 
+           Aggregate:  85             Aggregate: 126 
+               Games:   0                 Games:   6 
+              Points:   4                Points:  22 
 
 Division 3 - City Sports         Mon 14th Apr        
      Drighlington B              Brackenhill         
