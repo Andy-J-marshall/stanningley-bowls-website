@@ -97,18 +97,18 @@
             }
         },
         "andrew marshall": {
-            "totalAgg": 0,
-            "totalAggAgainst": 0,
-            "availableAgg": 0,
+            "totalAgg": 18,
+            "totalAggAgainst": 21,
+            "availableAgg": 21,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 0,
+            "availableHomeAgg": 21,
             "availableAwayAgg": 0,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 0,
-            "totalHomeAggAgainst": 0,
+            "totalHomeAgg": 18,
+            "totalHomeAggAgainst": 21,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 0,
@@ -116,7 +116,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 0,
-            "homeLosses": 0,
+            "homeLosses": 1,
             "awayWins": 0,
             "awayLosses": 0,
             "cupWins": 0,
@@ -129,8 +129,10 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 0,
-            "results": [],
+            "totalGamesPlayed": 1,
+            "results": [
+                "andrew marshall 18 - 21 stuart wilson"
+            ],
             "airewharfe monday": {
                 "games": 0,
                 "wins": 0,
@@ -167,9 +169,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 0,
+                "games": 1,
                 "wins": 0,
-                "aggDiff": 0
+                "aggDiff": -3
             },
             "bradford vets": {
                 "games": 0,
@@ -193,25 +195,25 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 65,
-            "totalAggAgainst": 54,
-            "availableAgg": 84,
+            "totalAgg": 86,
+            "totalAggAgainst": 62,
+            "availableAgg": 105,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 42,
+            "availableHomeAgg": 63,
             "availableAwayAgg": 21,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 42,
-            "totalHomeAggAgainst": 12,
+            "totalHomeAgg": 63,
+            "totalHomeAggAgainst": 20,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 14,
             "totalAwayAggAgainst": 21,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 2,
+            "homeWins": 3,
             "homeLosses": 0,
             "awayWins": 0,
             "awayLosses": 1,
@@ -225,11 +227,12 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 4,
+            "totalGamesPlayed": 5,
             "results": [
                 "jim moorin 21 - 2 janice connaleigh",
                 "jim moorin 14 - 21 christine barker",
                 "jim moorin 9 - 21 chris bedford",
+                "jim moorin 21 - 8 andrew walker",
                 "jim moorin 21 - 10 michael sansom"
             ],
             "airewharfe monday": {
@@ -268,9 +271,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 1,
-                "wins": 0,
-                "aggDiff": -12
+                "games": 2,
+                "wins": 1,
+                "aggDiff": 1
             },
             "bradford vets": {
                 "games": 0,
@@ -588,25 +591,25 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 65,
-            "totalAggAgainst": 68,
-            "availableAgg": 84,
+            "totalAgg": 86,
+            "totalAggAgainst": 81,
+            "availableAgg": 105,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 21,
+            "availableHomeAgg": 42,
             "availableAwayAgg": 21,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 21,
-            "totalHomeAggAgainst": 17,
+            "totalHomeAgg": 42,
+            "totalHomeAggAgainst": 30,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 7,
             "totalAwayAggAgainst": 21,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 1,
+            "homeWins": 2,
             "homeLosses": 0,
             "awayWins": 0,
             "awayLosses": 1,
@@ -620,11 +623,12 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 4,
+            "totalGamesPlayed": 5,
             "results": [
                 "stewart watson 7 - 21 steve rothwell",
                 "stewart watson 21 - 9 stephen kenworthy",
                 "stewart watson 16 - 21 matthew jacques",
+                "stewart watson 21 - 13 jason bridge",
                 "stewart watson 21 - 17 james klenk"
             ],
             "airewharfe monday": {
@@ -663,9 +667,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 2,
-                "wins": 1,
-                "aggDiff": 7
+                "games": 3,
+                "wins": 2,
+                "aggDiff": 15
             },
             "bradford vets": {
                 "games": 0,
