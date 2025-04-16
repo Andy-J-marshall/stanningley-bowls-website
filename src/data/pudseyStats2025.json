@@ -240,12 +240,12 @@
             }
         },
         "richard hodgson": {
-            "totalAgg": 21,
-            "totalAggAgainst": 12,
-            "availableAgg": 21,
+            "totalAgg": 42,
+            "totalAggAgainst": 27,
+            "availableAgg": 42,
             "availablePairsAgg": 0,
             "availableHomeAgg": 0,
-            "availableAwayAgg": 0,
+            "availableAwayAgg": 21,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -254,13 +254,13 @@
             "totalHomeAggAgainst": 0,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 0,
-            "totalAwayAggAgainst": 0,
+            "totalAwayAgg": 21,
+            "totalAwayAggAgainst": 15,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 0,
             "homeLosses": 0,
-            "awayWins": 0,
+            "awayWins": 1,
             "awayLosses": 0,
             "cupWins": 1,
             "cupLosses": 0,
@@ -272,8 +272,9 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 1,
+            "totalGamesPlayed": 2,
             "results": [
+                "richard hodgson 21 - 15 thomas powell",
                 "richard hodgson 21 - 12 graham gaunt"
             ],
             "airewharfe monday": {
@@ -307,9 +308,9 @@
                 "aggDiff": 0
             },
             "bradford half holiday": {
-                "games": 0,
-                "wins": 0,
-                "aggDiff": 0
+                "games": 1,
+                "wins": 1,
+                "aggDiff": 6
             },
             "bradford half holiday (b)": {
                 "games": 0,

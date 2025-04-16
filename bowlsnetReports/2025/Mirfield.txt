@@ -107,6 +107,21 @@ Ben Sweeney            21 Nigel Cranston          18
            Aggregate: 189             Aggregate: 164 
 
        Division 2                Tue 15th Apr        
+  Brighouse Sports 'A'          Pudsey BC 'B'        
+Nigel Briggs           13 Andrew Sykes            21 
+Julian Dawson          21 Dean Scarth             20 
+Bailey Dawson          21 Jake Daggett            20 
+Daniel Dunkerley       21 Duncan Reeves            8 
+Tom Gasson             21 Stuart Hanson            3 
+Robert Hopper          17 Dave Smith              21 
+Peter Clarke           21 Stephen Walker          19 
+Nigel Marshall         21 Dave Cooper             13 
+Jon Gamble             19 Mason Lindley           21 
+Danny Fountain         21 David Hilliam           11 
+              Points:   9                Points:   3 
+           Aggregate: 196             Aggregate: 157 
+
+       Division 2                Tue 15th Apr        
        Whitkirk BC            Almondbury Lib 'A'     
 Scott Bailey           21 Andrew Heaume           12 
 Stan Elwell            21 Bradley Ramsden          8 
@@ -227,6 +242,21 @@ Andy Walker             9 John Bloomer            21
            Aggregate: 181             Aggregate: 160 
 
        Division 4                Tue 15th Apr        
+ Thongsbridge C & BC 'B'      Spen Victoria 'B'      
+Ian Ross               21 Harry Brooke             6 
+Ben Fisher             21 Paul Blackburn          16 
+Joshua Stephens        21 Phil Rayner             15 
+Robert Parker          21 Kevin Wood              18 
+Mike Luty              20 Peter Ellis             21 
+John Gant              21 Paul Warwick            14 
+Thomas Graham          21 David Billington        16 
+Simon Hough            21 Richard Brooke          10 
+Lyndon Campbell        11 John Blackburn          21 
+Ben Hirst              21 Ian Gould                6 
+              Points:  10                Points:   2 
+           Aggregate: 199             Aggregate: 143 
+
+       Division 4                Tue 15th Apr        
          Meltham                Moldgreen Con        
 Phil Russell           16 Mark Wood               21 
 Jack Howarth           12 Andrew Wike             21 
@@ -243,7 +273,7 @@ Jake Dearden           13 Andrew Harper           21
 
        Division 4                Tue 15th Apr        
       Elland Sports           Kirkheaton Con 'B'     
-Aaron Bottomley        21 Ben Waddington           1 
+Aaron Bottomley        21 Jack Waddington          1 
 Russell Broadbent      21 Mark Berry               4 
 Gordon Bradford        21 Richard Gledhill         6 
 Jordan Brown           21 Glyn Moulson             9 
@@ -298,6 +328,19 @@ Michael Hick           21 Paul Van Leeuwen        16
            Aggregate: 121             Aggregate: 145 
 
        Division 5                Tue 15th Apr        
+      Cowcliffe Lib            Heckmondwike BC       
+David Pollard          19 Sean Carter             21 
+David Ashworth         12 Phillip Berry           21 
+F Broscome             11 Eddie Gilbert           21 
+Colin Hufton           21 Norman Booth             9 
+John Doyle             21 Russell Harker          16 
+Derrick Hewitt         21 Gerald Bromley          15 
+Dennis Hufton          21 Darren Goodall          11 
+Steve Halsall          21 Wayne Hudson            10 
+              Points:   7                Points:   3 
+           Aggregate: 147             Aggregate: 124 
+
+       Division 5                Tue 15th Apr        
        Waterloo BC               Broad Oak BC        
 Kris Lunn              21 Dean Shaw               12 
 Ian Lunn               14 Carl Taylor             21 
@@ -315,13 +358,26 @@ Craig Beachill          7 Richard Mozley          21
 Steve Shannon          21 Max Dellourosa           5 
 Dave Mansell           21 Tony Naylor              8 
 Jamie Wyer             21 Ben English              7 
-David Patrickson Jnr   21 James Wood               7 
+David Patrickson Snr   21 James Wood               7 
 Jake Morgan            12 Ian Moxon               21 
 Jeff Shipley           21 Ryan Collins             9 
 Adam Morgan            21 David Wood               7 
 Tom Boyd Snr           21 Neal Hopper              2 
               Points:   9                Points:   1 
            Aggregate: 159             Aggregate:  66 
+
+       Division 6                Tue 15th Apr        
+   Denby Grange BC 'B'      Cleckheaton Sports 'B'   
+Daniel Dewhirst        13 John Ineson             21 
+Steve Bugge            15 John Wilson             21 
+Ben Keeling             8 Gary Sharp              21 
+David Wright            9 Jason Townend           21 
+Bryan Thomas            9 Bradley Throup          21 
+Rob Norbury            21 Andy Bairstow           17 
+Josh Broadhead         21 Josh Walker             13 
+George Fisher          14 Tim Hall                21 
+              Points:   2                Points:   8 
+           Aggregate: 110             Aggregate: 156 
 
        Division 6                Tue 15th Apr        
        Slazengers              Thorpe Green BC       
@@ -348,6 +404,19 @@ John Madden            14 Tony Whitlam            21
 Rob Tracey             21 Derek Hawes             16 
               Points:   3                Points:   7 
            Aggregate: 125             Aggregate: 142 
+
+       Division 7                Tue 15th Apr        
+     Grange Moor BC           Springwood BC 'B'      
+Dave Mills             21 David Warren            12 
+Dale Longley           18 John Stevenson          21 
+Martin Longley         21 Richard Lambert         10 
+Chris Gilbert          15 David Rudd              21 
+David Bolger           21 Graham Summers          17 
+Simon Shaw             21 Jeremy Chomeczko        14 
+Graham Shaw            21 Simon Neve              12 
+Craig Caygill          21 John Pix                14 
+              Points:   8                Points:   2 
+           Aggregate: 159             Aggregate: 121 
 
        Division 7                Tue 15th Apr        
      Milnsbridge BC              Golcar Libs         
