@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Wed 16th Apr)
+=== West Riding & Spen Valley 2025 (as of Thu 17th Apr)
 === League Match Cards
 
       Round of 32                Fri 4th Apr          
@@ -389,6 +389,19 @@ Pam Lindley           21 Shaun Godfrey             15
           Aggregate: 199               Aggregate: 220 
 
         Premier                  Wed 16th Apr         
+     Eccleshill - A            Heckmondwike - A       
+Daniel Teale          21 Harley Tattersley         15 
+Steve Bowes           21 Sam Beresford              9 
+Nicky Rooks           21 Jacob Hatfield-Goodall    19 
+Andy Haran            21 Alex Wolfenden             5 
+Tim Bennett           21 Jude Hatfield-Goodall     11 
+Stephen Bastow        21 Sean Carter               12 
+Nick Bastow           20 Charlie Ripley            21 
+Paul Rooks            21 Graham Higgins            20 
+          Aggregate: 167               Aggregate: 112 
+             Points:   9                  Points:   1 
+
+        Premier                  Wed 16th Apr         
    Spen Victoria - A            Pudsey BC - A         
 Garry Walker          21 David Hilliam             12 
 Mark Ellis            13 Tom Lawrence              21 
@@ -400,6 +413,32 @@ Philip Bryant         17 Dave Smith                21
 John Blackburn         6 Jamie Winterburn          21 
           Aggregate: 124               Aggregate: 155 
              Points:   2                  Points:   9 
+
+        Premier                  Wed 16th Apr         
+        Whitkirk                  Crossgates          
+Nichole Farrar        21 Jonathan Wood             18 
+Phil Hill             17 Mark A Hughes             21 
+Adam Sharpe           21 Ira Jeffers               16 
+Amy Tobin             20 Kez Smith                 21 
+Simon Cahill          21 Liam Griffin              20 
+Stan Elwell           18 Harry Seehra              21 
+Emma Tobin            21 Garreth Lally             18 
+Thomas Johnson        13 Craig Hopwood             21 
+          Aggregate: 152               Aggregate: 156 
+             Points:   4                  Points:   7 
+
+        Premier                  Wed 16th Apr         
+      Shipley - A               Littlemoor - A        
+Chris Bedford         21 Will Bedford              13 
+David Bland            8 John Armitage             21 
+Steve Cooper          21 Jonathan Orbell           19 
+Craig Fenton          21 Adam Mellor               10 
+Chris Jacques         21 Kevin Siddle              16 
+Ian Jacques           21 Martin Fulton             19 
+Matthew Jacques       21 Glen Pratt                 7 
+Neil Simpson          21 Paul Bowes                11 
+          Aggregate: 155               Aggregate: 116 
+             Points:   9                  Points:   1 
 
         Premier                  Wed 16th Apr         
         Guiseley             Brighouse Sports - A     
@@ -506,6 +545,19 @@ Gary Amatt            21 Andy Gardener              9
              Points:   8                  Points:   2 
 
        Division 2                Wed 16th Apr         
+      Rastrick - A                 Holbeck            
+David Wood            21 James Cuffe                4 
+Paul Pendleton        14 Michaela Wardle           21 
+Derek Hanner          21 Kian Hendry               17 
+Michael Carter        20 Alex Perry                21 
+Joshua Smith          16 Lance Greenwood           21 
+Robert Laycock        21 Andrew Dewhirst           12 
+Chris Jenkinson       20 Ian Wardle                21 
+Jack Marsden          21 Daniel Owen               16 
+          Aggregate: 154               Aggregate: 133 
+             Points:   6                  Points:   4 
+
+       Division 2                Wed 16th Apr         
      Pudsey BC - B                 Farsley            
 Sue Chadwick          11 Stuart Brook              21 
 Craig Farquharson     18 Dean Helliwell            21 
@@ -597,6 +649,19 @@ Tony Morris           21 Jack Steward              14
              Points:   8                  Points:   2 
 
        Division 4                Wed 16th Apr         
+    Heckmondwike - C        Cleckheaton Sports - D    
+Steve Sugden          20 Janet Inness              21 
+Eddie Temple          21 Gillian Shore              4 
+George Tozer          21 Linda Potter               7 
+Russell Harker        21 Chris Watson               9 
+Steve Kidd             0 Andrea Brearley           21 
+Kath Field            21 Alan Potter               19 
+Roger Jackson          6 Elaine Binns              21 
+Paul Cooper           21 Chris Piercy              18 
+          Aggregate: 131               Aggregate: 120 
+             Points:   7                  Points:   3 
+
+       Division 4                Wed 16th Apr         
     Harold Club - C               Firth Park          
 Stephen Council        8 Susan Kennerdale          21 
 Ian Boldy              5 Mark Prideaux             21 
@@ -608,5 +673,31 @@ Dave Hill             21 Brian Taylor               8
 Andrew Jacobs          8 Michael Wood              21 
           Aggregate: 116               Aggregate: 136 
              Points:   4                  Points:   7 
+
+       Division 3                Thu 17th Apr         
+     Pudsey BC - C          Cleckheaton Sports - F    
+Steve Clayton         17 Mick Collins              21 
+Angie Morris          15 Nick Robinson             21 
+Paul Myers            21 Richard Simpson           19 
+Hannah Leaf           13 Mark Waite                21 
+David McDonald        18 Neil Gillan               21 
+Rick Pearson          21 Richard Oldroyd           17 
+Andy Barnatt          21 Ryan Piercy                7 
+Taylor Smith          21 Daniel Noland             11 
+          Aggregate: 147               Aggregate: 138 
+             Points:   6                  Points:   4 
+
+       Division 4                Thu 17th Apr         
+ Cleckheaton Sports - E       Spen Victoria - D       
+Lynn Seddon           21 Ken Spencer               13 
+Chris Bentley         21 Derek Warriner            19 
+Rowena Oakey          21 Archie Wood                8 
+Graham Ward           21 Justine Wood               5 
+Callum Brook          18 John Shackleton           21 
+Helen Seed            21 Leigh Manton              19 
+Mark Bailey           21 Laura Wood                17 
+Joe Brook             21 Brian Smith               14 
+          Aggregate: 165               Aggregate: 116 
+             Points:   9                  Points:   1 
 
 
