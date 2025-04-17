@@ -240,25 +240,25 @@
             }
         },
         "richard hodgson": {
-            "totalAgg": 42,
-            "totalAggAgainst": 27,
-            "availableAgg": 42,
+            "totalAgg": 63,
+            "totalAggAgainst": 32,
+            "availableAgg": 63,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 0,
+            "availableHomeAgg": 21,
             "availableAwayAgg": 21,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 0,
-            "totalHomeAggAgainst": 0,
+            "totalHomeAgg": 21,
+            "totalHomeAggAgainst": 5,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 21,
             "totalAwayAggAgainst": 15,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 0,
+            "homeWins": 1,
             "homeLosses": 0,
             "awayWins": 1,
             "awayLosses": 0,
@@ -272,9 +272,10 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 2,
+            "totalGamesPlayed": 3,
             "results": [
                 "richard hodgson 21 - 15 thomas powell",
+                "richard hodgson 21 - 5 richard whitaker",
                 "richard hodgson 21 - 12 graham gaunt"
             ],
             "airewharfe monday": {
@@ -323,9 +324,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 0,
-                "wins": 0,
-                "aggDiff": 0
+                "games": 1,
+                "wins": 1,
+                "aggDiff": 16
             },
             "spen valley (c)": {
                 "games": 1,
