@@ -34,11 +34,10 @@ const leagues = [
         day: 'Leeds Saturday',
         url: '/Leeds-Sat',
     },
-    // TODO add back in once the league is set up
-    // {
-    //     day: 'Leeds Ladies',
-    //     url: '/LeedsLadies',
-    // },
+    {
+        day: 'Leeds Ladies',
+        url: '/LeedsLadies',
+    },
     {
         day: 'Mirfield',
         url: '/Mirfield',
