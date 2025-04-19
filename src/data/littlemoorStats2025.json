@@ -297,9 +297,9 @@
             }
         },
         "john armitage": {
-            "totalAgg": 102,
-            "totalAggAgainst": 87,
-            "availableAgg": 126,
+            "totalAgg": 123,
+            "totalAggAgainst": 100,
+            "availableAgg": 147,
             "availablePairsAgg": 0,
             "availableHomeAgg": 21,
             "availableAwayAgg": 63,
@@ -319,7 +319,7 @@
             "homeLosses": 1,
             "awayWins": 1,
             "awayLosses": 2,
-            "cupWins": 2,
+            "cupWins": 3,
             "cupLosses": 0,
             "pairWins": 0,
             "pairLosses": 0,
@@ -329,13 +329,14 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 6,
+            "totalGamesPlayed": 7,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
                 "john armitage 21 - 9 myles summers",
                 "john armitage 21 - 7 bailey dawson",
                 "john armitage 21 - 8 david bland",
+                "john armitage 21 - 13 dale hardcastle",
                 "john armitage 11 - 21 matthew jacques"
             ],
             "airewharfe monday": {
@@ -369,9 +370,9 @@
                 "aggDiff": 0
             },
             "spen valley": {
-                "games": 3,
-                "wins": 3,
-                "aggDiff": 39
+                "games": 4,
+                "wins": 4,
+                "aggDiff": 47
             },
             "spen valley (b)": {
                 "games": 0,
@@ -699,6 +700,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "18/04/2025",
+    "lastUpdated": "19/04/2025",
     "statsYear": "2025"
 }
