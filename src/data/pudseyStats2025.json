@@ -361,25 +361,25 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 52,
-            "totalAggAgainst": 48,
-            "availableAgg": 63,
+            "totalAgg": 73,
+            "totalAggAgainst": 62,
+            "availableAgg": 84,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 21,
+            "availableHomeAgg": 42,
             "availableAwayAgg": 42,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 21,
-            "totalHomeAggAgainst": 15,
+            "totalHomeAgg": 42,
+            "totalHomeAggAgainst": 29,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 31,
             "totalAwayAggAgainst": 33,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 1,
+            "homeWins": 2,
             "homeLosses": 0,
             "awayWins": 1,
             "awayLosses": 1,
@@ -393,11 +393,12 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 3,
+            "totalGamesPlayed": 4,
             "results": [
                 "stewart watson 21 - 12 terri durrans",
                 "stewart watson 21 - 15 philip sykes",
-                "stewart watson 10 - 21 andy swain"
+                "stewart watson 10 - 21 andy swain",
+                "stewart watson 21 - 14 john lewis"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -425,9 +426,9 @@
                 "aggDiff": 0
             },
             "mirfield (c)": {
-                "games": 1,
-                "wins": 0,
-                "aggDiff": -11
+                "games": 2,
+                "wins": 1,
+                "aggDiff": -4
             },
             "bradford half holiday": {
                 "games": 0,
@@ -482,6 +483,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "21/04/2025",
+    "lastUpdated": "22/04/2025",
     "statsYear": "2025"
 }
