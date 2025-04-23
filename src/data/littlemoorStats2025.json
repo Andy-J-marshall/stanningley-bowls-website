@@ -195,18 +195,18 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 96,
-            "totalAggAgainst": 83,
-            "availableAgg": 126,
+            "totalAgg": 110,
+            "totalAggAgainst": 104,
+            "availableAgg": 147,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 63,
+            "availableHomeAgg": 84,
             "availableAwayAgg": 42,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 63,
-            "totalHomeAggAgainst": 20,
+            "totalHomeAgg": 77,
+            "totalHomeAggAgainst": 41,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 24,
@@ -214,7 +214,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 3,
-            "homeLosses": 0,
+            "homeLosses": 1,
             "awayWins": 0,
             "awayLosses": 2,
             "cupWins": 0,
@@ -227,11 +227,12 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 6,
+            "totalGamesPlayed": 7,
             "results": [
                 "jim moorin 21 - 2 janice connaleigh",
                 "jim moorin 10 - 21 deborah swann",
                 "jim moorin 14 - 21 christine barker",
+                "jim moorin 14 - 21 john shoesmith",
                 "jim moorin 9 - 21 chris bedford",
                 "jim moorin 21 - 8 andrew walker",
                 "jim moorin 21 - 10 michael sansom"
@@ -257,9 +258,9 @@
                 "aggDiff": 0
             },
             "bradford half holiday": {
-                "games": 1,
+                "games": 2,
                 "wins": 0,
-                "aggDiff": -7
+                "aggDiff": -14
             },
             "bradford half holiday (b)": {
                 "games": 0,
@@ -298,25 +299,25 @@
             }
         },
         "john armitage": {
-            "totalAgg": 123,
-            "totalAggAgainst": 100,
-            "availableAgg": 147,
+            "totalAgg": 144,
+            "totalAggAgainst": 112,
+            "availableAgg": 168,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 21,
+            "availableHomeAgg": 42,
             "availableAwayAgg": 63,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 11,
-            "totalHomeAggAgainst": 21,
+            "totalHomeAgg": 32,
+            "totalHomeAggAgainst": 33,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 49,
             "totalAwayAggAgainst": 50,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 0,
+            "homeWins": 1,
             "homeLosses": 1,
             "awayWins": 1,
             "awayLosses": 2,
@@ -330,10 +331,11 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 7,
+            "totalGamesPlayed": 8,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
+                "john armitage 21 - 12 malcolm crotty",
                 "john armitage 21 - 9 myles summers",
                 "john armitage 21 - 7 bailey dawson",
                 "john armitage 21 - 8 david bland",
@@ -361,9 +363,9 @@
                 "aggDiff": 0
             },
             "bradford half holiday": {
-                "games": 0,
-                "wins": 0,
-                "aggDiff": 0
+                "games": 1,
+                "wins": 1,
+                "aggDiff": 9
             },
             "bradford half holiday (b)": {
                 "games": 0,
@@ -701,6 +703,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "22/04/2025",
+    "lastUpdated": "23/04/2025",
     "statsYear": "2025"
 }
