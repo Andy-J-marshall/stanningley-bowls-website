@@ -1,4 +1,4 @@
-=== Leeds & District (Half Holiday) 2025 (as of Tue 22nd Apr)
+=== Leeds & District (Half Holiday) 2025 (as of Wed 23rd Apr)
 === League Match Cards
 
         Div 1              Wed 2nd Apr      
@@ -473,5 +473,137 @@ David Milner        8 Jeff Allman        21
 Barry Wild          7 Brian Fish         21 
        Aggregate:  86        Aggregate: 102 
           Points:  18           Points:  21 
+
+        Div 1             Wed 23rd Apr      
+  Stanningley Park        Whitkirk BC A     
+Stuart Reardon     21 Mike Carroll       15 
+Dave Eaton         13 Phil Cox           21 
+Stuart Potter      12 Graham Hodder      21 
+Steve Gardner      21 Graham Scholes      3 
+Jimmy Swailes      16 Phil Hill          21 
+Neil Porter        10 Tony Green         21 
+       Aggregate:  93        Aggregate: 102 
+          Points:  19           Points:  23 
+
+        Div 1             Wed 23rd Apr      
+    Rothwell BC A        Moor Allerton A    
+Phil Wilsher       21 Mike Gould          4 
+June Johnson       21 Blair Ross          7 
+John Whiteley      21 Richard Mansell    10 
+Peter Linley       21 John Alper         11 
+David Kaye         21 Keith Harbage      14 
+Alan Box           16 Geoff West         21 
+       Aggregate: 121        Aggregate:  67 
+          Points:  28           Points:  12 
+
+        Div 1             Wed 23rd Apr      
+   Meanwood Park A        Holbeck Moor      
+Jeff Blackburn     21 John Binns          8 
+Ian Howard         21 Steve Brown        14 
+Tina Howard        12 Julie Mathews      21 
+Karen Portman      21 Michael Stott      15 
+Chris Daysh        21 Brian Thompson      9 
+Pat Blackburn      20 Steve Milton       21 
+       Aggregate: 116        Aggregate:  88 
+          Points:  26           Points:  17 
+
+        Div 2             Wed 23rd Apr      
+    Grove Road A          Gildersome A      
+John Carr           3 David Norton       21 
+John West          15 Graham Gaunt       21 
+Peter Allanson      8 Kevin Smales       21 
+Martin Murdoch     21 Diane Hales         5 
+Lynne Mattison     19 Linda Gaunt        21 
+Tony Boyes         21 Sandra Deegan       8 
+       Aggregate:  87        Aggregate:  97 
+          Points:  18           Points:  22 
+
+        Div 2             Wed 23rd Apr      
+ South Leeds Cons A          Colton         
+Reece Pratt        13 Michael Noble      21 
+Brenda Moscrop     21 Gary Mahoney       14 
+David Kellett       4 Mick Galley        21 
+Bob Emerson        21 Peter Griffin      16 
+Malcolm Collinson  10 Martin Dowling     21 
+David Brooke        9 Tony Ward          21 
+       Aggregate:  78        Aggregate: 114 
+          Points:  15           Points:  25 
+
+        Div 2             Wed 23rd Apr      
+    Pudsey Park A        Meanwood Park B    
+Carl Birkin        16 John Hindle        21 
+Peter Wild         10 Julie Keightley    21 
+Janet Pearson      21 Ian Macfarlaine     6 
+Frank Lindsay      21 Graham Hey         13 
+Dennis Walters     21 Paul Dishman       17 
+James Drury        13 Oliver Devaney     21 
+       Aggregate: 102        Aggregate:  99 
+          Points:  22           Points:  21 
+
+        Div 3             Wed 23rd Apr      
+     Burley Park             Methley        
+Barry Palmer       21 Roger Boyes        14 
+John Gilroy        21 Jeff Baggaley       2 
+Malcolm Dacre      21 David Beecham      16 
+Michael Howsham    21 Stuart Marsh       16 
+Jeff Fryer         16 Maggie Boyes       21 
+Pat Dacre          21 David Taylor        6 
+       Aggregate: 121        Aggregate:  75 
+          Points:  28           Points:  14 
+
+        Div 3             Wed 23rd Apr      
+    Whitkirk BC B         Potternewton      
+Marian McDonald    21 Frank Powell        8 
+Kevin Collins      21 Valerie Bush        7 
+John Hardwick      21 Phillip Schofield  15 
+Tony Bond          21 Alan Smith         14 
+James Lancaster    21 David Miller       15 
+Martin Costello    21 Gail Schofield      8 
+       Aggregate: 126        Aggregate:  67 
+          Points:  30           Points:  11 
+
+        Div 3             Wed 23rd Apr      
+    Rothwell Park       Middleton Comm A    
+Martin Atkinson    20 Barbara Ragan      21 
+Diane Gomersal     16 Malcolm Hallas     21 
+David Wilson       21 Mark Aspin          7 
+Michael Mason      21 Christine Glynn     9 
+Tim Wilson         21 Brian Ragan         9 
+Karl Dutton        21 Neil Hudson        10 
+       Aggregate: 120        Aggregate:  77 
+          Points:  27           Points:  15 
+
+        Div 4             Wed 23rd Apr      
+    Bramley Park          East End Park     
+Phil Ellis          5 Thelma Lancaster   21 
+Terry Astley       14 Paul Simms         21 
+Peter Richie       21 Andy Niddrie       13 
+Shirley Allman     14 Richard Howlett    21 
+Jeff Allman        19 Dave Howard        21 
+Brian Fish         17 Helen Simms        21 
+       Aggregate:  90        Aggregate: 118 
+          Points:  17           Points:  27 
+
+        Div 4             Wed 23rd Apr      
+    New Wortley A         Pudsey Park B     
+Valerie Dawson     14 Bill Pyett         21 
+Beryl Wainman      15 Barry Wild         21 
+Marie Tate         21 Barbara Nellis     12 
+Keith Sellars      12 Maveen Tomlinson   21 
+Trevor Dawson      21 David Milner        3 
+Stephen Morley     21 Elaine Hill        10 
+       Aggregate: 104        Aggregate:  88 
+          Points:  22           Points:  19 
+
+        Div 4             Wed 23rd Apr      
+  Scatcherd Park B        Grove Road B      
+Roy Mitchell       21 Bev Shillito       18 
+Michael Geary      11 Carol Biscombe     21 
+Sandra Foster      11 Ian Stavely        21 
+Derek Ludlam        4 Peter Sully        21 
+John Rowberry      21 Pat Harrison       10 
+Andrea Gardiner    12 Christine Murdoch  21 
+       Aggregate:  80        Aggregate: 112 
+          Points:  16           Points:  26 
 
 
