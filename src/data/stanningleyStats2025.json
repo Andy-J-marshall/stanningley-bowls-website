@@ -3008,18 +3008,18 @@
             }
         },
         "sarah connolly": {
-            "totalAgg": 2,
-            "totalAggAgainst": 21,
-            "availableAgg": 21,
+            "totalAgg": 13,
+            "totalAggAgainst": 42,
+            "availableAgg": 42,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 0,
+            "availableHomeAgg": 21,
             "availableAwayAgg": 21,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 0,
-            "totalHomeAggAgainst": 0,
+            "totalHomeAgg": 11,
+            "totalHomeAggAgainst": 21,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 2,
@@ -3027,7 +3027,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 0,
-            "homeLosses": 0,
+            "homeLosses": 1,
             "awayWins": 0,
             "awayLosses": 1,
             "cupWins": 0,
@@ -3040,9 +3040,10 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 1,
+            "totalGamesPlayed": 2,
             "results": [
-                "sarah connolly 2 - 21 anne gothard"
+                "sarah connolly 2 - 21 anne gothard",
+                "sarah connolly 11 - 21 susan whelan"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -3075,9 +3076,9 @@
                 "aggDiff": 0
             },
             "leeds ladies": {
-                "games": 1,
+                "games": 2,
                 "wins": 0,
-                "aggDiff": -19
+                "aggDiff": -29
             },
             "leeds saturday": {
                 "games": 0,

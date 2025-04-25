@@ -806,6 +806,18 @@ Darren Ripley             21 Michael Sweeney         17
               Aggregate: 145             Aggregate: 116 
 
          Division 2                 Thu 24th Apr        
+       Horbury WMC A               Wakefield BC A       
+John Stokes               21 Kaz Habib                4 
+John Shaw                 21 David Clough            19 
+Steven Crummack           21 Trevor Newey            12 
+Phillip Dunnill           21 Trevor Dey               4 
+Arthur Clarkson           10 Mark Young              21 
+David Ingham              21 John Dudding            19 
+Den Law                   21 Robyn Walters           11 
+David Horan               21 David Crest             18 
+              Aggregate: 157             Aggregate: 108 
+
+         Division 2                 Thu 24th Apr        
         Savile Park                Smirthwaite B        
 Gareth Portman            21 Graham Kirkaldy          4 
 Lynne Hopps               21 R Dunwell               10 
@@ -962,6 +974,18 @@ John Birkett              21 G Milner                12
               Aggregate: 162             Aggregate:  97 
 
          Division 5                 Thu 24th Apr        
+       Holmfield Park              Horbury WMC B        
+Frank Ryan                21 Terry Walker            12 
+David Smith               20 Andrew Hughes           21 
+Shirley Griffiths         21 Bede McCullough         15 
+Peter Birch                2 Adrian Smart            21 
+Eric France               13 Darren Addison          21 
+Mick Lund                 21 Derek Hawes             14 
+Lucas Manousios           21 Darrell Cook            16 
+Lee Woodrow               21 Michael Gilbert         19 
+              Aggregate: 140             Aggregate: 139 
+
+         Division 5                 Thu 24th Apr        
     West Yorks Sports B           Skelmanthorpe C       
 Patricia Ryder            11 Keith Jagger            21 
 Dorothy Edwards           21 Joanne McLauchlan       14 
@@ -972,5 +996,17 @@ Karen Poyser               6 John Kitching           21
 Clive Sabey               20 Trevor Brook            21 
 John O'Hara               21 Kevin Booth             20 
               Aggregate: 115             Aggregate: 152 
+
+         Division 5                 Thu 24th Apr        
+       Wakefield BC B             Ossett C & AC D       
+Nigel James               13 John Kennelly           21 
+Tony Moss                  9 Eric Law                21 
+Michael Murphy            21 Diane Pitchford          8 
+Tommy Hanley              21 Kevin Smith              6 
+Margaret Carter            9 David Clarkson          21 
+Donald Ward               21 Pauline Clarkson        13 
+David Carter              15 Rena Hirstle            21 
+Ron Greenwood             21 Terry Fletcher          16 
+              Aggregate: 130             Aggregate: 127 
 
 
