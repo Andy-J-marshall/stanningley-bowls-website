@@ -75,7 +75,7 @@ traitorPlayers = {
     "Mirfield": ["stewart watson"],
     "Bradford Half Holiday": [],
     "Spen Valley": [],
-    "Bradford Vets": [],
+    "Bradford Vets": ["stewart watson"],
     "Ossett and Horbury": [],
     "Bradford Saturday": [],
 }
