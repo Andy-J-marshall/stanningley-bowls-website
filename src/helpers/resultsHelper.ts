@@ -39,7 +39,7 @@ export function returnResultsArrayForTeamsWithGames(
         const results: Result[] = returnStructuredResultsArray(team.results);
         return {
             name: config.allTeamsInLeaguesSince2013.find((t) =>
-                t.toLowerCase().includes(team.day.toLowerCase())
+                t.toLowerCase().endsWith(team.day.toLowerCase())
             ),
             results,
         };
