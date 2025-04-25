@@ -157,9 +157,13 @@ def checkTeamName(name, nameUsedForLeague, expectedDisplayName):
         raise Exception("Incorrect team name found")
 
     # Checks not picking up wrong team if one of the teams has not played a game yet
-    if name.lower().endswith(" (a)") and not nameUsedForLeague.lower().endswith(" a"):
+    if name.lower().endswith(" (a)") and not nameUsedForLeague.lower().endswith(
+        (" a", " 'a'")
+    ):
         continueGenerating = False
-    if name.lower().endswith(" (b)") and not nameUsedForLeague.lower().endswith(" b"):
+    if name.lower().endswith(" (b)") and not nameUsedForLeague.lower().endswith(
+        (" b", " 'b'")
+    ):
         continueGenerating = False
 
     return continueGenerating
