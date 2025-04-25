@@ -120,25 +120,25 @@
             }
         },
         "linda barrand": {
-            "totalAgg": 34,
-            "totalAggAgainst": 52,
-            "availableAgg": 63,
+            "totalAgg": 55,
+            "totalAggAgainst": 72,
+            "availableAgg": 84,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 21,
+            "availableHomeAgg": 42,
             "availableAwayAgg": 42,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 21,
-            "totalHomeAggAgainst": 10,
+            "totalHomeAgg": 42,
+            "totalHomeAggAgainst": 30,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 13,
             "totalAwayAggAgainst": 42,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 1,
+            "homeWins": 2,
             "homeLosses": 0,
             "awayWins": 0,
             "awayLosses": 2,
@@ -152,11 +152,12 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 3,
+            "totalGamesPlayed": 4,
             "results": [
                 "linda barrand 4 - 21 alan byers",
                 "linda barrand 21 - 10 dorcas kirk",
-                "linda barrand 9 - 21 mike wilson"
+                "linda barrand 9 - 21 mike wilson",
+                "linda barrand 21 - 20 donald harrison"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -219,9 +220,9 @@
                 "aggDiff": 0
             },
             "bradford vets (b)": {
-                "games": 0,
-                "wins": 0,
-                "aggDiff": 0
+                "games": 1,
+                "wins": 1,
+                "aggDiff": 1
             },
             "bradford saturday": {
                 "games": 0,
@@ -363,12 +364,12 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 73,
-            "totalAggAgainst": 62,
-            "availableAgg": 84,
+            "totalAgg": 94,
+            "totalAggAgainst": 77,
+            "availableAgg": 105,
             "availablePairsAgg": 0,
             "availableHomeAgg": 42,
-            "availableAwayAgg": 42,
+            "availableAwayAgg": 63,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -377,13 +378,13 @@
             "totalHomeAggAgainst": 29,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 31,
-            "totalAwayAggAgainst": 33,
+            "totalAwayAgg": 52,
+            "totalAwayAggAgainst": 48,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 2,
             "homeLosses": 0,
-            "awayWins": 1,
+            "awayWins": 2,
             "awayLosses": 1,
             "cupWins": 0,
             "cupLosses": 0,
@@ -395,12 +396,13 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 4,
+            "totalGamesPlayed": 5,
             "results": [
                 "stewart watson 21 - 12 terri durrans",
                 "stewart watson 21 - 15 philip sykes",
                 "stewart watson 10 - 21 andy swain",
-                "stewart watson 21 - 14 john lewis"
+                "stewart watson 21 - 14 john lewis",
+                "stewart watson 21 - 15 peter howroyd"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -458,9 +460,9 @@
                 "aggDiff": 0
             },
             "bradford vets": {
-                "games": 0,
-                "wins": 0,
-                "aggDiff": 0
+                "games": 1,
+                "wins": 1,
+                "aggDiff": 6
             },
             "bradford vets (b)": {
                 "games": 0,
@@ -485,6 +487,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "23/04/2025",
+    "lastUpdated": "25/04/2025",
     "statsYear": "2025"
 }

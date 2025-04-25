@@ -1,4 +1,4 @@
-=== Leeds & District (Half Holiday) 2025 (as of Wed 23rd Apr)
+=== Leeds & District (Half Holiday) 2025 (as of Fri 25th Apr)
 === League Match Cards
 
         Div 1              Wed 2nd Apr      
@@ -508,6 +508,17 @@ Pat Blackburn      20 Steve Milton       21
           Points:  26           Points:  17 
 
         Div 2             Wed 23rd Apr      
+   Chapel Allerton      Scatcherd Park A    
+Chris Jones        21 Roy Kellet          2 
+Royce Jackson      21 Chris Roy Stuart    4 
+Alex McSheehy      21 Peter Oldfield      5 
+Ian McMillin       21 Terry Dillon        5 
+Bird Steve         21 Kevin Chadwick     11 
+Andrew Paxton       6 Kevin Taylor       21 
+       Aggregate: 111        Aggregate:  48 
+          Points:  26           Points:   9 
+
+        Div 2             Wed 23rd Apr      
     Grove Road A          Gildersome A      
 John Carr           3 David Norton       21 
 John West          15 Graham Gaunt       21 
@@ -605,5 +616,16 @@ John Rowberry      21 Pat Harrison       10
 Andrea Gardiner    12 Christine Murdoch  21 
        Aggregate:  80        Aggregate: 112 
           Points:  16           Points:  26 
+
+        Div 4             Wed 23rd Apr      
+    Gildersome B           New Armley       
+Frank Tempest      21 Carol Butters      20 
+Bev Farrar         17 Gordon Sadler      21 
+David Rawson       14 Fred Hargreaves    21 
+Neil Schofield     21 Josie Burden       19 
+Frank Hales        11 Ken Stockhill      21 
+Simon Hampshaw     21 Richard Stephen    14 
+       Aggregate: 105        Aggregate: 116 
+          Points:  22           Points:  25 
 
 
