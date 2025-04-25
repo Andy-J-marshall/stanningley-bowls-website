@@ -272,6 +272,7 @@ def returnHomeAndAwayPlayerRowsForTeam(
     awayPlayerRow = []
     for rowNumber, line in enumerate(allRowsInFile, start=0):
         row = allRowsInFile[rowNumber]
+        row = sanitisePlayerNames(row)
         if row and type(row) is str:
             findPossiblePlayerNames = re.findall(
                 r"([A-za-z'\-()]+(?: [A-Za-z'\-()]+)+)", row
