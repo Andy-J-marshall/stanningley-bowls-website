@@ -43,7 +43,7 @@ const teams = [
     },
     {
         name: 'Leeds Thursday Vets',
-        captain: 'Derek Wilson',
+        captain: 'Malvin Miller',
         link: 'https://bowlsnet.uk/Leeds-ThuVets',
         img: thurVetsImg,
     },
@@ -61,7 +61,7 @@ const teams = [
     },
     {
         name: 'Leeds Saturday B',
-        captain: 'Derek Wilson',
+        captain: 'Alison Woodfine',
         link: 'https://bowlsnet.uk/Leeds-Sat',
         img: satBImg,
     },
