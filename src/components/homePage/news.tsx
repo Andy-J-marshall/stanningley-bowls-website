@@ -33,7 +33,6 @@ function News() {
             <h1>latest news</h1>
             <Row xs={1} lg={3} className="g-4 align-items-start">
                 <Col>
-                <Col>
                     <NewsItem
                         title="BOWLS BIG WEEKEND"
                         openingText="Stanningley will be hosting an open day on Sunday 25th May for the Bowls Big Weekend."
@@ -42,6 +41,7 @@ function News() {
                         callback={handleNewsExpand2}
                         expanded={expandNews2}
                     />
+                </Col>
                 <Col>
                     <NewsItem
                         title="LADIES TEAM"
@@ -52,7 +52,7 @@ function News() {
                         expanded={expandNews3}
                     />
                 </Col>
-                </Col>
+                <Col>
                     <NewsItem
                         title="FUNDRAISING"
                         openingText="Stanningley has signed up to EasyFundraising to raise money for the club."
