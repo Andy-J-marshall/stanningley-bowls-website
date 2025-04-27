@@ -6,6 +6,7 @@ import laneEndImg from '../../images/supporters/lane_end_garages.png';
 import floorGuysImg from '../../images/supporters/the_floor_guys.png';
 import leedsElectricalImg from '../../images/supporters/leeds_electrical.png';
 import howdenInsuranceImg from '../../images/supporters/howden_insurance.png';
+import jugAndBarrelImg from '../../images/supporters/jug_and_barrel.png';
 import howdensImg from '../../images/supporters/howdens.png';
 
 function Supporters() {
@@ -41,6 +42,9 @@ function Supporters() {
                 href="https://www.howdens.com/find-a-depot/stanningley"
             >
                 <img className="supporters-logos" src={howdensImg} />
+            </a>
+            <a target="_blank" href="https://www.facebook.com/groups/106305562724232">
+                <img className="supporters-logos" src={jugAndBarrelImg} />
             </a>
         </div>
     );

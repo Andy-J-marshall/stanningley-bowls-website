@@ -9,6 +9,7 @@ import heritageFundImg from '../images/supporters/heritage_fund.png';
 import easyFundraisingImg from '../images/supporters/easy_fundraising.png';
 import howdenInsuranceImg from '../images/supporters/howden_insurance.png';
 import howdensImg from '../images/supporters/howdens.png';
+import jugAndBarrelImg from '../images/supporters/jug_and_barrel.png';
 import { config } from '../config';
 
 const { fullName } = config.teamNames;
@@ -121,6 +122,17 @@ function Sponsors() {
                 The Jug & Barrel in Stanningley is the official pub for{' '}
                 {fullName}.
             </p>
+            <a
+                target="_blank"
+                href="https://www.facebook.com/groups/106305562724232"
+            >
+                <Image
+                    className="sponsors-logos"
+                    rounded
+                    src={jugAndBarrelImg}
+                    fluid
+                ></Image>
+            </a>
             <hr />
 
             <h3>vac shack</h3>
