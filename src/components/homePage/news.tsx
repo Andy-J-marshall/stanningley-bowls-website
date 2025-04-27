@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Col, Row } from 'react-bootstrap';
 import NewsItem from './newsItem';
 import fundraisingImg from '../../images/news/fundraising.png';
-import volunteeringImg from '../../images/news/volunteering.png';
+import bigWeekendImg from '../../images/news/big_weekend.png';
 import ladiesImg from '../../images/news/ladies.png';
 
 function News() {
@@ -37,7 +37,7 @@ function News() {
                         title="BOWLS BIG WEEKEND"
                         openingText="Stanningley will be hosting an open day on Sunday 25th May for the Bowls Big Weekend."
                         mainText="Members will be on hand to show anyone who is interested in playing bowls how to play. No experience or equipment required, we will provide everything you need."
-                        imgSrc={volunteeringImg}
+                        imgSrc={bigWeekendImg}
                         callback={handleNewsExpand2}
                         expanded={expandNews2}
                     />
