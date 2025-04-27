@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Fri 25th Apr)
+=== West Riding & Spen Valley 2025 (as of Sun 27th Apr)
 === League Match Cards
 
        Round of 32                   Fri 4th Apr           
@@ -416,7 +416,7 @@ John Blackburn           6 Jamie Winterburn             21
 
          Premier                    Wed 16th Apr           
          Whitkirk                    Crossgates            
-Nichole Farrar          21 Jonathan Wood                18 
+Nichole Farrar          21 Jonathan Wood                20 
 Phil Hill               17 Mark A Hughes                21 
 Adam Sharpe             21 Ira Jeffers                  16 
 Amy Tobin               20 Kez Smith                    21 
@@ -424,7 +424,7 @@ Simon Cahill            21 Liam Griffin                 20
 Stan Elwell             18 Harry Seehra                 21 
 Emma Tobin              21 Garreth Lally                18 
 Thomas Johnson          13 Craig Hopwood                21 
-            Aggregate: 152                  Aggregate: 156 
+            Aggregate: 152                  Aggregate: 158 
                Points:   4                     Points:   7 
 
          Premier                    Wed 16th Apr           
@@ -1173,6 +1173,57 @@ Richard Simpson         12 Neal Hopper                  21
 Richard Oldroyd          8 Max Delarrosa                21 
             Aggregate:  87                  Aggregate: 168 
                Points:   0                     Points:  11 
+
+       Semi-Finals                  Fri 25th Apr           
+                             On Cleckheaton Sports (Top)   
+       Lower Hopton                 Pudsey BC - A          
+Ashley Tattersley       21 Andrew Sykes                 13 
+Harley Tattersley        9 James Hanson                 21 
+Ryan Clark              18 Chris Mordue                 21 
+Robert Hitchen          17 Tom Lawrence                 21 
+Jack Hargreaves         21 Thomas Hanson                18 
+Mark Bramall            18 Ian Shaw                     21 
+Mark Regan              21 Jack Bowes                   17 
+Rob Wiltshire           21 Stephen Walker               20 
+Joe Wiltshire            1 Stuart King                  21 
+Wayne Hirst             21 Josh Mordue                  14 
+Paul Arthurs            15 Gary Wike                    21 
+Ben Halliday            12 Finley Hickey                21 
+            Aggregate: 195                  Aggregate: 229 
+
+       Semi-Finals                  Fri 25th Apr           
+                                On Harold Club (Club)      
+      Littlemoor - A                Morton House           
+Nichole Farrar          12 James Payne                  21 
+Aaron Brine             21 Aidy Leach                   19 
+Mark Dobson             16 Micheal Robinson             21 
+Mark Allman             21 Harrison Messesnger          13 
+Alex Wolfenden          21 Marcus Leach                 10 
+Marc Armitage           21 Darren Ripley                 8 
+Paul Wilczynski         21 Dan Bamforth                  9 
+Robbie Ellis            21 Micheal Sweeney              18 
+Nathan Dobson           17 Charlie Ripley               21 
+Ben Falkingham          19 Chris Sweeney                21 
+Jonathan Orbell         21 Angie Whitworth              18 
+John Armitage           17 Wayne Kemp                   21 
+            Aggregate: 228                  Aggregate: 200 
+
+       Semi-Finals                  Fri 25th Apr           
+                                   On Morton House         
+  Cleckheaton Sports - A          Spen Victoria - A        
+Gary Sharp              18 Mark Goodall                 21 
+John Wilson             16 Lewis Pember                 21 
+Richard Toulson         17 Neil Wood Jnr                21 
+Kath Wilson             10 Andrew Wood                  21 
+Chris Blakeley          21 Chris Ellis                  12 
+Andy Robinson           18 Philip Bryant                21 
+Jason Townend           13 Malcolm Fowler               21 
+Roger Birdsall          19 Kevin Wood                   21 
+Reuben Taylor           11 Garry Walker                 21 
+Janice Walton            8 Andy Gallagher               21 
+Josh Walker              6 Philip Smith                 21 
+Chris Bray               8 Andy Hodgson                 21 
+            Aggregate: 165                  Aggregate: 243 
 
        Semi-Finals                  Fri 25th Apr           
                                      On Rastrick           
