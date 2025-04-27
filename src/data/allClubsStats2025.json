@@ -730,18 +730,18 @@
             ]
         },
         "john armitage": {
-            "totalAgg": 291,
-            "totalAggAgainst": 189,
-            "availableAgg": 315,
+            "totalAgg": 308,
+            "totalAggAgainst": 210,
+            "availableAgg": 336,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 126,
+            "availableHomeAgg": 147,
             "availableAwayAgg": 126,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 116,
-            "totalHomeAggAgainst": 72,
+            "totalHomeAgg": 133,
+            "totalHomeAggAgainst": 93,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 112,
@@ -749,7 +749,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 5,
-            "homeLosses": 1,
+            "homeLosses": 2,
             "awayWins": 4,
             "awayLosses": 2,
             "cupWins": 3,
@@ -762,7 +762,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 15,
+            "totalGamesPlayed": 16,
             "results": [
                 "john armitage 21 - 9 carol matthews",
                 "john armitage 21 - 12 david steel",
@@ -775,6 +775,7 @@
                 "john armitage 21 - 8 david bland",
                 "john armitage 21 - 13 dale hardcastle",
                 "john armitage 21 - 8 stephen bastow",
+                "john armitage 17 - 21 wayne kemp",
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
                 "john armitage 21 - 12 malcolm crotty",
@@ -1856,6 +1857,6 @@
             ]
         }
     },
-    "lastUpdated": "26/04/2025",
+    "lastUpdated": "27/04/2025",
     "statsYear": "2025"
 }

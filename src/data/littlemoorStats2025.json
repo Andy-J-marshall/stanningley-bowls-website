@@ -301,18 +301,18 @@
             }
         },
         "john armitage": {
-            "totalAgg": 207,
-            "totalAggAgainst": 146,
-            "availableAgg": 231,
+            "totalAgg": 224,
+            "totalAggAgainst": 167,
+            "availableAgg": 252,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 84,
+            "availableHomeAgg": 105,
             "availableAwayAgg": 84,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 74,
-            "totalHomeAggAgainst": 52,
+            "totalHomeAgg": 91,
+            "totalHomeAggAgainst": 73,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 70,
@@ -320,7 +320,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 3,
-            "homeLosses": 1,
+            "homeLosses": 2,
             "awayWins": 2,
             "awayLosses": 2,
             "cupWins": 3,
@@ -333,7 +333,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 11,
+            "totalGamesPlayed": 12,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
@@ -345,6 +345,7 @@
                 "john armitage 21 - 8 david bland",
                 "john armitage 21 - 13 dale hardcastle",
                 "john armitage 21 - 8 stephen bastow",
+                "john armitage 17 - 21 wayne kemp",
                 "john armitage 11 - 21 matthew jacques"
             ],
             "airewharfe monday": {
@@ -378,9 +379,9 @@
                 "aggDiff": 0
             },
             "spen valley": {
-                "games": 5,
+                "games": 6,
                 "wins": 5,
-                "aggDiff": 60
+                "aggDiff": 56
             },
             "spen valley (b)": {
                 "games": 0,
@@ -711,6 +712,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "26/04/2025",
+    "lastUpdated": "27/04/2025",
     "statsYear": "2025"
 }
