@@ -195,25 +195,25 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 152,
-            "totalAggAgainst": 134,
-            "availableAgg": 189,
+            "totalAgg": 173,
+            "totalAggAgainst": 148,
+            "availableAgg": 210,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 105,
+            "availableHomeAgg": 126,
             "availableAwayAgg": 63,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 98,
-            "totalHomeAggAgainst": 55,
+            "totalHomeAgg": 119,
+            "totalHomeAggAgainst": 69,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 45,
             "totalAwayAggAgainst": 58,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 4,
+            "homeWins": 5,
             "homeLosses": 1,
             "awayWins": 1,
             "awayLosses": 2,
@@ -227,10 +227,11 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 9,
+            "totalGamesPlayed": 10,
             "results": [
                 "jim moorin 21 - 2 janice connaleigh",
                 "jim moorin 10 - 21 deborah swann",
+                "jim moorin 21 - 14 graham oliver",
                 "jim moorin 14 - 21 christine barker",
                 "jim moorin 14 - 21 john shoesmith",
                 "jim moorin 9 - 21 chris bedford",
@@ -245,9 +246,9 @@
                 "aggDiff": 0
             },
             "airewharfe monday (b)": {
-                "games": 2,
-                "wins": 1,
-                "aggDiff": 8
+                "games": 3,
+                "wins": 2,
+                "aggDiff": 15
             },
             "mirfield": {
                 "games": 0,
@@ -301,12 +302,12 @@
             }
         },
         "john armitage": {
-            "totalAgg": 224,
-            "totalAggAgainst": 167,
-            "availableAgg": 252,
+            "totalAgg": 238,
+            "totalAggAgainst": 188,
+            "availableAgg": 273,
             "availablePairsAgg": 0,
             "availableHomeAgg": 105,
-            "availableAwayAgg": 84,
+            "availableAwayAgg": 105,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -315,14 +316,14 @@
             "totalHomeAggAgainst": 73,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 70,
-            "totalAwayAggAgainst": 65,
+            "totalAwayAgg": 84,
+            "totalAwayAggAgainst": 86,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 3,
             "homeLosses": 2,
             "awayWins": 2,
-            "awayLosses": 2,
+            "awayLosses": 3,
             "cupWins": 3,
             "cupLosses": 0,
             "pairWins": 0,
@@ -333,10 +334,11 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 12,
+            "totalGamesPlayed": 13,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
+                "john armitage 14 - 21 kevin siddle",
                 "john armitage 21 - 11 chris brown",
                 "john armitage 21 - 15 dean missere",
                 "john armitage 21 - 12 malcolm crotty",
@@ -349,9 +351,9 @@
                 "john armitage 11 - 21 matthew jacques"
             ],
             "airewharfe monday": {
-                "games": 2,
+                "games": 3,
                 "wins": 0,
-                "aggDiff": -14
+                "aggDiff": -21
             },
             "airewharfe monday (b)": {
                 "games": 0,
@@ -712,6 +714,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "27/04/2025",
+    "lastUpdated": "28/04/2025",
     "statsYear": "2025"
 }

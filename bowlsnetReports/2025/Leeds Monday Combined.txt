@@ -1,4 +1,4 @@
-=== Leeds & District (Mon. Combined) 2025 (as of Sun 27th Apr)
+=== Leeds & District (Mon. Combined) 2025 (as of Mon 28th Apr)
 === League Match Cards
 
         Div 1             Mon 21st Apr      
@@ -91,5 +91,44 @@ Terry Astley       21 Glennys Ash         5
 Bob Davison           Gordon Stalker        
        Aggregate: 119        Aggregate:  91 
           Points:  27           Points:  18 
+
+        Div 1             Mon 28th Apr      
+     Gildersome           Crossgates BC     
+Barbara Hall       10 Chris Broughton    21 
+Kay Stewart        11 Tom Smith          21 
+John Ackroyd       16 Natalie Sanderson  21 
+Alan Procter       21 Peter Wilcox       14 
+David Norton       13 Lynn Wilcox        21 
+Andy Lockwood         Rachel Wilcox         
+Alison Lockwood     5 Louie Taylor       21 
+Ian Stocks            Mark Taylor           
+       Aggregate:  76        Aggregate: 119 
+          Points:  15           Points:  27 
+
+        Div 2             Mon 28th Apr      
+     Meanwood A           New Farnley A     
+Julie Keightley    21 Dave Taylor        20 
+Graham Hey         21 Emma Dixon         14 
+Oliver Devaney     21 Sue Jones          11 
+John Hindle        15 Simon Lavan        21 
+Jenice Guild       11 Keith Walker       21 
+Ian Macfarlane        Pat Skelton           
+Jenny Holiday      21 Ron Lavan          12 
+Wendy Skyes           John Dixon            
+       Aggregate: 110        Aggregate:  99 
+          Points:  25           Points:  20 
+
+        Div 2             Mon 28th Apr      
+     Whitkirk b           Bramley Park      
+Helen Johnson      21 Sean Fish          12 
+Chloe Jackson      21 Shilrley Allman    12 
+Andy Johnson       21 Peter Caine         7 
+P Hatch            21 Duncan Raper        2 
+S Worthington      14 Bob Davison        21 
+Jim Smith             Terry Astley          
+S Ellis            21 Brian Fish          6 
+P Hardy               Barry Palmer          
+       Aggregate: 119        Aggregate:  60 
+          Points:  27           Points:  11 
 
 
