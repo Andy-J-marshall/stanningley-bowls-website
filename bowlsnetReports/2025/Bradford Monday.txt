@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Sun 27th Apr)
+=== Bradford (Mon. Evening) 2025 (as of Mon 28th Apr)
 === Comp. Match Cards
 
   Division 1 - Thurston           Mon 7th Apr         
@@ -336,5 +336,137 @@ Howard Gothard          21 David Jarvis            15
             Aggregate:  93             Aggregate: 101 
                 Games:   3                 Games:   3 
                Points:  11                Points:  15 
+
+  Division 1 - Thurston           Mon 28th Apr        
+         Farsley                 Heckmondwike A       
+Duncan McPhail          20 Gareth Harwood          21 
+Richard Whittaker       17 Norman Booth            21 
+Peter Crowther          21 Eddie Temple            15 
+Jim Swailes             21 Kathleen Field           6 
+Derek Pickering         19 Gerald Bromley          21 
+Peter Scott             21 Roy Carter              17 
+            Aggregate: 119             Aggregate: 101 
+                Games:   3                 Games:   3 
+               Points:  16                Points:  10 
+
+  Division 1 - Thurston           Mon 28th Apr        
+      Shipley Club A            Spen Victoria A       
+David Bland             21 Kevin Wood              11 
+Richard Bloodworth      21 Andy Hodgson            18 
+Matthew Jacques         21 Peter Ellis              0 
+Ian Jacques             21 Debi Davis              17 
+Stuart Wilson           21 Philip Smith            19 
+Chris Jacques           21 Mark Goodall             8 
+            Aggregate: 126             Aggregate:  73 
+                Games:   6                 Games:   0 
+               Points:  24                Points:   2 
+
+  Division 1 - Thurston           Mon 28th Apr        
+         Hightown                Crowghyll Park       
+Alex Edmondson          21 Phil Robinson           10 
+Jude Hatfield-Goodall   21 Derek Bridge            14 
+Logan Preston           17 Richard Briggs          21 
+Daren Munt              21 Sue Farrell              4 
+Peter Simpson           21 Trevor Hodgson           9 
+Tom Gilbert             21 Eddie Prince            10 
+            Aggregate: 122             Aggregate:  68 
+                Games:   5                 Games:   1 
+               Points:  23                Points:   3 
+
+Division 2 - Robert Bland         Mon 28th Apr        
+        Clayton A                Drighlington A       
+June Wilson             21 Dianne Hoole            15 
+Pauline Macgregor       13 Ian Fairhurst           21 
+Kevin Flanagan          21 John Roberts            13 
+Chris Wilson            21 Mick Warren             13 
+Ray Atkinson            18 Stewart Whiteley        21 
+Gaynor Shutt             3 Ken Oates               21 
+            Aggregate:  97             Aggregate: 104 
+                Games:   3                 Games:   3 
+               Points:  12                Points:  14 
+
+Division 2 - Robert Bland         Mon 28th Apr        
+      New Greengates            Spen Victoria B       
+James Burnett            4 Mark Worrall            21 
+Craig Bentley           21 Laura Wood              18 
+Allan Smith             13 Justine Wood            21 
+Burnett Chris J         21 Archie Wood              8 
+Chris Burnett           21 Lexie Gould             15 
+Alan Broscombe          17 Lucas Wood              21 
+            Aggregate:  97             Aggregate: 104 
+                Games:   3                 Games:   3 
+               Points:  12                Points:  14 
+
+Division 2 - Robert Bland         Mon 28th Apr        
+          Idle B                     Idle A           
+Jane Paxton              8 Roy Barlow              21 
+Jackie Spencer          20 Alan Sinfield           21 
+Robin Haydock            6 Dave Duckett            21 
+Mark Paxton             10 Yvonne Coppin           21 
+David Priestley         20 Pam Barlow              21 
+John Rawnsley           16 Michael Leach           21 
+            Aggregate:  80             Aggregate: 126 
+                Games:   0                 Games:   6 
+               Points:   3                Points:  23 
+
+Division 2 - Robert Bland         Mon 28th Apr        
+      Heckmondwike B             Shipley Club B       
+Eric Franks             20 Scott Kerr              21 
+Steve Sugden            21 Michael Kane            13 
+Peter Buchan            15 Jason Bridge            21 
+Sue Macmanamin           2 Wendy Spivey            21 
+Marie Franks             5 Garry Nellist           21 
+Roger Jackson           11 Andrew Walker           21 
+            Aggregate:  74             Aggregate: 118 
+                Games:   1                 Games:   5 
+               Points:   4                Points:  22 
+
+ Division 3 - City Sports         Mon 28th Apr        
+        Queensbury                 Tyersal B          
+Michael Clare           21 Jeffrey Smith            1 
+John Moore              10 Byron Whalley           21 
+David Jarvis            17 Terry King              21 
+Keith Turner            21 Colin Wright             8 
+Muriel Keighley         21 Russell Hudson          10 
+Peter Dennison           9 Edgar Rhodes            21 
+            Aggregate:  99             Aggregate:  82 
+                Games:   3                 Games:   3 
+               Points:  16                Points:  10 
+
+ Division 3 - City Sports         Mon 28th Apr        
+       Brackenhill                 Clayton B          
+Gordon McLennon          7 Steve Edgley            21 
+Jackie Wilkinson         4 Shaun Toehill           21 
+John Howarth            20 Joe Midgley             21 
+Bob Armitage            21 Malcolm Riggs           13 
+Kathy Wilford           21 Ray Wadsworth            8 
+Graham Wilkinson 'A'    20 Kieran Daly             21 
+            Aggregate:  93             Aggregate: 105 
+                Games:   2                 Games:   4 
+               Points:  10                Points:  16 
+
+ Division 3 - City Sports         Mon 28th Apr        
+     Bradford Moor B               West Royd          
+John Appleyard          21 Howard Gothard          12 
+Edward East             21 Elizabeth Farrar        15 
+Margaret East           10 Anne Gothard            21 
+Doreen Parkin           21 Hazel Stanclif          15 
+Diane Barraclough       17 Sandra Knell            21 
+Martin Barraclough      11 Jan McGuiness           21 
+            Aggregate: 101             Aggregate: 105 
+                Games:   3                 Games:   3 
+               Points:  12                Points:  14 
+
+ Division 3 - City Sports         Mon 28th Apr        
+      Drighlington B                Thornton          
+Mick Tolson             21 Mervyn Gration           9 
+Judy Atkinson           10 June Harrison           21 
+Vicky Haigh             21 Philip Ford             10 
+Andrew Haigh            12 Karen Brame             21 
+Andy Brooke             18 Kenny McCafferty        21 
+Steve Wrigglesworth     21 Dawn Rigget             15 
+            Aggregate: 103             Aggregate:  97 
+                Games:   3                 Games:   3 
+               Points:  14                Points:  12 
 
 
