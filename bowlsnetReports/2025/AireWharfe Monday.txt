@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Mon 28th Apr)
+=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Tue 29th Apr)
 === League Match Cards
 
        Division 1                Mon 7th Apr        
@@ -737,6 +737,38 @@ Angela Carter          21 Ralph Sissons          18
                Games:   9                Games:   1 
               Points:  27               Points:   3 
 
+       Division 2               Mon 28th Apr        
+     Wharfemeadows A             Grove Hill         
+Mike Taylor            10 Katherine Lodge        21 
+Pauline Barnett 'A'    21 Andrew Wilson          12 
+Corrine Thuilliez      11 Belinda Mitchell       21 
+Michael Smith          21 Diane Farrar           18 
+Howard Gardiner        21 David Samuel           12 
+Garrie Bolton          21 Tony Farrar            17 
+Paul Crawford 'A'      21 Alan Dawson            10 
+Mark Silvester 'A'     21 Charles Holden          7 
+Ben Smith              21 Neil Jameson           18 
+Graham Tansley         10 Daniel Twist           21 
+           Aggregate: 178            Aggregate: 157 
+               Games:   7                Games:   3 
+              Points:  20               Points:  10 
+
+       Division 2               Mon 28th Apr        
+        Rufford B                 Pudsey B          
+Catherine New          16 Richard Hodgson        21 
+Pauline Ingleson       11 Kevin Rankin           21 
+Angela Burnham         21 Sue Chadwick           16 
+Stuart Parker          18 David McDonald         21 
+Graham Ingleson        21 Janice Connaleigh      17 
+Val Grace              21 Craig Farquharson       8 
+Glynn Goodyear         21 Hannah Leaf             4 
+Guy Barrie             13 Sam Hunak              21 
+Diane Teale            21 Jake Daggett           13 
+Brian Teale            21 Duncan Reeves          15 
+           Aggregate: 184            Aggregate: 157 
+               Games:   6                Games:   4 
+              Points:  19               Points:  11 
+
        Division 3               Mon 28th Apr        
  Burley in Wharfedale B           Menston A         
 Marie Drysdale         16 Simon Cowley 'A'       21 
@@ -864,5 +896,21 @@ Jeremy Gill            15 Alan Wittrick          21
            Aggregate: 189            Aggregate: 163 
                Games:   5                Games:   5 
               Points:  18               Points:  12 
+
+       Division 4               Mon 28th Apr        
+       Holt Park B              Yeadon Park B       
+Ray Boast              21 Joan Baker             11 
+Brendan Clarke         21 Mark Wilson             2 
+Geraldine Lyons        21 Stan Parker            16 
+Lois Horsfall          21 Shirley Nicholson      14 
+Mark Swindlehurst      21 Barry Slater           16 
+John Tate              19 Tracy Wilson           21 
+Colin Kilner           21 Julie Watson           11 
+Debbie Sandles         21 Maureen Slater         10 
+Michelle Norcliffe     15 Adam Sample            21 
+Andy Barclay           16 Christine Scott        21 
+           Aggregate: 197            Aggregate: 143 
+               Games:   7                Games:   3 
+              Points:  23               Points:   7 
 
 

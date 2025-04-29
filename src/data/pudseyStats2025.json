@@ -1,18 +1,18 @@
 {
     "playerResults": {
         "eleanor graves": {
-            "totalAgg": 19,
-            "totalAggAgainst": 42,
-            "availableAgg": 42,
+            "totalAgg": 25,
+            "totalAggAgainst": 63,
+            "availableAgg": 63,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 21,
+            "availableHomeAgg": 42,
             "availableAwayAgg": 21,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 5,
-            "totalHomeAggAgainst": 21,
+            "totalHomeAgg": 11,
+            "totalHomeAggAgainst": 42,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 14,
@@ -20,7 +20,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 0,
-            "homeLosses": 1,
+            "homeLosses": 2,
             "awayWins": 0,
             "awayLosses": 1,
             "cupWins": 0,
@@ -33,10 +33,11 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 2,
+            "totalGamesPlayed": 3,
             "results": [
                 "eleanor graves 14 - 21 janet warburton",
-                "eleanor graves 5 - 21 david kirk"
+                "eleanor graves 5 - 21 david kirk",
+                "eleanor graves 6 - 21 trevor baranovsky"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -49,9 +50,9 @@
                 "aggDiff": 0
             },
             "airewharfe vets": {
-                "games": 2,
+                "games": 3,
                 "wins": 0,
-                "aggDiff": -23
+                "aggDiff": -38
             },
             "mirfield": {
                 "games": 0,
@@ -241,12 +242,12 @@
             }
         },
         "richard hodgson": {
-            "totalAgg": 122,
-            "totalAggAgainst": 77,
-            "availableAgg": 126,
+            "totalAgg": 143,
+            "totalAggAgainst": 93,
+            "availableAgg": 147,
             "availablePairsAgg": 0,
             "availableHomeAgg": 63,
-            "availableAwayAgg": 42,
+            "availableAwayAgg": 63,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -255,13 +256,13 @@
             "totalHomeAggAgainst": 29,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 38,
-            "totalAwayAggAgainst": 36,
+            "totalAwayAgg": 59,
+            "totalAwayAggAgainst": 52,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 3,
             "homeLosses": 0,
-            "awayWins": 1,
+            "awayWins": 2,
             "awayLosses": 1,
             "cupWins": 1,
             "cupLosses": 0,
@@ -273,9 +274,10 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 6,
+            "totalGamesPlayed": 7,
             "results": [
                 "richard hodgson 21 - 12 david pike",
+                "richard hodgson 21 - 16 catherine new",
                 "richard hodgson 21 - 15 thomas powell",
                 "richard hodgson 21 - 12 derek carroll",
                 "richard hodgson 21 - 5 richard whitaker",
@@ -288,9 +290,9 @@
                 "aggDiff": 0
             },
             "airewharfe monday (b)": {
-                "games": 1,
-                "wins": 1,
-                "aggDiff": 9
+                "games": 2,
+                "wins": 2,
+                "aggDiff": 14
             },
             "airewharfe vets": {
                 "games": 0,
@@ -487,6 +489,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "28/04/2025",
+    "lastUpdated": "29/04/2025",
     "statsYear": "2025"
 }

@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Mon 28th Apr)
+=== Bradford (Mon. Evening) 2025 (as of Tue 29th Apr)
 === Comp. Match Cards
 
   Division 1 - Thurston           Mon 7th Apr         
@@ -372,6 +372,18 @@ Tom Gilbert             21 Eddie Prince            10
             Aggregate: 122             Aggregate:  68 
                 Games:   5                 Games:   1 
                Points:  23                Points:   3 
+
+  Division 1 - Thurston           Mon 28th Apr        
+        Tyersal A                West Bradford        
+Pam Lindley             21 Stuart Graham           15 
+Gary Wike               21 Jason Greenwood          4 
+Mason Lindley           21 Mark Chambers            5 
+Chris Mordue            21 Paul Wood                6 
+Wendy Shimbles          21 Kevin Buckley           16 
+Simon Metcalfe          21 Gregg Fairhead          13 
+            Aggregate: 126             Aggregate:  59 
+                Games:   6                 Games:   0 
+               Points:  26                Points:   0 
 
 Division 2 - Robert Bland         Mon 28th Apr        
         Clayton A                Drighlington A       
