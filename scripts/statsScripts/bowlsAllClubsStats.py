@@ -1,6 +1,6 @@
 import playerDetails
 from sanityChecks import checkPlayerStats
-from fileUtils import findEndRowOfFile, returnTodayDate, saveFile, year
+from fileUtils import returnTodayDate, saveFile, year
 from statsHelper import findCupGameRows
 from playerStatsHelper import (
     returnListOfPlayerStats,
@@ -22,11 +22,8 @@ for league in playerDetails.allLeagues:
         print("Updating Stats: " + league)
         allRowsInFile = file.readlines()
 
-        # Find the number of rows in the file
-        endRow = findEndRowOfFile(league, allRowsInFile)
-
         # Find the cup games in the stats
-        cupGameRows = findCupGameRows(allRowsInFile, endRow)
+        cupGameRows = findCupGameRows(allRowsInFile)
 
         # Find rows in spreadsheet for players' games
         homePlayerRow, awayPlayerRow = returnHomeAndAwayPlayerRowsForAllTeams(
@@ -34,7 +31,7 @@ for league in playerDetails.allLeagues:
         )
 
         # Find each players' results
-        for rowNumber in range(0, endRow + 1):
+        for rowNumber in range(0, len(allRowsInFile) + 1):
             # Create list as players may be playing against one another
             playerRows = []
             playerToProcess = False

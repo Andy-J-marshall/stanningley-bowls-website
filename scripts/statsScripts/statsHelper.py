@@ -48,7 +48,7 @@ def returnTotalAggAvailablePerGame(team):
     return 21
 
 
-def findCupGameRows(allRowsInFile, endRow):
+def findCupGameRows(allRowsInFile):
     cupGameRows = []
     for rowNumber, line in enumerate(allRowsInFile, start=0):
         row = allRowsInFile[rowNumber]
@@ -57,7 +57,7 @@ def findCupGameRows(allRowsInFile, endRow):
                 if text in row.lower():
                     for i in range(0, 13):
                         # check if row above is a bye
-                        if rowNumber + i > endRow:
+                        if rowNumber + i >= len(allRowsInFile):
                             break
                         if "manual award" in allRowsInFile[rowNumber + i].lower():
                             break

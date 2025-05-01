@@ -16,7 +16,7 @@ from sanityChecks import (
     checkPlayerStats,
     validatePlayerNotProcessedTwice,
 )
-from fileUtils import findEndRowOfFile, returnTodayDate, saveFile, year
+from fileUtils import returnTodayDate, saveFile, year
 from statsHelper import (
     findCupGameRows,
     removeSuffixFromTeamName,
@@ -71,9 +71,6 @@ for team in clubDetails.teamDays:
     with open(f"bowlsnetReports/{year}/{league}.txt", "r") as file:
         allRowsInFile = file.readlines()
 
-        # Find the number of rows in the file
-        endRow = findEndRowOfFile(league, allRowsInFile)
-
         # Find team name used by team in this league
         teamNameUsedForLeague, teamNameToUse = returnTeamNameForLeague(
             allRowsInFile, team, clubDetails.displayTeamName, clubDetails.teamNames
@@ -92,7 +89,7 @@ for team in clubDetails.teamDays:
             continue
 
         # Find the cup games in the stats
-        cupGameRows = findCupGameRows(allRowsInFile, endRow)
+        cupGameRows = findCupGameRows(allRowsInFile)
 
         #### TEAM STATS ####
         # Team stats are only generated for Stanningley
@@ -128,7 +125,7 @@ for team in clubDetails.teamDays:
                 )
 
                 # Prevents attempting to process a line that doesn't exist
-                if rowNumber + totalNumberOfRowsAdjustmentInt >= endRow:
+                if rowNumber + totalNumberOfRowsAdjustmentInt >= len(allRowsInFile):
                     break
 
                 # Save the scores
@@ -157,7 +154,7 @@ for team in clubDetails.teamDays:
                         + adjustmentForLeagueInt
                         - adjustFor6PlayerTeamsInt
                     )
-                    if rowNumber + adjustment >= endRow:
+                    if rowNumber + adjustment >= len(allRowsInFile):
                         continue
                     text = allRowsInFile[rowNumber + adjustment]
                     if text and type(text) is str:
