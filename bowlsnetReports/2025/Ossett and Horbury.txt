@@ -526,7 +526,7 @@ Jason Woodhouse           18 Alan Greenwood          21
 Derek Robinson            21 Kirsty Robinson         15 
 Stephen Wainwright        21 Andrea Daniels           5 
 Julie Makepeace           15 Ian Davis               21 
-Jennifer Gray             12 Dave Walker             21 
+Jennifer Gray             12 David Walker            21 
               Aggregate: 144             Aggregate: 124 
 
          Division 3                 Thu 17th Apr        
@@ -773,7 +773,7 @@ Lee Barrett               17 Andy Webb               21
     Ossett Flying Horse            Denby Grange A       
 Graham Blenkinsop         21 Neil Broadhead           9 
 Danny Hallas              21 Danny Walker            12 
-Graham Higgins            21 Dave Walker             12 
+Graham Higgins            21 David Walker            12 
 Roger Lunn                21 George Fisher           18 
 Adam Ward                  9 Scott Fisher            21 
 Paul Wildgoose            21 Ray Mortimer             5 
@@ -1098,12 +1098,24 @@ Thomas Scorah             21 Stuart Daniel            8
 Paul Mottram              21 Michael Pollard          7 
 Ray Mortimer              21 G Richardson            20 
 Scott Fisher              21 T Poulter                9 
-Dave Walker               21 Bob Dalby               14 
+David Walker              21 Bob Dalby               14 
 Danny Walker              16 M Greenall              21 
 David Fisher              21 D Richardson            10 
 Stuart Thompson           21 Neale Wallace           20 
 Neil Broadhead            21 M Gilbert               14 
               Aggregate: 163             Aggregate: 115 
+
+         Division 1                 Thu 1st May         
+       West Bretton A           Ossett Flying Horse     
+Tim Chadwick              21 Kevin Burns             20 
+Kim Fisher                15 Gordon Hird             21 
+Steve Hall                21 John Taylor              7 
+Peter Rhodes              20 Adam Ward               21 
+Richard Stead             21 Roger Lunn               9 
+Steven Sykes              11 Graham Blenkinsop       21 
+James Szabo               21 Graham Higgins          12 
+Joe Peckett               12 Robert Bennett          21 
+              Aggregate: 142             Aggregate: 132 
 
          Division 1                 Thu 1st May         
      Alverthorpe WMC A              Dodworth MW         
@@ -1176,6 +1188,18 @@ Dale Evans                16 Den Law                 21
 Alan Knowles              21 David Horan              9 
 Glen Evans                17 Phillip Dunnill         21 
               Aggregate: 146             Aggregate: 125 
+
+         Division 2                 Thu 1st May         
+      Hanging Heaton B              Savile Park         
+Gary Amatt                21 Gareth Portman          14 
+Paul Murphy               20 Steven Portman          21 
+Philip Crossland          13 Lynne Hopps             21 
+Derek North               15 Karen Portman           21 
+Ian Taylor                21 Liam Massey             19 
+David Ormsby              21 Alfie Hutchinson        19 
+Jacob Amatt               21 David Steel              5 
+Michael Underhill         20 Ellis Owen              21 
+              Aggregate: 152             Aggregate: 141 
 
          Division 3                 Thu 1st May         
         Wrenthorpe A              Ossett C & AC C       
@@ -1296,6 +1320,18 @@ Darren Addison            17 Karen Poyser            21
 Derek Hawes               21 John O'Hara             10 
 Michael Gilbert           21 Clive Sabey              8 
               Aggregate: 164             Aggregate:  77 
+
+         Division 5                 Thu 1st May         
+      Ossett C & AC D                Stanley B          
+John Kennelly             21 Alan Parkin              5 
+Eric Law                  21 Tony Bell                6 
+David Clarkson            21 Barrie Plant            19 
+Rena Hirstle              21 Susan Plant             13 
+Terry Fletcher            21 Keith Lawrance          13 
+Pauline Clarkson          21 Antony Bolton           20 
+Stewart Widdrington        9 Cheryl Cole             21 
+Diane Pitchford           21 Vicky Peters            15 
+              Aggregate: 156             Aggregate: 112 
 
          Division 5                 Thu 1st May         
        Wake Thornes B              Wakefield BC B       
