@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Sat 3rd May)
+=== Bradford (Saturday) 2025 (as of Sun 4th May)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -790,6 +790,22 @@ Steve Clamp                15 Jamie Winterburn          21
                Aggregate: 171               Aggregate: 180 
                   Points:  13                  Points:  17 
 
+ Division 1 (Naylor Premier)          Sat 3rd May          
+        Shipley Club                    Whitkirk           
+David Bland                21 Stan Elwell               13 
+Matthew Jacques 'A'        21 Adam Sharpe                3 
+Scott Bloodworth           21 Andy Martinho              8 
+Chris Jacques              21 Adam Varley               18 
+Daniel Metcalfe            21 Tony Green                10 
+Ian Jacques                21 Paul Tobin                11 
+John Sample                21 Terry Kelly               20 
+Neil Simpson               21 Emma Tobin                20 
+Stuart Wilson              21 Warren Wilson             18 
+Rachel Telford             14 Amy Tobin                 21 
+                   Games:   9                   Games:   1 
+               Aggregate: 203               Aggregate: 142 
+                  Points:  26                  Points:   4 
+
      Division 2 (Godwin)              Sat 3rd May          
  Hipperholme & Lightcliffe A           Rufford A           
 Adrian Megson              19 Thomas Johnson            21 
@@ -821,6 +837,38 @@ Derek Pickering            21 Julie Best                 8
                    Games:   7                   Games:   3 
                Aggregate: 200               Aggregate: 149 
                   Points:  23                  Points:   7 
+
+     Division 2 (Godwin)              Sat 3rd May          
+          Hightown                    Eccleshill A         
+Eddie Gilbert               8 Neil Mylan                21 
+Hayley Wood                 9 Ken Gilroy                21 
+Poppy Fox                  10 Graham Chaffer            21 
+Adam Darby                 12 Mark Reynolds             21 
+Jude Hatfield-Goodall      14 Steve Bowes               21 
+Sean Carter                20 Mick Angus                21 
+Tom Gilbert                21 Andy Haran                19 
+Jacob Hatfield-Goodall     21 Nicky Rooks               15 
+Darren Goodall             21 Ian Matthews              14 
+Jon Edmondson              21 Paul Rooks                 4 
+                   Games:   4                   Games:   6 
+               Aggregate: 157               Aggregate: 178 
+                  Points:  11                  Points:  19 
+
+     Division 2 (Godwin)              Sat 3rd May          
+        Asa Briggs A                   Stainland           
+Jordan Brown 'B'           21 Karen Gant                14 
+Michael Frost              19 Jane Hollingworth         21 
+Mark Hirst                 21 Lynda Drury               13 
+Malcolm Iles 'A'           21 Ben Fisher                10 
+Clive Foord 'A'            21 Stuart Rodd               14 
+Andy Denton                13 Jessica Sykes             21 
+Jason Watters              21 Richard Severn             6 
+Scott Sansom               21 Peter Hopkinson           15 
+Stuart King                21 Robert Dickinson           9 
+Glenn McCafferty           21 John Gant                 11 
+                   Games:   8                   Games:   2 
+               Aggregate: 200               Aggregate: 134 
+                  Points:  25                  Points:   5 
 
      Division 3 (Mellor)              Sat 3rd May          
         Littlemoor B               Brighouse Sports B      
@@ -870,6 +918,22 @@ Colin Matthewman           18 Vincent Kerr              21
                Aggregate: 189               Aggregate: 187 
                   Points:  16                  Points:  14 
 
+     Division 3 (Mellor)              Sat 3rd May          
+        Eccleshill B                  Burley Park          
+Derek Relton               21 Tommy Parr                20 
+Sarah Harrison             15 Mark McCann               21 
+Diane Emery                21 James Miller              16 
+Pauline Gilroy             12 Stephen Pickersgill       21 
+Peter Jefferson            21 Cheryl Smith              17 
+Martin Hayton              21 John Gilroy               16 
+Peter Howroyd              20 Daley Clark               21 
+John Griffin                3 Steven Gilroy             21 
+Ken Wilson                 21 Jordan Edmondson          14 
+Andrew Howie               21 Harry Smith               18 
+                   Games:   6                   Games:   4 
+               Aggregate: 176               Aggregate: 185 
+                  Points:  15                  Points:  15 
+
 Division 4 (Bartle) 8 Player          Sat 3rd May          
        West Bradford A               Crowghyll Park        
 Eddie Pells                21 Eddie Prince              18 
@@ -897,6 +961,20 @@ Taylor Smith               21 David Smalley             11
                    Games:   7                   Games:   1 
                Aggregate: 160               Aggregate: 104 
                   Points:  23                  Points:   5 
+
+Division 4 (Bartle) 8 Player          Sat 3rd May          
+         Hove Edge B              Cleckheaton Sports A     
+Judy Cockroft              17 Elaine Binns              21 
+Janet Carney               19 Val Wilson                21 
+Douglas Haigh               4 Kath Wilson               21 
+Chris Wood                 15 Alan Potter               21 
+Chris Illingworth          19 John Wilson               21 
+Neil Mount                 17 Liz Ellis                 21 
+Peter Martin                5 Shaun Suthers             21 
+Kevin Longbottom           18 Dave Marshall             21 
+                   Games:   0                   Games:   8 
+               Aggregate: 114               Aggregate: 168 
+                  Points:   4                  Points:  24 
 
 Division 4 (Bartle) 8 Player          Sat 3rd May          
         Luddendenfoot                 Hill Crest B         
@@ -971,10 +1049,10 @@ Andrew Jacobs              21 Ed Davison                18
  Division 6 (Riley) 8 Player          Sat 3rd May          
         Eccleshill C                  Bowling Park         
 Tom Spensley                7 Keith Robertson           21 
-Sue Butler                 21 John Ibbotson              9 
+Sue Butler                 21 Violet Rodgers             3 
 Shirley Rooks              13 Brian Metcalfe            21 
 Vincent Bussingham         21 Christine Kilner          19 
-Kevin Ackroyd              21 Violet Rodgers             3 
+Kevin Ackroyd              21 John Ibbotson              9 
 Melissa Gilroy             21 Trevor Yeadon             16 
 Andrew Smith               21 Sheila Krysik             18 
 Ken Binder                 21 Lesley Cordingley          5 
