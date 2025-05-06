@@ -422,12 +422,12 @@
             }
         },
         "martin fulton": {
-            "totalAgg": 43,
-            "totalAggAgainst": 61,
-            "availableAgg": 63,
+            "totalAgg": 61,
+            "totalAggAgainst": 82,
+            "availableAgg": 84,
             "availablePairsAgg": 0,
             "availableHomeAgg": 21,
-            "availableAwayAgg": 42,
+            "availableAwayAgg": 63,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -436,14 +436,14 @@
             "totalHomeAggAgainst": 19,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 22,
-            "totalAwayAggAgainst": 42,
+            "totalAwayAgg": 40,
+            "totalAwayAggAgainst": 63,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 1,
             "homeLosses": 0,
             "awayWins": 0,
-            "awayLosses": 2,
+            "awayLosses": 3,
             "cupWins": 0,
             "cupLosses": 0,
             "pairWins": 0,
@@ -454,8 +454,9 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 3,
+            "totalGamesPlayed": 4,
             "results": [
+                "martin fulton 18 - 21 wayne kemp",
                 "martin fulton 19 - 21 ian jacques",
                 "martin fulton 21 - 19 nicky rooks",
                 "martin fulton 3 - 21 charlie ripley"
@@ -476,9 +477,9 @@
                 "aggDiff": 0
             },
             "mirfield (b)": {
-                "games": 0,
+                "games": 1,
                 "wins": 0,
-                "aggDiff": 0
+                "aggDiff": -3
             },
             "bradford half holiday": {
                 "games": 0,
@@ -725,6 +726,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "05/05/2025",
+    "lastUpdated": "06/05/2025",
     "statsYear": "2025"
 }
