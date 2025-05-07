@@ -196,25 +196,25 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 259,
-            "totalAggAgainst": 242,
-            "availableAgg": 315,
+            "totalAgg": 280,
+            "totalAggAgainst": 262,
+            "availableAgg": 336,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 168,
+            "availableHomeAgg": 189,
             "availableAwayAgg": 126,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 157,
-            "totalHomeAggAgainst": 109,
+            "totalHomeAgg": 178,
+            "totalHomeAggAgainst": 129,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 93,
             "totalAwayAggAgainst": 112,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 6,
+            "homeWins": 7,
             "homeLosses": 2,
             "awayWins": 3,
             "awayLosses": 3,
@@ -228,7 +228,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 15,
+            "totalGamesPlayed": 16,
             "results": [
                 "jim moorin 21 - 2 janice connaleigh",
                 "jim moorin 10 - 21 deborah swann",
@@ -237,6 +237,7 @@
                 "jim moorin 14 - 21 christine barker",
                 "jim moorin 14 - 21 john shoesmith",
                 "jim moorin 21 - 13 pauline gilroy",
+                "jim moorin 21 - 20 thomas powell",
                 "jim moorin 9 - 21 chris bedford",
                 "jim moorin 21 - 8 andrew walker",
                 "jim moorin 21 - 16 david smith",
@@ -267,9 +268,9 @@
                 "aggDiff": 0
             },
             "bradford half holiday": {
-                "games": 3,
-                "wins": 1,
-                "aggDiff": -6
+                "games": 4,
+                "wins": 2,
+                "aggDiff": -5
             },
             "bradford half holiday (b)": {
                 "games": 0,
@@ -308,25 +309,25 @@
             }
         },
         "john armitage": {
-            "totalAgg": 307,
-            "totalAggAgainst": 261,
-            "availableAgg": 357,
+            "totalAgg": 328,
+            "totalAggAgainst": 274,
+            "availableAgg": 378,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 147,
+            "availableHomeAgg": 168,
             "availableAwayAgg": 126,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 129,
-            "totalHomeAggAgainst": 104,
+            "totalHomeAgg": 150,
+            "totalHomeAggAgainst": 117,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 102,
             "totalAwayAggAgainst": 107,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 4,
+            "homeWins": 5,
             "homeLosses": 3,
             "awayWins": 2,
             "awayLosses": 4,
@@ -340,7 +341,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 17,
+            "totalGamesPlayed": 18,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
@@ -349,6 +350,7 @@
                 "john armitage 21 - 11 chris brown",
                 "john armitage 21 - 15 dean missere",
                 "john armitage 21 - 10 danny kilburn",
+                "john armitage 21 - 13 harley tattersley",
                 "john armitage 21 - 12 malcolm crotty",
                 "john armitage 21 - 9 myles summers",
                 "john armitage 21 - 7 bailey dawson",
@@ -371,9 +373,9 @@
                 "aggDiff": 0
             },
             "mirfield": {
-                "games": 3,
-                "wins": 3,
-                "aggDiff": 27
+                "games": 4,
+                "wins": 4,
+                "aggDiff": 35
             },
             "mirfield (b)": {
                 "games": 0,
@@ -726,6 +728,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "06/05/2025",
+    "lastUpdated": "07/05/2025",
     "statsYear": "2025"
 }
