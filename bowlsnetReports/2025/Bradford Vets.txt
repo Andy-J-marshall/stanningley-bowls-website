@@ -1,4 +1,4 @@
-=== Bradford (Vets) 2025 (as of Thu 8th May)
+=== Bradford (Vets) 2025 (as of Fri 9th May)
 === Comp. Match Cards
 
 Division Four ( 6 Players)       Thu 10th Apr       
@@ -833,7 +833,7 @@ Andrew Smith             19 Graham Wilkinson     21
 
       Division Three              Thu 8th May       
        Shipley Club               Royd House        
-Wendy Spivey             21 David Atherton        7 
+Wendy Spivey             21 Michael Czuba         7 
 Steve West               21 Keith Powell          4 
 Shaun Chamberlain        21 Mike Craft           10 
 Tony Greenwood           21 Gordon Evans         12 
@@ -894,6 +894,18 @@ Peter Dennison           13 Barry Clough         21
              Aggregate: 109          Aggregate:  92 
                  Games:   3              Games:   3 
                 Points:  16             Points:  10 
+
+Division Four ( 6 Players)        Thu 8th May       
+         Clayton C              West Bradford B     
+Joe Midgley              21 Malcolm Leeming      17 
+Sue Findlay              21 *No Player*           0 
+Lee Greenwood            21 Geraldine Sephton    10 
+Kenny McCafferty         21 Neville Wilson        8 
+Malcolm Riggs            21 Steven Bussingham    17 
+Ian Findlay              21 *No Player*           0 
+             Aggregate: 126          Aggregate:  52 
+                 Games:   6              Games:   0 
+                Points:  26             Points:   0 
 
 Division Four ( 6 Players)        Thu 8th May       
          Thornton               Drighlington B      

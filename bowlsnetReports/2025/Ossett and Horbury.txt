@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Thu 8th May)
+=== Ossett & Horbury 2025 (as of Fri 9th May)
 === League Match Cards
 
          Division 3                 Tue 8th Apr         
@@ -1346,6 +1346,20 @@ R Stables                 21 Tony Moss               12
               Aggregate: 139             Aggregate: 138 
 
         Round of 32                 Thu 8th May         
+                                  On Wakefield BC       
+        Slazenger A                   Sandal A          
+Lee Barrett                6 Craig Hopwood           21 
+Zak Bond                   7 James Hanson            21 
+John Wilkinson            12 Ian Shuttleworth        21 
+Wayne Bond                13 Leighton Shuttleworth   21 
+Gary Eastwood             21 Nigel Cranston          14 
+Gary Larner                6 Sam Farmer              21 
+Liam Redican              21 Kristian Shuttleworth    7 
+Mick Redican              21 Ben Sweeney             17 
+               Handicap: +12              Handicap: Scr 
+              Aggregate: 119             Aggregate: 143 
+
+        Round of 32                 Thu 8th May         
                                   On Clayton West       
      Alverthorpe WMC B            Ossett C & AC B       
 Anita Dack                 8 Martin Cross            21 
@@ -1360,6 +1374,20 @@ James Tiler               21 Chris Goodwin           19
               Aggregate: 145             Aggregate: 158 
 
         Round of 32                 Thu 8th May         
+                                  On Ossett C & AC      
+       Clayton West A             Castleford Town       
+Michael Peace              8 S Williams              21 
+D Richardson              18 Calum Fennell           21 
+E Haigh                   12 Robert McGuire          21 
+M Greenall                21 Mark Hopwood             8 
+Bob Dalby                 21 Daniel Revell           14 
+Neale Wallace             15 David Watson            21 
+G Richardson              21 Dean Hopwood            14 
+M Gilbert                 20 K Siddle                21 
+               Handicap: +12              Handicap: Scr 
+              Aggregate: 148             Aggregate: 141 
+
+        Round of 32                 Thu 8th May         
                                   On Heckmondwike       
        West Bretton A              Smirthwaite B        
 Peter Rhodes              20 Roy Limb                21 
@@ -1372,6 +1400,19 @@ Tim Chadwick              15 Alan Knowles            21
 James Szabo               21 Graham Kirkaldy         19 
                Handicap: +12              Handicap: +24 
               Aggregate: 137             Aggregate: 184 
+
+        Round of 32                 Thu 8th May         
+                                  On Spen Victoria      
+          Sandal B                  Thornhill A         
+Martin Eley               11 Graham Hirst            21 
+Paul Hawes                12 Ian Newby               21 
+Terry Weston              14 Ryan Mitchell           21 
+Lee Grieve                16 Gary Mountain           21 
+Neil Brighton             16 Andy Mitchell           21 
+Steve Simmonds            19 Paul Sweeney            21 
+Andrew Evison             21 Steve Davis             16 
+Darren Pitchforth         21 Kath Robinson           12 
+              Aggregate: 130             Aggregate: 154 
 
         Round of 32                 Thu 8th May         
                                  On Horbury Bridge      
@@ -1413,6 +1454,20 @@ Jonathan Orbell           21 Robyn Walters            7
 Roger Birdsall            21 David Clough             6 
                Handicap: Scr              Handicap: +24 
               Aggregate: 164             Aggregate: 114 
+
+        Round of 32                 Thu 8th May         
+                                    On Rothwell         
+        Morton House                Slazenger B         
+Adrian Leach              21 Lucie Harding           12 
+Marcus Leach              21 Stephen Boyer           15 
+John Leach                21 Gary Denton             19 
+Michael Sweeney           21 Jeff Shaw               17 
+Harrison Messenger        21 Angela Pursglove         5 
+Tom Gilbert               21 Jack Teal               15 
+Charlie Ripley            21 Carol Boyer             19 
+Chris Sweeney             18 Maureen Jennings        21 
+               Handicap: +12              Handicap: +24 
+              Aggregate: 177             Aggregate: 147 
 
         Round of 32                 Thu 8th May         
                                On Ossett Flying Horse   
@@ -1513,6 +1568,20 @@ Paul Curtis               17 John Wood               21
               Aggregate: 158             Aggregate: 143 
 
         Round of 32                 Thu 8th May         
+                                 On Holmfield Park      
+      Ossett C & AC C             Ossett C & AC D       
+John Kellett              21 Stewart Widdrington     13 
+Karen Kellett             21 John Kennelly           11 
+Nora Collier              21 Kevin Smith             11 
+Bryan Collier             21 David Clarkson           8 
+Linda Callaghan           21 Pauline Clarkson         8 
+Svajunas Kapitan          21 Sharon Scholey          16 
+Alan Nash                 21 Eric Law                 7 
+Alison Sykes              16 Diane Pitchford         21 
+               Handicap: Scr              Handicap: +24 
+              Aggregate: 163             Aggregate: 119 
+
+        Round of 32                 Thu 8th May         
                                    On Wrenthorpe        
        Horbury Bridge             Skelmanthorpe C       
 Mark Senior               21 Brenda Ayre              2 
@@ -1525,6 +1594,20 @@ Martin Turner             21 Trevor Brook            11
 Brian Beddow              21 John Kitching           12 
                Handicap: Scr              Handicap: +24 
               Aggregate: 168             Aggregate: 104 
+
+        Round of 32                 Thu 8th May         
+                                   On Brookhouse        
+           B J D                   Denby Grange B       
+Moira Falshaw              7 Graham Blythe           21 
+Peter Richmond             3 Josh Broadhead          21 
+Ken Channer               21 Malcolm Brown           20 
+Les Conway                21 George Fisher           10 
+Ian Falshaw               10 Alan Greenwood          21 
+Gerry Pickard             21 Ben Keeling             18 
+Gillian Haigh             21 Chris Nicholson         18 
+Alan Mullins              21 Corey Tattersley        15 
+               Handicap: +12              Handicap: Scr 
+              Aggregate: 137             Aggregate: 144 
 
         Round of 32                 Thu 8th May         
                                    On Smirthwaite       
@@ -1553,6 +1636,20 @@ Neil Clayton              10 Andrew Lord             21
 Dale Evans                20 Paul Giblin             21 
                Handicap: +12              Handicap: +12 
               Aggregate: 146             Aggregate: 147 
+
+        Round of 32                 Thu 8th May         
+                                    On Slazenger        
+        Wrenthorpe A               Wakefield BC B       
+Eileen Wardman            21 Donald Ward             14 
+Paul Horrocks             21 Tony Moss               19 
+Vernon Green              21 Margaret Carter         20 
+Philip Berry              21 Dorothy Smith           12 
+Dave White                16 Michael Murphy          21 
+Gary Dawson               14 Ron Greenwood           21 
+Dave Gordon               21 David Carter            14 
+Jenny Berry               21 Anita Lawson            13 
+               Handicap: Scr              Handicap: +24 
+              Aggregate: 156             Aggregate: 158 
 
         Round of 32                 Thu 8th May         
                                      On Stanley         
