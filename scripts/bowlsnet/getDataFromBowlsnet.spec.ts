@@ -177,6 +177,8 @@ for (const league of leagues) {
             .getByText('League Fixtures')
             .click();
 
+        await sleep(); // Wait for the page to load
+
         // Export MatchCards
         await page
             .frameLocator('iframe[title="BowlsNet Page"]')
