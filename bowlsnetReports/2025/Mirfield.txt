@@ -1,4 +1,4 @@
-=== Mirfield District Bowling Association 2025 (as of Tue 13th May)
+=== Mirfield District Bowling Association 2025 (as of Wed 14th May)
 === Comp. Match Cards
 
         Division 1                Tue 15th Apr        
@@ -1856,6 +1856,21 @@ Mark Booth              18 Chris Daysh             21
             Aggregate: 202             Aggregate: 167 
 
         Division 1                Tue 13th May        
+    Crosland Moor 'A'            Littlemoor 'A'       
+Ian Booth               21 Marc Armitage           20 
+Matthew Richardson       8 Aaron Brine             21 
+Terry Brook             21 Alexander Wolfenden      4 
+Mark Atkinson           21 John Armitage           19 
+Danny Radcliffe         12 Paul Wilczynski         21 
+Wayne Moseley           21 Lewis Cooper             8 
+Josh Brown              21 Mark Dobson              7 
+Nathan Haigh            21 Will Bedford            18 
+Liam Fallas             21 Nathan Dobson           17 
+Gary Siswick            21 Robbie Ellis            15 
+               Points:  10                Points:   2 
+            Aggregate: 188             Aggregate: 150 
+
+        Division 1                Tue 13th May        
    Lower Hopton WMC 'A'        Woodlands Park 'A'     
 Robert Hitchen           9 Rob McGuire             21 
 Joe Wiltshire           10 Gary Hanson             21 
@@ -1869,6 +1884,36 @@ Ryan Clark              21 Malcolm Fox             19
 Harley Tattersley       21 Richard Jackson          5 
                Points:   8                Points:   4 
             Aggregate: 177             Aggregate: 169 
+
+        Division 1                Tue 13th May        
+    Crossgates BC 'A'          Kirkheaton Con 'A'     
+Mark Hughes             21 Tom Gledhill            19 
+Mark Taylor             21 Shaun Fox               14 
+James Wilcox            21 Courtney Allert         13 
+Craig Hopwood           21 Mark Regan              16 
+Jonathan Wood           21 Gary Foulkes             7 
+Kez Smith               21 Daniel Teale             9 
+Gareth Lally            21 Chris Davies            12 
+Joseph Cranston         13 Danny Kilburn           21 
+Steve Gilroy            19 Oliver Fox              21 
+Liam Griffin            17 George Turton           21 
+               Points:   9                Points:   3 
+            Aggregate: 196             Aggregate: 153 
+
+        Division 2                Tue 13th May        
+        Shipley BC            Lower Hopton WMC 'B'    
+Chris Bedford           21 Paul Arthurs            20 
+David Bland             21 Richard Crowther         8 
+Scott Bloodworth        12 Ian Newby               21 
+Steve Cooper            21 Jacob Hatfield Goodall  13 
+Chris Jacques           14 Harry Chadwick          21 
+Ian Jacques             21 Tom Hirst               15 
+Matthew Jacques         18 Jude Hatfield Goodall   21 
+Danny Metcalfe          21 Ross Ingham             18 
+Ben Ullock              21 Wayne Hirst             17 
+Stuart Wilson           21 Andy Mailer             16 
+               Points:   9                Points:   3 
+            Aggregate: 191             Aggregate: 170 
 
         Division 2                Tue 13th May        
     Almondbury Lib 'A'         Crossgates BC 'B'      
@@ -1884,6 +1929,21 @@ Andrew Heaume           17 Nigel Cranston          21
 Mick Higgins            21 Dean Hopwood            14 
                Points:   8                Points:   4 
             Aggregate: 188             Aggregate: 160 
+
+        Division 2                Tue 13th May        
+   Denby Grange BC 'A'        Brighouse Sports 'A'    
+David Walker            21 Nigel Briggs            10 
+Charlie Fisher          21 Julian Dawson           18 
+Danny Walker            21 Jon Gamble              19 
+Danny Towning           21 Danny Fountain          17 
+Scott Fisher            21 Robert Hopper           11 
+George Fisher           14 Michael Wood            21 
+Neil Broadhead          21 Daniel Dunkerley        16 
+David Fisher            21 Peter Clarke            20 
+Rob Norbury             10 Tom Gasson              21 
+Ray Mortimer            21 Mark Connolly           16 
+               Points:  10                Points:   2 
+            Aggregate: 192             Aggregate: 169 
 
         Division 2                Tue 13th May        
        Whitkirk BC               Pudsey BC 'B'        
@@ -1961,6 +2021,21 @@ Mark Allman             17 Justin Harris           21
             Aggregate: 171             Aggregate: 180 
 
         Division 3                Tue 13th May        
+     Alverthorpe WMC        Ossett Flying Horse 'A'   
+Tom Kaye                21 David Armitage          15 
+Colin Lloyd             21 Paul Wildgoose          16 
+Darren Smith            21 Graham Blenkinsop       16 
+David Cowsill           21 Danny Hallas            19 
+David Clarke            12 Alwyn Beedel            21 
+Steve Lonnia            17 Graham Higgins          21 
+Gareth Gidman           21 Adam Ward               14 
+James Tiler             21 Calum Fennell           12 
+Richard Lonnia          21 Peter Farrar             6 
+Andrew Webb             21 Kevin Burns             16 
+               Points:  10                Points:   2 
+            Aggregate: 197             Aggregate: 156 
+
+        Division 3                Tue 13th May        
     Spen Victoria 'A'            Thurgoland BC        
 Chris Ellis             21 Ryan Pendlebury          6 
 Neil Wood Jnr           21 Brian Sharrock          10 
@@ -1974,6 +2049,21 @@ Andrew Wood             21 David Knights            9
 Connor Davis            21 Tom Wiltshire           12 
                Points:  10                Points:   2 
             Aggregate: 200             Aggregate: 126 
+
+        Division 4                Tue 13th May        
+  Cleckheaton Sports 'A'         Pudsey BC 'C'        
+Tony Throup             21 Steve Harwood            2 
+Joe Bray                21 Dave McDonald            9 
+Roger Birdsall          21 Simon Metcalfe          11 
+Andy Robinson           21 Taylor Smith            13 
+Paul Gill               21 Oliver Mordue           14 
+Richard Toulson         21 Jake Daggett            18 
+Norman Swift            21 Stewart Watson          20 
+Chris Blakeley          19 Duncan Reeves           21 
+Gary Walker             18 Sebastian Mordue        21 
+Michael Rhodes          14 Peter Simpson           21 
+               Points:   9                Points:   3 
+            Aggregate: 198             Aggregate: 150 
 
         Division 4                Tue 13th May        
     Kirkheaton Con 'B'         Spen Victoria 'B'      
@@ -2048,6 +2138,45 @@ Ron Jepson              21 Michael Armitage        18
                Points:   5                Points:   5 
             Aggregate: 142             Aggregate: 145 
 
+        Division 5                Tue 13th May        
+    Slaithwaite C & BC           Cowcliffe Lib        
+Shaun Goldthorpe        19 David Pollard           21 
+Robert Morgan           21 Colin Hufton            10 
+Lee Tricket             21 F Broscome               7 
+Keith Bissell           16 Darryl Starkey          21 
+Oliver Barstow          21 David Ashworth           5 
+John Senior              9 Graham Radcliffe        21 
+Trevor Eckersley         6 Derrick Hewitt          21 
+Mick Mozley             12 Dennis Hufton           21 
+               Points:   3                Points:   7 
+            Aggregate: 125             Aggregate: 127 
+
+        Division 5                Tue 13th May        
+   The Harold Club 'B'          Heckmondwike BC       
+Joe Mellor               9 Sean Carter             21 
+Carl Maguire             5 Eddie Gilbert           21 
+Andrew Jacobs           13 Gerald Bromley          21 
+Mark Gummery            18 Russell Harker          21 
+Vincent Cleary          21 Wayne Hudson            14 
+Matthew Hicks           21 Darren Goodall          10 
+Nigel Swales            21 Norman Booth            19 
+Nicky Jagger            21 Darren Schofield         8 
+               Points:   4                Points:   6 
+            Aggregate: 129             Aggregate: 135 
+
+        Division 5                Tue 13th May        
+       Waterloo BC             Almondbury Lib 'B'     
+Kris Lunn               21 Peter McWilliams         3 
+Ian Lunn                21 Blake Hick               6 
+David Lunn              17 Michael Hick            21 
+Robert Mudd             21 Harold Hick             13 
+John Shackcloth         14 Kyle Spencer            21 
+Tom Fletcher            21 Peter Liversidge        10 
+Nick Rothery            21 Jamie Shaw              20 
+Craig Beachill           8 Ethan Hick              21 
+               Points:   7                Points:   3 
+            Aggregate: 144             Aggregate: 115 
+
         Division 6                Tue 13th May        
     Woodlands Park 'B'            Horbury WMC         
 James Shepherd          19 Tony Whitlam            21 
@@ -2077,7 +2206,7 @@ Charlie Littlewood      19 Robert Southwick        21
         Division 6                Tue 13th May        
    Brighouse Sports 'C'       Denby Grange BC 'B'     
 Eric Charlesworth       18 David Fisher            21 
-James Wood              21 Brian Walker             6 
+James Wood              21 Bryan Thomas             6 
 Peter Owen              21 Daniel Dewhirst          4 
 Tony Naylor             21 Ben Keeling              5 
 Steven Bedford          18 Michael Knowles         21 
@@ -2101,11 +2230,50 @@ Gary Larner              8 John Wilson             21
             Aggregate: 124             Aggregate: 129 
 
         Division 7                Tue 13th May        
+      Grange Moor BC         Cleckheaton Sports 'C'   
+Martin Longley          16 Chris Bray              21 
+Darren Hardcastle       21 Richard Bentley          5 
+Dave Mills              19 John Dyson              21 
+Simon Shaw              21 Dave Marshall           12 
+David Bolger            19 Richard Oldroyd         21 
+Graham Shaw             21 Alex Green              14 
+Michael Booth           21 Stephen Archer           7 
+Craig Caygill           18 Shaun Suthers           21 
+               Points:   6                Points:   4 
+            Aggregate: 156             Aggregate: 122 
+
+        Division 7                Tue 13th May        
+    Springwood BC 'B'          Springwood BC 'A'      
+John Stevenson          12 Chris Windle            21 
+David Warren             4 David Morgan            21 
+Richard Lambert         16 David Turner            21 
+Graham Summers          20 Michael Brammah         21 
+Simon Neve              21 Mick Price              11 
+Alan Henderson           6 Jeff Mellor             21 
+Mick Stout              12 Trevor Balderson        21 
+Michael Wilby            8 David Cooper            21 
+               Points:   1                Points:   9 
+            Aggregate:  99             Aggregate: 158 
+
+        Division 7                Tue 13th May        
+      Milnsbridge BC              Rastrick BC         
+Richard Eaton           18 Geoff Normanton         21 
+David Peacock            7 Jim Warne               21 
+Kian Mosley              7 Dean Swift              21 
+Neil Croasdell          19 Robert Laycock          21 
+Roy Sutton              21 Michael Hollingdrake    12 
+Scott Thornton          21 Derek Hanner            20 
+Robert Iredale          14 Graham Rimmer           21 
+Howard Young            18 Chris Stanley           21 
+               Points:   2                Points:   8 
+            Aggregate: 125             Aggregate: 158 
+
+        Division 7                Tue 13th May        
       Dalton C & BC              Royds Park BC        
 Percy Harrison          19 Mark Seed               21 
 Glen Morris             20 Stuart Burton           21 
 Keith Clarkson          16 Gareth Harwood          21 
-Philip Battye           21 Phillip Rann             6 
+Philip Battye           21 Tim Rann                 6 
 David Hill               4 David Broadhead         21 
 Trevor Boothroyd        11 Stephen Busz            21 
 Richard Taylor          21 Robert Hoyle            13 

@@ -1,4 +1,4 @@
-=== Leeds & District (Half Holiday) 2025 (as of Tue 13th May)
+=== Leeds & District (Half Holiday) 2025 (as of Wed 14th May)
 === League Match Cards
 
         Div 1              Wed 2nd Apr       
@@ -793,5 +793,148 @@ Ken Stockhill      21 Keith Sellars        7
 Dave Hurd          21 Trevor Dawson       20 
        Aggregate: 126         Aggregate:  52 
           Points:  30            Points:   9 
+
+        Div 1              Wed 14th May      
+  Stanningley Park        Rothwell BC A      
+Steve Gardner      13 Alan Box            21 
+Andy Waller        14 Thomas Kaye         21 
+Malcolm Crowson    14 Peter Linley        21 
+Dave Eaton          9 June Johnson        21 
+Alyssa Randell     16 Geoff Newbould      21 
+Neil Porter        17 David Kaye          21 
+       Aggregate:  83         Aggregate: 126 
+          Points:  13            Points:  30 
+
+        Div 1              Wed 14th May      
+    Rothwell BC B          Holbeck Moor      
+Mark Hopps         21 Carl Mahon           6 
+Katie Turner       21 Hilary Campbell      7 
+Peter Burrows      21 John Binns          13 
+Ron Owen           19 Steve Brown         21 
+Lyn Owen           16 Steve Milton        21 
+Lynne Best         11 Brian Thompson      21 
+       Aggregate: 109         Aggregate:  89 
+          Points:  24            Points:  19 
+
+        Div 1              Wed 14th May      
+    Whitkirk BC A         Cross Flatts A     
+Tony Green         21 Jim Bootland        17 
+Paul Hardy         21 Shirley Biancardo   11 
+Phil Cox           21 Ian Wood             8 
+Phil Hill          19 Paul Hatch          21 
+Philip Hatch       21 Mario Biancardo     13 
+Barry Tobin         6 Jason Potter        21 
+       Aggregate: 109         Aggregate:  91 
+          Points:  25            Points:  18 
+
+        Div 2              Wed 14th May      
+   Chapel Allerton            Colton         
+Graham Pickles     21 David Clarkson      11 
+Alex McSheehy      17 Martin Dowling      21 
+Chris Jones        21 Monica Buckroyd      6 
+Ian McMillin       12 Andrea Ryder        21 
+Andrew Paxton      21 Peter Griffin       17 
+Royce Jackson      21 Michael Noble       18 
+       Aggregate: 113         Aggregate:  94 
+          Points:  25            Points:  20 
+
+        Div 2              Wed 14th May      
+    Grove Road A        South Leeds Cons A   
+Ralph Thompson     21 Barbara Wherrett     9 
+Lynne Mattison     21 Malcolm Collinson   14 
+Peter Sully        18 Bob Emerson         21 
+Peter Allanson     21 Jackie Cross        19 
+Tony Boyes         21 Brenda Moscrop      16 
+John West          21 David Brooke        11 
+       Aggregate: 123         Aggregate:  90 
+          Points:  29            Points:  17 
+
+        Div 2              Wed 14th May      
+  Scatcherd Park A        Churwell Park      
+Billy Ward         21 Mick Harrison       16 
+Jeff Holt          21 Kath Andrews         4 
+Kevin Chadwick     19 Ann Lucas           21 
+Terry Dillon       11 Stewart Wardlaw     21 
+Kevin Taylor       11 Sue Harrison        21 
+Peter Oldfield     11 Graham Goodhall     21 
+       Aggregate:  94         Aggregate: 104 
+          Points:  20            Points:  23 
+
+        Div 2              Wed 14th May      
+    Gildersome A         Meanwood Park B     
+Diane Hales         8 Paul Dishman        21 
+Linda Gaunt        14 John Hindle         21 
+Graham Gaunt       21 Graham Hey          16 
+Tony Morris        21 Julie Keightley     15 
+David Norton       21 John King            7 
+Kevin Smales       21 Oliver Devaney      16 
+       Aggregate: 106         Aggregate:  96 
+          Points:  23            Points:  20 
+
+        Div 3              Wed 14th May      
+   Moor Allerton B         Burley Park       
+Gary Enkin         21 Malcolm Dacre        7 
+Rodney Cundle      14 Pat Dacre           21 
+Ian Franklin       21 Michael Howsham      5 
+Martin Kaitcer     21 Jeff Fryer           5 
+Ian Lee            21 Stockdale Pauline    5 
+Paul Shafar        21 Barry Palmer        10 
+       Aggregate: 119         Aggregate:  53 
+          Points:  27            Points:  11 
+
+        Div 3              Wed 14th May      
+ South Leeds Cons B      Middleton Comm A    
+Patrick Toher       9 Barbara Ragan       21 
+Chloe Grant        13 Gordon Monk         21 
+Janet Stockdale    21 Neil Hudson         11 
+David Kellett       4 Malcolm Hallas      21 
+Alan Goodall       21 Brian Ragan         16 
+Mal Stockdale      21 Christine Glynn     17 
+       Aggregate:  89         Aggregate: 107 
+          Points:  18            Points:  23 
+
+        Div 3              Wed 14th May      
+    Rothwell Park         Whitkirk BC B      
+Michael Mason      21 Tony Bond           15 
+Malcolm Cameron    21 Bill Newstead        7 
+Diane Gomersal     21 Marian McDonald     12 
+David Wilson       21 James Lancaster     11 
+Tim Wilson         21 Jim Smith           20 
+Karl Dutton        21 Martin Costello      8 
+       Aggregate: 126         Aggregate:  73 
+          Points:  30            Points:  13 
+
+        Div 4              Wed 14th May      
+    Bramley Park           Grove Road B      
+Lynn Beaumont      13 Sylvia Bartlett     21 
+Terry Astley       21 David Anker         15 
+Andy Best          21 Pat Harrison        10 
+Shirley Allman     21 Peter Nichols       20 
+Peter Richie       18 John Carr           21 
+Brian Fish         21 Carol Biscombe       5 
+       Aggregate: 115         Aggregate:  92 
+          Points:  26            Points:  20 
+
+        Div 4              Wed 14th May      
+    New Wortley A        Scatcherd Park B    
+Jerry Wood         21 John Rowberry        8 
+Valerie Dawson     21 Chris Roy Stuart    19 
+Beryl Wainman      21 Derek Ludlam         5 
+Keith Sellars      21 Michael Geary       20 
+Trevor Dawson      21 Roy Kellet          17 
+Stephen Morley     21 Sandra Foster       12 
+       Aggregate: 126         Aggregate:  81 
+          Points:  30            Points:  15 
+
+        Div 4              Wed 14th May      
+    Pudsey Park B           New Armley       
+Barbara Nellis     21 Glynn Barrett        6 
+Peter Colley        7 Ken Stockhill       21 
+Maveen Tomlinson   21 Richard Stephen     13 
+Barry Wild         20 Richard Aspin       21 
+Elaine Hill        21 Carol Butters        9 
+Bill Pyett         15 Dave Hurd           21 
+       Aggregate: 105         Aggregate:  91 
+          Points:  23            Points:  19 
 
 
