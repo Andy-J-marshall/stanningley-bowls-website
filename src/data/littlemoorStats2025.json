@@ -1,18 +1,18 @@
 {
     "playerResults": {
         "alyssa randell": {
-            "totalAgg": 10,
-            "totalAggAgainst": 21,
-            "availableAgg": 21,
+            "totalAgg": 20,
+            "totalAggAgainst": 42,
+            "availableAgg": 42,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 0,
+            "availableHomeAgg": 21,
             "availableAwayAgg": 21,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 0,
-            "totalHomeAggAgainst": 0,
+            "totalHomeAgg": 10,
+            "totalHomeAggAgainst": 21,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 10,
@@ -20,7 +20,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 0,
-            "homeLosses": 0,
+            "homeLosses": 1,
             "awayWins": 0,
             "awayLosses": 1,
             "cupWins": 0,
@@ -33,9 +33,10 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 1,
+            "totalGamesPlayed": 2,
             "results": [
-                "alyssa randell 10 - 21 phil rayner"
+                "alyssa randell 10 - 21 phil rayner",
+                "alyssa randell 10 - 21 john horsley"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -73,9 +74,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 1,
+                "games": 2,
                 "wins": 0,
-                "aggDiff": -11
+                "aggDiff": -22
             },
             "bradford vets": {
                 "games": 0,
@@ -99,25 +100,25 @@
             }
         },
         "andrew marshall": {
-            "totalAgg": 52,
-            "totalAggAgainst": 56,
-            "availableAgg": 63,
+            "totalAgg": 73,
+            "totalAggAgainst": 74,
+            "availableAgg": 84,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 42,
+            "availableHomeAgg": 63,
             "availableAwayAgg": 21,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 39,
-            "totalHomeAggAgainst": 35,
+            "totalHomeAgg": 60,
+            "totalHomeAggAgainst": 53,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 13,
             "totalAwayAggAgainst": 21,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 1,
+            "homeWins": 2,
             "homeLosses": 1,
             "awayWins": 0,
             "awayLosses": 1,
@@ -131,11 +132,12 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 3,
+            "totalGamesPlayed": 4,
             "results": [
                 "andrew marshall 18 - 21 stuart wilson",
                 "andrew marshall 21 - 14 bryan ibbetson",
-                "andrew marshall 13 - 21 mark worrall"
+                "andrew marshall 13 - 21 mark worrall",
+                "andrew marshall 21 - 18 dale dyson"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -173,9 +175,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 3,
-                "wins": 1,
-                "aggDiff": -4
+                "games": 4,
+                "wins": 2,
+                "aggDiff": -1
             },
             "bradford vets": {
                 "games": 0,
@@ -315,12 +317,12 @@
             }
         },
         "john armitage": {
-            "totalAgg": 349,
-            "totalAggAgainst": 289,
-            "availableAgg": 399,
+            "totalAgg": 384,
+            "totalAggAgainst": 331,
+            "availableAgg": 441,
             "availablePairsAgg": 0,
             "availableHomeAgg": 189,
-            "availableAwayAgg": 126,
+            "availableAwayAgg": 168,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -329,14 +331,14 @@
             "totalHomeAggAgainst": 132,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 102,
-            "totalAwayAggAgainst": 107,
+            "totalAwayAgg": 137,
+            "totalAwayAggAgainst": 149,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 6,
             "homeLosses": 3,
             "awayWins": 2,
-            "awayLosses": 4,
+            "awayLosses": 6,
             "cupWins": 3,
             "cupLosses": 1,
             "pairWins": 0,
@@ -347,7 +349,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 19,
+            "totalGamesPlayed": 21,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
@@ -357,6 +359,7 @@
                 "john armitage 21 - 15 dean missere",
                 "john armitage 21 - 10 danny kilburn",
                 "john armitage 21 - 13 harley tattersley",
+                "john armitage 19 - 21 mark atkinson",
                 "john armitage 21 - 12 malcolm crotty",
                 "john armitage 21 - 9 myles summers",
                 "john armitage 21 - 7 bailey dawson",
@@ -367,6 +370,7 @@
                 "john armitage 18 - 21 graham higgins",
                 "john armitage 13 - 21 james cosgrave",
                 "john armitage 21 - 15 phil hill",
+                "john armitage 16 - 21 daniel dunkerley",
                 "john armitage 11 - 21 matthew jacques"
             ],
             "airewharfe monday": {
@@ -380,9 +384,9 @@
                 "aggDiff": 0
             },
             "mirfield": {
-                "games": 4,
+                "games": 5,
                 "wins": 4,
-                "aggDiff": 35
+                "aggDiff": 33
             },
             "mirfield (b)": {
                 "games": 0,
@@ -400,9 +404,9 @@
                 "aggDiff": 0
             },
             "spen valley": {
-                "games": 9,
+                "games": 10,
                 "wins": 6,
-                "aggDiff": 51
+                "aggDiff": 46
             },
             "spen valley (b)": {
                 "games": 0,
@@ -431,12 +435,12 @@
             }
         },
         "martin fulton": {
-            "totalAgg": 98,
-            "totalAggAgainst": 111,
-            "availableAgg": 126,
+            "totalAgg": 108,
+            "totalAggAgainst": 132,
+            "availableAgg": 147,
             "availablePairsAgg": 0,
             "availableHomeAgg": 63,
-            "availableAwayAgg": 63,
+            "availableAwayAgg": 84,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -445,14 +449,14 @@
             "totalHomeAggAgainst": 48,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 40,
-            "totalAwayAggAgainst": 63,
+            "totalAwayAgg": 50,
+            "totalAwayAggAgainst": 84,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 2,
             "homeLosses": 1,
             "awayWins": 0,
-            "awayLosses": 3,
+            "awayLosses": 4,
             "cupWins": 0,
             "cupLosses": 0,
             "pairWins": 0,
@@ -463,14 +467,15 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 6,
+            "totalGamesPlayed": 7,
             "results": [
                 "martin fulton 18 - 21 wayne kemp",
                 "martin fulton 16 - 21 john greenhalgh",
                 "martin fulton 19 - 21 ian jacques",
                 "martin fulton 21 - 19 nicky rooks",
                 "martin fulton 3 - 21 charlie ripley",
-                "martin fulton 21 - 8 stan elwell"
+                "martin fulton 21 - 8 stan elwell",
+                "martin fulton 10 - 21 robert hopper"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -503,9 +508,9 @@
                 "aggDiff": 0
             },
             "spen valley": {
-                "games": 4,
+                "games": 5,
                 "wins": 2,
-                "aggDiff": -5
+                "aggDiff": -16
             },
             "spen valley (b)": {
                 "games": 0,
@@ -634,28 +639,28 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 95,
-            "totalAggAgainst": 102,
-            "availableAgg": 126,
+            "totalAgg": 131,
+            "totalAggAgainst": 137,
+            "availableAgg": 168,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 42,
-            "availableAwayAgg": 42,
+            "availableHomeAgg": 63,
+            "availableAwayAgg": 63,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 42,
-            "totalHomeAggAgainst": 30,
+            "totalHomeAgg": 63,
+            "totalHomeAggAgainst": 44,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 16,
-            "totalAwayAggAgainst": 42,
+            "totalAwayAgg": 31,
+            "totalAwayAggAgainst": 63,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 2,
+            "homeWins": 3,
             "homeLosses": 0,
             "awayWins": 0,
-            "awayLosses": 2,
+            "awayLosses": 3,
             "cupWins": 1,
             "cupLosses": 1,
             "pairWins": 0,
@@ -666,13 +671,15 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 6,
+            "totalGamesPlayed": 8,
             "results": [
                 "stewart watson 7 - 21 steve rothwell",
+                "stewart watson 15 - 21 chris wilson",
                 "stewart watson 21 - 9 stephen kenworthy",
                 "stewart watson 16 - 21 matthew jacques",
                 "stewart watson 21 - 13 jason bridge",
                 "stewart watson 9 - 21 dale hardcastle",
+                "stewart watson 21 - 14 helen simpson",
                 "stewart watson 21 - 17 james klenk"
             ],
             "airewharfe monday": {
@@ -696,9 +703,9 @@
                 "aggDiff": 0
             },
             "bradford half holiday": {
-                "games": 1,
+                "games": 2,
                 "wins": 0,
-                "aggDiff": -14
+                "aggDiff": -20
             },
             "bradford half holiday (b)": {
                 "games": 0,
@@ -711,9 +718,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 4,
-                "wins": 2,
-                "aggDiff": 3
+                "games": 5,
+                "wins": 3,
+                "aggDiff": 10
             },
             "bradford vets": {
                 "games": 0,
@@ -738,6 +745,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "13/05/2025",
+    "lastUpdated": "14/05/2025",
     "statsYear": "2025"
 }
