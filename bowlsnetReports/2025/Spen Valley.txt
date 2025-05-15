@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Wed 14th May)
+=== West Riding & Spen Valley 2025 (as of Thu 15th May)
 === League Match Cards
 
        Round of 32                   Fri 4th Apr           
@@ -1966,6 +1966,19 @@ Graham Roberts          18 Thomas Morris                21
                Points:   9                     Points:   1 
 
          Premier                    Wed 14th May           
+       Shipley - A                    Whitkirk             
+Chris Bedford           21 Nichole Farrar                8 
+David Bland             21 Adam Varley                  16 
+Steve Cooper            21 Adam Sharpe                  17 
+Chris Jacques           14 Amy Tobin                    21 
+Matthew Jacques         21 Thomas Johnson               11 
+Daniel Metcalfe         21 Stan Elwell                  10 
+Neil Simpson            15 Warren Wilson                21 
+Stuart Wilson           17 Emma Tobin                   21 
+            Aggregate: 151                  Aggregate: 125 
+               Points:   7                     Points:   3 
+
+         Premier                    Wed 14th May           
          Guiseley                 Spen Victoria - A        
 Tommy Cater             21 John Blackburn               17 
 Andrew Durkin           14 Andy Hodgson                 21 
@@ -2058,7 +2071,7 @@ Norman Booth            21 Joe Mellor                   15
 
         Division 2                  Wed 14th May           
    Cleckheaton Moorend             New Farnley - B         
-Lee Collinson           21 Jan Ingham                   12 
+Lee Collinson           21 John Ingham                  12 
 Philip Long             21 Keith Skelton                13 
 Lawrie Bairstow         21 Jean Milner                  13 
 Richard Firth           18 David J Taylor               21 
@@ -2155,7 +2168,7 @@ Matthew Terry           21 Hannah Leaf                  15
 Kath Wilson             21 Andy Barnatt                 17 
 Jane Bradley            21 Angie Morris                 18 
 David Marshall          21 Taylor Smith                 18 
-Joe Bray                21 Rick Pearson                 16 
+Chris Bray              21 Rick Pearson                 16 
 Janice Walton           21 Janice Connaleigh            17 
             Aggregate: 168                  Aggregate: 128 
                Points:  10                     Points:   0 
@@ -2200,6 +2213,19 @@ Bill Lovett             16 Elaine Binns                 21
                Points:   9                     Points:   1 
 
         Division 4                  Wed 14th May           
+     Heckmondwike - C              Gildersome - B          
+Steve Sugden            21 Michael Ross                  0 
+Hayley Lay              21 Glenda Holmes                17 
+George Tozer            21 Kay Stewart                  12 
+Steve Kidd              21 Frank Hales                   7 
+Susan McMananamin       10 Tony Morris                  21 
+Peter Buchan            15 Barbara Hall                 21 
+Roger Jackson           21 Neil Schofield                9 
+Paul Cooper             18 John Ackroyd                 21 
+            Aggregate: 148                  Aggregate: 108 
+               Points:   7                     Points:   3 
+
+        Division 4                  Wed 14th May           
      Harold Club - C              Heckmondwike - B         
 Tony Godfrey             7 Gerald Bromley               21 
 Ian Boldy               21 Darren Goodall               15 
@@ -2211,5 +2237,18 @@ Lee Boocock              9 Roy Carter                   21
 Dave Hill               19 Ash Harker                   21 
             Aggregate: 110                  Aggregate: 154 
                Points:   3                     Points:   8 
+
+        Division 4                  Thu 15th May           
+  Cleckheaton Sports - E           Eccleshill - B          
+Joe Brook               21 John Griffin                  5 
+Chris Bentley           17 Theo Moyes                   21 
+Andy Porritt            16 Roger Binks                  21 
+Callum Brook            21 Tom Spensley                 16 
+Graham Ward             21 Brian Barker                 14 
+Helen Seed              21 Dot Shaw                      7 
+Lynn Seddon             21 Vincent Gelder                8 
+Geoff Akerman           17 Andrew Smith                 21 
+            Aggregate: 155                  Aggregate: 113 
+               Points:   7                     Points:   3 
 
 
