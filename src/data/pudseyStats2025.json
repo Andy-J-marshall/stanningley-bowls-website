@@ -122,12 +122,12 @@
             }
         },
         "linda barrand": {
-            "totalAgg": 143,
-            "totalAggAgainst": 167,
-            "availableAgg": 210,
+            "totalAgg": 152,
+            "totalAggAgainst": 188,
+            "availableAgg": 231,
             "availablePairsAgg": 0,
             "availableHomeAgg": 105,
-            "availableAwayAgg": 105,
+            "availableAwayAgg": 126,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -136,14 +136,14 @@
             "totalHomeAggAgainst": 79,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 59,
-            "totalAwayAggAgainst": 88,
+            "totalAwayAgg": 68,
+            "totalAwayAggAgainst": 109,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 3,
             "homeLosses": 2,
             "awayWins": 1,
-            "awayLosses": 4,
+            "awayLosses": 5,
             "cupWins": 0,
             "cupLosses": 0,
             "pairWins": 0,
@@ -154,7 +154,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 10,
+            "totalGamesPlayed": 11,
             "results": [
                 "linda barrand 4 - 21 alan byers",
                 "linda barrand 21 - 10 dorcas kirk",
@@ -165,7 +165,8 @@
                 "linda barrand 12 - 21 ian fairhurst",
                 "linda barrand 21 - 20 donald harrison",
                 "linda barrand 13 - 21 pat jagger",
-                "linda barrand 7 - 21 eddie prince"
+                "linda barrand 7 - 21 eddie prince",
+                "linda barrand 9 - 21 jim gomersall"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -228,9 +229,9 @@
                 "aggDiff": 0
             },
             "bradford vets (b)": {
-                "games": 3,
+                "games": 4,
                 "wins": 1,
-                "aggDiff": -21
+                "aggDiff": -33
             },
             "bradford saturday": {
                 "games": 0,
@@ -378,25 +379,25 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 174,
-            "totalAggAgainst": 174,
-            "availableAgg": 210,
+            "totalAgg": 195,
+            "totalAggAgainst": 179,
+            "availableAgg": 231,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 84,
+            "availableHomeAgg": 105,
             "availableAwayAgg": 126,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 64,
-            "totalHomeAggAgainst": 71,
+            "totalHomeAgg": 85,
+            "totalHomeAggAgainst": 76,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 110,
             "totalAwayAggAgainst": 103,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 2,
+            "homeWins": 3,
             "homeLosses": 2,
             "awayWins": 3,
             "awayLosses": 3,
@@ -410,7 +411,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 10,
+            "totalGamesPlayed": 11,
             "results": [
                 "stewart watson 21 - 12 terri durrans",
                 "stewart watson 21 - 15 philip sykes",
@@ -421,7 +422,8 @@
                 "stewart watson 20 - 21 norman swift",
                 "stewart watson 21 - 15 peter howroyd",
                 "stewart watson 16 - 21 john beverley",
-                "stewart watson 17 - 21 bill swales"
+                "stewart watson 17 - 21 bill swales",
+                "stewart watson 21 - 5 richard kerr"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -479,9 +481,9 @@
                 "aggDiff": 0
             },
             "bradford vets": {
-                "games": 3,
-                "wins": 1,
-                "aggDiff": -3
+                "games": 4,
+                "wins": 2,
+                "aggDiff": 13
             },
             "bradford vets (b)": {
                 "games": 0,
@@ -506,6 +508,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "14/05/2025",
+    "lastUpdated": "15/05/2025",
     "statsYear": "2025"
 }
