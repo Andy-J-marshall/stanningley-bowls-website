@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Thu 15th May)
+=== Ossett & Horbury 2025 (as of Fri 16th May)
 === League Match Cards
 
          Division 3                 Tue 8th Apr         
@@ -1692,6 +1692,30 @@ Kristian Shuttleworth     10 Joshua Eley             21
               Aggregate: 147             Aggregate: 131 
 
       Premier Division              Thu 15th May        
+      Castleford Town                Rothwell A         
+Robert McGuire            21 Garry Dennison          15 
+Dean Hopwood              21 Thomas Scorah           11 
+K Siddle                  21 Mark Hughes             15 
+Daniel Revell             14 Kez Smith               21 
+S Williams                21 David Thomas            14 
+David Watson              10 Gareth Lally            21 
+Calum Fennell             15 Josh Thomas             21 
+Mark Brain                21 Pete Burrows             5 
+              Aggregate: 144             Aggregate: 123 
+
+      Premier Division              Thu 15th May        
+      Skelmanthorpe A              Spen Victoria        
+Chris Kelly               21 Andrew Gallagher         8 
+Ashley Daykin             21 Chris Ellis             14 
+Josh Brown                21 Richard Crowther        17 
+Harry Lumb                21 Neil Wood Jnr           14 
+Nick White                21 Mark Goodall            12 
+Ross Meese                21 Danny Teale             19 
+Jack Dyson                17 Harley Tattersley       21 
+Mark Booth                15 Ash Tattersley          21 
+              Aggregate: 158             Aggregate: 126 
+
+      Premier Division              Thu 15th May        
       Hanging Heaton A             Smirthwaite A        
 David Armitage            21 Martin Shepherd         14 
 Roger Birdsall            18 G Gidman                21 
@@ -1740,6 +1764,18 @@ Gary Larner               21 Mel Whitaker            20
               Aggregate: 156             Aggregate: 136 
 
          Division 1                 Thu 15th May        
+     Alverthorpe WMC A              Morton House        
+Colin Lloyd               21 Harrison Messenger      20 
+Amanda Hagen              21 Chris Sweeney           19 
+Karl Dutton               21 Angela Whitworth        18 
+Andy Webb                 21 Marcus Leach            18 
+Edwin Wilkinson           21 Tom Gilbert             20 
+Steve Lonnia              18 Charlie Ripley          21 
+Dave Cowsill              18 John Leach              21 
+Mick Cooney               12 Michael Sweeney         21 
+              Aggregate: 153             Aggregate: 158 
+
+         Division 1                 Thu 15th May        
        Clayton West A           Ossett Flying Horse     
 Neale Wallace             18 Robert Bennett          21 
 T Poulter                 21 Gordon Hird              9 
@@ -1776,6 +1812,18 @@ Derek Hawes               18 Stuart Race             21
               Aggregate: 156             Aggregate: 142 
 
          Division 2                 Thu 15th May        
+        Savile Park                Wakefield BC A       
+Richard Johnson           21 Kaz Habib                7 
+Carolyn Duckett           20 Trevor Newey            21 
+Liam Massey               21 David Clough            18 
+Alfie Hutchinson           5 Peter Claven            21 
+Gary Haley                21 Nigel Brook              7 
+P Whipp                   20 Robyn Walters           21 
+Lynne Hopps               18 Mark Young              21 
+Karen Portman             21 John Dudding            20 
+              Aggregate: 147             Aggregate: 136 
+
+         Division 2                 Thu 15th May        
        Smirthwaite B              Hanging Heaton B      
 Dale Evans                 8 Jacob Amatt             21 
 A France                  21 David Collinson          7 
@@ -1800,6 +1848,18 @@ Nathan Dobson             21 Anita Dack               2
               Aggregate: 155             Aggregate:  76 
 
          Division 3                 Thu 15th May        
+       Denby Grange B               Wrenthorpe A        
+David Wright              21 Vernon Green            18 
+Josh Broadhead            21 Jenny Berry             18 
+Chris Nicholson           20 Paul Horrocks           21 
+Neil Broadhead            13 Gary Dawson             21 
+Phil Mack                 14 Dave White              21 
+Ben Keeling                9 Eileen Wardman          21 
+Bryan Thomas               8 Brian Marden            21 
+Chris Shires               8 Dave Gordon             21 
+              Aggregate: 114             Aggregate: 162 
+
+         Division 3                 Thu 15th May        
         Thornhill B                Horbury Bridge       
 Julie Makepeace           19 Mark Senior             21 
 Claire Price              21 Rob Taylor              14 
@@ -1822,6 +1882,18 @@ Jenny Pitchforth          21 Allan Poyser            12
 Karen Ainley              21 David Dixon             13 
 Lee Crossland             13 Alan Smith              21 
               Aggregate: 151             Aggregate: 114 
+
+         Division 3                 Thu 15th May        
+      Ossett C & AC C             Skelmanthorpe B       
+Linda Callaghan           21 Martin Schofield         7 
+John Kellett              15 John Fisher             21 
+Karen Kellett             21 Jonatan Taylor          16 
+Nora Collier              11 Stephen Auty            21 
+Svajunas Kapitan          20 Sam Seargent            21 
+Alan Nash                 21 Jamal Kelly             15 
+Alison Sykes              21 Graham Roys             12 
+John Kennelly             19 John Roe                21 
+              Aggregate: 149             Aggregate: 134 
 
          Division 3                 Thu 15th May        
        Wake Thornes A                 Sandal C          
@@ -1930,5 +2002,17 @@ John Tweedle              21 Frank Ryan              11
 Karen Poyser              19 Mick Lund               21 
 Clive Sabey               19 Keith Hawes             21 
               Aggregate: 127             Aggregate: 149 
+
+         Division 5                 Thu 15th May        
+       Wakefield BC B             Skelmanthorpe C       
+Margaret Shand            20 Pamela Roys             21 
+Donald Ward               21 Brenda Ayre             14 
+Tony Moss                 21 Kevin Booth             12 
+Dorothy Smith             21 Cerise Booth             3 
+David Carter              16 Andrew McLauchlan       21 
+Ron Greenwood             21 Keith Jagger            18 
+Michael Murphy            17 Joanne McLauchlan       21 
+Margaret Carter           21 Julie Hardy             11 
+              Aggregate: 158             Aggregate: 121 
 
 
