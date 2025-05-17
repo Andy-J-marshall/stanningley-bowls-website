@@ -139,7 +139,7 @@ Ivan Larkins              21 Ray Wadsworth           6
 Keith Powell              21 Sue Findlay             9 
 Mark Elstub               21 Joe Midgley            15 
 Michael Czuba             21 Trevor Bateman         16 
-David Earls                7 Ian Findlay            21 
+David Earl                 7 Ian Findlay            21 
 Andrew Lancaster          21 Kenny McCafferty       11 
               Aggregate: 112            Aggregate:  78 
                   Games:   5                Games:   1 
@@ -283,7 +283,7 @@ Geraldine Sephton         17 Keith Powell           21
 Sheila Edden              21 Mark Elstub            20 
 Colin Isles               21 Sylvia Jackson          5 
 Anne Mullaney             21 Michael Czuba          19 
-Malcolm Leeming           21 David Earls             4 
+Malcolm Leeming           21 David Earl              4 
 Brian Woolner             16 Andrew Lancaster       21 
               Aggregate: 117            Aggregate:  90 
                   Games:   4                Games:   2 
@@ -655,7 +655,7 @@ Peter Brennan             21 Michael Czuba          12
 William Watson            21 Mark Elstub            11 
 Les Kear                  21 Brian Royston           6 
 Amy Walsh                 18 Keith Powell           21 
-Grahan Wright             21 David Earls            16 
+Grahan Wright             21 David Earl             16 
 Geoff Forder              21 Ivan Larkins            8 
               Aggregate: 123            Aggregate:  74 
                   Games:   5                Games:   1 
@@ -809,7 +809,7 @@ Daryl Fieldhouse           3 Christine Jarvis       21
          Royd House                  Calverley         
 Ivan Larkins              17 Barry Briggs           21 
 Mark Elstub               18 June Whitaker          21 
-David Earls               12 Roy Whiteley           21 
+David Earl                12 Roy Whiteley           21 
 Michael Czuba             13 Anne Newlove           21 
 Sylvia Jackson             5 Kenneth Paley          21 
 Andrew Lancaster          21 Susie Jarosz            6 
