@@ -21,8 +21,6 @@ function Results(props: ResultsProps) {
 
     const resultsArray = returnResultsArrayForTeamsWithGames(teamResults);
 
-    // TODO need to handle when score has decimals
-
     const hasResults = resultsArray && resultsArray?.length > 0;
 
     if (!hasResults) {
