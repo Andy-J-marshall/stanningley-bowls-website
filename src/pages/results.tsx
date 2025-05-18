@@ -2,9 +2,6 @@ import { useEffect } from 'react';
 import { Table } from 'react-bootstrap';
 import { ResultsProps } from '../types/interfaces';
 import { returnResultsArrayForTeamsWithGames } from '../helpers/resultsHelper';
-import { config } from '../config';
-
-const teamName = config.teamNames.shortName.toLowerCase();
 const currentYear = new Date().getFullYear();
 
 function Results(props: ResultsProps) {
@@ -55,25 +52,15 @@ function Results(props: ResultsProps) {
                                 </tr>
                             </thead>
                             {team.results.map((result, idx) => {
-                                let homeTeam = result.home.name;
-                                if (homeTeam.toLowerCase().includes(teamName)) {
-                                    homeTeam = homeTeam.toUpperCase();
-                                }
-
-                                let awayTeam = result.away.name;
-                                if (awayTeam.toLowerCase().includes(teamName)) {
-                                    awayTeam = awayTeam.toUpperCase();
-                                }
-
                                 return (
                                     <tbody key={idx}>
                                         <tr>
-                                            <td>{homeTeam}</td>
+                                            <td>{result.home.name}</td>
                                             <td className="result-central-column">
                                                 {result.home.score}
                                             </td>
                                             <td>{result.away.score}</td>
-                                            <td>{awayTeam}</td>
+                                            <td>{result.away.name}</td>
                                         </tr>
                                     </tbody>
                                 );

@@ -15,7 +15,7 @@ test.describe('Results', () => {
         expect(resultPage.teamResultsSections).toHaveCount(6);
         expect(resultPage.resultRows).toHaveCount(112);
 
-        expect(resultPage.firstResultHomeTeam).toHaveText('STANNINGLEY');
+        expect(resultPage.firstResultHomeTeam).toHaveText('Stanningley');
         expect(resultPage.firstResultHomeScore).toHaveText('29');
         expect(resultPage.firstResultAwayTeam).toHaveText('Garforth C C');
         expect(resultPage.firstResultAwayScore).toHaveText('13');
@@ -32,7 +32,7 @@ test.describe('Results', () => {
 
         expect(resultPage.firstResultHomeTeam).toHaveText('Guiseley B');
         expect(resultPage.firstResultHomeScore).toHaveText('19');
-        expect(resultPage.firstResultAwayTeam).toHaveText('STANNINGLEY');
+        expect(resultPage.firstResultAwayTeam).toHaveText('Stanningley');
         expect(resultPage.firstResultAwayScore).toHaveText('11');
     });
 
@@ -47,7 +47,7 @@ test.describe('Results', () => {
 
         expect(resultPage.firstResultHomeTeam).toHaveText('Greenbottom B');
         expect(resultPage.firstResultHomeScore).toHaveText('10');
-        expect(resultPage.firstResultAwayTeam).toHaveText('STANNINGLEY A');
+        expect(resultPage.firstResultAwayTeam).toHaveText('Stanningley A');
         expect(resultPage.firstResultAwayScore).toHaveText('20');
     });
 
