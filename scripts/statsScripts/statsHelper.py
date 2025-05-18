@@ -1,12 +1,12 @@
 leaguesWithGamesTo26 = ["airewharfe wednesday pairs"]
 
 cupText = [
+    " on ",
     " trophy",
     " shield",
     " plate",
     " cup",
     "knockout",
-    " on ",
     "prelims",
     "pre lim",
     "pre-lim",
