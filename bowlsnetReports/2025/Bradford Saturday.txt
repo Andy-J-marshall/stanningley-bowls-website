@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Sat 17th May)
+=== Bradford (Saturday) 2025 (as of Sun 18th May)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -1105,6 +1105,22 @@ Earl Delany                 8 Paul Wood                 21
                   Points:  12                  Points:  16 
 
  Division 1 (Naylor Premier)          Sat 17th May         
+          Pudsey A                 Brighouse Sports A      
+Mason Lindley              21 Jon Gamble                17 
+Jamie Winterburn           21 Gordon Bradford           15 
+Thomas Hanson              21 John Bloomer               7 
+Andrew Sykes               21 Helen Simpson             12 
+Finley Hickey              21 Micheal Wood               9 
+Gary Wike                  21 John Horsley               8 
+Chris Mordue               18 Daniel Dunkerley          21 
+Stuart Hanson              19 Graham Roberts            21 
+Philip Wilsdon             17 Julian Dawson             21 
+Ian Shaw                   21 Nigel Marshall             8 
+                   Games:   7                   Games:   3 
+               Aggregate: 201               Aggregate: 139 
+                  Points:  24                  Points:   6 
+
+ Division 1 (Naylor Premier)          Sat 17th May         
         Littlemoor A                  Hill Crest A         
 Alex Wolfenden             21 David Barnes               5 
 Marc Armitage 'A'          21 Martin Murphy              5 
@@ -1216,6 +1232,22 @@ Keith Hatzer               21 Tim Bennett               17
                Aggregate: 165               Aggregate: 189 
                   Points:  12                  Points:  18 
 
+     Division 2 (Godwin)              Sat 17th May         
+        Asa Briggs A                    Hightown           
+Stuart King                21 Darren Goodall             3 
+Jason Watters              21 Daren Munt                 3 
+Jordan Brown 'B'           21 Poppy Fox                  8 
+Clive Foord 'A'            21 Tom Gilbert               14 
+Michael Frost              21 Sean Carter               14 
+Andrew Heenan               4 Jude Hatfield-Goodall     21 
+Scott Sansom               16 Jacob Hatfield-Goodall    21 
+Mark Hirst                  9 Alex Edmondson            21 
+Glenn McCafferty           21 Eddie Gilbert             14 
+Andy Denton                21 Adam Darby                11 
+                   Games:   7                   Games:   3 
+               Aggregate: 176               Aggregate: 130 
+                  Points:  22                  Points:   8 
+
      Division 3 (Mellor)              Sat 17th May         
         Harold Club A                 Littlemoor B         
 Andy Bairstow              21 Thomas Powell             12 
@@ -1247,6 +1279,22 @@ Jason Horsley              18 Ken Gilroy                21
                    Games:   8                   Games:   2 
                Aggregate: 195               Aggregate: 118 
                   Points:  26                  Points:   4 
+
+     Division 3 (Mellor)              Sat 17th May         
+         Guiseley B                 Spen Victoria B        
+Peter Storey               21 Steve Kemp                 8 
+Jeremy Jones               21 Peter Ellis               20 
+Carolyn Matthewman         15 Kevin Wood                21 
+Christine Boyd             16 John Blackburn            21 
+Caroline Corbett           21 Terry Varney              19 
+Jack Boyd                  12 Claire Barraclough        21 
+Lynne Ogden                21 Mel Blackburn              8 
+Ralph Sissons              21 John Smith                16 
+Bob Jeffrey                18 Paul Blackburn            21 
+Colin Matthewman           11 Derek Goor                21 
+                   Games:   5                   Games:   5 
+               Aggregate: 177               Aggregate: 176 
+                  Points:  16                  Points:  14 
 
      Division 3 (Mellor)              Sat 17th May         
            Wyke B                     Asa Briggs B         
@@ -1347,6 +1395,20 @@ David Lloyd                21 David Griffiths           18
                    Games:   6                   Games:   2 
                Aggregate: 155               Aggregate: 125 
                   Points:  19                  Points:   9 
+
+ Division 5 (Haigh) 8 Player          Sat 17th May         
+        Asa Briggs C                Spen Victoria C        
+Alan Standing              19 Leigh Manton              21 
+David Trudgill             21 Justine Wood               7 
+Kathleen Sansom            21 Chloe Morton               9 
+Lorraine Birch             21 Ken Spencer               19 
+Steven McGrevy             21 Lexie Gould               12 
+Donald Harrison            21 Richard Morton            19 
+Michael Sansom             21 Archie Wood               13 
+Bob Hiley                   9 Lucas Wood                21 
+                   Games:   6                   Games:   2 
+               Aggregate: 154               Aggregate: 121 
+                  Points:  20                  Points:   8 
 
  Division 5 (Haigh) 8 Player          Sat 17th May         
                                       On Hightown.         
