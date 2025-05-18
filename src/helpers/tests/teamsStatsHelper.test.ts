@@ -45,14 +45,6 @@ describe('#teamStatsHelper Tests', () => {
             expect(combinedStats.combinedAwayDraws).to.equal(2);
             expect(combinedStats.combinedHomeDraws).to.equal(1);
         });
-
-        it('Team aggregates calculated correctly', () => {
-            expect(combinedStats.combinedAgg).to.equal(9340);
-        });
-
-        it('Opponent aggregates calculated correctly', () => {
-            expect(combinedStats.combinedOpponentAgg).to.equal(6894);
-        });
     });
 
     describe('#returnPlayerStatsForTeam()', () => {

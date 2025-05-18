@@ -336,10 +336,6 @@ def checksTeamStats(allTeamResults, filePath, teamDays):
     for team in allTeamResults:
         dayForTeam = team["day"]
 
-        if team["agg"] < 0 or team["agg"] > 5000:
-            raise Exception(f"agg for {dayForTeam} incorrect?")
-        if team["opponentAgg"] < 0 or team["opponentAgg"] > 5000:
-            raise Exception(f"opponentAgg for {dayForTeam} incorrect?")
         if team["totalGamesPlayed"] < 0 or team["totalGamesPlayed"] > 30:
             raise Exception(f"totalGamesPlayed for {dayForTeam} incorrect?")
         if team["wins"] < 0 or team["wins"] > 30:
@@ -421,12 +417,6 @@ def checkTeamStatsValuesIncreased(updatedStats, filePath, teamDays):
             if team["totalGamesPlayed"] > updatedTeam["totalGamesPlayed"]:
                 raise Exception(f"totalGamesPlayed for {team["day"]} lower than before")
 
-            # Aggregates
-            if team["agg"] > updatedTeam["agg"]:
-                raise Exception(f"agg for {team["day"]} lower than before")
-            if team["opponentAgg"] > updatedTeam["opponentAgg"]:
-                raise Exception(f"opponentAgg for {team["day"]} lower than before")
-
             # Results
             if len(team["results"]) > len(updatedTeam["results"]):
                 raise Exception(f"fewer results for {team["day"]} than before")
@@ -439,11 +429,13 @@ def checkTeamNotProcessedTwice(allTeamResults):
             # Skip checks for teams with less than 2 games to avoid false positives
             continue
         statsToCheck = (
-            team.get("agg"),
-            team.get("opponentAgg"),
             team.get("wins"),
             team.get("losses"),
             team.get("draws"),
+            team.get("homeWins"),
+            team.get("awayWins"),
+            team.get("homeLosses"),
+            team.get("awayLosses"),
         )
         if statsToCheck in seenTeamStats:
             raise Exception(f"Has the team been processed twice? {team.get("day")}")

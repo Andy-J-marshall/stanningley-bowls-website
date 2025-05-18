@@ -4244,8 +4244,6 @@
             "cupLosses": 0,
             "losses": 6,
             "totalGamesPlayed": 18,
-            "agg": 3003,
-            "opponentAgg": 3025,
             "results": [
                 "New Armley 12 - 18 Stanningley A",
                 "Stanningley A 20 - 10 Rufford B",
@@ -4281,8 +4279,6 @@
             "cupLosses": 0,
             "losses": 8,
             "totalGamesPlayed": 16,
-            "agg": 2630,
-            "opponentAgg": 2741,
             "results": [
                 "Stanningley B 16 - 14 Calverley B",
                 "Stanningley B 19 - 11 Grove Hill B",
@@ -4316,8 +4312,6 @@
             "cupLosses": 1,
             "losses": 2,
             "totalGamesPlayed": 23,
-            "agg": 3451,
-            "opponentAgg": 2646,
             "results": [
                 "Gildersome 24 - 35 Stanningley",
                 "Stanningley 40 - 16 New Armley",
@@ -4358,8 +4352,6 @@
             "cupLosses": 0,
             "losses": 6,
             "totalGamesPlayed": 18,
-            "agg": 1883,
-            "opponentAgg": 1776,
             "results": [
                 "West Bradford A 24 - 2 Stanningley A",
                 "Eccleshill A 17 - 9 Stanningley A",
@@ -4395,8 +4387,6 @@
             "cupLosses": 0,
             "losses": 6,
             "totalGamesPlayed": 18,
-            "agg": 1873,
-            "opponentAgg": 1674,
             "results": [
                 "Stanningley B 20 - 6 Bowling B",
                 "Thornton A 21 - 5 Stanningley B",
@@ -4432,8 +4422,6 @@
             "cupLosses": 0,
             "losses": 11,
             "totalGamesPlayed": 16,
-            "agg": 1543,
-            "opponentAgg": 1747,
             "results": [
                 "Ilkley B 20 - 4 Stanningley",
                 "Stanningley 21 - 3 Yeadon Park",
@@ -4467,8 +4455,6 @@
             "cupLosses": 1,
             "losses": 10,
             "totalGamesPlayed": 21,
-            "agg": 2798,
-            "opponentAgg": 2845,
             "results": [
                 "Stanningley A 30 - 25 Armley Cons",
                 "Middleton Community 22 - 36 Stanningley A",
@@ -4507,8 +4493,6 @@
             "cupLosses": 1,
             "losses": 7,
             "totalGamesPlayed": 19,
-            "agg": 2601,
-            "opponentAgg": 2503,
             "results": [
                 "Scatcherd Pk B 26 - 31 Stanningley B",
                 "Stanningley B 31 - 30 Armley Pk",
@@ -4545,8 +4529,6 @@
             "cupLosses": 0,
             "losses": 11,
             "totalGamesPlayed": 18,
-            "agg": 3011,
-            "opponentAgg": 3152,
             "results": [
                 "Akroydon Victoria 'B' 18 - 12 Stanningley",
                 "Stanningley 12 - 18 Cleckheaton Sports 'A",

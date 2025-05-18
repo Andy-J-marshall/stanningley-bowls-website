@@ -4985,8 +4985,6 @@
             "cupLosses": 0,
             "losses": 4,
             "totalGamesPlayed": 18,
-            "agg": 3198,
-            "opponentAgg": 2809,
             "results": [
                 "Ilkley B 27 - 3 Stanningley A",
                 "Stanningley A 25 - 5 Greengates B",
@@ -5022,8 +5020,6 @@
             "cupLosses": 0,
             "losses": 11,
             "totalGamesPlayed": 18,
-            "agg": 2761,
-            "opponentAgg": 3215,
             "results": [
                 "Stanningley B 13 - 17 Wharfemeadows B",
                 "Grove Hill B 24 - 6 Stanningley B",
@@ -5059,8 +5055,6 @@
             "cupLosses": 0,
             "losses": 9,
             "totalGamesPlayed": 18,
-            "agg": 3011,
-            "opponentAgg": 2944,
             "results": [
                 "Stanningley 10 - 2 Gildersome",
                 "Stanningley 10 - 2 The Hollies S & SC",
@@ -5096,8 +5090,6 @@
             "cupLosses": 0,
             "losses": 8,
             "totalGamesPlayed": 22,
-            "agg": 2253,
-            "opponentAgg": 2175,
             "results": [
                 "Royd House A 17 - 9 Stanningley",
                 "Stanningley 8 - 18 Ladyhill A",
@@ -5137,8 +5129,6 @@
             "cupLosses": 0,
             "losses": 7,
             "totalGamesPlayed": 16,
-            "agg": 1682,
-            "opponentAgg": 1623,
             "results": [
                 "Stanningley A 18 - 6 Rufford B",
                 "Grove Hill 21 - 3 Stanningley A",
@@ -5172,8 +5162,6 @@
             "cupLosses": 0,
             "losses": 11,
             "totalGamesPlayed": 14,
-            "agg": 1116,
-            "opponentAgg": 1556,
             "results": [
                 "Bramhope 23 - 1 Stanningley B",
                 "Stanningley B 12 - 12 Menston B",
@@ -5205,8 +5193,6 @@
             "cupLosses": 0,
             "losses": 3,
             "totalGamesPlayed": 16,
-            "agg": 2376,
-            "opponentAgg": 1835,
             "results": [
                 "Stanningley A 7 - 3 Stanningley Park B",
                 "Pudsey Pk B 3 - 7 Stanningley A",
@@ -5240,8 +5226,6 @@
             "cupLosses": 0,
             "losses": 11,
             "totalGamesPlayed": 16,
-            "agg": 1912,
-            "opponentAgg": 2328,
             "results": [
                 "Stanningley Park A 7 - 3 Stanningley B",
                 "Stanningley B 5 - 5 Bramley Pk B",
@@ -5275,8 +5259,6 @@
             "cupLosses": 0,
             "losses": 10,
             "totalGamesPlayed": 18,
-            "agg": 2972,
-            "opponentAgg": 3085,
             "results": [
                 "Stanningley A 23 - 7 Birkenshaw",
                 "Peel 'B' 10 - 20 Stanningley A",
@@ -5312,8 +5294,6 @@
             "cupLosses": 0,
             "losses": 11,
             "totalGamesPlayed": 18,
-            "agg": 2236,
-            "opponentAgg": 2379,
             "results": [
                 "Stanningley B 16 - 12 Bradford Moor 'B'",
                 "Greengates 'C' 15 - 13 Stanningley B",

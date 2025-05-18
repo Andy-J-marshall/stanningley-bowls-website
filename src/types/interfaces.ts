@@ -103,8 +103,6 @@ export interface StatsTableDisplayProps {
     totalDraws: number;
     homeDraws?: number;
     awayDraws?: number;
-    agg: number;
-    opponentAgg: number;
 }
 
 export interface SearchProps {
@@ -342,8 +340,6 @@ export interface TeamResultsStatsFile {
     cupLosses: number;
     losses: number;
     totalGamesPlayed: number;
-    agg: number;
-    opponentAgg: number;
     results: string[];
 }
 

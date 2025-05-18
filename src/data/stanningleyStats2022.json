@@ -1920,8 +1920,6 @@
             "cupLosses": 0,
             "losses": 5,
             "totalGamesPlayed": 20,
-            "agg": 2077,
-            "opponentAgg": 1797,
             "results": [
                 "Stanningley 26 - 14 Sth Lds Cons",
                 "Gildersome 14 - 26 Stanningley",
@@ -1959,8 +1957,6 @@
             "cupLosses": 1,
             "losses": 2,
             "totalGamesPlayed": 17,
-            "agg": 2681,
-            "opponentAgg": 1673,
             "results": [
                 "Horsforth Woodside 21 - 38 Stanningley",
                 "New Armley 13 - 40 Stanningley",
@@ -1995,8 +1991,6 @@
             "cupLosses": 1,
             "losses": 6,
             "totalGamesPlayed": 13,
-            "agg": 1821,
-            "opponentAgg": 1606,
             "results": [
                 "Stanningley 24 - 36 Churwell Pk",
                 "Pudsey Park A 30 - 26 Stanningley",
@@ -2027,8 +2021,6 @@
             "cupLosses": 1,
             "losses": 1,
             "totalGamesPlayed": 18,
-            "agg": 2761,
-            "opponentAgg": 1818,
             "results": [
                 "Sth Leeds Cons B 18 - 35 Stanningley",
                 "Stanningley 37 - 22 Gildersome B",

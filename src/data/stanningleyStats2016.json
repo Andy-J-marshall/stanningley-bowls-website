@@ -4665,8 +4665,6 @@
             "cupLosses": 0,
             "losses": 3,
             "totalGamesPlayed": 18,
-            "agg": 3197,
-            "opponentAgg": 2724,
             "results": [
                 "Stanningley A 20 - 10 Tarnfield A",
                 "Greenbottom B 3 - 27 Stanningley A",
@@ -4702,8 +4700,6 @@
             "cupLosses": 0,
             "losses": 9,
             "totalGamesPlayed": 18,
-            "agg": 2785,
-            "opponentAgg": 3040,
             "results": [
                 "Tarnfield B 12 - 18 Stanningley B",
                 "Stanningley B 18 - 12 Eccleshill",
@@ -4739,8 +4735,6 @@
             "cupLosses": 1,
             "losses": 6,
             "totalGamesPlayed": 18,
-            "agg": 3145,
-            "opponentAgg": 2902,
             "results": [
                 "West Royd Pk 35 - 36 Stanningley",
                 "Stanningley 45 - 22 Middleton Pk",
@@ -4776,8 +4770,6 @@
             "cupLosses": 0,
             "losses": 10,
             "totalGamesPlayed": 22,
-            "agg": 2346,
-            "opponentAgg": 2153,
             "results": [
                 "Stanningley 5 - 21 Clayton A",
                 "Wibsey A 15 - 11 Stanningley",
@@ -4817,8 +4809,6 @@
             "cupLosses": 0,
             "losses": 8,
             "totalGamesPlayed": 16,
-            "agg": 1717,
-            "opponentAgg": 1560,
             "results": [
                 "Rufford B 13 - 11 Stanningley A",
                 "Stanningley A 4 - 20 Rawdon",
@@ -4852,8 +4842,6 @@
             "cupLosses": 0,
             "losses": 13,
             "totalGamesPlayed": 14,
-            "agg": 1172,
-            "opponentAgg": 1578,
             "results": [
                 "Stanningley B 16 - 8 Hall Park B",
                 "Greenbottom B 17 - 7 Stanningley B",
@@ -4885,8 +4873,6 @@
             "cupLosses": 1,
             "losses": 17,
             "totalGamesPlayed": 22,
-            "agg": 2701,
-            "opponentAgg": 3171,
             "results": [
                 "Armley Cons 37 - 12 Stanningley A",
                 "Stanningley A 21 - 34 Churwell Pk",
@@ -4926,8 +4912,6 @@
             "cupLosses": 1,
             "losses": 14,
             "totalGamesPlayed": 17,
-            "agg": 1954,
-            "opponentAgg": 2467,
             "results": [
                 "Stanningley B 31 - 30 New Wortley",
                 "Cross Flatts Pk 36 - 20 Stanningley B",
@@ -4962,8 +4946,6 @@
             "cupLosses": 0,
             "losses": 15,
             "totalGamesPlayed": 20,
-            "agg": 3084,
-            "opponentAgg": 3629,
             "results": [
                 "Stanningley A 25 - 5 Eccleshill 'C'",
                 "Stanningley A 15 - 15 Birkenshaw",
@@ -5001,8 +4983,6 @@
             "cupLosses": 0,
             "losses": 9,
             "totalGamesPlayed": 16,
-            "agg": 1946,
-            "opponentAgg": 2144,
             "results": [
                 "Stanningley B 15 - 13 Tyersal 'B'",
                 "Shipley Club 'C' 18 - 10 Stanningley B",
