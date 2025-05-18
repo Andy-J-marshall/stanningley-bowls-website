@@ -16,8 +16,6 @@ export class TeamStatsPage {
     public readonly totalHomeWinPercValue: Locator;
     public readonly totalAwayWinPercValue: Locator;
     public readonly totalCupWinPercValue: Locator;
-    public readonly totalAggValue: Locator;
-    public readonly totalOpponentAggValue: Locator;
 
     public readonly mondayGamesValue: Locator;
     public readonly mondayWinsValue: Locator;
@@ -27,8 +25,6 @@ export class TeamStatsPage {
     public readonly mondayHomeWinPercValue: Locator;
     public readonly mondayAwayWinPercValue: Locator;
     public readonly mondayCupWinPercValue: Locator;
-    public readonly mondayAggValue: Locator;
-    public readonly mondayOpponentAggValue: Locator;
 
     public readonly tuesVetsGamesValue: Locator;
     public readonly tuesVetsWinsValue: Locator;
@@ -38,8 +34,6 @@ export class TeamStatsPage {
     public readonly tuesVetsHomeWinPercValue: Locator;
     public readonly tuesVetsAwayWinPercValue: Locator;
     public readonly tuesVetsCupWinPercValue: Locator;
-    public readonly tuesVetsAggValue: Locator;
-    public readonly tuesVetsOpponentAggValue: Locator;
 
     constructor(page: Page) {
         this.page = page;
@@ -81,12 +75,6 @@ export class TeamStatsPage {
         this.totalCupWinPercValue = page.locator(
             '#combined-team-win-losses #totalCupWinPercValue'
         );
-        this.totalAggValue = page.locator(
-            '#combined-team-win-losses #totalAggValue'
-        );
-        this.totalOpponentAggValue = page.locator(
-            '#combined-team-win-losses #totalOpponentAggValue'
-        );
 
         this.mondayGamesValue = page.locator(
             '#leedsmondaycombined-team-results #totalGamesValue'
@@ -112,12 +100,6 @@ export class TeamStatsPage {
         this.mondayCupWinPercValue = page.locator(
             '#leedsmondaycombined-team-results #totalCupWinPercValue'
         );
-        this.mondayAggValue = page.locator(
-            '#leedsmondaycombined-team-results #totalAggValue'
-        );
-        this.mondayOpponentAggValue = page.locator(
-            '#leedsmondaycombined-team-results #totalOpponentAggValue'
-        );
 
         this.tuesVetsGamesValue = page.locator(
             '#leedstuesdayvets-team-results #totalGamesValue'
@@ -142,12 +124,6 @@ export class TeamStatsPage {
         );
         this.tuesVetsCupWinPercValue = page.locator(
             '#leedstuesdayvets-team-results #totalCupWinPercValue'
-        );
-        this.tuesVetsAggValue = page.locator(
-            '#leedstuesdayvets-team-results #totalAggValue'
-        );
-        this.tuesVetsOpponentAggValue = page.locator(
-            '#leedstuesdayvets-team-results #totalOpponentAggValue'
         );
     }
 

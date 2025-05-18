@@ -15,8 +15,6 @@ function TeamStatsTable(props: StatsTableDisplayProps) {
     const totalDraws = props.totalDraws;
     const homeDraws = props.homeDraws || 0;
     const awayDraws = props.awayDraws || 0;
-    const agg = props.agg;
-    const opponentAgg = props.opponentAgg;
 
     const homeGames = homeDraws + homeWins + homeLosses;
     const awayGames = awayDraws + awayWins + awayLosses;
@@ -86,18 +84,6 @@ function TeamStatsTable(props: StatsTableDisplayProps) {
                             <td id="totalCupWinPercValue">
                                 {((cupWins / cupGames) * 100).toFixed(0)}%
                             </td>
-                        </tr>
-                    ) : null}
-                    {agg > 0 ? (
-                        <tr>
-                            <td>{config.teamNames.shortName} aggregate</td>
-                            <td id="totalAggValue">{agg}</td>
-                        </tr>
-                    ) : null}
-                    {opponentAgg > 0 ? (
-                        <tr>
-                            <td>Opponent aggregate</td>
-                            <td id="totalOpponentAggValue">{opponentAgg}</td>
                         </tr>
                     ) : null}
                 </tbody>

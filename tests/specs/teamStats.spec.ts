@@ -25,8 +25,6 @@ test.describe('Team Stats', () => {
         expect(teamStatsPage.totalHomeWinPercValue).toContainText('94%');
         expect(teamStatsPage.totalAwayWinPercValue).toContainText('59%');
         expect(teamStatsPage.totalCupWinPercValue).toContainText('86%');
-        expect(teamStatsPage.totalAggValue).toContainText('15238');
-        expect(teamStatsPage.totalOpponentAggValue).toContainText('11461');
     });
 
     test('Teams stats for Tuesday Vets has correct stats for 2023', async ({
@@ -48,8 +46,6 @@ test.describe('Team Stats', () => {
         expect(teamStatsPage.tuesVetsHomeWinPercValue).toContainText('100%');
         expect(teamStatsPage.tuesVetsAwayWinPercValue).toContainText('89%');
         expect(teamStatsPage.tuesVetsCupWinPercValue).toContainText('100%');
-        expect(teamStatsPage.tuesVetsAggValue).toContainText('3479');
-        expect(teamStatsPage.tuesVetsOpponentAggValue).toContainText('2119');
     });
 
     test('Teams stats for Monday has correct stats for 2022', async ({
@@ -71,8 +67,6 @@ test.describe('Team Stats', () => {
         expect(teamStatsPage.mondayHomeWinPercValue).toContainText('70%');
         expect(teamStatsPage.mondayAwayWinPercValue).toContainText('50%');
         expect(teamStatsPage.mondayCupWinPercValue).toHaveCount(0);
-        expect(teamStatsPage.mondayAggValue).toContainText('2077');
-        expect(teamStatsPage.mondayOpponentAggValue).toContainText('1797');
     });
 
     test('Team stats not show for Wednesday Pairs in 2023 as team did not exist', async ({

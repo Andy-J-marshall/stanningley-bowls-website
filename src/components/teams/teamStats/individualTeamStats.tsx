@@ -16,8 +16,6 @@ function IndividualTeamStats(props: IndividualTeamStatsProps) {
         homeLosses,
         homeDraws,
         awayDraws,
-        agg,
-        opponentAgg,
     } = stats;
 
     const totalDraws = awayDraws + homeDraws;
@@ -43,8 +41,6 @@ function IndividualTeamStats(props: IndividualTeamStatsProps) {
                     totalWins={totalWins}
                     totalLosses={totalLosses}
                     totalDraws={totalDraws}
-                    agg={agg}
-                    opponentAgg={opponentAgg}
                     homeWins={homeWins}
                     awayWins={awayWins}
                     cupWins={cupWins}

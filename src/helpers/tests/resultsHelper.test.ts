@@ -129,8 +129,6 @@ describe('#ResultsHelper Tests', () => {
                     cupLosses: 0,
                     losses: 0,
                     totalGamesPlayed: 0,
-                    agg: 0,
-                    opponentAgg: 0,
                 },
                 {
                     day: 'Tuesday',
@@ -147,8 +145,6 @@ describe('#ResultsHelper Tests', () => {
                     cupLosses: 0,
                     losses: 0,
                     totalGamesPlayed: 0,
-                    agg: 0,
-                    opponentAgg: 0,
                 },
             ];
 
