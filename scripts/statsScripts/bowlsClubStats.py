@@ -130,14 +130,21 @@ for team in clubDetails.teamDays:
 
                 # Save the scores
                 text = allRowsInFile[rowNumber + totalNumberOfRowsAdjustmentInt]
+
+                # Finds the match score after checking if it's a decimal or integer
                 if text and type(text) is str:
-                    matchScore = re.findall(r"\d+", text)
-                if len(matchScore) == 2:
-                    homeScore = int(matchScore[0].strip())
-                    awayScore = int(matchScore[1].strip())
+                    matchScore = re.findall(r"\d+\.\d+|\d+", text)
+                    if len(matchScore) == 2:
+                        if any("." in score for score in matchScore):
+                            homeScore = float(matchScore[0].strip())
+                            awayScore = float(matchScore[1].strip())
+                        else:
+                            homeScore = int(matchScore[0].strip())
+                            awayScore = int(matchScore[1].strip())
 
                 # Save the aggregates
-                if cupGameBool:
+                # TODO this won't work as agg isn't saved for AW cups
+                if cupGameBool and isinstance(homeScore, int):
                     homeAgg = homeScore
                     awayAgg = awayScore
                 else:
@@ -154,9 +161,12 @@ for team in clubDetails.teamDays:
                         + adjustmentForLeagueInt
                         - adjustFor6PlayerTeamsInt
                     )
+
                     if rowNumber + adjustment >= len(allRowsInFile):
                         continue
+
                     text = allRowsInFile[rowNumber + adjustment]
+
                     if text and type(text) is str:
                         matchAgg = re.findall(r"\d+", text)
                     if len(matchAgg) == 2:
