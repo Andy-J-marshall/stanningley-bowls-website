@@ -74,29 +74,6 @@ def returnAdjustedRowNumberFor6PlayerTeams(league, rowsDownAdjustmentInt):
     return rowsDownAdjustmentInt
 
 
-def returnAggRowDownNumber(team, teamsWithDifferentNumberOfPlayers):
-    lowerTeam = team.lower()
-
-    if lowerTeam.startswith("airewharfe monday"):
-        return 2
-
-    if (
-        lowerTeam.startswith("airewharfe saturday")
-        and team not in teamsWithDifferentNumberOfPlayers
-    ):
-        return 2
-
-    if lowerTeam.startswith("bradford saturday"):
-        if team in teamsWithDifferentNumberOfPlayers:
-            return 1
-        return 3
-
-    if lowerTeam.startswith("mirfield"):
-        return 4
-
-    return 0
-
-
 def isCupGame(cupRow):
     if cupRow and type(cupRow) is str:
         for text in statsHelper.cupText:
