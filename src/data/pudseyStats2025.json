@@ -122,12 +122,12 @@
             }
         },
         "linda barrand": {
-            "totalAgg": 152,
-            "totalAggAgainst": 188,
-            "availableAgg": 231,
+            "totalAgg": 161,
+            "totalAggAgainst": 209,
+            "availableAgg": 252,
             "availablePairsAgg": 0,
             "availableHomeAgg": 105,
-            "availableAwayAgg": 126,
+            "availableAwayAgg": 147,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -136,14 +136,14 @@
             "totalHomeAggAgainst": 79,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 68,
-            "totalAwayAggAgainst": 109,
+            "totalAwayAgg": 77,
+            "totalAwayAggAgainst": 130,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 3,
             "homeLosses": 2,
             "awayWins": 1,
-            "awayLosses": 5,
+            "awayLosses": 6,
             "cupWins": 0,
             "cupLosses": 0,
             "pairWins": 0,
@@ -154,13 +154,14 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 11,
+            "totalGamesPlayed": 12,
             "results": [
                 "linda barrand 4 - 21 alan byers",
                 "linda barrand 21 - 10 dorcas kirk",
                 "linda barrand 9 - 21 mike wilson",
                 "linda barrand 21 - 4 jim philipson",
                 "linda barrand 21 - 7 fran sutton",
+                "linda barrand 9 - 21 janet uttley",
                 "linda barrand 14 - 21 charles fell",
                 "linda barrand 12 - 21 ian fairhurst",
                 "linda barrand 21 - 20 donald harrison",
@@ -179,9 +180,9 @@
                 "aggDiff": 0
             },
             "airewharfe vets": {
-                "games": 5,
+                "games": 6,
                 "wins": 3,
-                "aggDiff": 13
+                "aggDiff": 1
             },
             "mirfield": {
                 "games": 0,
@@ -380,18 +381,18 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 216,
-            "totalAggAgainst": 198,
-            "availableAgg": 252,
+            "totalAgg": 224,
+            "totalAggAgainst": 219,
+            "availableAgg": 273,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 126,
+            "availableHomeAgg": 147,
             "availableAwayAgg": 126,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 106,
-            "totalHomeAggAgainst": 95,
+            "totalHomeAgg": 114,
+            "totalHomeAggAgainst": 116,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 110,
@@ -399,7 +400,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 4,
-            "homeLosses": 2,
+            "homeLosses": 3,
             "awayWins": 3,
             "awayLosses": 3,
             "cupWins": 0,
@@ -412,7 +413,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 12,
+            "totalGamesPlayed": 13,
             "results": [
                 "stewart watson 21 - 12 terri durrans",
                 "stewart watson 21 - 15 philip sykes",
@@ -422,6 +423,7 @@
                 "stewart watson 21 - 14 john lewis",
                 "stewart watson 6 - 21 dave fox",
                 "stewart watson 20 - 21 norman swift",
+                "stewart watson 8 - 21 peter owen",
                 "stewart watson 21 - 15 peter howroyd",
                 "stewart watson 16 - 21 john beverley",
                 "stewart watson 17 - 21 bill swales",
@@ -453,9 +455,9 @@
                 "aggDiff": 0
             },
             "mirfield (c)": {
-                "games": 4,
+                "games": 5,
                 "wins": 1,
-                "aggDiff": -20
+                "aggDiff": -33
             },
             "bradford half holiday": {
                 "games": 0,
