@@ -201,25 +201,25 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 390,
-            "totalAggAgainst": 342,
-            "availableAgg": 462,
+            "totalAgg": 411,
+            "totalAggAgainst": 350,
+            "availableAgg": 483,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 210,
+            "availableHomeAgg": 231,
             "availableAwayAgg": 210,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 194,
-            "totalHomeAggAgainst": 150,
+            "totalHomeAgg": 215,
+            "totalHomeAggAgainst": 158,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 166,
             "totalAwayAggAgainst": 155,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 7,
+            "homeWins": 8,
             "homeLosses": 3,
             "awayWins": 6,
             "awayLosses": 4,
@@ -233,7 +233,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 22,
+            "totalGamesPlayed": 23,
             "results": [
                 "jim moorin 21 - 2 janice connaleigh",
                 "jim moorin 10 - 21 deborah swann",
@@ -241,6 +241,7 @@
                 "jim moorin 21 - 20 david samuel",
                 "jim moorin 21 - 10 paul crawford",
                 "jim moorin 21 - 16 t harrison",
+                "jim moorin 21 - 8 kathryn jones",
                 "jim moorin 14 - 21 christine barker",
                 "jim moorin 14 - 21 john shoesmith",
                 "jim moorin 21 - 13 pauline gilroy",
@@ -264,9 +265,9 @@
                 "aggDiff": 0
             },
             "airewharfe monday (b)": {
-                "games": 6,
-                "wins": 5,
-                "aggDiff": 32
+                "games": 7,
+                "wins": 6,
+                "aggDiff": 45
             },
             "mirfield": {
                 "games": 0,
@@ -320,25 +321,25 @@
             }
         },
         "john armitage": {
-            "totalAgg": 405,
-            "totalAggAgainst": 341,
-            "availableAgg": 462,
+            "totalAgg": 426,
+            "totalAggAgainst": 348,
+            "availableAgg": 483,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 210,
+            "availableHomeAgg": 231,
             "availableAwayAgg": 168,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 192,
-            "totalHomeAggAgainst": 142,
+            "totalHomeAgg": 213,
+            "totalHomeAggAgainst": 149,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 137,
             "totalAwayAggAgainst": 149,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 7,
+            "homeWins": 8,
             "homeLosses": 3,
             "awayWins": 2,
             "awayLosses": 6,
@@ -352,12 +353,13 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 22,
+            "totalGamesPlayed": 23,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
                 "john armitage 14 - 21 kevin siddle",
                 "john armitage 17 - 21 mick bastow",
+                "john armitage 21 - 7 lynda heath",
                 "john armitage 21 - 11 chris brown",
                 "john armitage 21 - 15 dean missere",
                 "john armitage 21 - 10 danny kilburn",
@@ -383,9 +385,9 @@
                 "aggDiff": -25
             },
             "airewharfe monday (b)": {
-                "games": 0,
-                "wins": 0,
-                "aggDiff": 0
+                "games": 1,
+                "wins": 1,
+                "aggDiff": 14
             },
             "mirfield": {
                 "games": 5,
@@ -750,6 +752,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "18/05/2025",
+    "lastUpdated": "20/05/2025",
     "statsYear": "2025"
 }

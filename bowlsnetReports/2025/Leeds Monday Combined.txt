@@ -1,4 +1,4 @@
-=== Leeds & District (Mon. Combined) 2025 (as of Sun 18th May)
+=== Leeds & District (Mon. Combined) 2025 (as of Tue 20th May)
 === League Match Cards
 
         Div 1             Mon 21st Apr      
@@ -351,5 +351,88 @@ S Ellis            21 Hazel Goodall      13
 P Hardy               Joanna Rochester      
        Aggregate: 126        Aggregate:  45 
           Points:  30           Points:   7 
+
+     Round of 16          Mon 19th May      
+                         On Bramley Park    
+      Harehills            Gildersome       
+David Smith        21 Andy Lockwood      19 
+Raymond Swallow    21 John Ackroyd        7 
+Laura Love         21 David Norton       11 
+David Tinker       16 Alan Procter       21 
+Sharon Kerry       18 Kay Stewart        21 
+Steven Dolan          Ian Stocks            
+Peter Simmons      11 Linda Gaunt        21 
+Alan McConnell        Tracey Norton         
+       Aggregate: 108        Aggregate: 100 
+
+     Round of 16          Mon 19th May      
+                        On Harehills Park   
+     New Wortley         Chapel Allerton    
+Trevor Dawson      21 Laurentiu Barbu     9 
+Angela Morley      21 Matthew Watson     15 
+Stephen Morley     21 Alan Smith         17 
+Malcolm Crowson     9 Ian McMillan       21 
+Danny Dawson       21 Anne Miller        20 
+Valerie Dawson        David Miller          
+Stuart Reardon     21 Michael Knaggs      7 
+Marie Tate            Steve Bird            
+        Handicap: Scr         Handicap: +10 
+       Aggregate: 114        Aggregate:  99 
+
+     Round of 16          Mon 19th May      
+                       On Chapel Allerton   
+    Rothwell BC B         Crossgates BC     
+Lyn Owen           13 Peter Wilcox       21 
+Ron Owen            8 Tom Smith          21 
+Nigel Richardson    4 Luke Bellamy       21 
+Robert Leighton    18 Natalie Sanderson  21 
+Mick Bagshaw       18 Louie Taylor       21 
+Trevor Hawkin         Mark Taylor           
+Alfie Hutchinson    9 Lynn Wilcox        21 
+Karen Portman         Rachel Wilcox         
+        Handicap: +10         Handicap: Scr 
+       Aggregate:  80        Aggregate: 126 
+
+     Round of 16          Mon 19th May      
+                          On Gildersome     
+   Western Flatts         Bramley Park      
+Gordon Stalker     21 Keith Davison      13 
+Granville Stoyles  20 Sean Fish          21 
+Andrew Ash         21 Barry Palmer        8 
+David Turner       21 Brian Fish         10 
+Hazel Goodall      21 Bob Davison        12 
+Joanna Rochester      Terry Astley          
+Maveen Tomlinson   21 Jeff Allman        15 
+Peter Colley          Shilrley Allman       
+        Handicap: +10         Handicap: +10 
+       Aggregate: 135        Aggregate:  89 
+
+     Round of 16          Mon 19th May      
+                         On Rothwell BC     
+    New Farnley A          Meanwood A       
+Simon Lavan         6 Oliver Devaney     21 
+Emma Dixon          9 Graham Hey         21 
+Dave Taylor        18 John Hindle        21 
+Sue Jones          16 Ian Macfarlane     21 
+Pat Skelton        14 Maureen Sheridan   21 
+Steve Nelson          Julie Keightley       
+John Dixon         15 Wendy Skyes        21 
+Ron Lavan             Jenny Holiday         
+        Handicap: +10         Handicap: +10 
+       Aggregate:  88        Aggregate: 136 
+
+     Round of 16          Mon 19th May      
+                        On Western Flatts   
+     Whitkirk A           Scatcherd Pk      
+P Hill             21 Keith Kincaid      16 
+G Hodder           21 Chris Stuart        8 
+G Scholes          21 Elliot Beddard      5 
+P Hardy            21 Terry Dillon        6 
+M Sheerin          21 Wendy Leybourne     7 
+Jason Richards        Roy Kellett           
+Jim Smith          21 *No Player*         0 
+S Cahill              ----------            
+        Handicap: Scr         Handicap: +10 
+       Aggregate: 126        Aggregate:  52 
 
 
