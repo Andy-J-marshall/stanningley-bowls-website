@@ -432,10 +432,7 @@ def checkTeamNotProcessedTwice(allTeamResults):
             team.get("wins"),
             team.get("losses"),
             team.get("draws"),
-            team.get("homeWins"),
-            team.get("awayWins"),
-            team.get("homeLosses"),
-            team.get("awayLosses"),
+            tuple(team.get("results", [])),
         )
         if statsToCheck in seenTeamStats:
             raise Exception(f"Has the team been processed twice? {team.get("day")}")
