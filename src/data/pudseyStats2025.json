@@ -122,18 +122,18 @@
             }
         },
         "linda barrand": {
-            "totalAgg": 161,
-            "totalAggAgainst": 209,
-            "availableAgg": 252,
+            "totalAgg": 178,
+            "totalAggAgainst": 230,
+            "availableAgg": 273,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 105,
+            "availableHomeAgg": 126,
             "availableAwayAgg": 147,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 84,
-            "totalHomeAggAgainst": 79,
+            "totalHomeAgg": 101,
+            "totalHomeAggAgainst": 100,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 77,
@@ -141,7 +141,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 3,
-            "homeLosses": 2,
+            "homeLosses": 3,
             "awayWins": 1,
             "awayLosses": 6,
             "cupWins": 0,
@@ -154,7 +154,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 12,
+            "totalGamesPlayed": 13,
             "results": [
                 "linda barrand 4 - 21 alan byers",
                 "linda barrand 21 - 10 dorcas kirk",
@@ -164,6 +164,7 @@
                 "linda barrand 9 - 21 janet uttley",
                 "linda barrand 14 - 21 charles fell",
                 "linda barrand 12 - 21 ian fairhurst",
+                "linda barrand 17 - 21 david glass",
                 "linda barrand 21 - 20 donald harrison",
                 "linda barrand 13 - 21 pat jagger",
                 "linda barrand 7 - 21 eddie prince",
@@ -205,9 +206,9 @@
                 "aggDiff": 0
             },
             "bradford half holiday (b)": {
-                "games": 2,
+                "games": 3,
                 "wins": 0,
-                "aggDiff": -16
+                "aggDiff": -20
             },
             "spen valley": {
                 "games": 0,
@@ -251,12 +252,12 @@
             }
         },
         "richard hodgson": {
-            "totalAgg": 259,
-            "totalAggAgainst": 194,
-            "availableAgg": 273,
+            "totalAgg": 278,
+            "totalAggAgainst": 215,
+            "availableAgg": 294,
             "availablePairsAgg": 0,
             "availableHomeAgg": 147,
-            "availableAwayAgg": 105,
+            "availableAwayAgg": 126,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -265,14 +266,14 @@
             "totalHomeAggAgainst": 88,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 91,
-            "totalAwayAggAgainst": 94,
+            "totalAwayAgg": 110,
+            "totalAwayAggAgainst": 115,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 7,
             "homeLosses": 0,
             "awayWins": 2,
-            "awayLosses": 3,
+            "awayLosses": 4,
             "cupWins": 1,
             "cupLosses": 0,
             "pairWins": 0,
@@ -283,7 +284,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 13,
+            "totalGamesPlayed": 14,
             "results": [
                 "richard hodgson 21 - 12 david pike",
                 "richard hodgson 21 - 16 catherine new",
@@ -297,6 +298,7 @@
                 "richard hodgson 21 - 12 jan ingham",
                 "richard hodgson 16 - 21 jimmy hearne",
                 "richard hodgson 21 - 19 kath robinson",
+                "richard hodgson 19 - 21 shaun suthers",
                 "richard hodgson 21 - 12 graham gaunt"
             ],
             "airewharfe monday": {
@@ -345,9 +347,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 5,
+                "games": 6,
                 "wins": 3,
-                "aggDiff": 18
+                "aggDiff": 16
             },
             "spen valley (c)": {
                 "games": 1,
@@ -512,6 +514,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "20/05/2025",
+    "lastUpdated": "21/05/2025",
     "statsYear": "2025"
 }
