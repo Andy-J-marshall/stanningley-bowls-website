@@ -1,4 +1,4 @@
-=== Mirfield District Bowling Association 2025 (as of Tue 20th May)
+=== Mirfield District Bowling Association 2025 (as of Wed 21st May)
 === Comp. Match Cards
 
         Division 1                Tue 15th Apr        
@@ -2372,6 +2372,21 @@ Philip Wilsdon          21 Daniel Beeby             8
             Aggregate: 187             Aggregate: 177 
 
         Division 2                Tue 20th May        
+        Sandal BC                 Whitkirk BC         
+Lee Grieve              21 B Jeffrey               10 
+Ben Sweeney             21 Scott Bailey             7 
+Kristian Shuttleworth   21 Rob Whitfield           19 
+Dave Robson             21 Adam Varley             10 
+Darren Pitchforth       21 Phil Hill               14 
+Craig Newton            21 Terry Kelly             14 
+James Evison            21 Stan Elwell             16 
+Andrew Evison           19 Paul Tobin              21 
+Martin Eley             14 Kristian Walder         21 
+Sam Beresford           21 A Martinho               6 
+               Points:  10                Points:   2 
+            Aggregate: 201             Aggregate: 138 
+
+        Division 2                Tue 20th May        
    Brighouse Sports 'A'           Rothwell BC         
 Daniel Dunkerley        17 Matthew Turner          21 
 Julian Dawson           21 Nathan Conlon           10 
@@ -2400,6 +2415,36 @@ Ross Ingham             12 Danny Towning           21
 Ian Newby               21 David Walker            18 
                Points:   8                Points:   4 
             Aggregate: 180             Aggregate: 175 
+
+        Division 2                Tue 20th May        
+    Crossgates BC 'B'              Shipley BC         
+Simon Walder            21 Chris Bedford            5 
+Dean Hopwood            16 Ben Ullock              21 
+Jonathan Wilcox         21 Scott Bloodworth        12 
+Grant Bartle            14 Matthew Jacques         21 
+Tom Smith               16 Stuart Wilson           21 
+Peter Wilcox            14 Chris Jacques           21 
+Chris Broughton          9 Danny Metcalfe          21 
+Ian Vickers             19 Steve Cooper            21 
+Nigel Cranston          17 Ian Jacques             21 
+Ira Jeffers             21 Craig Fenton             9 
+               Points:   3                Points:   9 
+            Aggregate: 168             Aggregate: 173 
+
+        Division 3                Tue 20th May        
+ Ossett Flying Horse 'A'        Thornhill C & BC      
+Graham Higgins          21 Ryan Mitchell           18 
+Kevin Burns             21 Nathan Jewitt            9 
+Roger Lunn              21 Gary Mountain           15 
+Graham Blenkinsop       16 Andy Mitchell           21 
+Paul Wildgoose          19 James McNeill           21 
+David Armitage          21 Steve Davis             16 
+Danny Hallas            21 Gary Smith              18 
+Calum Fennell           21 Jason Woodhouse         14 
+Malcolm Preston         21 Aiden Fox                8 
+Alwyn Beedel            21 Graham Sheard           13 
+               Points:  10                Points:   2 
+            Aggregate: 203             Aggregate: 153 
 
         Division 3                Tue 20th May        
       Thurgoland BC             Alverthorpe WMC       
@@ -2445,6 +2490,21 @@ Jimmy Hearne            17 Johnny Orbell           21
 Frank Cullen            21 Glen Pratt              18 
                Points:   1                Points:  11 
             Aggregate: 148             Aggregate: 207 
+
+        Division 3                Tue 20th May        
+       Morton House              Ossett C & AC        
+Wayne Kemp              21 Graeme Eyre             15 
+Harrison Messinger      21 Chris Nuttall           15 
+Marcus Leach            21 Christopher Goodwin      3 
+Adrian Leach            21 Mick Scott              11 
+Darren Ripley           21 Noel Whitaker           14 
+Charlie Ripley          21 Joshua Dunford          14 
+Michael Sweeney         21 Stuart Daniel            8 
+Tom Gilbert             21 Martin Cross            16 
+Daniel Balmforth        21 Mel Whitaker             4 
+Michael Robinson        12 Robert Dunford          21 
+               Points:  11                Points:   1 
+            Aggregate: 201             Aggregate: 121 
 
         Division 4                Tue 20th May        
       Moldgreen Con            Kirkheaton Con 'B'     
@@ -2506,6 +2566,34 @@ Stewart Watson           8 Peter Owen              21
                Points:   4                Points:   8 
             Aggregate: 169             Aggregate: 192 
 
+        Division 4                Tue 20th May        
+    Spen Victoria 'B'        Cleckheaton Sports 'A'   
+Richard Brooke          19 Joe Bray                21 
+Paul Blackburn          20 Norman Swift            21 
+Phil Rayner             21 Tony Throup             20 
+John Blackburn          21 Chris Blakeley           9 
+David Billington         6 Bradley Throup          21 
+Kevin Wood              17 Andy Robinson           21 
+Harry Brooke            21 Richard Toulson         16 
+Paul Warwick            14 Gary Walker             21 
+John Smith               9 Roger Birdsall          21 
+Ian Gould                8 Michael Rhodes          21 
+               Points:   3                Points:   9 
+            Aggregate: 156             Aggregate: 192 
+
+        Division 5                Tue 20th May        
+    Almondbury Lib 'B'        The Harold Club 'B'     
+Andy Broughton          17 Ian Boldy               21 
+Matt Hollingworth       21 Andy Malone             12 
+Harold Hick             21 Lee Boocock             14 
+Blake Hick              21 Stuart Davis            17 
+Ethan Hick               8 Carl Maguire            21 
+Jamie Shaw              21 Andrew Jacobs            7 
+Peter Liversidge        12 Dave Hill               21 
+Michael Hick            21 Vincent Cleary          11 
+               Points:   7                Points:   3 
+            Aggregate: 142             Aggregate: 124 
+
         Division 5                Tue 20th May        
       Cowcliffe Lib               Waterloo BC         
 Dennis Hufton           10 Kris Lunn               21 
@@ -2559,6 +2647,19 @@ John Wilson             21 David Frost             17
             Aggregate: 151             Aggregate: 133 
 
         Division 6                Tue 20th May        
+       Horbury WMC            Brighouse Sports 'C'    
+Aidrian Smart           21 Jeffrey Greenwood        8 
+Phil Dunnill            14 James Wood              21 
+Graham Kirkaldy         21 Lewis Whalley            6 
+Tony Whitlam            21 Eric Charlesworth        7 
+Arthur Clarkson         21 David Marsh              8 
+Steven Cummack          21 Ben English              7 
+Derek Hawes             18 David Wood              21 
+Darren Crummack         21 Noah Charlesworth        9 
+               Points:   8                Points:   2 
+            Aggregate: 158             Aggregate:  87 
+
+        Division 6                Tue 20th May        
          Carcroft              Woodlands Park 'B'     
 Ryan Lysons             21 Martin Wilson           17 
 Tyler Lysons            21 Jeff Shipley            16 
@@ -2596,6 +2697,19 @@ Phillip Rann            21 Steven Baldwin          17
 Mark Seed               21 Richard Eaton           16 
                Points:   8                Points:   2 
             Aggregate: 155             Aggregate: 131 
+
+        Division 7                Tue 20th May        
+    Springwood BC 'A'            Dalton C & BC        
+Mick Price              21 Percy Harrison          17 
+Colin Hampshaw          21 Glen Morris              4 
+Chris Windle            21 Keith Clarkson           7 
+David Morgan            21 Philip Battye           12 
+M S Wilde               21 David Hill               9 
+Michael Brammah          5 Richard Taylor          21 
+Trevor Balderson        21 Trevor Boothroyd        19 
+David Cooper            20 Peter Clay              21 
+               Points:   8                Points:   2 
+            Aggregate: 151             Aggregate: 110 
 
         Division 7                Tue 20th May        
   Cleckheaton Sports 'C'       Springwood BC 'B'      
