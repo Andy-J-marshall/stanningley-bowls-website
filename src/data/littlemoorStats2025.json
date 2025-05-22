@@ -202,18 +202,18 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 432,
-            "totalAggAgainst": 362,
-            "availableAgg": 504,
+            "totalAgg": 452,
+            "totalAggAgainst": 383,
+            "availableAgg": 525,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 252,
+            "availableHomeAgg": 273,
             "availableAwayAgg": 210,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 236,
-            "totalHomeAggAgainst": 170,
+            "totalHomeAgg": 256,
+            "totalHomeAggAgainst": 191,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 166,
@@ -221,7 +221,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 9,
-            "homeLosses": 3,
+            "homeLosses": 4,
             "awayWins": 6,
             "awayLosses": 4,
             "cupWins": 1,
@@ -234,7 +234,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 24,
+            "totalGamesPlayed": 25,
             "results": [
                 "jim moorin 21 - 2 janice connaleigh",
                 "jim moorin 10 - 21 deborah swann",
@@ -257,6 +257,7 @@
                 "jim moorin 6 - 21 kevin wood",
                 "jim moorin 16 - 21 sue chadwick",
                 "jim moorin 21 - 8 peter howroyd",
+                "jim moorin 20 - 21 john beverley",
                 "jim moorin 21 - 10 michael sansom",
                 "jim moorin 21 - 19 peter owen",
                 "jim moorin 21 - 4 joe mellor"
@@ -302,9 +303,9 @@
                 "aggDiff": -9
             },
             "bradford vets": {
-                "games": 4,
+                "games": 5,
                 "wins": 2,
-                "aggDiff": 0
+                "aggDiff": -1
             },
             "ossett and horbury": {
                 "games": 0,
