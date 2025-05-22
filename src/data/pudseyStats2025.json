@@ -122,18 +122,18 @@
             }
         },
         "linda barrand": {
-            "totalAgg": 178,
-            "totalAggAgainst": 230,
-            "availableAgg": 273,
+            "totalAgg": 184,
+            "totalAggAgainst": 251,
+            "availableAgg": 294,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 126,
+            "availableHomeAgg": 147,
             "availableAwayAgg": 147,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 101,
-            "totalHomeAggAgainst": 100,
+            "totalHomeAgg": 107,
+            "totalHomeAggAgainst": 121,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 77,
@@ -141,7 +141,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 3,
-            "homeLosses": 3,
+            "homeLosses": 4,
             "awayWins": 1,
             "awayLosses": 6,
             "cupWins": 0,
@@ -154,7 +154,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 13,
+            "totalGamesPlayed": 14,
             "results": [
                 "linda barrand 4 - 21 alan byers",
                 "linda barrand 21 - 10 dorcas kirk",
@@ -168,7 +168,8 @@
                 "linda barrand 21 - 20 donald harrison",
                 "linda barrand 13 - 21 pat jagger",
                 "linda barrand 7 - 21 eddie prince",
-                "linda barrand 9 - 21 jim gomersall"
+                "linda barrand 9 - 21 jim gomersall",
+                "linda barrand 6 - 21 norman swift"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -231,9 +232,9 @@
                 "aggDiff": 0
             },
             "bradford vets (b)": {
-                "games": 4,
+                "games": 5,
                 "wins": 1,
-                "aggDiff": -33
+                "aggDiff": -48
             },
             "bradford saturday": {
                 "games": 0,
