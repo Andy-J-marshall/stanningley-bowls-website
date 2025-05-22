@@ -383,12 +383,12 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 224,
-            "totalAggAgainst": 219,
-            "availableAgg": 273,
+            "totalAgg": 240,
+            "totalAggAgainst": 240,
+            "availableAgg": 294,
             "availablePairsAgg": 0,
             "availableHomeAgg": 147,
-            "availableAwayAgg": 126,
+            "availableAwayAgg": 147,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -397,14 +397,14 @@
             "totalHomeAggAgainst": 116,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 110,
-            "totalAwayAggAgainst": 103,
+            "totalAwayAgg": 126,
+            "totalAwayAggAgainst": 124,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 4,
             "homeLosses": 3,
             "awayWins": 3,
-            "awayLosses": 3,
+            "awayLosses": 4,
             "cupWins": 0,
             "cupLosses": 0,
             "pairWins": 0,
@@ -415,7 +415,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 13,
+            "totalGamesPlayed": 14,
             "results": [
                 "stewart watson 21 - 12 terri durrans",
                 "stewart watson 21 - 15 philip sykes",
@@ -429,7 +429,8 @@
                 "stewart watson 21 - 15 peter howroyd",
                 "stewart watson 16 - 21 john beverley",
                 "stewart watson 17 - 21 bill swales",
-                "stewart watson 21 - 5 richard kerr"
+                "stewart watson 21 - 5 richard kerr",
+                "stewart watson 16 - 21 terry lilley"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -487,9 +488,9 @@
                 "aggDiff": 0
             },
             "bradford vets": {
-                "games": 4,
+                "games": 5,
                 "wins": 2,
-                "aggDiff": 13
+                "aggDiff": 8
             },
             "bradford vets (b)": {
                 "games": 0,
@@ -514,6 +515,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "21/05/2025",
+    "lastUpdated": "22/05/2025",
     "statsYear": "2025"
 }

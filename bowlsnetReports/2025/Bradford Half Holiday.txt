@@ -1,4 +1,4 @@
-=== Bradford (Half Holiday) 2025 (as of Wed 21st May)
+=== Bradford (Half Holiday) 2025 (as of Thu 22nd May)
 === Comp. Match Cards
 
    Division 1 - Ed Foster          Wed 16th Apr        
@@ -864,6 +864,18 @@ Stuart Watson             21 Darren Goodall         19
               Aggregate: 118            Aggregate:  82 
                   Games:   5                Games:   1 
                  Points:  21               Points:   5 
+
+   Division 1 - Ed Foster          Wed 21st May        
+      West Bradford A                Pudsey A          
+John Shoesmith            12 Gary Wike              21 
+Kevin Buckley             16 Melissa Morris         21 
+Stuart Graham              3 Dean Scarth            21 
+Steven Bussingham          5 Pam Lindley            21 
+Malcolm Crotty            13 Ian Shaw               21 
+Mark Chambers             15 Steve Emmett           21 
+              Aggregate:  64            Aggregate: 126 
+                  Games:   0                Games:   6 
+                 Points:   1               Points:  25 
 
    Division 1 - Ed Foster          Wed 21st May        
         Hove Edge A                Littlemoor B        
