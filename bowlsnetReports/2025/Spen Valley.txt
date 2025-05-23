@@ -2546,7 +2546,7 @@ Richard Oldroyd         21 Michael Brocklehurst          3
 Gordon Piper             8 Chris Stanley                21 
 Daniel Noland           21 Graham Hall                  14 
 Nick Robinson           21 Paul Rimmer                  12 
-Geoff Thornton          16 Keith Richards               21 
+Mark Wright             16 Keith Richards               21 
             Aggregate: 136                  Aggregate: 134 
                Points:   5                     Points:   5 
 
