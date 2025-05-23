@@ -79,19 +79,6 @@ Maureen Morris      2 Stewart Wardlow    21
        Aggregate: 103        Aggregate: 146 
           Points:  21           Points:  33 
 
-     Division 2           Thu 17th Apr      
-   West Royd Park        Cross Flatts Pk    
-Chris Eccleshall   17 Monica Buckroyd    21 
-Jan McGuiness       3 Mario Biancardo    21 
-Keith Corp          9 Jim Bootland       21 
-Joan Coop          21 *No Player*         0 
-Pam Wilson         21 *No Player*         0 
-Chris Swales       16 Shirley Biancardo  21 
-Les Spencer         4 Peter Griffin      21 
-Howard Gothard     15 Ian Wood           21 
-       Aggregate: 106        Aggregate: 126 
-          Points:  20           Points:  30 
-
      Division 1           Thu 24th Apr      
     Pudsey Park A          Gildersome       
 Bill Pyett         13 Frank Hales        21 
@@ -170,19 +157,6 @@ Margaret McPhail   21 Barbara Nellis      6
        Aggregate: 162        Aggregate:  78 
           Points:  38           Points:  14 
 
-     Division 2           Thu 24th Apr      
-   Cross Flatts Pk        Bramley Park      
-Paul Hatch         21 Shirley Allman      3 
-Shirley Biancardo  21 Brian Fish         10 
-Monica Buckroyd    21 Anthony Caywood     7 
-Peter Griffin      21 Peter Caine        14 
-*No Player*         0 Malcolm Woodcock   21 
-Mario Biancardo    21 Jeff Allman         4 
-Jim Bootland       21 John McDermott     16 
-Ian Wood           21 Bob Davison        12 
-       Aggregate: 147        Aggregate:  87 
-          Points:  35           Points:  15 
-
      Division 1            Thu 1st May      
  Middleton Community   Stanningley Park A   
 Terry Maher        21 Donald Shaw        13 
@@ -221,19 +195,6 @@ Graham Gaunt        9 Pauline Stockdale  21
 Linda Gaunt        21 John Gilroy        18 
        Aggregate: 140        Aggregate: 144 
           Points:  31           Points:  31 
-
-     Division 2            Thu 1st May      
-    Pudsey Park B        Cross Flatts Pk    
-Maureen Bradshaw    7 Shirley Biancardo  21 
-Peter Wild         21 *No Player*         0 
-Barbara Moss       21 *No Player*         0 
-Barry Wild          7 Mario Biancardo    21 
-Derek Howell       21 Ian Wood           14 
-Kathleen Vince     21 Monica Buckroyd    11 
-Michael Hirst       7 Peter Griffin      21 
-Robert Fountain     4 Jim Bootland       21 
-       Aggregate: 109        Aggregate: 109 
-          Points:  23           Points:  24 
 
      Division 2            Thu 1st May      
    Middleton Park        Western Flatts     
@@ -339,19 +300,6 @@ David Hurd         20 Richard Tatum      21
        Aggregate: 163        Aggregate: 104 
           Points:  37           Points:  22 
 
-     Division 2            Thu 8th May      
-   Cross Flatts Pk       Middleton Park     
-Monica Buckroyd    21 Philip Rowe        15 
-Shirley Biancardo  21 Allan Blue          5 
-Peter Griffin      21 Trevor Sackett     13 
-*No Player*         0 Kath Burdett       21 
-*No Player*         0 Valerie Darwin     21 
-Jim Bootland       21 John Goode          7 
-Mario Biancardo    21 Patricia Rowe       5 
-Ian Wood           21 Ian Dickinson       4 
-       Aggregate: 126        Aggregate:  91 
-          Points:  30           Points:  18 
-
      Qtr-Finals           Thu 15th May      
                          On New Wortley     
  Stanningley Park A        Burley Prk       
@@ -393,15 +341,15 @@ Jeff Higgins       17 Neil Hudson        21
 
      Qtr-Finals           Thu 15th May      
                        On Gildersome B.C.   
-   Cross Flatts Pk        Bramley Park      
-Shirley Biancardo  21 Kevin Morley       18 
-Ian Wood           21 Jeff Allman        12 
-Mario Biancardo    21 Peter Caine         7 
+       [FREE]             Bramley Park      
+*Withdrawn*        21 Kevin Morley       18 
+*Withdrawn*        21 Jeff Allman        12 
+*Withdrawn*        21 Peter Caine         7 
 *No Player*         0 John McDermott     21 
 *No Player*         0 Anthony Caywood    21 
-Monica Buckroyd    16 Brian Fish         21 
-Jim Bootland       21 Keith Davison       6 
-Peter Griffin      15 Bob Davison        21 
+*Withdrawn*        16 Brian Fish         21 
+*Withdrawn*        21 Keith Davison       6 
+*Withdrawn*        15 Bob Davison        21 
        Aggregate: 115        Aggregate: 127 
 
      Qtr-Finals           Thu 15th May      
