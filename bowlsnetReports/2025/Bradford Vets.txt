@@ -1,4 +1,4 @@
-=== Bradford (Vets) 2025 (as of Fri 23rd May)
+=== Bradford (Vets) 2025 (as of Sat 24th May)
 === Comp. Match Cards
 
 Division Four ( 6 Players)       Thu 10th Apr       
@@ -267,7 +267,7 @@ Carol Royston            21 Mo Jarvis            15
 Gordon Evans              9 John Boyd            21 
 Michael Czuba             9 Eric Brocklehurst    21 
 Keith Powell              7 Jeremy Jones         21 
-David Earls              21 Caroline Corbett     11 
+David Earl               21 Caroline Corbett     11 
 Andrew Lancaster         21 Ralph Sissons        16 
 Patricia Allison         21 Chris Hepworth       12 
 David Hogg               21 Lynne Ogden          19 
@@ -580,7 +580,7 @@ Martin Barraclough       12 Carol Royston        21
 Doreen Parkin            19 Gordon Evans         21 
 Alan Naylor              21 Michael Czuba         7 
 Alan Farrow              21 David Hogg           16 
-Michael Jarvis           21 David Earls           6 
+Michael Jarvis           21 David Earl            6 
 Mark Durrans             21 Andrew Lancaster     17 
 Christine Jarvis         21 Patricia Allison      7 
              Aggregate: 157          Aggregate: 107 
@@ -839,7 +839,7 @@ Shaun Chamberlain        21 Mike Craft           10
 Tony Greenwood           21 Gordon Evans         12 
 Pam Nellist              21 Patricia Allison     19 
 Lynn Shaw                21 David Hogg           13 
-Allan Thorpe             21 David Earls           6 
+Allan Thorpe             21 David Earl            6 
 Ian Greenwood            21 Monica Powell        10 
              Aggregate: 168          Aggregate:  81 
                  Games:   8              Games:   0 
@@ -1092,7 +1092,7 @@ Graham Wilkinson         21 Kenny Oates          16
 Gordon Evans             20 Flo Johnston         21 
 Michael Czuba            18 Pam Robinson         21 
 Mike Craft                4 Janet Welsh          21 
-David Earls               5 Audrey Healey        21 
+David Earl                5 Audrey Healey        21 
 Patricia Allison         21 Tony Southern        18 
 David Hogg               21 Phil Robinson         9 
 Andrew Lancaster         21 Peter Mitchell       13 
@@ -1391,7 +1391,7 @@ Lesley Pawson             8 Carol Royston        21
 Brian Woolner            17 Gordon Evans         21 
 John Shoesmith           21 Michael Czuba         4 
 Colin Isles              21 Mike Craft           15 
-Lesley Lalor             21 David Earls          14 
+Lesley Lalor             21 David Earl           14 
 Malcolm Crotty           21 Patricia Allison      9 
 Kevin Buckley            19 David Hogg           21 
 Eddie Pells              21 Andrew Lancaster     18 

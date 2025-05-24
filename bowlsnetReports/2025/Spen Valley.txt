@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Fri 23rd May)
+=== West Riding & Spen Valley 2025 (as of Sat 24th May)
 === League Match Cards
 
        Round of 32                   Fri 4th Apr           
@@ -2523,6 +2523,19 @@ John Ackroyd             8 Andrew Jacobs                21
 Tony Morris             21 Mark Gummery                 11 
             Aggregate: 135                  Aggregate: 136 
                Points:   4                     Points:   7 
+
+        Division 4                  Wed 21st May           
+     Heckmondwike - C             Spen Victoria - D        
+*No Player*              0 Laura Wood                   21 
+*No Player*              0 Archie Wood                  21 
+*No Player*              0 Justine Wood                 21 
+*No Player*              0 Lexie Gould                  21 
+*No Player*              0 Leigh Manton                 21 
+*No Player*              0 Derek Warriner               21 
+*No Player*              0 Ken Spencer                  21 
+*No Player*              0 Brian Smith                  21 
+            Aggregate:   0                  Aggregate: 168 
+               Points:   0                     Points:  11 
 
         Division 4                  Wed 21st May           
        Drighlington                  Firth Park            
