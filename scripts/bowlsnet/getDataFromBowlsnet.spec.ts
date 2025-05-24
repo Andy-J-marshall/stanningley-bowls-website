@@ -34,10 +34,10 @@ const leagues = [
         day: 'Leeds Saturday',
         url: '/Leeds-Sat',
     },
-    {
-        day: 'Leeds Ladies',
-        url: '/LeedsLadies',
-    },
+    // {
+    //    day: 'Leeds Ladies',
+    //    url: '/LeedsLadies',
+    //},
     {
         day: 'Mirfield',
         url: '/Mirfield',
