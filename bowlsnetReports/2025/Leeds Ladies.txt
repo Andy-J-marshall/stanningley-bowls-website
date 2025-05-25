@@ -1,7 +1,8 @@
-=== Leeds & District Ladies Bowling League 2025 (as of Fri 23rd May)
-=== Comp. Match Cards
+=== Leeds & District Ladies Bowling League 2025 (as of Sun 25th May)
+=== League Match Cards
 
-      Division 1             Thu 17th Apr       
+        League               Thu 17th Apr       
+      Division 1                                
     Western Flatts            Grove Hill        
 Dot Taylor            8 Diane Farrar         21 
 Barbara Nellis       21 Dot Dixon            13 
@@ -13,7 +14,8 @@ Angela Morley        13 Linda Yates          21
 Glennys Ash           8 Kay Lodge            21 
          Aggregate: 128          Aggregate: 137 
 
-      Division 1             Thu 17th Apr       
+        League               Thu 17th Apr       
+      Division 1                                
       Greenbottom              Calverley        
 Barbara Harrison     21 Margaret Whitaker     6 
 May Metcalf          13 Lynne Porter         21 
@@ -25,7 +27,8 @@ Karen Whitelaw       13 Gail Schofield       21
 Kate Jukes           12 Tina Howard          21 
          Aggregate: 113          Aggregate: 137 
 
-      Division 1             Thu 17th Apr       
+        League               Thu 17th Apr       
+      Division 1                                
       Gildersome           Rufford Park 'A'     
 Linda Gaunt          21 Janice Waite         14 
 Bev Hampshaw         21 Aileen Waite          5 
@@ -37,7 +40,8 @@ Daphne Scott         21 Val Grace            16
 Diane Hales          21 Carole Wright        15 
          Aggregate: 122          Aggregate: 134 
 
-      Division 1             Thu 17th Apr       
+        League               Thu 17th Apr       
+      Division 1                                
       Eccleshill             Shipley Club       
 Sarah Harrison       21 Vanessa Telford      11 
 Pauline Gilroy       16 Sylvia Halliday      21 
@@ -49,7 +53,8 @@ Diane Emery          13 Dianne Halliday      21
 Jan Smith            12 Rachel Telford       21 
          Aggregate: 130          Aggregate: 145 
 
-      Division 2             Thu 17th Apr       
+        League               Thu 17th Apr       
+      Division 2                                
        Rufford B               Holt Park        
 Sue Newell           21 Rita Bennett          5 
 Cora Dove            21 Pat Penman           13 
@@ -61,7 +66,8 @@ Sally Clarke         21 Maureen Sheriden      1
 Sheila Hudson        21 Julie Keightley      20 
          Aggregate: 146          Aggregate: 103 
 
-      Division 2             Thu 17th Apr       
+        League               Thu 17th Apr       
+      Division 2                                
        Tarnfield               Hall Park        
 Nikki Swithenbabank   6 Ann Hibbit           21 
 Susan Whelan          4 Linda Stoyles        21 
@@ -73,7 +79,8 @@ Dorcas Kirk          11 Ruth Sutcliffe       21
 Pam Ratcliffe         7 Kath Crompton        21 
          Aggregate:  74          Aggregate: 165 
 
-      Division 2             Thu 17th Apr       
+        League               Thu 17th Apr       
+      Division 2                                
        West Royd              Stanningley       
 Pam Wilson           15 Tracey Marshall      21 
 Margaret Jeffrey     21 Laila Packer         14 
@@ -85,7 +92,8 @@ Caroline Coop        21 Eleanor Graves       19
 Hazel Stancliffe     21 Alyssa Randell       18 
          Aggregate: 161          Aggregate: 123 
 
-      Division 2             Thu 17th Apr       
+        League               Thu 17th Apr       
+      Division 2                                
       New Farnley              Guiseley         
 Anita Birks           9 Maureen Jarvis       21 
 Jean Milner          21 Christine Boyd       13 
@@ -97,7 +105,8 @@ Jan Ingham           21 Julie Stead          10
 Linda Taylor          4 Lynette Hall         21 
          Aggregate: 119          Aggregate: 136 
 
-      Division 1             Thu 24th Apr       
+        League               Thu 24th Apr       
+      Division 1                                
    Rufford Park 'A'           Greenbottom       
 Carolyn Matthewman   21 Gwen Smith            8 
 Janice Waite         21 Kate Jukes            6 
@@ -109,7 +118,8 @@ Angela Bennett       21 Fiona Haxby          12
 Pauline Ingleson     21 Barbara Harrison      6 
          Aggregate: 158          Aggregate:  90 
 
-      Division 1             Thu 24th Apr       
+        League               Thu 24th Apr       
+      Division 1                                
      Shipley Club           Western Flatts      
 Maxine Welsh         13 Mary Horrocks        21 
 Ioana Nistor         21 Barbara Nellis        5 
@@ -121,7 +131,8 @@ Wendy Spivey         21 Dawn Peters          16
 Rachel Telford       21 Hazel Goodall         5 
          Aggregate: 157          Aggregate: 100 
 
-      Division 1             Thu 24th Apr       
+        League               Thu 24th Apr       
+      Division 1                                
       Grove Hill              Gildersome        
 Pauline Barnett      15 Beverley Farrar      21 
 Jane Bowden          21 Helen Thomas          7 
@@ -133,7 +144,8 @@ Belinda Mitchell     21 Diane Hales           6
 Kay Lodge            21 Kay Stewart           6 
          Aggregate: 137          Aggregate: 107 
 
-      Division 1             Thu 24th Apr       
+        League               Thu 24th Apr       
+      Division 1                                
        Calverley              Eccleshill        
 Tina Howard          18 Pauline Gilroy       21 
 Pamela Barlow        21 Shirley Rooks        13 
@@ -145,7 +157,8 @@ Margaret Wood        18 Debbi Davies         21
 Gail Schofield       19 Melissa Gilroy       21 
          Aggregate: 149          Aggregate: 138 
 
-      Division 2             Thu 24th Apr       
+        League               Thu 24th Apr       
+      Division 2                                
       Stanningley              Tarnfield        
 Louise Roberts       13 Susan Whelan         21 
 Kate Hall             9 Christine Scott      21 
@@ -157,7 +170,8 @@ Linda Barrand        16 Dorcas Kirk          21
 Sarah Connolly       11 Susan Whelan         21 
          Aggregate: 104          Aggregate: 159 
 
-      Division 2             Thu 24th Apr       
+        League               Thu 24th Apr       
+      Division 2                                
        Guiseley                Rufford B        
 Anne Brown           15 Sally Clarke         21 
 Jean Perry           21 Gabby Parker          3 
@@ -169,7 +183,8 @@ Lynne Ogden          19 Sue Newell           21
 Lynette Hall         21 Adele Hart-Woods      8 
          Aggregate: 149          Aggregate:  80 
 
-      Division 2             Thu 24th Apr       
+        League               Thu 24th Apr       
+      Division 2                                
        Holt Park               West Royd        
 Maureen Sheriden     16 Pam Wilson           21 
 Geraldine Lyons      21 Joan Coop            16 
@@ -181,7 +196,8 @@ Janet Sykes          21 Jan Mguiness          8
 Sylvia Petty         21 Caroline Coop         5 
          Aggregate: 158          Aggregate: 112 
 
-      Division 2             Thu 24th Apr       
+        League               Thu 24th Apr       
+      Division 2                                
        Hall Park              New Farnley       
 Ann Hibbit           21 Cath Maury           11 
 Suzanne Henshall     21 Catherine Crane      13 
@@ -193,7 +209,8 @@ Sabrina Piggot       21 Pat Skelton           9
 Ruth Sutcliffe       21 Jan Ingham           14 
          Aggregate: 167          Aggregate:  97 
 
-      Division 1              Thu 1st May       
+        League                Thu 1st May       
+      Division 1                                
     Western Flatts             Calverley        
 Barbara Nellis       21 Brenda Chaffer       16 
 Dot Taylor            5 Carol Matthews       21 
@@ -205,7 +222,8 @@ Maveen Tomlinson     21 Gail Schofield       20
 Angela Morley        21 Mandy Wilson         15 
          Aggregate: 112          Aggregate: 148 
 
-      Division 1              Thu 1st May       
+        League                Thu 1st May       
+      Division 1                                
      Shipley Club             Grove Hill        
 Dianne Halliday      21 Belinda Mitchell      6 
 Ioana Nistor         21 Gill Godden          13 
@@ -217,7 +235,8 @@ Wendy Spivey         21 Brenda Appleyard     11
 Rachel Telford       21 Kay Lodge             6 
          Aggregate: 167          Aggregate:  93 
 
-      Division 1              Thu 1st May       
+        League                Thu 1st May       
+      Division 1                                
       Gildersome              Greenbottom       
 Alison Lockwood      21 Linda Summers         7 
 Rachel Barnard       11 Barbara Harrison     21 
@@ -229,7 +248,8 @@ Tracey Norton        21 Anita Kingham         8
 Margaret Johnstone   19 Karen Whitelaw       21 
          Aggregate: 122          Aggregate: 132 
 
-      Division 1              Thu 1st May       
+        League                Thu 1st May       
+      Division 1                                
       Eccleshill           Rufford Park 'A'     
 Sue Butler           17 Angela Carter        21 
 Sue Steward          15 Janice Waite         21 
@@ -241,7 +261,8 @@ Sarah Harrison       21 Angela Burnham       18
 Pauline Gilroy        8 Val Grace            21 
          Aggregate: 134          Aggregate: 149 
 
-      Division 2              Thu 1st May       
+        League                Thu 1st May       
+      Division 2                                
        Rufford B               Hall Park        
 Aileen Waite         21 Ruth Owen            13 
 Tracey Whitaker      13 Marion Rider         21 
@@ -253,7 +274,8 @@ Sue Newell           21 Linda Stoyles        10
 Sally Clarke         21 Ruth Sutcliffe       11 
          Aggregate: 130          Aggregate: 128 
 
-      Division 2              Thu 1st May       
+        League                Thu 1st May       
+      Division 2                                
        Guiseley                Holt Park        
 Christine Boyd       21 Rita Bennett         11 
 Lynne Ogden          21 Michelle Norcliffe   17 
@@ -265,7 +287,8 @@ Doreen Lawson        12 Julie Keightley      21
 Caroline Corbett     21 Sylvia Petty         13 
          Aggregate: 153          Aggregate: 122 
 
-      Division 2              Thu 1st May       
+        League                Thu 1st May       
+      Division 2                                
        West Royd               Tarnfield        
 Margaret Jeffrey     21 Catherine Marshall   10 
 Pam Wilson           21 Nikki Swithenbabank  14 
@@ -277,7 +300,8 @@ Elizabeth Farrar     20 Maureen Poucher      21
 Hazel Stancliffe      7 Anita Howard         21 
          Aggregate: 129          Aggregate: 143 
 
-      Division 1              Thu 8th May       
+        League                Thu 8th May       
+      Division 1                                
    Rufford Park 'A'           Grove Hill        
 Angela Carter        21 Dot Dixon             1 
 Carole Wright        21 Gill Godden          11 
@@ -289,7 +313,8 @@ Angela Bennett       21 Belinda Mitchell     12
 Val Grace            21 Kay Lodge            18 
          Aggregate: 163          Aggregate: 110 
 
-      Division 1              Thu 8th May       
+        League                Thu 8th May       
+      Division 1                                
       Greenbottom             Eccleshill        
 Kate Jukes           19 Diane Emery          21 
 Anne Raw              9 Shirley Rooks        21 
@@ -301,7 +326,8 @@ Gwen Smith           21 Paula Graham         18
 Barbara Harrison      4 Debbi Davies         21 
          Aggregate: 114          Aggregate: 145 
 
-      Division 1              Thu 8th May       
+        League                Thu 8th May       
+      Division 1                                
       Gildersome            Western Flatts      
 Helen Thomas         15 Barbara Nellis       21 
 Beverley Farrar       4 Mary Horrocks        21 
@@ -313,7 +339,8 @@ Tracey Norton        14 Angela Morley        21
 Alison Lockwood       4 Hazel Goodall        21 
          Aggregate: 104          Aggregate: 148 
 
-      Division 1              Thu 8th May       
+        League                Thu 8th May       
+      Division 1                                
        Calverley             Shipley Club       
 Mandy Wilson         21 Maxine Welsh          5 
 Anne Newlove          7 Val Riley            21 
@@ -325,7 +352,8 @@ Lindsey Rosendale    21 Dianne Halliday      10
 Lynne Porter          9 Rachel Telford       21 
          Aggregate: 124          Aggregate: 141 
 
-      Division 2              Thu 8th May       
+        League                Thu 8th May       
+      Division 2                                
       Stanningley              Holt Park        
 Sarah Connolly        3 Sylvia Petty         21 
 Alyssa Randell       12 Julie Keightley      21 
@@ -337,7 +365,8 @@ Louise Roberts       17 Rita Bennett         21
 Linda Barrand        18 *A.N.Other*          21 
          Aggregate:  90          Aggregate: 168 
 
-      Division 2              Thu 8th May       
+        League                Thu 8th May       
+      Division 2                                
        Tarnfield              New Farnley       
 Maureen Poucher      21 Susan Jones           8 
 Susan Whelan          7 Linda Taylor         21 
@@ -349,7 +378,8 @@ Christine Scott       4 Jan Ingham           21
 Pam Ratcliffe        21 Emma Dixon           12 
          Aggregate: 132          Aggregate: 124 
 
-      Division 2              Thu 8th May       
+        League                Thu 8th May       
+      Division 2                                
        West Royd               Rufford B        
 Margaret Jeffrey     15 Adele Hart-Woods     21 
 Pam Wilson           21 Tracey Whitaker       6 
@@ -361,7 +391,8 @@ Hazel Stancliffe      5 Sally Clarke         21
 Caroline Coop        14 Sue Newell           21 
          Aggregate: 125          Aggregate: 135 
 
-      Division 2              Thu 8th May       
+        League                Thu 8th May       
+      Division 2                                
        Hall Park               Guiseley         
 Ann Hibbit           17 Caroline Corbett     21 
 Joyce Banks          21 Jean Perry           15 
@@ -373,7 +404,8 @@ Ruth Sutcliffe       21 Christine Fountain    6
 Anne Mackman         21 Anne Brown            6 
          Aggregate: 146          Aggregate: 123 
 
-      Division 1             Thu 15th May       
+        League               Thu 15th May       
+      Division 1                                
      Shipley Club          Rufford Park 'A'     
 Dianne Halliday      21 Sophie Bennett        8 
 Pam Nellist          11 Janice Waite         21 
@@ -385,7 +417,8 @@ Wendy Spivey         21 Carolyn Matthewman   16
 Rachel Telford       21 Angela Carter        15 
          Aggregate: 123          Aggregate: 137 
 
-      Division 1             Thu 15th May       
+        League               Thu 15th May       
+      Division 1                                
       Grove Hill               Calverley        
 Gill Godden          21 Lynne Porter          6 
 Pauline Barnett      16 Lindsey Rosendale    21 
@@ -397,7 +430,8 @@ Brenda Appleyard     11 Tina Howard          21
 Kay Lodge            21 Carol Matthews       19 
          Aggregate: 128          Aggregate: 138 
 
-      Division 1             Thu 15th May       
+        League               Thu 15th May       
+      Division 1                                
       Eccleshill              Gildersome        
 Paula Graham         21 Helen Thomas         16 
 Melissa Gilroy       21 Margaret Johnstone    9 
@@ -409,7 +443,8 @@ Sue Butler           21 Diane Hales          16
 Sarah Harrison       21 Rachel Barnard        8 
          Aggregate: 166          Aggregate:  96 
 
-      Division 2             Thu 15th May       
+        League               Thu 15th May       
+      Division 2                                
        Rufford B               Tarnfield        
 Sally Clarke         19 Maureen Poucher      21 
 Gabby Parker         17 *A.N.Other*          21 
@@ -421,7 +456,8 @@ Adele Hart-Woods     21 Anita Howard         18
 Aileen Waite         21 Susan Whelan          7 
          Aggregate: 154          Aggregate: 138 
 
-      Division 2             Thu 15th May       
+        League               Thu 15th May       
+      Division 2                                
        Guiseley               Stanningley       
 Anne Brown           21 Eleanor Graves        3 
 Lynne Ogden          21 Laila Packer          6 
@@ -433,7 +469,8 @@ Caroline Corbett     21 Kate Hall             1
 Lynette Hall         21 Louise Roberts        6 
          Aggregate: 155          Aggregate:  68 
 
-      Division 2             Thu 15th May       
+        League               Thu 15th May       
+      Division 2                                
        Holt Park               Hall Park        
 Carol Dunn           14 Joyce Banks          21 
 Michelle Norcliffe   11 Linda Stoyles        21 
@@ -445,7 +482,8 @@ Kathleen Haley       12 Kath Crompton        21
 Rita Bennett          5 Anne Mackman         21 
          Aggregate:  99          Aggregate: 167 
 
-      Division 2             Thu 15th May       
+        League               Thu 15th May       
+      Division 2                                
       New Farnley              West Royd        
 Pat Skelton          17 Jan Mguiness         21 
 Emma Dixon           21 Anne Gothard         16 
@@ -457,7 +495,8 @@ Linda Taylor         21 Elizabeth Farrar      4
 Jan Ingham           21 Hazel Stancliffe      7 
          Aggregate: 147          Aggregate: 129 
 
-      Division 2             Fri 16th May       
+        League               Fri 16th May       
+      Division 2                                
       New Farnley             Stanningley       
 Susan Jones          10 Karen Uttley         21 
 Cath Maury           21 Mary Spears          20 
@@ -469,7 +508,8 @@ Linda Taylor         21 Louise Roberts       13
 Sophie Worrall       21 Laila Packer          5 
          Aggregate: 141          Aggregate: 116 
 
-      Division 1             Thu 22nd May       
+        League               Thu 22nd May       
+      Division 1                                
    Rufford Park 'A'            Calverley        
 Catherine New        21 Pamela Barlow        20 
 Janice Waite         21 Tina Howard          16 
@@ -481,7 +521,8 @@ Angela Burnham       21 Brenda Chaffer        4
 Angela Bennett       21 Gail Schofield       16 
          Aggregate: 161          Aggregate: 127 
 
-      Division 1             Thu 22nd May       
+        League               Thu 22nd May       
+      Division 1                                
       Greenbottom             Grove Hill        
 Sandy Watson         21 Linda Smith          17 
 Jean Lees            21 Dot Dixon            13 
@@ -493,7 +534,8 @@ Fiona Haxby          21 Judith Collins       13
 Gwen Smith           21 Kay Lodge            10 
          Aggregate: 160          Aggregate: 123 
 
-      Division 1             Thu 22nd May       
+        League               Thu 22nd May       
+      Division 1                                
       Gildersome             Shipley Club       
 Beverley Farrar      11 Val Riley            21 
 Rachel Barnard       16 Rachael Slater       21 
@@ -505,7 +547,8 @@ Diane Hales          15 Ioana Nistor         21
 Alison Lockwood       6 Rachel Telford       21 
          Aggregate: 121          Aggregate: 164 
 
-      Division 1             Thu 22nd May       
+        League               Thu 22nd May       
+      Division 1                                
       Eccleshill            Western Flatts      
 Melissa Gilroy       21 Mary Horrocks        14 
 Sarah Harrison       21 Shirley Barker        7 
@@ -517,7 +560,8 @@ Sue Steward          21 Hazel Goodall        20
 Paula Graham         21 Maveen Tomlinson      4 
          Aggregate: 138          Aggregate: 120 
 
-      Division 2             Thu 22nd May       
+        League               Thu 22nd May       
+      Division 2                                
       Stanningley              Hall Park        
 Kate Hall             8 Joyce Banks          21 
 Louise Roberts        7 Helen Mylan          21 
@@ -529,7 +573,8 @@ Nicola Bona           7 Sabrina Piggot       21
 Karen Uttley         10 Kath Crompton        21 
          Aggregate:  81          Aggregate: 157 
 
-      Division 2             Thu 22nd May       
+        League               Thu 22nd May       
+      Division 2                                
        West Royd               Guiseley         
 Margaret Jeffrey     17 Maureen Jarvis       21 
 Joan Coop            21 Caroline Corbett     14 
@@ -541,7 +586,8 @@ Anne Gothard         21 Doreen Lawson        15
 Hazel Stancliffe     13 Lynette Hall         21 
          Aggregate: 144          Aggregate: 144 
 
-      Division 2             Thu 22nd May       
+        League               Thu 22nd May       
+      Division 2                                
       New Farnley              Rufford B        
 Jean Milner          18 Kirsten Clapham      21 
 Lynda Ward            8 Lynsey Gregson       21 
