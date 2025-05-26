@@ -1,4 +1,4 @@
-=== Leeds & District (Mon. Combined) 2025 (as of Sun 25th May)
+=== Leeds & District (Mon. Combined) 2025 (as of Mon 26th May)
 === League Match Cards
 
         Div 1             Mon 21st Apr      
@@ -434,5 +434,83 @@ Jim Smith          21 *No Player*         0
 S Cahill              ----------            
         Handicap: Scr         Handicap: +10 
        Aggregate: 126        Aggregate:  52 
+
+        Div 1             Mon 26th May      
+    Rothwell BC A          New Wortley      
+Michael Hill       21 Keith Sellars       4 
+Gary Haley         21 Angela Morley      18 
+Lynne Best         21 Trevor Dawson      11 
+Mark Hopps         21 Stephen Morley      9 
+Gary Dennison      21 Danny Dawson       16 
+Nicola Pearson        Valerie Dawson        
+Ellis Owen         21 Stuart Reardon     13 
+Charlotte Holmes      Marie Tate            
+       Aggregate: 126        Aggregate:  71 
+          Points:  30           Points:  12 
+
+        Div 1             Mon 26th May      
+      Harehills            Gildersome       
+David Smith        21 Barbara Hall        6 
+Darren Robinson    21 Frank Hales         5 
+Raymond Swallow    21 David Taylor       15 
+Sharon Kerry        7 Alan Procter       21 
+Laura Love         21 Bev Farrar          9 
+Shane Smith           Alison Lockwood       
+Jade Kerry         19 Linda Gaunt        21 
+Peter Simmons         Tracey Norton         
+       Aggregate: 110        Aggregate:  77 
+          Points:  25           Points:  16 
+
+        Div 2             Mon 26th May      
+   Chapel Allerton        New Farnley A     
+David Miller       21 Emma Dixon         14 
+Conner Newton       2 Dave Taylor        21 
+Steve Bird         10 Harry Dixon        21 
+Ronak Singh        21 Sue Jones          10 
+Laurentiu Barbu    21 Steve Nelson       12 
+Anne Miller           Pat Skelton           
+Susan Thomas       17 John Dixon         21 
+Matthew Watson        Ron Lavan             
+       Aggregate:  92        Aggregate:  99 
+          Points:  20           Points:  21 
+
+        Div 2             Mon 26th May      
+   Western Flatts         Rothwell BC B     
+Glennys Ash        21 Lyn Owen            8 
+Dawn Peters        21 John Hemingway     14 
+Granville Stoyles  21 Nigel Richardson   15 
+David Turner       21 Mark Scruton       10 
+Hazel Goodall      21 Karen Portman       6 
+Joanna Rochester      Alfie Hutchinson      
+Gordon Stalker     10 Mick Bagshaw       21 
+Andrew Ash            Trevor Hawkin         
+       Aggregate: 115        Aggregate:  74 
+          Points:  27           Points:  14 
+
+        Div 2             Mon 26th May      
+     Meanwood A            Whitkirk b       
+Jenice Guild       11 Chloe Jackson      21 
+Jenny Holiday      17 P Hatch            21 
+John Hindle        21 Hannah Risley      11 
+Oliver Devaney     18 Andy Johnson       21 
+Jeff Drumbell      21 S Worthington       7 
+Julie Keightley       G Scholes             
+Graham Hey          8 Helen Johnson      21 
+Ian Macfarlane        P Hardy               
+       Aggregate:  96        Aggregate: 102 
+          Points:  20           Points:  23 
+
+        Div 2             Mon 26th May      
+    Bramley Park          Scatcherd Pk      
+Keith Davison       2 Mark Ellis         21 
+Shilrley Allman    21 Peter Oldfield     16 
+Bob Davison        21 Jack Morley        13 
+Sean Fish          17 Keith Kincaid      21 
+Brian Fish         18 Andrea Gardiner    21 
+Barry Palmer          Chris Stuart          
+Jeff Allman        21 Wendy Leybourne    14 
+Terry Astley          Roy Kellett           
+       Aggregate: 100        Aggregate: 106 
+          Points:  22           Points:  22 
 
 
