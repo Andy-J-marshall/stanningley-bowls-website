@@ -325,12 +325,12 @@
             }
         },
         "john armitage": {
-            "totalAgg": 499,
-            "totalAggAgainst": 417,
-            "availableAgg": 567,
+            "totalAgg": 520,
+            "totalAggAgainst": 426,
+            "availableAgg": 588,
             "availablePairsAgg": 0,
             "availableHomeAgg": 252,
-            "availableAwayAgg": 231,
+            "availableAwayAgg": 252,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -339,13 +339,13 @@
             "totalHomeAggAgainst": 162,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 189,
-            "totalAwayAggAgainst": 205,
+            "totalAwayAgg": 210,
+            "totalAwayAggAgainst": 214,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 9,
             "homeLosses": 3,
-            "awayWins": 3,
+            "awayWins": 4,
             "awayLosses": 8,
             "cupWins": 3,
             "cupLosses": 1,
@@ -357,7 +357,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 27,
+            "totalGamesPlayed": 28,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
@@ -370,6 +370,7 @@
                 "john armitage 21 - 13 harley tattersley",
                 "john armitage 19 - 21 mark atkinson",
                 "john armitage 21 - 13 mark taylor",
+                "john armitage 21 - 9 chris mordue",
                 "john armitage 21 - 12 malcolm crotty",
                 "john armitage 21 - 14 peter barstow",
                 "john armitage 21 - 9 myles summers",
@@ -398,9 +399,9 @@
                 "aggDiff": 14
             },
             "mirfield": {
-                "games": 6,
-                "wins": 5,
-                "aggDiff": 41
+                "games": 7,
+                "wins": 6,
+                "aggDiff": 53
             },
             "mirfield (b)": {
                 "games": 0,
@@ -449,25 +450,25 @@
             }
         },
         "martin fulton": {
-            "totalAgg": 142,
-            "totalAggAgainst": 173,
-            "availableAgg": 189,
+            "totalAgg": 163,
+            "totalAggAgainst": 190,
+            "availableAgg": 210,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 63,
+            "availableHomeAgg": 84,
             "availableAwayAgg": 126,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 58,
-            "totalHomeAggAgainst": 48,
+            "totalHomeAgg": 79,
+            "totalHomeAggAgainst": 65,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 84,
             "totalAwayAggAgainst": 125,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 2,
+            "homeWins": 3,
             "homeLosses": 1,
             "awayWins": 1,
             "awayLosses": 5,
@@ -481,11 +482,12 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 9,
+            "totalGamesPlayed": 10,
             "results": [
                 "martin fulton 18 - 21 wayne kemp",
                 "martin fulton 16 - 21 john greenhalgh",
                 "martin fulton 21 - 20 ian wilson",
+                "martin fulton 21 - 17 graham blenkinsop",
                 "martin fulton 19 - 21 ian jacques",
                 "martin fulton 21 - 19 nicky rooks",
                 "martin fulton 3 - 21 charlie ripley",
@@ -509,9 +511,9 @@
                 "aggDiff": 0
             },
             "mirfield (b)": {
-                "games": 3,
-                "wins": 1,
-                "aggDiff": -7
+                "games": 4,
+                "wins": 2,
+                "aggDiff": -3
             },
             "bradford half holiday": {
                 "games": 0,
@@ -766,6 +768,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "26/05/2025",
+    "lastUpdated": "27/05/2025",
     "statsYear": "2025"
 }
