@@ -1,4 +1,4 @@
-=== Bradford (Vets) 2025 (as of Tue 27th May)
+=== Bradford (Vets) 2025 (as of Wed 28th May)
 === Comp. Match Cards
 
 Division Four ( 6 Players)       Thu 10th Apr       
@@ -1458,5 +1458,17 @@ John Moore               21 Barry Austin         18
              Aggregate: 113          Aggregate: 100 
                  Games:   5              Games:   1 
                 Points:  17             Points:   9 
+
+Division Four ( 6 Players)       Tue 27th May       
+      West Bradford B              Thornton         
+Paul Wood                21 Karen Brame          16 
+Geraldine Sephton        21 Dawn Riggett         16 
+Gerry Peel               21 Philip Ford          17 
+John Dale                21 Ronald Broadbent     12 
+Steven Bussingham        21 Sheila Farr           3 
+John Shoesmith           21 Barry Austin         16 
+             Aggregate: 126          Aggregate:  80 
+                 Games:   6              Games:   0 
+                Points:  23             Points:   3 
 
 
