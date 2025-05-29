@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Wed 28th May)
+=== West Riding & Spen Valley 2025 (as of Thu 29th May)
 === League Match Cards
 
        Round of 32                   Fri 4th Apr           
@@ -2590,6 +2590,45 @@ Daniel Teale            18 Adam Varley                  21
                Points:   4                     Points:   7 
 
          Premier                    Wed 28th May           
+     Heckmondwike - A                Crossgates            
+Sean Carter             21 Garreth Lally                16 
+Sam Beresford           21 Craig Hopwood                19 
+Jacob Hatfield-Goodall   9 Harry Seehra                 21 
+Harley Tattersley       12 Simon Walder                 21 
+Charlie Ripley          13 Kez Smith                    21 
+Jude Hatfield-Goodall   14 Jonathan Wood                21 
+Ross Ingham             16 Nigel Cranston               21 
+Graham Higgins          18 Liam Griffin                 21 
+            Aggregate: 124                  Aggregate: 161 
+               Points:   2                     Points:   9 
+
+         Premier                    Wed 28th May           
+   Brighouse Sports - A           Spen Victoria - A        
+Nigel Marshall          21 Peter Ellis                  10 
+Mark Connolly           21 Mark Ellis                   14 
+Gordon Johnson          21 John Blackburn               14 
+Robert Hopper           21 Garry Walker                 16 
+Daniel Dunkerley        21 Philip Bryant                20 
+Graham Roberts          20 Debi Davis                   21 
+Jon Gamble              12 Mark Goodall                 21 
+John Bloomer            12 Andrew Wood                  21 
+            Aggregate: 149                  Aggregate: 137 
+               Points:   7                     Points:   3 
+
+         Premier                    Wed 28th May           
+      Littlemoor - A                Pudsey BC - A          
+John Armitage           21 Peter Simpson                 5 
+Will Bedford            21 Matthew Leaf                 13 
+Paul Bowes              21 Pam Lindley                  15 
+Martin Fulton           17 Alex Edmondson               21 
+Thomas Morris           15 Jamie Winterburn             21 
+Jonathan Orbell         21 Tom Lawrence                  6 
+Mark Allman             21 Duncan Reeves                17 
+Simon Wider             21 Dave Smith                    9 
+            Aggregate: 158                  Aggregate: 107 
+               Points:   8                     Points:   2 
+
+         Premier                    Wed 28th May           
          Guiseley                    Shipley - A           
 Ben Stockdale           21 Chris Bedford                 6 
 Chris Hight             21 Craig Fenton                 11 
@@ -2616,6 +2655,19 @@ Nigel Wormald           21 Jason Horsley                16
                Points:   7                     Points:   3 
 
         Division 1                  Wed 28th May           
+       Swillington              Mirfield Old Bank - A      
+Nathan Conlon           21 Neil Shaw                     6 
+Scott Normington        21 Andrew Foggo                  7 
+Adam Conlon             21 Mandy Mitchell               11 
+Sam Donnelly            21 Andrew Sykes                 17 
+Guy Stewart              9 Keith Bissell                21 
+Chris Firth             21 John Hopkinson               12 
+David Waldron           21 Bryan Ibbetson               11 
+Thomas Scorah           13 Andrew Mitchell              21 
+            Aggregate: 148                  Aggregate: 106 
+               Points:   8                     Points:   2 
+
+        Division 1                  Wed 28th May           
   Cleckheaton Sports - A          Spen Victoria - B        
 John Wilson             21 Paul Warwick                  7 
 John Ineson             21 Ann Billington               12 
@@ -2627,6 +2679,19 @@ Bradley Throup          15 Harry Brooke                 21
 Michael Rhodes          21 David Billington             17 
             Aggregate: 159                  Aggregate: 111 
                Points:   7                     Points:   3 
+
+        Division 1                  Wed 28th May           
+       Shipley - B                  Chapel Street          
+Barry Fenton            21 David Smith                  14 
+Andrew Walker           21 Paul Tobin                    9 
+John Sample             21 Steve Hartley                 9 
+Richard Bloodworth      16 Joe Ruddlesden               21 
+Jason Bridge             8 David Walker                 21 
+Ian Greenwood            8 Dale Hardcastle              21 
+Rachel Telford          13 Owen Laurie                  21 
+John Preston             6 Scott Bailey                 21 
+            Aggregate: 114                  Aggregate: 137 
+               Points:   3                     Points:   8 
 
         Division 1                  Wed 28th May           
      New Farnley - A               Littlemoor - B          
@@ -2798,6 +2863,19 @@ Michael Wood            21 Ash Harker                   13
                Points:   6                     Points:   4 
 
         Division 4                  Wed 28th May           
+  Cleckheaton Sports - D            Drighlington           
+Michael Binns           21 Andrew Haigh                 12 
+Alan Holmes             21 Pat Brooke                   14 
+Alan Potter             21 Steve Wrigglesworth          14 
+Andrea Brearley         21 Graham Fuller                 7 
+Janet Inness            21 Peter Thompson                3 
+Linda Potter            21 Vicky Haigh                  19 
+Elaine Binns            21 Andy Brooke                   9 
+Chris Piercy            11 Philip Keating               21 
+            Aggregate: 158                  Aggregate:  99 
+               Points:   9                     Points:   1 
+
+        Division 4                  Wed 28th May           
      Harold Club - C              Heckmondwike - C         
 Bryan Firth              4 Steve Sugden                 21 
 Stephen Council         21 Susan McMananamin             3 
@@ -2809,5 +2887,18 @@ Jim Boocock             21 *No Player*                   0
 Ian Boldy               21 *No Player*                   0 
             Aggregate: 147                  Aggregate:  90 
                Points:   7                     Points:   3 
+
+        Division 4                  Thu 29th May           
+  Cleckheaton Sports - E           Gildersome - B          
+Mark Bailey             21 Frank Hales                   9 
+Callum Brook            21 David Rawson                 15 
+David Griffiths         21 Barbara Hall                  6 
+Graham Ward             21 Andy Lockwood                 2 
+Helen Seed              21 David Holmes                 20 
+Joe Brook               21 Tony Morris                  15 
+Rowena Oakey            21 John Ackroyd                 10 
+Lynn Seddon             21 Simon Hampshaw               15 
+            Aggregate: 168                  Aggregate:  92 
+               Points:  10                     Points:   0 
 
 
