@@ -1,4 +1,4 @@
-=== Leeds & District (Thursday Over 55s) 2025 (as of Wed 28th May)
+=== Leeds & District (Thursday Over 55s) 2025 (as of Thu 29th May)
 === League Match Cards
 
      Division 1           Thu 17th Apr      
@@ -468,5 +468,44 @@ Jan McGuiness      16 Kevin Morley       21
 Chris Swales       16 Jeff Allman        21 
        Aggregate: 148        Aggregate: 115 
           Points:  33           Points:  23 
+
+     Division 1           Thu 29th May      
+     Gildersome        Stanningley Park A   
+Simon Hampshaw     21 Ken Green          15 
+David Taylor       21 Tracey Marshall     7 
+Frank Hales        18 Alison Woodfine    21 
+David Holmes        9 Colin Haque        21 
+Sandra Deegan      21 Bob Marshall       15 
+David Norton       21 Phil Sutcliffe     17 
+Graham Gaunt        7 Malvin Miller      21 
+Linda Gaunt        19 Stuart Potter      21 
+       Aggregate: 137        Aggregate: 138 
+          Points:  30           Points:  30 
+
+     Division 2           Thu 29th May      
+   Scatcherd Pk A        Middleton Park     
+Peter Oldfield     21 John Goode          8 
+Roy Kellett        17 Allan Blue         21 
+John Rowberry      14 Philip Rowe        21 
+Marilyn Robinson   21 Kath Burdett        1 
+Jeff Holt          21 Patricia Rowe       2 
+Keith Kincaid      21 Valerie Darwin      4 
+Michael Geary      21 Ian Dickinson      19 
+Terry Dillon       15 Matt Ramsey        21 
+       Aggregate: 151        Aggregate:  97 
+          Points:  33           Points:  20 
+
+     Division 2           Thu 29th May      
+   West Royd Park         Pudsey Park B     
+Keith Corp          8 Barbara Nellis     21 
+Les Spencer        14 Barbara Moss       21 
+Colin Pontefract   21 Robert Fountain    12 
+Howard Gothard     15 Stephen Morris     21 
+Jan McGuiness       9 Peter Wild         21 
+Pam Wilson         21 David Milner        7 
+Chris Swales       21 Michael Hirst      19 
+Richard Tatum      18 Derek Howell       21 
+       Aggregate: 127        Aggregate: 143 
+          Points:  26           Points:  32 
 
 
