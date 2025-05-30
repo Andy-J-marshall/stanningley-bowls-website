@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Thu 29th May)
+=== West Riding & Spen Valley 2025 (as of Fri 30th May)
 === League Match Cards
 
        Round of 32                   Fri 4th Apr           
@@ -667,7 +667,7 @@ Steve Sugden            20 Janet Inness                 21
 Eddie Temple            21 Gillian Shore                 4 
 George Tozer            21 Linda Potter                  7 
 Russell Harker          21 Chris Watson                  9 
-Steve Kidd               0 Andrea Brearley              21 
+*No Player*              0 Andrea Brearley              21 
 Kath Field              21 Alan Potter                  19 
 Roger Jackson            6 Elaine Binns                 21 
 Paul Cooper             21 Chris Piercy                 18 
@@ -2897,8 +2897,8 @@ Graham Ward             21 Andy Lockwood                 2
 Helen Seed              21 David Holmes                 20 
 Joe Brook               21 Tony Morris                  15 
 Rowena Oakey            21 John Ackroyd                 10 
-Lynn Seddon             21 Simon Hampshaw               15 
-            Aggregate: 168                  Aggregate:  92 
+Lynn Seddon             21 *No Player*                   0 
+            Aggregate: 168                  Aggregate:  77 
                Points:  10                     Points:   0 
 
 

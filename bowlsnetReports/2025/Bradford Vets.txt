@@ -1,4 +1,4 @@
-=== Bradford (Vets) 2025 (as of Thu 29th May)
+=== Bradford (Vets) 2025 (as of Fri 30th May)
 === Comp. Match Cards
 
 Division Four ( 6 Players)       Thu 10th Apr       
@@ -1704,6 +1704,18 @@ David Priestley          21 Peter Holland        19
              Aggregate:  96          Aggregate: 119 
                  Games:   2              Games:   4 
                 Points:   8             Points:  18 
+
+Division Four ( 6 Players)       Thu 29th May       
+        Calverley B                 Tyersal         
+Ken Paley                21 Shiela Bairstow      15 
+June Whittaker           21 Christine Hillas      3 
+Geoff Yewdall            21 Margaret Wilson       8 
+Margaret Whittaker       21 Barry Clough         16 
+Alan Horsfield           21 Terry King           15 
+Paul Hanson              21 Susan Smith          15 
+             Aggregate: 126          Aggregate:  72 
+                 Games:   6              Games:   0 
+                Points:  24             Points:   2 
 
 Division Four ( 6 Players)       Thu 29th May       
       West Bradford B           Drighlington B      

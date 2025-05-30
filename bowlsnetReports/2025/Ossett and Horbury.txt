@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Thu 29th May)
+=== Ossett & Horbury 2025 (as of Fri 30th May)
 === League Match Cards
 
          Division 3                 Tue 8th Apr         
@@ -2320,6 +2320,30 @@ Jonathan Orbell           21 Stuart Daniel            5
 Roger Birdsall            21 Oscar Scott-Parker      11 
               Aggregate: 166             Aggregate: 110 
 
+      Premier Division              Thu 29th May        
+         Rothwell A               Skelmanthorpe A       
+Thomas Scorah             21 Ashley Daykin           18 
+Pete Burrows               7 Chris Kelly             21 
+Matt Turner               16 Harry Lumb              21 
+Kez Smith                 21 Josh Brown              14 
+Gareth Lally              21 Mark Booth              20 
+Josh Thomas               17 Ross Meese              21 
+Garry Dennison            21 Jack Dyson               6 
+Mark Hughes               21 Graham Hickey           20 
+              Aggregate: 145             Aggregate: 141 
+
+         Division 1                 Thu 29th May        
+       Denby Grange A               Morton House        
+Neil Broadhead            11 Michael Sweeney         21 
+Paul Mottram              12 Harrison Messenger      21 
+David Walker              18 Adrian Leach            21 
+Danny Towning - Smith     21 Wayne Kemp               5 
+Ray Mortimer              21 Chris Sweeney           14 
+George Fisher             21 Marcus Leach            19 
+Charlie Fisher            20 Charlie Ripley          21 
+Danny Walker              21 Dan Balmforth           15 
+              Aggregate: 145             Aggregate: 137 
+
          Division 1                 Thu 29th May        
        West Bretton A               Slazenger A         
 James Szabo               21 Lee Barrett              5 
@@ -2356,6 +2380,18 @@ D Richardson              14 Sean Carter             21
 Michael Peace              9 Roy Carter              21 
               Aggregate: 138             Aggregate: 129 
 
+         Division 1                 Thu 29th May        
+      Ossett C & AC B            Alverthorpe WMC A      
+Martin Cross              21 Edwin Wilkinson         19 
+Mel Whitaker              12 Andy Webb               21 
+Graeme Eyre               21 Karl Dutton             10 
+Peter Lamb                21 Amanda Hagen            20 
+Stephen Briggs            11 Dave Cowsill            21 
+Laurie Woodlock           21 Colin Lloyd             17 
+Chris Goodwin             16 Jeff Normanton          21 
+Andrew Callaghan          17 Steve Lonnia            21 
+              Aggregate: 140             Aggregate: 150 
+
          Division 2                 Thu 29th May        
        Outwood WMC A              Hanging Heaton B      
 Howard Rose               21 Ian Taylor              17 
@@ -2367,6 +2403,42 @@ Steve Bennett             17 Paul Murphy             21
 Steve Goddard             21 Gary Amatt              18 
 Stuart Race               21 Philip Crossland         6 
               Aggregate: 152             Aggregate: 129 
+
+         Division 2                 Thu 29th May        
+        Slazenger B                 Savile Park         
+Maureen Jennings          21 P Whipp                 14 
+Stephen Boyer             19 Steven Portman          21 
+Jack Teal                 12 Lynne Hopps             21 
+Angela Pursglove           6 Karen Portman           21 
+Lucie Harding             20 David Steel             21 
+Jeff Shaw                  9 Liam Massey             21 
+Gary Denton                7 Ellis Owen              21 
+Steve Powell              21 Carolyn Duckett         16 
+              Aggregate: 115             Aggregate: 156 
+
+         Division 2                 Thu 29th May        
+     Alverthorpe WMC B             Horbury WMC A        
+Anita Dack                 8 Adrian Smart            21 
+William Grayley            9 Phillip Dunnill         21 
+Abigail Tiler             12 Kath Andrews            21 
+John Smart                12 Den Law                 21 
+Richard Quarmby           16 Arthur Clarkson         21 
+Phillip Schofield         21 Steven Crummack         10 
+Colin Quarmby             21 Derek Hawes              5 
+James Tiler               21 David Horan              2 
+              Aggregate: 120             Aggregate: 122 
+
+         Division 2                 Thu 29th May        
+       Wakefield BC A              Smirthwaite B        
+Kaz Habib                 20 Roy Limb                21 
+Trevor Newey              21 Tom Knapper             19 
+Dorothy Smith             21 A France                 7 
+David Crest               10 R Dunwell               21 
+Mark Young                21 Alan Knowles            16 
+Robyn Walters             21 Glen Evans              20 
+Peter Claven              21 Kevin Box               11 
+John Dudding              11 Graham Kirkaldy         21 
+              Aggregate: 146             Aggregate: 136 
 
          Division 3                 Thu 29th May        
         Wrenthorpe A            West Yorks Sports A     
@@ -2393,6 +2465,18 @@ Lee Dobson                21 Ian Davis                9
               Aggregate: 156             Aggregate: 113 
 
          Division 3                 Thu 29th May        
+      Ossett C & AC C              Wake Thornes A       
+Alison Sykes              21 Diane Eley              15 
+Alan Nash                 21 C Shipley               15 
+Linda Callaghan           21 D Guile                 13 
+Nora Collier              21 Leo Herrera              7 
+John Kennelly             21 D Warwick               20 
+Svajunas Kapitan          16 S Findlay               21 
+Bryan Collier             20 Gerry Taylor            21 
+Stephen Briggs            14 Bob Holmes              21 
+              Aggregate: 155             Aggregate: 133 
+
+         Division 3                 Thu 29th May        
        Horbury Bridge               Earlsheaton         
 Mark Senior               21 Malcolm Battye          13 
 Rob Taylor                21 Keith Pinchbeck          9 
@@ -2403,6 +2487,18 @@ Kevin Scott               21 Vera Battye             19
 Brian Beddow              20 Nigel Ainley            21 
 Jim Liversidge            21 Lee Crossland            9 
               Aggregate: 156             Aggregate: 126 
+
+         Division 4                 Thu 29th May        
+         Brookhouse                Clayton West B       
+Tony Codner               21 P Taylor                10 
+Declan Brown              21 Kenneth Taylor           4 
+Jennifer Dooler           10 John Romano             21 
+John Best                 19 M Sellars               21 
+Paul Long                 20 Stuart England          21 
+Andrew Codner             11 D Hallas                21 
+Mark Whittaker             8 H Sansom                21 
+Jeremy Wightman           21 Jason Mosley             8 
+              Aggregate: 131             Aggregate: 127 
 
          Division 4                 Thu 29th May        
          Stanley A                 West Bretton B       
@@ -2475,5 +2571,17 @@ Karen Poyser              21 Anita Lawson            20
 John Tweedle               4 Ron Greenwood           21 
 Clive Sabey               21 Michael Murphy          18 
               Aggregate: 130             Aggregate: 153 
+
+         Division 3                 Fri 30th May        
+        Thornhill B               Ossett C & AC C       
+Stephen Wainwright        21 John Kennelly            9 
+Kath Robinson             21 Linda Callaghan          8 
+Mandy Mitchell            21 Rena Hirstle             8 
+Ben Gibson                21 Alan Nash                7 
+Phil Gamble               21 Nora Collier            15 
+Julie Makepeace           21 Alison Sykes            11 
+Jennifer Gray             18 Diane Pitchford         21 
+Derek Robinson            21 Keith Hirstle           18 
+              Aggregate: 165             Aggregate:  97 
 
 

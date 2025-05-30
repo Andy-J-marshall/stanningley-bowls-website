@@ -110,12 +110,12 @@
             ]
         },
         "andrew marshall": {
-            "totalAgg": 512,
-            "totalAggAgainst": 372,
-            "availableAgg": 546,
+            "totalAgg": 533,
+            "totalAggAgainst": 381,
+            "availableAgg": 567,
             "availablePairsAgg": 21,
             "availableHomeAgg": 273,
-            "availableAwayAgg": 231,
+            "availableAwayAgg": 252,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 21,
@@ -124,13 +124,13 @@
             "totalHomeAggAgainst": 175,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 200,
-            "totalAwayAggAgainst": 179,
+            "totalAwayAgg": 221,
+            "totalAwayAggAgainst": 188,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 12,
             "homeLosses": 1,
-            "awayWins": 7,
+            "awayWins": 8,
             "awayLosses": 4,
             "cupWins": 2,
             "cupLosses": 0,
@@ -142,7 +142,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 26,
+            "totalGamesPlayed": 27,
             "results": [
                 "andrew marshall 21 - 17 alan procter",
                 "andrew marshall 21 - 19 mark raistrick",
@@ -165,6 +165,7 @@
                 "andrew marshall 21 - 10 andrew morris",
                 "andrew marshall 7 - 21 paul jagger",
                 "andrew marshall 17 - 21 chris england",
+                "andrew marshall 21 - 9 john rose",
                 "andrew marshall 21 - 6 peter byford",
                 "andrew marshall 21 - 17 bruce callard",
                 "andrew marshall 21 - 18 brian hall",
@@ -571,12 +572,12 @@
             ]
         },
         "duncan mcphail": {
-            "totalAgg": 219,
-            "totalAggAgainst": 190,
-            "availableAgg": 252,
+            "totalAgg": 232,
+            "totalAggAgainst": 211,
+            "availableAgg": 273,
             "availablePairsAgg": 0,
             "availableHomeAgg": 189,
-            "availableAwayAgg": 42,
+            "availableAwayAgg": 63,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -585,14 +586,14 @@
             "totalHomeAggAgainst": 133,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 23,
-            "totalAwayAggAgainst": 42,
+            "totalAwayAgg": 36,
+            "totalAwayAggAgainst": 63,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 7,
             "homeLosses": 2,
             "awayWins": 0,
-            "awayLosses": 2,
+            "awayLosses": 3,
             "cupWins": 1,
             "cupLosses": 0,
             "pairWins": 0,
@@ -603,7 +604,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 12,
+            "totalGamesPlayed": 13,
             "results": [
                 "duncan mcphail 21 - 7 graham hey",
                 "duncan mcphail 21 - 17 steve brown",
@@ -616,7 +617,8 @@
                 "duncan mcphail 8 - 21 gary wike",
                 "duncan mcphail 20 - 21 gareth harwood",
                 "duncan mcphail 21 - 14 chloe hirst",
-                "duncan mcphail 21 - 18 andrew heenan"
+                "duncan mcphail 21 - 18 andrew heenan",
+                "duncan mcphail 13 - 21 mark reynolds"
             ]
         },
         "eleanor graves": {
@@ -2332,6 +2334,6 @@
             ]
         }
     },
-    "lastUpdated": "29/05/2025",
+    "lastUpdated": "30/05/2025",
     "statsYear": "2025"
 }
