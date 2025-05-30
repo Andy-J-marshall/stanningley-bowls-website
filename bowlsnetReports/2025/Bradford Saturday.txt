@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Thu 29th May)
+=== Bradford (Saturday) 2025 (as of Fri 30th May)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -1844,5 +1844,21 @@ Malcolm Riggs              21 Steven Bussingham         12
                    Games:   4                   Games:   4 
                Aggregate: 135               Aggregate: 130 
                   Points:  15                  Points:  13 
+
+     Division 2 (Godwin)              Fri 30th May         
+        Eccleshill A                    Farsley            
+Andy Haran                 21 Colin Rhodes               0 
+Graham Chaffer             21 Derek Pickering           19 
+Mark Reynolds              21 Duncan McPhail            13 
+Ian Matthews               21 Peter Scott               19 
+Nicky Bastow               21 Daniel Beardsworth         8 
+Neil Mylan                 21 Dean Helliwell            17 
+Steve Bowes                17 Stephen Gilroy            21 
+Mick Angus                 21 Stuart Brook              10 
+Andrew Howie               21 Graham Petty               8 
+Nicky Rooks                21 Neil Nicholson            14 
+                   Games:   9                   Games:   1 
+               Aggregate: 206               Aggregate: 129 
+                  Points:  27                  Points:   3 
 
 

@@ -1,4 +1,4 @@
-=== Tadcaster Evening League 2025 (as of Thu 29th May)
+=== Tadcaster Evening League 2025 (as of Fri 30th May)
 === League Match Cards
 
     Richardson Trophy            Thu 3rd Apr         
@@ -1725,6 +1725,34 @@ Michael Higgins        20 David Wilkinson         21
 
     Main League 2025             Thu 29th May        
           Div 1                                      
+     THORNER JOKERS             GARFORTH CC A        
+Gareth Coates          21 Philip S Lodge          11 
+Mick Cooper            13 Rob Carroll             21 
+Owen Laurie            21 Ian Doughty             15 
+Toni Laurie            21 Les Hudson              14 
+Suzie Lawson           21 Michael Firth           16 
+John Mais              14 Scott Normington        21 
+Isabel Laurie           9 Lewis Cooper            21 
+John Rose               9 Andrew Marshall         21 
+           Aggregate: 129             Aggregate: 140 
+              Points:   4                Points:   6 
+
+    Main League 2025             Thu 29th May        
+          Div 1                                      
+        WAYSIDE A                BLACK SWAN A        
+Jason Worsnop          14 Dave Rowson             21 
+S Cochrane             21 Conor McCarthy          16 
+M Reynolds             18 Martin Hemingway        21 
+Paul Worsnop           21 Chaz Charleton           6 
+Chris Rigby            21 Andy Lloyd               8 
+Adam Walker             8 Tom Beecroft            21 
+Peter Darbyshire       18 David Hodgson           21 
+Vic Skaife Clarke      21 Roy Flynn               19 
+           Aggregate: 142             Aggregate: 133 
+              Points:   6                Points:   4 
+
+    Main League 2025             Thu 29th May        
+          Div 1                                      
         SCHOLES A                 CROSSGATES         
 R Whitfield            21 Chris Firth             15 
 David Smith            14 Lynn Wilcox             21 
@@ -1781,6 +1809,20 @@ Sophie Olivant         21 Mark Green              13
 
     Main League 2025             Thu 29th May        
           Div 2                                      
+       MAGNET PALE             WHITKIRK KNAVES       
+Nick Heaton            21 Andy Johnson            19 
+Melanie Collins        16 Michael Sheerin         21 
+M Shah                 20 Phil Hatch              21 
+J Hawkins              17 S Cahill                21 
+Tony Wood              21 Paul Tobin              18 
+Barry Shooter          10 Paul Hardy              21 
+P Wetherhill            7 T Johnson               21 
+Graham Collins         21 Jason Richards          17 
+           Aggregate: 133             Aggregate: 159 
+              Points:   3                Points:   7 
+
+    Main League 2025             Thu 29th May        
+          Div 2                                      
      LOW HARROGATE A          KNARESBOROUGH OAK      
 Nick Binns             15 David Finlayson         21 
 Angela Spilsbury        7 Paul Passman            21 
@@ -1792,6 +1834,20 @@ David Spilsbury         8 Nicholas Lofthouse      21
 Ian Jarratt            18 Rob Barker              21 
            Aggregate: 130             Aggregate: 149 
               Points:   3                Points:   7 
+
+    Main League 2025             Thu 29th May        
+          Div 2                                      
+     BARWICK BADGERS              WAYSIDE B          
+Nick Moulding          21 Chris Wood              15 
+Antoaneta Bainbridge   21 Colin Rigby             15 
+Chris Boyd             21 David Singleton         16 
+Jeff Binns             21 Hayden Whitehouse        8 
+Derek Dobson           21 Stuart Whitehouse       20 
+David Wright           21 Lee Singleton           13 
+Ian Wallbank           21 Rich Gundich            10 
+Richard Hey            21 Martin Knights          19 
+           Aggregate: 168             Aggregate: 116 
+              Points:  10                Points:   0 
 
     Main League 2025             Thu 29th May        
           Div 3                                      
@@ -1806,6 +1862,20 @@ Ian Thornhill          16 Steve Holmes            21
 Alison Roberts         13 Richard Armstrong       21 
            Aggregate: 108             Aggregate: 158 
               Points:   1                Points:   9 
+
+    Main League 2025             Thu 29th May        
+          Div 3                                      
+    COLTON CRUSADERS              HAREHILLS          
+David Ryder            21 Alan McConnell          18 
+Andy Wright            18 Raymond Swallow         21 
+Mick Galley            21 David Smith             13 
+Stuart Birch           21 Paul Hatch              15 
+A Rushfirth            19 Sharon Kerry            21 
+Nick Ryder             21 Jade Kerry              16 
+Robert Horner           5 Laura Love              21 
+M Wright               20 David Tinker            21 
+           Aggregate: 146             Aggregate: 146 
+              Points:   5                Points:   5 
 
     Main League 2025             Thu 29th May        
           Div 3                                      
@@ -1851,6 +1921,20 @@ Phil Bouic             21 John Lofthouse           7
 
     Main League 2025             Thu 29th May        
           Div 4                                      
+       SWILLINGTON              DRAGON HOPPERS       
+Steve Clough           13 Colin Rudd              21 
+Duncan Hutchinson      21 John Archer             18 
+Kieran Thurston        21 Peter White              5 
+Lee Stewart            21 Sally Holland            5 
+Diane Jones            21 Hazel Parker            13 
+Michelle Scorah        21 Philip Boreham           7 
+Wayne Broadhead        21 Barry Woodward          20 
+David Waldron          21 Richard Bullough         6 
+           Aggregate: 160             Aggregate:  95 
+              Points:   9                Points:   1 
+
+    Main League 2025             Thu 29th May        
+          Div 4                                      
     KNARESBOROUGH ASH          LOW HARROGATE B       
 R Bushell              21 Julie Smith              8 
 Eric Taylor            21 Dave Moon               17 
@@ -1861,6 +1945,20 @@ Sue Massey             10 David Hughan            21
 David Wilkinson        21 Adele Zagorski           6 
 Lynn Curl              14 Jo Bonsels              21 
            Aggregate: 142             Aggregate: 106 
+              Points:   7                Points:   3 
+
+    Main League 2025             Thu 29th May        
+          Div 4                                      
+      BLACK SWAN B              COLTON SPORTS        
+Jake Coker             16 Brian Scholes           21 
+Dave Kinder            21 Deborah Orrell           6 
+Gary Kinder            16 Mick Barker             21 
+Sue Mitchell           21 Paul Phillipson         12 
+Barry Turnbull         21 Sue Barker               5 
+Stephen Westoby        19 J Orrell                21 
+Val Rowson             21 Anthony Fawcett          4 
+Mark Raynard           21 Gary Mahoney             9 
+           Aggregate: 156             Aggregate:  99 
               Points:   7                Points:   3 
 
 
