@@ -1,4 +1,4 @@
-=== Leeds & District (Mon. Combined) 2025 (as of Fri 30th May)
+=== Leeds & District (Mon. Combined) 2025 (as of Sat 31st May)
 === League Match Cards
 
         Div 1             Mon 21st Apr      
@@ -512,5 +512,18 @@ Jeff Allman        21 Wendy Leybourne    14
 Terry Astley          Roy Kellett           
        Aggregate: 100        Aggregate: 106 
           Points:  22           Points:  22 
+
+        Div 2             Fri 30th May      
+    Scatcherd Pk          New Farnley A     
+Mark Ellis         21 Sue Jones           8 
+Chris Stuart       21 Emma Dixon          9 
+Jeffrey Holt       21 Barbara Taylor     14 
+Roy Kellett         6 Bob Taylor         21 
+Keith Kincaid      21 Steve Nelson       18 
+Jack Morley           Pat Skelton           
+Terry Dillon       21 John Dixon         13 
+Peter Oldfield        Ron Lavan             
+       Aggregate: 111        Aggregate:  83 
+          Points:  26           Points:  15 
 
 
