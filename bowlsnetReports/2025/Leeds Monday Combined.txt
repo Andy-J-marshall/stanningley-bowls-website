@@ -1,4 +1,4 @@
-=== Leeds & District (Mon. Combined) 2025 (as of Sun 1st Jun)
+=== Leeds & District (Mon. Combined) 2025 (as of Mon 2nd Jun)
 === League Match Cards
 
         Div 1             Mon 21st Apr      
@@ -525,5 +525,70 @@ Terry Dillon       21 John Dixon         13
 Peter Oldfield        Ron Lavan             
        Aggregate: 111        Aggregate:  83 
           Points:  26           Points:  15 
+
+        Div 1              Mon 2nd Jun      
+     Gildersome           Garforth C C      
+David Rawson       17 David Horsey       21 
+Kay Stewart        11 Robert Beattie     21 
+David Taylor       21 Thomas Cranston    15 
+Ian Stocks         21 Ian Doughty        14 
+Bev Farrar         16 Phil Lodge         21 
+Alison Lockwood       Steve Barltrop        
+Linda Gaunt        21 Neil Robinson      19 
+Tracey Norton         Stuart Cranston       
+       Aggregate: 107        Aggregate: 111 
+          Points:  23           Points:  24 
+
+        Div 1              Mon 2nd Jun      
+     New Wortley            Harehills       
+Keith Sellars      20 Alan McConnell     21 
+Stephen Morley     21 Sharon Kerry        3 
+Angela Morley      21 David Smith        12 
+Malcolm Crowson    17 Laura Love         21 
+Danny Dawson       21 Steven Dolan       15 
+Trevor Dawson         Raymond Swallow       
+Marie Tate         20 Peter Simmons      21 
+Stuart Reardon        Jade Kerry            
+       Aggregate: 120        Aggregate:  93 
+          Points:  26           Points:  20 
+
+        Div 1              Mon 2nd Jun      
+     Whitkirk A           Crossgates BC     
+G Hodder           19 Peter Wilcox       21 
+T Green            21 Luke Bellamy        8 
+Jim Smith          17 Natalie Sanderson  21 
+S Cahill           21 Tom Smith           5 
+P Hill             21 Louie Taylor        8 
+Dave McGourty         Mark Taylor           
+Jason Richards      7 Lynn Wilcox        21 
+M Sheerin             Rachel Wilcox         
+       Aggregate: 106        Aggregate:  84 
+          Points:  23           Points:  18 
+
+        Div 2              Mon 2nd Jun      
+    New Farnley A        Western Flatts     
+Sue Jones          21 Gordon Stalker     11 
+Emma Dixon         20 Hazel Goodall      21 
+Barbara Taylor     20 Granville Stoyles  21 
+Bob Taylor         21 David Turner        7 
+John Dixon         19 Maveen Tomlinson   21 
+Ron Lavan             Peter Colley          
+Steve Nelson       21 Dot Taylor         12 
+Pat Skelton           Andrew Ash            
+       Aggregate: 122        Aggregate:  93 
+          Points:  27           Points:  20 
+
+        Div 2              Mon 2nd Jun      
+    Bramley Park         Chapel Allerton    
+Keith Davison      21 Susan Thomas       12 
+Shilrley Allman    21 Tom Massey Jr       6 
+Barry Palmer       21 Ronak Singh         9 
+Sean Fish          17 Matthew Watson     21 
+Jeff Allman        13 Ian McMillan       21 
+Brian Fish            Conner Newton         
+Bob Davison        21 Anne Miller        15 
+Terry Astley          Laurentiu Barbu       
+       Aggregate: 114        Aggregate:  84 
+          Points:  25           Points:  17 
 
 

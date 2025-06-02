@@ -1,4 +1,4 @@
-=== Leeds & District (Saturday) 2025 (as of Sun 1st Jun)
+=== Leeds & District (Saturday) 2025 (as of Mon 2nd Jun)
 === League Match Cards
 
         Div 1               Sat 5th Apr       
@@ -991,5 +991,19 @@ Linda Gaunt         21 Jeff Allman          6
 David Taylor        21 Brian Fish          20 
         Aggregate: 166         Aggregate: 106 
            Points:  39            Points:  20 
+
+        Div 1               Sun 1st Jun       
+     League Div 1                             
+     New Wortley          Sth Leeds Cons A    
+Gerry Wood          21 David Brooke         8 
+Angela Morley       13 Malcolm Collinson   21 
+Malcolm Crowson     21 Janet Stockdale      4 
+Andrew Cole         21 Monica Adams        17 
+Stephen Morley      21 Tony Auty           20 
+Danny Dawson        21 Reece Pratt          9 
+Stuart Reardon      21 Joe Adams           18 
+Paul Shackleton     21 Derek McCormack     14 
+        Aggregate: 160         Aggregate: 111 
+           Points:  37            Points:  20 
 
 
