@@ -1,12 +1,12 @@
 {
     "playerResults": {
         "eleanor graves": {
-            "totalAgg": 35,
-            "totalAggAgainst": 84,
-            "availableAgg": 84,
+            "totalAgg": 37,
+            "totalAggAgainst": 105,
+            "availableAgg": 105,
             "availablePairsAgg": 0,
             "availableHomeAgg": 42,
-            "availableAwayAgg": 42,
+            "availableAwayAgg": 63,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -15,14 +15,14 @@
             "totalHomeAggAgainst": 42,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 24,
-            "totalAwayAggAgainst": 42,
+            "totalAwayAgg": 26,
+            "totalAwayAggAgainst": 63,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 0,
             "homeLosses": 2,
             "awayWins": 0,
-            "awayLosses": 2,
+            "awayLosses": 3,
             "cupWins": 0,
             "cupLosses": 0,
             "pairWins": 0,
@@ -33,12 +33,13 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 4,
+            "totalGamesPlayed": 5,
             "results": [
                 "eleanor graves 14 - 21 janet warburton",
                 "eleanor graves 5 - 21 david kirk",
                 "eleanor graves 6 - 21 trevor baranovsky",
-                "eleanor graves 10 - 21 jonathan duke"
+                "eleanor graves 10 - 21 jonathan duke",
+                "eleanor graves 2 - 21 charlie peacock"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -51,9 +52,9 @@
                 "aggDiff": 0
             },
             "airewharfe vets": {
-                "games": 4,
+                "games": 5,
                 "wins": 0,
-                "aggDiff": -49
+                "aggDiff": -68
             },
             "mirfield": {
                 "games": 0,
@@ -388,12 +389,12 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 303,
-            "totalAggAgainst": 283,
-            "availableAgg": 357,
+            "totalAgg": 308,
+            "totalAggAgainst": 304,
+            "availableAgg": 378,
             "availablePairsAgg": 0,
             "availableHomeAgg": 189,
-            "availableAwayAgg": 168,
+            "availableAwayAgg": 189,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -402,14 +403,14 @@
             "totalHomeAggAgainst": 144,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 147,
-            "totalAwayAggAgainst": 139,
+            "totalAwayAgg": 152,
+            "totalAwayAggAgainst": 160,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 6,
             "homeLosses": 3,
             "awayWins": 4,
-            "awayLosses": 4,
+            "awayLosses": 5,
             "cupWins": 0,
             "cupLosses": 0,
             "pairWins": 0,
@@ -420,7 +421,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 17,
+            "totalGamesPlayed": 18,
             "results": [
                 "stewart watson 21 - 12 terri durrans",
                 "stewart watson 21 - 15 philip sykes",
@@ -433,6 +434,7 @@
                 "stewart watson 20 - 21 norman swift",
                 "stewart watson 8 - 21 peter owen",
                 "stewart watson 21 - 19 phil rayner",
+                "stewart watson 5 - 21 anthony crawley",
                 "stewart watson 21 - 15 peter howroyd",
                 "stewart watson 16 - 21 john beverley",
                 "stewart watson 17 - 21 bill swales",
@@ -466,9 +468,9 @@
                 "aggDiff": 0
             },
             "mirfield (c)": {
-                "games": 6,
+                "games": 7,
                 "wins": 2,
-                "aggDiff": -31
+                "aggDiff": -47
             },
             "bradford half holiday": {
                 "games": 0,
@@ -523,6 +525,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "02/06/2025",
+    "lastUpdated": "03/06/2025",
     "statsYear": "2025"
 }

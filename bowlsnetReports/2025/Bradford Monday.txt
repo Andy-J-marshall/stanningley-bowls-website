@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Mon 2nd Jun)
+=== Bradford (Mon. Evening) 2025 (as of Tue 3rd Jun)
 === Comp. Match Cards
 
   Division 1 - Thurston           Mon 7th Apr         
@@ -782,6 +782,30 @@ Clive Foord             21 Peter Scott             20
                Points:  16                Points:  10 
 
   Division 1 - Thurston           Mon 2nd Jun         
+      Heckmondwike A               Tyersal A          
+Roy Carter               6 Mason Lindley           21 
+Kathleen Field          14 Pam Lindley             21 
+Norman Booth            21 Simon Metcalfe          19 
+Charlie Sykes            8 Chris Mordue            21 
+Gareth Harwood           5 Wendy Shimbles          21 
+Gerald Bromley           6 Gary Wike               21 
+            Aggregate:  60             Aggregate: 124 
+                Games:   1                 Games:   5 
+               Points:   1                Points:  25 
+
+  Division 1 - Thurston           Mon 2nd Jun         
+      Shipley Club A                Hightown          
+Andrew Walker           21 Alex Edmondson          18 
+Stuart Wilson           16 Logan Preston           21 
+David Bland             21 Jude Hatfield-Goodall   12 
+Matthew Jacques         21 Daren Munt               8 
+Ian Jacques             21 Darren Goodall           9 
+Craig Fenton            21 Peter Simpson           20 
+            Aggregate: 121             Aggregate:  88 
+                Games:   5                 Games:   1 
+               Points:  20                Points:   6 
+
+  Division 1 - Thurston           Mon 2nd Jun         
       Crowghyll Park             West Bradford        
 Derek Bridge            21 Stuart Graham           17 
 Richard Briggs          21 Colin Isles             17 
@@ -818,6 +842,18 @@ Mark Worrall            21 David Dorman             9
                Points:  11                Points:  15 
 
 Division 2 - Robert Bland         Mon 2nd Jun         
+      Drighlington A             Heckmondwike B       
+Ian Fairhurst           13 Eric Franks             21 
+Dianne Hoole            21 Marie Franks             2 
+John Roberts            16 Steve Sugden            21 
+Stewart Whiteley        19 Daniel Logan            21 
+Graham Priestley        13 Peter Buchan            21 
+Ken Oates               21 Roger Jackson           18 
+            Aggregate: 103             Aggregate: 104 
+                Games:   2                 Games:   4 
+               Points:  11                Points:  15 
+
+Division 2 - Robert Bland         Mon 2nd Jun         
       New Greengates                 Idle B           
 David Newton            21 Jackie Spencer          17 
 James Burnett           21 Jane Paxton             19 
@@ -843,7 +879,7 @@ Sharon Queripel         21 John Moore               6
 
  Division 3 - City Sports         Mon 2nd Jun         
         Tyersal B                Drighlington B       
-Byron Whalley           21 Pat Brooke              13 
+Byron Whalley           21 Andy Brooke             13 
 Jeffrey Smith           16 Peter Thompson          21 
 Brenda Hudson           21 Judy Atkinson           11 
 Russell Hudson          21 David Dowse             13 

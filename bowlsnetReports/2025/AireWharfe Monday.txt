@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Mon 2nd Jun)
+=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Tue 3rd Jun)
 === League Match Cards
 
        Division 1                Mon 7th Apr        
@@ -2013,6 +2013,22 @@ Russell Cooper         21 Daniel Twist           18
               Points:  17               Points:  13 
 
        Division 2                Mon 2nd Jun        
+      Eccleshill B             Wharfemeadows A      
+Vincent Bussingham     21 Michael Smith          12 
+Peter Howroyd          14 Pauline Barnett 'A'    21 
+Vincent Gelder         17 Howard Gardiner        21 
+Andrew Magoolagan      10 Paul Crawford 'A'      21 
+Diane Emery            21 Corrine Thuilliez      19 
+Keith Harrison         20 John Chippindale 'A'   21 
+Sarah Harrison         12 Garrie Bolton          21 
+Peter Jefferson        21 Mark Silvester 'A'     10 
+Roger Binks            21 Ben Smith              14 
+John Griffin           21 Graham Tansley         19 
+           Aggregate: 178            Aggregate: 179 
+               Games:   5                Games:   5 
+              Points:  14               Points:  16 
+
+       Division 2                Mon 2nd Jun        
         Rawdon A                 Guiseley B         
 Paul Haigh             21 Carolyn Matthewman     13 
 Roger French'A'        21 Bob Jeffrey            18 
@@ -2043,6 +2059,22 @@ Steve Birch            21 Duncan Reeves          15
            Aggregate: 181            Aggregate: 169 
                Games:   5                Games:   5 
               Points:  17               Points:  13 
+
+       Division 2                Mon 2nd Jun        
+        Rufford B             Littlemoor S&SC B     
+Glynn Goodyear         21 Alan Mazurke           15 
+Val Grace              21 James Moorin           20 
+Brian Teale            21 *No Player*             0 
+Pauline Ingleson       10 Glen Miller            21 
+David Norris           21 Adam Wider              9 
+Graham Ingleson        21 Kath Mazurke           19 
+Diane Teale            21 Glen Merrick           10 
+Catherine New          21 Terri Durrans          13 
+Angela Burnham         18 Tommy Powell           21 
+Christopher Sims       14 Philip Thornton        21 
+           Aggregate: 189            Aggregate: 149 
+               Games:   7                Games:   3 
+              Points:  21               Points:   9 
 
        Division 3                Mon 2nd Jun        
  Burley in Wharfedale B         Greenbottom A       
@@ -2141,6 +2173,22 @@ Richard Nudd           10 Julie Watson           21
               Points:  16               Points:  14 
 
        Division 4                Mon 2nd Jun        
+      Greenbottom B              Holt Park B        
+Margaret Adamson       21 Peter Sandles          10 
+Kate Jukes             10 Debbie Sandles         21 
+Michael Peel           21 Bruce Hetherington     15 
+Chris Watson           10 Mark Swindlehurst      21 
+Anne Raw               16 Graham Hill            21 
+Fran Sutton            15 Michelle Norcliffe     21 
+Sandy Watson           21 Ray Boast              16 
+Elinor Newhouse        21 Andy Barclay            9 
+Trevor Dawson          21 Terry Cook             10 
+Allan Jukes            18 Lois Horsfall          21 
+           Aggregate: 174            Aggregate: 165 
+               Games:   5                Games:   5 
+              Points:  16               Points:  14 
+
+       Division 4                Mon 2nd Jun        
         Bramhope                   Adel B           
 Ian Warner             21 Sheena Parker           8 
 Frank Jevons           21 Steve Richardson       15 
@@ -2155,5 +2203,21 @@ Anne Mackman           21 John Auty               9
            Aggregate: 208            Aggregate:  97 
                Games:   9                Games:   1 
               Points:  29               Points:   1 
+
+       Division 4                Mon 2nd Jun        
+     Wharfemeadows B               Baildon          
+Jane Bowden            21 Maureen Kitson         15 
+Dot Dixon              11 Jim Whittle            21 
+John Parker            21 Charles Wilson         10 
+Billy Hartley          20 Linda Bakes            21 
+Gerry Harper           17 Celia Throup           21 
+Gill Godden            18 Malcolm Watts          21 
+Ray Smith Snr          21 Joan Dean               9 
+Janet Warburton        13 Geoff Hanson           21 
+David Warburton        21 Rae Heddle             14 
+Malolm Levi            21 Dorothy Walker         14 
+           Aggregate: 184            Aggregate: 167 
+               Games:   5                Games:   5 
+              Points:  17               Points:  13 
 
 
