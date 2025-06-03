@@ -204,12 +204,12 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 500,
-            "totalAggAgainst": 467,
-            "availableAgg": 609,
+            "totalAgg": 520,
+            "totalAggAgainst": 488,
+            "availableAgg": 630,
             "availablePairsAgg": 0,
             "availableHomeAgg": 294,
-            "availableAwayAgg": 273,
+            "availableAwayAgg": 294,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -218,14 +218,14 @@
             "totalHomeAggAgainst": 212,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 195,
-            "totalAwayAggAgainst": 218,
+            "totalAwayAgg": 215,
+            "totalAwayAggAgainst": 239,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 9,
             "homeLosses": 5,
             "awayWins": 6,
-            "awayLosses": 7,
+            "awayLosses": 8,
             "cupWins": 1,
             "cupLosses": 1,
             "pairWins": 0,
@@ -236,7 +236,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 29,
+            "totalGamesPlayed": 30,
             "results": [
                 "jim moorin 21 - 2 janice connaleigh",
                 "jim moorin 10 - 21 deborah swann",
@@ -245,6 +245,7 @@
                 "jim moorin 21 - 10 paul crawford",
                 "jim moorin 21 - 16 t harrison",
                 "jim moorin 21 - 8 kathryn jones",
+                "jim moorin 20 - 21 val grace",
                 "jim moorin 14 - 21 christine barker",
                 "jim moorin 14 - 21 john shoesmith",
                 "jim moorin 21 - 13 pauline gilroy",
@@ -274,9 +275,9 @@
                 "aggDiff": 0
             },
             "airewharfe monday (b)": {
-                "games": 7,
+                "games": 8,
                 "wins": 6,
-                "aggDiff": 45
+                "aggDiff": 44
             },
             "mirfield": {
                 "games": 0,
@@ -330,18 +331,18 @@
             }
         },
         "john armitage": {
-            "totalAgg": 562,
-            "totalAggAgainst": 447,
-            "availableAgg": 630,
+            "totalAgg": 576,
+            "totalAggAgainst": 468,
+            "availableAgg": 651,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 294,
+            "availableHomeAgg": 315,
             "availableAwayAgg": 252,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 276,
-            "totalHomeAggAgainst": 183,
+            "totalHomeAgg": 290,
+            "totalHomeAggAgainst": 204,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 210,
@@ -349,7 +350,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 11,
-            "homeLosses": 3,
+            "homeLosses": 4,
             "awayWins": 4,
             "awayLosses": 8,
             "cupWins": 3,
@@ -362,7 +363,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 30,
+            "totalGamesPlayed": 31,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
@@ -377,6 +378,7 @@
                 "john armitage 19 - 21 mark atkinson",
                 "john armitage 21 - 13 mark taylor",
                 "john armitage 21 - 9 chris mordue",
+                "john armitage 14 - 21 paul rooks",
                 "john armitage 21 - 12 malcolm crotty",
                 "john armitage 21 - 14 peter barstow",
                 "john armitage 21 - 9 myles summers",
@@ -406,9 +408,9 @@
                 "aggDiff": 14
             },
             "mirfield": {
-                "games": 7,
+                "games": 8,
                 "wins": 6,
-                "aggDiff": 53
+                "aggDiff": 46
             },
             "mirfield (b)": {
                 "games": 0,
@@ -457,12 +459,12 @@
             }
         },
         "martin fulton": {
-            "totalAgg": 180,
-            "totalAggAgainst": 211,
-            "availableAgg": 231,
+            "totalAgg": 188,
+            "totalAggAgainst": 232,
+            "availableAgg": 252,
             "availablePairsAgg": 0,
             "availableHomeAgg": 105,
-            "availableAwayAgg": 126,
+            "availableAwayAgg": 147,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -471,14 +473,14 @@
             "totalHomeAggAgainst": 86,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 84,
-            "totalAwayAggAgainst": 125,
+            "totalAwayAgg": 92,
+            "totalAwayAggAgainst": 146,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 3,
             "homeLosses": 2,
             "awayWins": 1,
-            "awayLosses": 5,
+            "awayLosses": 6,
             "cupWins": 0,
             "cupLosses": 0,
             "pairWins": 0,
@@ -489,12 +491,13 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 11,
+            "totalGamesPlayed": 12,
             "results": [
                 "martin fulton 18 - 21 wayne kemp",
                 "martin fulton 16 - 21 john greenhalgh",
                 "martin fulton 21 - 20 ian wilson",
                 "martin fulton 21 - 17 graham blenkinsop",
+                "martin fulton 8 - 21 ryan pendlebury",
                 "martin fulton 19 - 21 ian jacques",
                 "martin fulton 21 - 19 nicky rooks",
                 "martin fulton 3 - 21 charlie ripley",
@@ -519,9 +522,9 @@
                 "aggDiff": 0
             },
             "mirfield (b)": {
-                "games": 4,
+                "games": 5,
                 "wins": 2,
-                "aggDiff": -3
+                "aggDiff": -16
             },
             "bradford half holiday": {
                 "games": 0,
@@ -780,6 +783,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "02/06/2025",
+    "lastUpdated": "03/06/2025",
     "statsYear": "2025"
 }
