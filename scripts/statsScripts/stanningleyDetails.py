@@ -76,6 +76,7 @@ players = [
 
 # Players with different spellings of name (lowercase). Also need to add to deduplicateNames function
 duplicatePlayerNames = [
+    "david eaton",
     "duncan mc phail",
     "stuart watson",
     "andy marshall",

@@ -18,6 +18,8 @@ duplicatePlayerNames = list(
 # Add alternative names for players (lowercase)
 def deduplicateNames(name):
     name = playerStatsHelper.standardiseName(name)
+    if name == "david eaton":
+        name = "dave eaton"
     if name == "duncan mc phail":
         name = "duncan mcphail"
     if name == "andy marshall":
