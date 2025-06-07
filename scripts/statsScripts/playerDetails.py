@@ -58,7 +58,7 @@ allLeagues = [
     "AireWharfe Monday",
     "AireWharfe Wednesday Pairs",
     "AireWharfe Vets",
-    "AireWharfe Saturday",
+    # "AireWharfe Saturday", # TODO add back in?
     "Bradford Monday",
     "Bradford Half Holiday",
     "Bradford Vets",

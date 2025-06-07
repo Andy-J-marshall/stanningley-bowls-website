@@ -62,10 +62,11 @@ const leagues = [
         day: 'AireWharfe Vets',
         url: '/AW-Vets',
     },
-    {
-        day: 'AireWharfe Saturday',
-        url: '/AW-Sat',
-    },
+    // TODO add back in?
+    // {
+    //     day: 'AireWharfe Saturday',
+    //     url: '/AW-Sat',
+    // },
     {
         day: 'Bradford Monday',
         url: '/Bradford-Mon',

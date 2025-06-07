@@ -257,25 +257,25 @@
             }
         },
         "richard hodgson": {
-            "totalAgg": 299,
-            "totalAggAgainst": 235,
-            "availableAgg": 315,
+            "totalAgg": 320,
+            "totalAggAgainst": 244,
+            "availableAgg": 336,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 147,
+            "availableHomeAgg": 168,
             "availableAwayAgg": 147,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 147,
-            "totalHomeAggAgainst": 88,
+            "totalHomeAgg": 168,
+            "totalHomeAggAgainst": 97,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 131,
             "totalAwayAggAgainst": 135,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 7,
+            "homeWins": 8,
             "homeLosses": 0,
             "awayWins": 3,
             "awayLosses": 4,
@@ -289,7 +289,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 15,
+            "totalGamesPlayed": 16,
             "results": [
                 "richard hodgson 21 - 12 david pike",
                 "richard hodgson 21 - 16 catherine new",
@@ -305,6 +305,7 @@
                 "richard hodgson 16 - 21 jimmy hearne",
                 "richard hodgson 21 - 19 kath robinson",
                 "richard hodgson 19 - 21 shaun suthers",
+                "richard hodgson 21 - 9 jason ream",
                 "richard hodgson 21 - 12 graham gaunt"
             ],
             "airewharfe monday": {
@@ -353,9 +354,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 6,
-                "wins": 3,
-                "aggDiff": 16
+                "games": 7,
+                "wins": 4,
+                "aggDiff": 28
             },
             "spen valley (c)": {
                 "games": 1,
@@ -525,6 +526,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "03/06/2025",
+    "lastUpdated": "07/06/2025",
     "statsYear": "2025"
 }
