@@ -1,9 +1,9 @@
 import { useState } from 'react';
 import { Col, Row } from 'react-bootstrap';
 import NewsItem from './newsItem';
-import fundraisingImg from '../../images/news/fundraising.png';
+import funImg from '../../images/news/community.png';
 import communityImg from '../../images/news/community_2.png';
-import ladiesImg from '../../images/news/ladies.png';
+import bowlingImg from '../../images/news/bowling_2.png';
 
 function News() {
     const [expandNews1, setExpandNews1] = useState(false);
@@ -47,22 +47,21 @@ function News() {
                 </Col>
                 <Col>
                     <NewsItem
-                        title="LADIES TEAM"
-                        openingText="We are entering a team into the Leeds Ladies League for the 2025 season."
-                        mainText="If you are interested in playing then please contact a club member. No experience is necessary."
-                        imgSrc={ladiesImg}
+                        title="CLUB CUPS"
+                        openingText="The Club Cup is set for 13th September, while the inaugural Ladies Cup will take place on 3rd August."
+                        mainText="All members, including social bowlers, are welcome to enter the Club Cup. The Ladies Cup is open to female club members, offering an exciting opportunity to compete."
+                        imgSrc={bowlingImg}
                         callback={handleNewsExpand3}
                         expanded={expandNews3}
                     />
                 </Col>
                 <Col>
                     <NewsItem
-                        title="FUNDRAISING"
-                        openingText="Stanningley has signed up to EasyFundraising to raise money for the club."
-                        mainText="We will earn commission for everything you purchase online if you shop via the EasyFundraising app, and it won't cost you anything. Please sign up by clicking the below link."
-                        linkText="Sign up"
-                        linkUrl="https://www.easyfundraising.org.uk/support-a-good-cause/step-1/?char=370321&invite=7sk19t&referral-campaign=c2s&utm_campaign=web-referral"
-                        imgSrc={fundraisingImg}
+                        title="PICNIC IN THE PARK"
+                        openingText="Join Friends of Stanningley Park for a fun-filled picnic in the park on 27th July from 11am to 4pm."
+                        mainText="The day will be packed with activities, including bowling, walking football, yoga, children's games, and crafts. Live music from local bands will set the tone for a lively day."
+                        closingText="Bring your own picnic, soak up the atmosphere, and enjoy a carefree summer afternoon."
+                        imgSrc={funImg}
                         callback={handleNewsExpand1}
                         expanded={expandNews1}
                     />
