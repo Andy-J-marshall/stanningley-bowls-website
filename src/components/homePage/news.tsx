@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Col, Row } from 'react-bootstrap';
 import NewsItem from './newsItem';
 import fundraisingImg from '../../images/news/fundraising.png';
-import bigWeekendImg from '../../images/news/big_weekend.png';
+import communityImg from '../../images/news/community_2.png';
 import ladiesImg from '../../images/news/ladies.png';
 
 function News() {
@@ -34,10 +34,13 @@ function News() {
             <Row xs={1} lg={3} className="g-4 align-items-start">
                 <Col>
                     <NewsItem
-                        title="BOWLS BIG WEEKEND"
-                        openingText="Stanningley will be hosting an open day on Sunday 25th May for the Bowls Big Weekend."
-                        mainText="Members will be on hand to show anyone who is interested in playing bowls how to play. No experience or equipment required, we will provide everything you need."
-                        imgSrc={bigWeekendImg}
+                        title="KILLER BOWLS"
+                        openingText="More than 50 players gathered at Stanningley on Friday for a thrilling night of 'Killer' bowls and a BBQ, creating an electric atmosphere for newcomers and seasoned bowlers alike."
+                        mainText="Besides Killer, guests took part in the pass-the-flag competition, a fun way to learn bowling basics. Many attendees weren't club members, proving the sport's broad appeal."
+                        closingText="Ruth Ritchie, who had never held a bowl before, won pass-the-flag competition, while Andy Marshall secured victory in a gripping round of Killer."
+                        linkText="Read the full article"
+                        linkUrl="https://westleedsdispatch.com/stanningley-park-bowling-club-welcomes-you-to-killer-bowls"
+                        imgSrc={communityImg}
                         callback={handleNewsExpand2}
                         expanded={expandNews2}
                     />
