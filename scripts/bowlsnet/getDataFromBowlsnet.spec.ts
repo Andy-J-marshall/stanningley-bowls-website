@@ -87,59 +87,6 @@ const leagues = [
         day: 'Tadcaster',
         url: '/Tadcaster',
     },
-    // Other leagues of interest
-    // {
-    //     day: 'North East Leeds Vets',
-    //     url: '/NELeedsVets',
-    // },
-    // {
-    //     day: 'AireWharfe Wednesday',
-    //     url: '/AW-WedSingles',
-    // },
-    // {
-    //     day: 'Barkston Ash',
-    //     url: '/BarkstonAsh',
-    // },
-    // {
-    //     day: 'Guiseley Winter',
-    //     url: '/GuiseleyWinter',
-    // },
-    // {
-    //     day: 'Wetherby Autumn',
-    //     url: '/WetherbyAutumn',
-    // },
-    // {
-    //     day: 'AireWharfe Tuesday Pairs',
-    //     url: '/AW-TuePairs',
-    // },
-    // {
-    //     day: 'Heavy Woolen Monday',
-    //     url: '/HeavyWoollenAfternoon',
-    // },
-    // {
-    //     day: 'Crossgates',
-    //     url: '/Crossgates',
-    // },
-    // {
-    //     day: 'Elland',
-    //     url: '/Halifax-Elland',
-    // },
-    // {
-    //     day: 'Halifax Wednesday',
-    //     url: '/Halifax-WedEvening',
-    // },
-    // {
-    //     day: 'Castleford Vets',
-    //     url: '/CastlefordVets-Singles',
-    // },
-    // {
-    //     day: 'Castleford Wednesday',
-    //     url: '/Castleford-Evening',
-    // },
-    // {
-    //     day: 'Wakefield Saturday',
-    //     url: '/WakefieldSat',
-    // },
 ];
 
 for (const league of leagues) {
