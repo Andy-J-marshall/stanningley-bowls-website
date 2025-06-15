@@ -338,7 +338,7 @@ def returnHomeAndAwayPlayerRowsForAllTeams(
             )
             if len(findPossiblePlayerNames) > 1:
                 possiblePlayerNameHome = str(findPossiblePlayerNames[0]).strip()
-                possiblePlayerNameHome = standardiseName(possiblePlayerNameHome)
+                possiblePlayerNameHome = playerDetails.deduplicateNames(possiblePlayerNameHome)
                 if (
                     possiblePlayerNameHome in players
                     or possiblePlayerNameHome in duplicatePlayerNames
@@ -346,7 +346,7 @@ def returnHomeAndAwayPlayerRowsForAllTeams(
                     homePlayerRow.append(rowNumber)
 
                 possiblePlayerNameAway = str(findPossiblePlayerNames[1]).strip()
-                possiblePlayerNameAway = standardiseName(possiblePlayerNameAway)
+                possiblePlayerNameAway = playerDetails.deduplicateNames(possiblePlayerNameAway)
                 if (
                     possiblePlayerNameAway in players
                     or possiblePlayerNameAway in duplicatePlayerNames

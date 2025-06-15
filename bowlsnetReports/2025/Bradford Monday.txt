@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Tue 3rd Jun)
+=== Bradford (Mon. Evening) 2025 (as of Sun 15th Jun)
 === Comp. Match Cards
 
   Division 1 - Thurston           Mon 7th Apr         
@@ -30,7 +30,7 @@ Paul Wood                7 Debi Davis              21
 Gareth Harwood          21 Graham Baggley          16 
 Kathleen Field          16 David Bland             21 
 Norman Booth             6 Richard Bloodworth      21 
-Gerald Bromley          18 Craig Fenton            21 
+Gerald Bromley 'A'      18 Craig Fenton            21 
 Charlie Sykes           14 Ian Jacques             21 
 Eddie Temple             9 Stuart Wilson           21 
             Aggregate:  84             Aggregate: 121 
@@ -41,7 +41,7 @@ Eddie Temple             9 Stuart Wilson           21
         Asa Briggs                  Hightown          
 Michael Frost           15 Jacob Hatfield-Goodall  21 
 James Klenk             21 Jude Hatfield-Goodall   11 
-Garry Woodhead          20 Tom Gilbert             21 
+Gary Woodhead           20 Tom Gilbert             21 
 Carl Smith               5 Alex Edmondson          21 
 Clive Foord             21 Daren Munt              13 
 Paula Graham            16 Darren Goodall          21 
@@ -56,7 +56,7 @@ Michael Clare           21 Vicky Haigh              8
 David Jarvis            20 Steve Wrigglesworth     21 
 Muriel Keighley         21 David Dowse              7 
 John Moore              21 Andrew Haigh            12 
-Keith Turner            21 Andy Brooke             13 
+Keith Turner            21 Andrew Brooke           13 
             Aggregate: 112             Aggregate:  82 
                 Games:   4                 Games:   2 
                Points:  19                Points:   7 
@@ -85,7 +85,7 @@ Jeffrey Smith           21 Bob Armitage             9
                 Games:   4                 Games:   2 
                Points:  20                Points:   6 
 
- Division 3 - City Sports         Thu 10th Apr        
+ Division 3 - City Sports         Mon 7th Apr         
      Bradford Moor A            Bradford Moor B       
 Sharon Queripel         17 Edward East             21 
 Tracy Duxbury           21 Martin Barraclough      17 
@@ -102,8 +102,8 @@ Neil Duxbury            21 John Appleyard           9
 Peter Crowther          21 Andy Hodgson            10 
 Jim Swailes             21 Kevin Wood              12 
 Ian Swinfield           10 Philip Smith            21 
-Stuart Brook            19 Peter Ellis             21 
-Peter Scott              9 Debi Davis              21 
+Peter Scott             19 Peter Ellis             21 
+Stuart Brook             9 Debi Davis              21 
 Derek Pickering         21 Mark Goodall            19 
             Aggregate: 101             Aggregate: 104 
                 Games:   3                 Games:   3 
@@ -115,7 +115,7 @@ Daren Munt              21 Eddie Temple             3
 Peter Simpson           21 Kathleen Field           7 
 Alex Edmondson          21 Charlie Sykes           10 
 Tom Gilbert             21 Norman Booth            11 
-Jude Hatfield-Goodall   21 Gerald Bromley          15 
+Jude Hatfield-Goodall   21 Gerald Bromley 'A'      15 
 Logan Preston           18 Gareth Harwood          21 
             Aggregate: 123             Aggregate:  67 
                 Games:   5                 Games:   1 
@@ -127,7 +127,7 @@ Sue Farrell             18 Carl Smith              21
 Derek Carroll           21 Curtis Brown             5 
 Phil Robinson           21 James Klenk             14 
 Eddie Prince            10 Paula Graham            21 
-Andy Matthews           21 Garry Woodhead          12 
+Andy Matthews           21 Gary Woodhead           12 
 Richard Briggs          21 Michael Frost           12 
             Aggregate: 112             Aggregate:  85 
                 Games:   4                 Games:   2 
@@ -207,8 +207,8 @@ Gregg Fairhead          21 Peter Simpson           10
 
   Division 1 - Thurston           Mon 21st Apr        
         Asa Briggs               Shipley Club A       
-Curtis Brown             2 Scott Bloodsworth       21 
-Garry Woodhead           9 David Bland             21 
+Curtis Brown             2 Scott Bloodworth        21 
+Gary Woodhead            9 David Bland             21 
 James Klenk             16 Stuart Wilson           21 
 Clive Foord             21 Richard Bloodworth      13 
 Michael Frost           21 Graham Baggley           7 
@@ -222,7 +222,7 @@ Paula Graham            21 Ian Jacques             16
 Mark Goodall            21 Roy Carter              20 
 Debi Davis              21 Norman Booth             4 
 Peter Ellis             21 Kathleen Field          13 
-Andy Hodgson            21 Gerald Bromley          16 
+Andy Hodgson            21 Gerald Bromley 'A'      16 
 Kevin Wood              21 Eddie Temple             6 
 Philip Smith            21 Charlie Sykes            1 
             Aggregate: 126             Aggregate:  60 
@@ -258,9 +258,9 @@ Division 2 - Robert Bland         Mon 21st Apr
 Michael Leach           21 Allan Smith             16 
 Pam Barlow              21 David Newton             6 
 Yvonne Coppin           21 Craig Bentley           11 
-Roy Barlow              12 Burnett Chris J         21 
+Roy Barlow              12 Chris J Burnett         21 
 Dave Duckett            21 Chris Burnett            2 
-Alan Sinfield           21 James Dennison          11 
+Alan Sinfield           21 James Burnett           11 
             Aggregate: 117             Aggregate:  67 
                 Games:   5                 Games:   1 
                Points:  23                Points:   3 
@@ -343,7 +343,7 @@ Duncan McPhail          20 Gareth Harwood          21
 Richard Whittaker       17 Norman Booth            21 
 Peter Crowther          21 Eddie Temple            15 
 Jim Swailes             21 Kathleen Field           6 
-Derek Pickering         19 Gerald Bromley          21 
+Derek Pickering         19 Gerald Bromley 'A'      21 
 Peter Scott             21 Roy Carter              17 
             Aggregate: 119             Aggregate: 101 
                 Games:   3                 Games:   3 
@@ -402,7 +402,7 @@ Division 2 - Robert Bland         Mon 28th Apr
 James Burnett            4 Mark Worrall            21 
 Craig Bentley           21 Laura Wood              18 
 Allan Smith             13 Justine Wood            21 
-Burnett Chris J         21 Archie Wood              8 
+Chris J Burnett         21 Archie Wood              8 
 Chris Burnett           21 Lexie Gould             15 
 Alan Broscombe          17 Lucas Wood              21 
             Aggregate:  97             Aggregate: 104 
@@ -475,8 +475,8 @@ Mick Tolson             21 Mervyn Gration           9
 Judy Atkinson           10 June Harrison           21 
 Vicky Haigh             21 Philip Ford             10 
 Andrew Haigh            12 Karen Brame             21 
-Andy Brooke             18 Kenny McCafferty        21 
-Steve Wrigglesworth     21 Dawn Rigget             15 
+Andrew Brooke           18 Kenny McCafferty        21 
+Steve Wrigglesworth     21 Susan Galloway          15 
             Aggregate: 103             Aggregate:  97 
                 Games:   3                 Games:   3 
                Points:  14                Points:  12 
@@ -498,7 +498,7 @@ Mark Chambers           21 Peter Scott             12
 Michael Frost           10 Chris Mordue            21 
 Carl Smith              19 Simon Metcalfe          21 
 Clive Foord             18 Mason Lindley           21 
-Garry Woodhead          21 Wendy Shimbles          20 
+Gary Woodhead           21 Wendy Shimbles          20 
 Paula Graham             8 Gary Wike               21 
 Curtis Brown            19 Pam Lindley             21 
             Aggregate:  95             Aggregate: 125 
@@ -555,7 +555,7 @@ Roy Barlow              21 Marie Franks            17
 
 Division 2 - Robert Bland         Mon 12th May        
      Spen Victoria B                 Idle B           
-Lucas Wood              21 Liz Rawnsley            20 
+Lucas Wood              21 Elizabeth Rawnsley      20 
 Lexie Gould             19 David Priestley         21 
 Archie Wood             21 Roger Morgan-Williams    9 
 Justine Wood            21 John Mellan             14 
@@ -570,7 +570,7 @@ Division 2 - Robert Bland         Mon 12th May
 Richard Jones           21 David Newton            17 
 Dianne Hoole            18 Allan Smith             21 
 Ian Fairhurst           21 James Burnett           17 
-Mick Warren              9 Burnett Chris J         21 
+Mick Warren              9 Chris J Burnett         21 
 Stewart Whiteley        21 Alan Broscombe          20 
 Ken Oates               21 Chris Burnett           18 
             Aggregate: 111             Aggregate: 114 
@@ -596,7 +596,7 @@ Neil Duxbury            21 Peter Thompson          12
 Michael Jarvis          20 Mick Tolson             21 
 Sharon Queripel         21 Graham Fuller           19 
 Tracy Duxbury           21 Karl Denville           11 
-Mark Durrans 'A'        21 Andy Brooke              9 
+Mark Durrans 'A'        21 Andrew Brooke            9 
             Aggregate: 125             Aggregate:  80 
                 Games:   5                 Games:   1 
                Points:  22                Points:   4 
@@ -656,7 +656,7 @@ Mark Chambers           11 Clive Foord             21
 Mark Woolner            21 Michael Frost           15 
 Stuart Graham           21 Paula Graham            13 
 Colin Isles             21 Curtis Brown            12 
-Gregg Fairhead          21 Garry Woodhead           9 
+Gregg Fairhead          21 Gary Woodhead            9 
             Aggregate: 116             Aggregate:  77 
                 Games:   5                 Games:   1 
                Points:  21                Points:   5 
@@ -666,7 +666,7 @@ Gregg Fairhead          21 Garry Woodhead           9
 Derek Bridge            21 Norman Booth            14 
 Phil Robinson           21 Charlie Sykes           18 
 Andy Matthews           21 Gareth Harwood           7 
-Eddie Prince            21 Gerald Bromley          14 
+Eddie Prince            21 Gerald Bromley 'A'      14 
 Trevor Hodgson          17 Roy Carter              21 
 Richard Briggs          21 Ash Harker               3 
             Aggregate: 122             Aggregate:  77 
@@ -678,7 +678,7 @@ Division 2 - Robert Bland         Mon 19th May
 June Wilson             16 Allan Smith             21 
 Bev Shutt               21 David Newton            16 
 Pauline Macgregor       17 James Burnett           21 
-Gaynor Shutt            13 Burnett Chris J         21 
+Gaynor Shutt            13 Chris J Burnett         21 
 Chris Wilson            21 Alan Broscombe          17 
 Ray Atkinson            17 Chris Burnett           21 
             Aggregate: 105             Aggregate: 117 
@@ -688,7 +688,7 @@ Ray Atkinson            17 Chris Burnett           21
 Division 2 - Robert Bland         Mon 19th May        
           Idle B                 Drighlington A       
 John Mellan             21 John Roberts            12 
-Liz Rawnsley             9 Dianne Hoole            21 
+Elizabeth Rawnsley       9 Dianne Hoole            21 
 Roger Morgan-Williams   13 Ian Fairhurst           21 
 David Priestley         21 Graham Priestley        13 
 Jackie Spencer          21 Phil Keating             5 
@@ -739,7 +739,7 @@ Vicky Haigh             11 Sue Findlay             21
 Judy Atkinson           21 Joe Midgley             15 
 Pat Brooke              11 Paul Emery              21 
 Andrew Haigh            21 Trevor Bateman           6 
-Andy Brooke             15 Steve Edgley            21 
+Andrew Brooke           15 Steve Edgley            21 
 Mick Tolson              9 Malcolm Riggs           21 
             Aggregate:  88             Aggregate: 105 
                 Games:   2                 Games:   4 
@@ -773,7 +773,7 @@ Hazel Stanclif          17 Edgar Rhodes            21
         Asa Briggs                  Farsley           
 Michael Frost           21 Peter Crowther           6 
 Curtis Brown            19 Duncan McPhail          21 
-Garry Woodhead           5 Derek Pickering         21 
+Gary Woodhead            5 Derek Pickering         21 
 Carl Smith              21 Jim Swailes             18 
 Paula Graham            21 Ian Swinfield            9 
 Clive Foord             21 Peter Scott             20 
@@ -788,7 +788,7 @@ Kathleen Field          14 Pam Lindley             21
 Norman Booth            21 Simon Metcalfe          19 
 Charlie Sykes            8 Chris Mordue            21 
 Gareth Harwood           5 Wendy Shimbles          21 
-Gerald Bromley           6 Gary Wike               21 
+Gerald Bromley 'A'       6 Gary Wike               21 
             Aggregate:  60             Aggregate: 124 
                 Games:   1                 Games:   5 
                Points:   1                Points:  25 
@@ -858,7 +858,7 @@ Division 2 - Robert Bland         Mon 2nd Jun
 David Newton            21 Jackie Spencer          17 
 James Burnett           21 Jane Paxton             19 
 Allan Smith             21 Robin Haydock           11 
-Burnett Chris J         21 Steve Miles-Turner      13 
+Chris J Burnett         21 Steve Miles-Turner      13 
 Alan Broscombe          21 David Priestley          5 
 Chris Burnett           21 John Mellan             12 
             Aggregate: 126             Aggregate:  77 
@@ -879,7 +879,7 @@ Sharon Queripel         21 John Moore               6
 
  Division 3 - City Sports         Mon 2nd Jun         
         Tyersal B                Drighlington B       
-Byron Whalley           21 Andy Brooke             13 
+Byron Whalley           21 Andrew Brooke           13 
 Jeffrey Smith           16 Peter Thompson          21 
 Brenda Hudson           21 Judy Atkinson           11 
 Russell Hudson          21 David Dowse             13 
@@ -912,5 +912,149 @@ Carolyne Coop           21 Mervyn Gration          10
             Aggregate: 110             Aggregate: 109 
                 Games:   3                 Games:   3 
                Points:  14                Points:  12 
+
+  Division 1 - Thurston           Mon 9th Jun         
+         Farsley                    Hightown          
+Duncan McPhail          21 Alex Edmondson          15 
+Ian Swinfield           11 Jude Hatfield-Goodall   21 
+Peter Crowther          21 Daren Munt              12 
+Jim Swailes             21 Peter Simpson           12 
+Peter Scott             21 Darren Goodall          19 
+Derek Pickering         21 Logan Preston            8 
+            Aggregate: 116             Aggregate:  87 
+                Games:   5                 Games:   1 
+               Points:  20                Points:   6 
+
+  Division 1 - Thurston           Mon 9th Jun         
+      West Bradford              Heckmondwike A       
+Jason Greenwood         21 Roy Carter              16 
+Paul Wood               18 Charlie Sykes           21 
+Stuart Graham           18 Ash Harker              21 
+Kevin Buckley           21 Kathleen Field          15 
+Colin Isles             13 Gerald Bromley 'A'      21 
+Mark Chambers           21 Norman Booth            18 
+            Aggregate: 112             Aggregate: 112 
+                Games:   3                 Games:   3 
+               Points:  13                Points:  13 
+
+  Division 1 - Thurston           Mon 9th Jun         
+        Asa Briggs              Spen Victoria A       
+Curtis Brown             8 Debi Davis              21 
+Paula Graham            15 Mark Worrall            21 
+Gary Woodhead           19 Mark Goodall            21 
+Michael Frost           21 Philip Smith            20 
+Carl Smith              21 Peter Ellis             18 
+Clive Foord             21 Kevin Wood              16 
+            Aggregate: 105             Aggregate: 117 
+                Games:   3                 Games:   3 
+               Points:  11                Points:  15 
+
+  Division 1 - Thurston           Mon 9th Jun         
+        Tyersal A                Crowghyll Park       
+Wendy Shimbles          21 Richard Briggs          11 
+Pam Lindley             21 Sue Farrell             12 
+Chris Mordue            19 Andy Matthews           21 
+Gary Wike               21 Derek Bridge             7 
+Simon Metcalfe          21 Eddie Prince            10 
+Mason Lindley           21 Trevor Hodgson          14 
+            Aggregate: 124             Aggregate:  75 
+                Games:   5                 Games:   1 
+               Points:  22                Points:   4 
+
+Division 2 - Robert Bland         Mon 9th Jun         
+        Clayton A                    Idle B           
+June Wilson             21 Jane Paxton              9 
+Pauline Macgregor       21 Jackie Spencer          11 
+Ray Atkinson            21 Roger Morgan-Williams    4 
+Steve Edgley            19 John Mellan             21 
+Malcolm Riggs           21 Mark Paxton             11 
+Chris Wilson            21 David Priestley          9 
+            Aggregate: 124             Aggregate:  65 
+                Games:   5                 Games:   1 
+               Points:  24                Points:   2 
+
+Division 2 - Robert Bland         Mon 9th Jun         
+      Heckmondwike B             New Greengates       
+Steve Sugden            21 Allan Smith             14 
+Eric Franks             18 David Newton            21 
+Peter Buchan            21 James Burnett           14 
+Daniel Logan            21 Alan Broscombe          17 
+Marie Franks            15 Chris J Burnett         21 
+Roger Jackson           21 Chris Burnett           10 
+            Aggregate: 117             Aggregate:  97 
+                Games:   4                 Games:   2 
+               Points:  17                Points:   9 
+
+Division 2 - Robert Bland         Mon 9th Jun         
+      Shipley Club B             Drighlington A       
+Scott Kerr              12 Dianne Hoole            21 
+Jason Bridge            21 John Roberts            18 
+Garry Nellist           21 Ian Fairhurst            7 
+Wendy Spivey            21 Stewart Whiteley        16 
+David Dorman            21 Graham Priestley        19 
+Richard Bloodworth      21 Ken Oates               16 
+            Aggregate: 117             Aggregate:  97 
+                Games:   5                 Games:   1 
+               Points:  18                Points:   8 
+
+Division 2 - Robert Bland         Mon 9th Jun         
+          Idle A                Spen Victoria B       
+John Rawnsley           21 John Shackleton         19 
+Dave Duckett            21 Justine Wood            10 
+Roy Barlow              21 John Smith               8 
+Michael Leach           21 Michael Griffiths       14 
+Yvonne Coppin           21 Lexie Gould             17 
+Pam Barlow              21 Steve Kemp              20 
+            Aggregate: 126             Aggregate:  88 
+                Games:   6                 Games:   0 
+               Points:  22                Points:   4 
+
+ Division 3 - City Sports         Mon 9th Jun         
+        Queensbury              Bradford Moor B       
+Muriel Keighley         15 Edward East             21 
+Michael Clare           21 Geoff Woodfine           8 
+Lorraine Birch          21 Dave English            12 
+Brian Raistrick         21 Margaret East            4 
+Keith Turner            21 Martin Barraclough      18 
+David Jarvis            21 Diane Barraclough       20 
+            Aggregate: 120             Aggregate:  83 
+                Games:   5                 Games:   1 
+               Points:  21                Points:   5 
+
+ Division 3 - City Sports         Mon 9th Jun         
+         Thornton                  Tyersal B          
+Kenny McCafferty        21 Barry Clough             8 
+June Harrison           14 Byron Whalley           21 
+Mervyn Gration          20 John Smith              21 
+Karen Brame             21 Jeffrey Smith           15 
+Barry Austin            21 Colin Wright            20 
+Philip Ford             21 Edgar Rhodes            16 
+            Aggregate: 118             Aggregate: 101 
+                Games:   4                 Games:   2 
+               Points:  17                Points:   9 
+
+ Division 3 - City Sports         Mon 9th Jun         
+     Bradford Moor A               Clayton B          
+Sharon Queripel         21 Joe Midgley             14 
+Tracy Duxbury           21 Sue Findlay             14 
+Alan Naylor 'A'         21 Kieran Daly             11 
+Michael Jarvis          21 Ian Findlay             18 
+Mark Durrans 'A'        21 Trevor Bateman           6 
+Neil Duxbury            21 Peter Barker            19 
+            Aggregate: 126             Aggregate:  82 
+                Games:   6                 Games:   0 
+               Points:  23                Points:   3 
+
+ Division 3 - City Sports         Mon 9th Jun         
+      Drighlington B               West Royd          
+Karl Denville           21 Hazel Stanclif          20 
+Andrew Haigh            18 Jan McGuiness           21 
+Graham Fuller           21 Anne Gothard            13 
+Judy Atkinson           16 Howard Gothard          21 
+Vicky Haigh             17 Elizabeth Farrar        21 
+David Dowse             18 Carolyne Coop           21 
+            Aggregate: 111             Aggregate: 117 
+                Games:   2                 Games:   4 
+               Points:  11                Points:  15 
 
 

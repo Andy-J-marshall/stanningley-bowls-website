@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday) 2025 (as of Tue 3rd Jun)
+=== Leeds & District (Tuesday) 2025 (as of Sun 15th Jun)
 === League Match Cards
 
       Division 1            Tue 8th Apr       
@@ -59,7 +59,7 @@ Steve Olivant       21 Angela Morley        8
 Dave Smith          11 Andrew Cole         21 
 Matt Ramsey         21 Trevor Dawson       16 
 Dave Howard         21 Thomas Cuddy        15 
-Joesy Olivant       21 Neil Porter         19 
+Josey Olivant       21 Neil Porter         19 
 Paul Reynard        21 Stuart Reardon      17 
 Sophie Olivant      21 Danny Dawson        14 
 Darran Baker        21 Stephen Morley      12 
@@ -72,7 +72,7 @@ Graham Gaunt        21 Stuart Potter        8
 Harvey Lockwood      9 Craig Clarkson      21 
 Beverley Hampshaw   12 Richard Hodgson     21 
 David Norton        21 Colin Haque          3 
-Linda Gaunt         21 Jimmy Swailes       13 
+Linda Gaunt         21 Jim Swailes         13 
 Kevin Smales        10 Malvin Miller       21 
 Ian Stocks          10 Paul Leonard        21 
 Alan Procter        17 Andrew Marshall     21 
@@ -114,8 +114,8 @@ Jean Milner         21 James Watkins       11
 Barbara Taylor      21 David Ryder         18 
 Graham Davison      20 Nicholas Ryder      21 
 Roger Milner        21 David Clarkson      15 
-John Ingham         21 Mick Galley          6 
-        Aggregate: 156         Aggregate: 127 
+John Ingham         21 Mick Galley          8 
+        Aggregate: 156         Aggregate: 129 
            Points:  35            Points:  27 
 
       Division 3            Tue 8th Apr       
@@ -200,7 +200,7 @@ Douglas Blair       10 Steve Portman       21
   Chapel Allerton A       East End Park A     
 David Blackwell     21 Dave Howard         11 
 Tommy Massey        21 Nigel Rawlings      16 
-Colin Wilson        21 Joesy Olivant       18 
+Colin Wilson        21 Josey Olivant       18 
 Steve Bird          13 Matt Ramsey         21 
 Steven Bottomley    21 Dave Smith          19 
 Mandy Wilson        21 Paul Reynard        16 
@@ -217,7 +217,7 @@ Graham Scholes      21 Harvey Lockwood     17
 Alan Wood           12 Kevin Smales        21 
 Dave Farman         21 Ian Stocks          16 
 Alan Durant         10 Alan Procter        21 
-James Taylor        21 Linda Gaunt         10 
+James Tayolr        21 Linda Gaunt         10 
 Mick Cooper         21 Graham Gaunt        19 
         Aggregate: 148         Aggregate: 135 
            Points:  34            Points:  28 
@@ -239,7 +239,7 @@ Danny Dawson        21 Colin Chadwick      14
    Stanningley Park       Sth Leeds Cons A    
 Andrew Marshall     21 Mark Raistrick      19 
 Colin Haque          6 Reece Pratt         21 
-Jimmy Swailes       21 Joe Adams           16 
+Jim Swailes         21 Joe Adams           16 
 Malvin Miller       21 Gavin Johns         18 
 Paul Leonard        10 Julie Cavalli       21 
 Alyssa Randell       8 Tim Newton          21 
@@ -360,7 +360,7 @@ Debbie Sandles       9 Alan Wood           21
 Terry Cook          21 John Durkan         18 
 Mike Cox             9 Alan Durant         21 
 Sylvia Petty        14 Dave Farman         21 
-John Patrick        12 James Taylor        21 
+John Patrick        12 James Tayolr        21 
 Peter Byford        15 Andy Walton         21 
         Aggregate: 108         Aggregate: 150 
            Points:  20            Points:  35 
@@ -397,7 +397,7 @@ Reece Pratt         21 Dave Smith          12
 Julie Cavalli       17 Dave Howard         21 
 Chloe Grant         21 Matt Ramsey         13 
 Monica Adams        21 Nigel Rawlings       7 
-Michael Gore        19 Joesy Olivant       21 
+Michael Gore        19 Josey Olivant       21 
 Tim Newton          11 Paul Reynard        21 
 Mark Raistrick      21 Sophie Olivant      17 
 Malcolm Collinson   11 Darran Baker        21 
@@ -478,7 +478,7 @@ Richard Hodgson     21 Linda Gaunt          7
 Colin Haque         15 Diane Hales         21 
 Malvin Miller       15 Beverley Hampshaw   21 
 Paul Leonard         7 Alan Procter        21 
-Jimmy Swailes       20 Graham Gaunt        21 
+Jim Swailes         20 Graham Gaunt        21 
 Craig Clarkson      16 Kevin Smales        21 
          Handicap: +20          Handicap: +20 
         Aggregate: 156         Aggregate: 150 
@@ -502,7 +502,7 @@ Howard Fowler        0 Jim Barker          21
      Gildersome B            Holt Park        
 Barbara Hall         7 Peter Byford        21 
 Neil Schofield       7 Colin Chadwick      21 
-Ali Lockwood        13 Peter Sandles       21 
+Alison Lockwood     13 Peter Sandles       21 
 Tracy Norton        13 Debbie Sandles      21 
 Daphne Scott        21 Terry Cook          12 
 Margaret Johnstone  18 Mike Cox            21 
@@ -530,7 +530,7 @@ Paul Shackleton     21 Paul Hainsworth     16
    Crossgates Rec A      Chapel Allerton A    
 Alan Wood           20 Mandy Wilson        21 
 Graham Scholes       7 David Blackwell     21 
-James Taylor        21 Steve Bird           9 
+James Tayolr        21 Steve Bird           9 
 Dave Sharp          21 David Burke         11 
 Alan Durant         21 Tommy Massey        18 
 Dave Farman         18 Matthew Watson      21 
@@ -592,21 +592,8 @@ Andrew Lloyd        13 Mark Hopps          21
            Points:  37            Points:  20 
 
       Division 2            Tue 6th May       
-   East End Park A          Gildersome A      
-Steve Olivant       19 David Norton        21 
-Dave Howard          8 Ian Stocks          21 
-Dave Smith          21 Kevin Smales        15 
-Nigel Rawlings      13 Diane Hales         21 
-Joesy Olivant       21 Beverley Hampshaw   10 
-Paul Reynard        21 Graham Gaunt        12 
-Sophie Olivant      21 Simon Hampshaw       8 
-Darran Baker        19 Alan Procter        21 
-        Aggregate: 143         Aggregate: 129 
-           Points:  31            Points:  28 
-
-      Division 2            Tue 6th May       
    Crossgates Rec A          Manston Pk       
-James Taylor        21 Stephen Jackson      5 
+James Tayolr        21 Stephen Jackson      5 
 Dave Sharp          21 Graham Scholes       4 
 Alan Wood           17 Jim Jordan          21 
 Alan Durant         20 John Townsend       21 
@@ -633,7 +620,7 @@ Paul Shackleton      9 Tim Newton          21
       Division 2            Tue 6th May       
    Stanningley Park          Holt Park        
 Craig Clarkson      21 Mike Cox             8 
-Jimmy Swailes       21 Sylvia Petty        12 
+Jim Swailes         21 Sylvia Petty        12 
 Andrew Marshall     21 John Patrick        13 
 Stuart Potter       21 Peter Byford        15 
 Alyssa Randell      21 Colin Chadwick      16 
@@ -642,6 +629,19 @@ Phil Sutcliffe      15 Peter Sandles       21
 Malvin Miller       13 Terry Cook          21 
         Aggregate: 141         Aggregate: 127 
            Points:  31            Points:  26 
+
+      Division 2            Tue 6th May       
+   East End Park A          Gildersome A      
+Steve Olivant       19 David Norton        21 
+Dave Howard          8 Ian Stocks          21 
+Dave Smith          21 Kevin Smales        15 
+Nigel Rawlings      13 Diane Hales         21 
+Josey Olivant       21 Beverley Hampshaw   10 
+Paul Reynard        21 Graham Gaunt        12 
+Sophie Olivant      21 Simon Hampshaw       8 
+Darran Baker        19 Alan Procter        21 
+        Aggregate: 143         Aggregate: 129 
+           Points:  31            Points:  28 
 
       Division 3            Tue 6th May       
     Pudsey Park A            Meanwood B       
@@ -753,8 +753,8 @@ Sylvia Petty        21 Dave Hill           19
 John Patrick        17 Royce Jackson       21 
 Peter Byford        21 David Blackwell      8 
 Mark Swindlehurst    7 Tommy Massey        21 
-Colin Chadwick      18 Colin Wilson        21 
 Tony Watson         14 Mandy Wilson        21 
+Colin Chadwick      18 Colin Wilson        21 
 Terry Cook          16 Matthew Watson      21 
 Mike Cox            21 Steven Bottomley    17 
         Aggregate: 135         Aggregate: 149 
@@ -781,7 +781,7 @@ Alan Wood           21 Malcolm Crowson     19
 Terry Rock          21 Iain Baker          11 
 Alan Durant         21 Trevor Dawson       12 
 Dave Sharp          16 Neil Porter         21 
-James Taylor        20 Jerry Wood          21 
+James Tayolr        20 Jerry Wood          21 
 Andy Walton         21 Danny Dawson        20 
         Aggregate: 162         Aggregate: 126 
            Points:  37            Points:  26 
@@ -817,7 +817,7 @@ David Milner         5 James Drury         21
 Ian Lee             10 Gordon Monk         21 
 Susan Lee           19 Christine Glyn      21 
 Gary Enkin          21 Malcolm Cameron      4 
-Anne M Miller       11 Malcolm Hallas      21 
+Anne Miller         11 Malcolm Hallas      21 
 Linda Greenland     17 Roy Tebbut          21 
 Martin Kaitcer      21 Karl Chapman        13 
 Ian Franllin        21 Neil Hudson          7 
@@ -871,7 +871,7 @@ Sue Harrison        20 Martin Lally        21
 Mick Harrison       21 John Bates          12 
 Martin Huxley       12 Paul Burke          21 
 Ellen Barraclough   10 Andrew Lloyd        21 
-Graham Goodall      11 Jon Lucas           21 
+Graham Goodall      11 John Lucas          21 
 Stewart Wardlaw     14 Andy Sharratt       21 
 Robert Spink        21 Andrew Ford         13 
         Aggregate: 123         Aggregate: 151 
@@ -923,7 +923,7 @@ Dave Howard         13 Elizabeth Quigley   21
 Nigel Rawlings      10 Jonathan Moriaty    21 
 Steve Olivant        9 Jim Jordan          21 
 Matt Ramsey         21 Graham Scholes       6 
-Joesy Olivant       21 Anthony Marsden     17 
+Josey Olivant       21 Anthony Marsden     17 
 Paul Reynard        21 David Wall          10 
 Sophie Olivant      21 John Wilson          5 
         Aggregate: 137         Aggregate: 110 
@@ -945,10 +945,10 @@ Beverley Hampshaw   15 Terry Cook          21
       Division 2            Tue 20th May      
    Stanningley Park       Crossgates Rec A    
 Craig Clarkson      15 Alan Wood           21 
-Jimmy Swailes       19 Andy Walton         21 
+Jim Swailes         19 Andy Walton         21 
 Malvin Miller       20 Alan Durant         21 
 Andrew Marshall     21 Bob Patterson       11 
-Richard Hodgson     21 James Taylor        11 
+Richard Hodgson     21 James Tayolr        11 
 Stuart Potter       21 Dave Sharp          12 
 Paul Leonard        21 Terry Rock          18 
 Alyssa Randell      21 Graham Scholes      20 
@@ -1066,7 +1066,7 @@ Mike Cox            21 Steve Olivant        7
 Sylvia Petty        21 Matt Ramsey          7 
 Debbie Sandles      18 Darran Baker        21 
 Peter Byford        21 Dave Smith          14 
-Graham Hill         21 Joesy Olivant       16 
+Graham Hill         21 Josey Olivant       16 
 Colin Chadwick      11 Paul Reynard        21 
 Peter Sandles        4 Sophie Olivant      21 
         Aggregate: 138         Aggregate: 121 
@@ -1105,7 +1105,7 @@ Neil Porter         21 Malvin Miller       18
 Angela Morley       21 Colin Haque          3 
 Andrew Cole         14 Richard Hodgson     21 
 Jerry Wood          21 Alyssa Randell      15 
-Stephen Morley      19 Jimmy Swailes       21 
+Stephen Morley      19 Jim Swailes         21 
 Paul Shackleton     21 Andrew Marshall     16 
 Danny Dawson        21 Stuart Potter       13 
         Aggregate: 149         Aggregate: 128 
@@ -1232,11 +1232,25 @@ Terry Rock          14 Ryan Lynch          21
         Aggregate: 141         Aggregate: 157 
 
      Round of 16            Tue 3rd Jun       
+                           On Holbeck Ltd     
+     Calverley YP         East End Park A     
+Lindsey Rosendale   15 Dave Smith          21 
+Carol Matthews      21 Steve Olivant        7 
+Rory Bligh          21 Nigel Rawlings      10 
+Clifford Wheatley   21 Dave Howard         17 
+Paul Haigh          21 Josey Olivant        9 
+Brian Hodgson       21 Paul Reynard        16 
+Roger French        18 Sophie Olivant      21 
+Ricky Kearns        21 Darran Baker        18 
+         Handicap: Scr          Handicap: +20 
+        Aggregate: 159         Aggregate: 139 
+
+     Round of 16            Tue 3rd Jun       
                         On Stanningley Park   
         Colton             Roundhay Pk A      
 James Watkins       15 Andrew Ford         21 
 Mick Galley          8 Andy Sharratt       21 
-Nicholas Ryder      12 Jon Lucas           21 
+Nicholas Ryder      12 John Lucas          21 
 Brian Scholes        9 John Bates          21 
 David Ryder         21 Paul Johnson        19 
 Stuart Birch        12 Martin Lally        21 
@@ -1286,5 +1300,174 @@ Martin Kaitcer      21 Darren Lowe          7
 Geoff West          19 Carl Birkin         21 
          Handicap: +30          Handicap: +30 
         Aggregate: 164         Aggregate: 173 
+
+      Division 1            Tue 10th Jun      
+    Churwell Park            Meanwood A       
+Kath Andrews        21 Michael Gregory     12 
+Steve Briggs        21 Craig Goodall        9 
+Ellen Barraclough   21 Tina Howard         11 
+Mick Harrison       21 Douglas Blair       20 
+Robert Spink        21 Steve Jones         19 
+Graham Goodall      17 Ian Howard          21 
+Martin Huxley       15 Darren Cookson      21 
+Sue Harrison        17 Mickey Rennison     21 
+        Aggregate: 154         Aggregate: 134 
+           Points:  34            Points:  28 
+
+      Division 1            Tue 10th Jun      
+     Rothwell BC            Calverley YP      
+June Johnson        21 Carol Matthews      16 
+John Ainsley        21 Lindsey Rosendale   18 
+Lyn Owen            18 Stephen Spurr       21 
+Katie Turner        21 Rory Bligh           6 
+Ian Smith           21 Brian Hodgson       20 
+Geoff Newbould      12 Paul Haigh          21 
+Ron Owen            21 Ricky Kearns        18 
+Charlotte Holmes    21 Roger French        18 
+        Aggregate: 156         Aggregate: 138 
+           Points:  36            Points:  30 
+
+      Division 1            Tue 10th Jun      
+    Holbeck Ltd A          Roundhay Pk A      
+Paul Hainsworth     20 Andrew Ford         21 
+Kyle Hainsworth     21 Ralph Taylor        15 
+Ian Wardle          15 Jim Bird            21 
+Kian Hendry         21 Andy Sharratt       17 
+James Cuffe         21 Martin Lally         7 
+Alex Perry          21 John Bates           8 
+Lance Greenwood     21 Paul Burke           3 
+Jason Ream          12 Andrew Lloyd        21 
+        Aggregate: 152         Aggregate: 113 
+           Points:  34            Points:  23 
+
+      Division 1            Tue 10th Jun      
+     Saville Park          New Farnley A      
+Mark Hopps          21 Simon Lavan         11 
+Ellis Owen          20 Ian Worrall         21 
+Karen Portman       18 Harry Dixon         21 
+Alfie Hutchinson    21 Ian Lynch           10 
+Gary Haley          10 Andy Thompson       21 
+Steve Portman       15 Andy Gardiner       21 
+Liam Massey         21 Paul Wood            5 
+Richard Johnson     15 Ryan Lynch          21 
+        Aggregate: 141         Aggregate: 131 
+           Points:  31            Points:  30 
+
+      Division 2            Tue 10th Jun      
+     Gildersome A          New Wortley A      
+David Norton        21 Iain Baker          20 
+Alan Procter        21 Andrew Cole          9 
+Beverley Hampshaw   21 Angela Morley       15 
+Graham Gaunt        13 Stephen Morley      21 
+Linda Gaunt         21 Jerry Wood          13 
+Kevin Smales        14 Danny Dawson        21 
+Ian Stocks          20 Stuart Reardon      21 
+Simon Hampshaw      21 Paul Shackleton     16 
+        Aggregate: 152         Aggregate: 136 
+           Points:  33            Points:  28 
+
+      Division 2            Tue 10th Jun      
+   Sth Leeds Cons A          Manston Pk       
+Joe Adams           14 Jonathan Moriaty    21 
+Chloe Grant         21 John Townsend       17 
+Tim Newton          21 Jim Jordan          15 
+Mark Raistrick      20 David Wall          21 
+Michael Gore        21 John Wilson          2 
+Reece Pratt         21 Anthony Marsden     11 
+Monica Adams        15 Michael Monaghan    21 
+Gavin Johns         21 Stephen Jackson      7 
+        Aggregate: 154         Aggregate: 115 
+           Points:  34            Points:  24 
+
+      Division 2            Tue 10th Jun      
+  Chapel Allerton A       Stanningley Park    
+Colin Wilson        21 Andrew Marshall     17 
+Royce Jackson       21 Paul Leonard        11 
+Steven Bottomley    21 Malvin Miller       18 
+Dave Hill           21 Bob Marshall        17 
+Mandy Wilson        21 Craig Clarkson       8 
+Tommy Massey        21 Phil Sutcliffe      11 
+Matthew Watson      21 Alyssa Randell      16 
+David Burke         21 Richard Hodgson     11 
+        Aggregate: 168         Aggregate: 109 
+           Points:  40            Points:  20 
+
+      Division 2            Tue 10th Jun      
+   East End Park A        Crossgates Rec A    
+Dave Smith          21 Maria Durkan        11 
+Dave Howard          8 Dave Sharp          21 
+Matt Ramsey         20 Alan Wood           21 
+Nigel Rawlings       8 Dave Farman         21 
+Josey Olivant       21 Terry Rock          12 
+Paul Reynard        21 Graham Scholes      19 
+Sophie Olivant      21 John Durkan         15 
+Darran Baker        21 Andy Walton          4 
+        Aggregate: 141         Aggregate: 124 
+           Points:  31            Points:  26 
+
+      Division 3            Tue 10th Jun      
+    Pudsey Park A          Middleton Comm     
+Callum Birkin       21 Malcolm Hallas      17 
+Darren Lowe         21 Gordon Monk          4 
+Carl Birkin         21 Mark Aspin          16 
+Elaine Hill          8 Shirley Biancardo   21 
+Frank Lindsay       19 Christine Glyn      21 
+James Drury         21 Karl Chapman        19 
+Dennis Walters      13 Malcolm Cameron     21 
+Barry Wild           5 Mario Biancardo     21 
+        Aggregate: 129         Aggregate: 140 
+           Points:  28            Points:  30 
+
+      Division 3            Tue 10th Jun      
+     Holbeck Moor          Moor Allerton      
+Mick Stott          21 Linda Greenland     14 
+Geoff Warbuton      21 Martin Kaitcer       6 
+Brian Thompson      21 Rodney Cundle       14 
+George Ellener      18 Susan Lee           21 
+Wayne Warburton     21 George Ramsden      11 
+Steve Brown         21 Peter Aves          14 
+John Binns          21 Geoff West          11 
+Pat Parker          13 John Alper          21 
+        Aggregate: 157         Aggregate: 112 
+           Points:  36            Points:  21 
+
+      Division 3            Tue 10th Jun      
+    New Farnley B           Gildersome B      
+Barbara Taylor      20 Kay Stewart         21 
+Keith Skelton       21 Neil Schofield       4 
+Pat Skelton         20 Alison Lockwood     21 
+Roger Milner        21 Barbara Hall        10 
+Jean Milner         21 Tracy Norton        15 
+Graham Davison      11 John Ackroyd        21 
+Bob Taylor          20 Tony Morris         21 
+John Ingham         21 Margaret Johnstone  14 
+        Aggregate: 155         Aggregate: 127 
+           Points:  34            Points:  27 
+
+      Division 3            Tue 10th Jun      
+      Meanwood B           Pudsey Park B      
+David L Miller      16 Maureen Bradshaw    21 
+Jeff Dumbrell        9 Bill Pyett          21 
+Pat Blackburn       17 Stephen Morris      21 
+John King           21 Barbara Nellis       9 
+Ian Macfarlane      13 Jane Hirst          21 
+Jeff Blackburn      21 Maveen Tomlinson    20 
+Oliver Devaney      21 David Turner         5 
+Phil McStay         21 Barbara Moss         9 
+        Aggregate: 139         Aggregate: 127 
+           Points:  29            Points:  27 
+
+      Division 3            Tue 10th Jun      
+     Garforth C C              Colton         
+Steve Barltrop      21 Brian Scholes       20 
+Thomas Cranston     15 Mick Galley         21 
+Helen Dickinson      7 Jack Render         21 
+Ann Doughty         21 Andrew Stocks       18 
+Andrew Grunwell     15 David Clarkson      21 
+Doughty Ian         21 James Watkins        6 
+Phil Lodge          21 David Ryder         10 
+Craig White         21 Nicholas Ryder      20 
+        Aggregate: 142         Aggregate: 137 
+           Points:  32            Points:  30 
 
 

@@ -1,4 +1,4 @@
-=== Leeds & District (Mon. Combined) 2025 (as of Tue 3rd Jun)
+=== Leeds & District (Mon. Combined) 2025 (as of Sun 15th Jun)
 === League Match Cards
 
         Div 1             Mon 21st Apr      
@@ -41,7 +41,7 @@ M Sheerin             Raymond Swallow
           Points:  30           Points:   7 
 
         Div 2             Mon 21st Apr      
-   Chapel Allerton         Meanwood A       
+   Chapel Allerton          Meanwood        
 Steve Bird         21 Oliver Devaney     20 
 Alan Smith         18 Julie Keightley    21 
 Matthew Watson     14 John Hindle        21 
@@ -54,7 +54,7 @@ Susan Thomas          Jenny Holiday
           Points:  20           Points:  28 
 
         Div 2             Mon 21st Apr      
-    New Farnley A         Rothwell BC B     
+     New Farnley          Rothwell BC B     
 Sue Jones          21 Lyn Owen           12 
 Emma Dixon         21 John Hemingway      6 
 Barbara Taylor     15 Ellis Owen         21 
@@ -67,7 +67,7 @@ Steve Nelson          Alfie Hutchinson
           Points:  25           Points:  17 
 
         Div 2             Mon 21st Apr      
-    Scatcherd Pk           Whitkirk b       
+    Scatcherd Pk           Whitkirk B       
 Chris Stuart       16 P Hatch            21 
 Kevin Chadwick     21 Chloe Jackson      11 
 Roy Kellett        21 Andy Johnson       17 
@@ -158,7 +158,7 @@ Andrew Ash            David Miller
           Points:  24           Points:  23 
 
         Div 2             Mon 28th Apr      
-     Meanwood A           New Farnley A     
+      Meanwood             New Farnley      
 Julie Keightley    21 Dave Taylor        20 
 Graham Hey         21 Emma Dixon         14 
 Oliver Devaney     21 Sue Jones          11 
@@ -171,7 +171,7 @@ Wendy Skyes           John Dixon
           Points:  25           Points:  20 
 
         Div 2             Mon 28th Apr      
-     Whitkirk b           Bramley Park      
+     Whitkirk B           Bramley Park      
 Helen Johnson      21 Sean Fish          12 
 Chloe Jackson      21 Shilrley Allman    12 
 Andy Johnson       21 Peter Caine         7 
@@ -223,7 +223,7 @@ M Sheerin             Tracey Norton
           Points:  30           Points:   4 
 
         Div 2              Mon 5th May      
-   Chapel Allerton         Whitkirk b       
+   Chapel Allerton         Whitkirk B       
 Susan Thomas        8 Andy Johnson       21 
 Laurentiu Barbu    15 P Hatch            21 
 Steve Bird         21 Chloe Jackson      19 
@@ -236,7 +236,7 @@ Colin Wilson          G Scholes
           Points:  18           Points:  28 
 
         Div 2              Mon 5th May      
-   Western Flatts          Meanwood A       
+   Western Flatts           Meanwood        
 Peter Colley       13 Jenice Guild       21 
 Dawn Peters        17 John Hindle        21 
 David Turner       17 Julie Keightley    21 
@@ -260,6 +260,19 @@ Brian Fish         13 Karen Portman      21
 Lynn Beaumont         Alfie Hutchinson      
        Aggregate:  99        Aggregate: 112 
           Points:  20           Points:  26 
+
+        Div 2              Mon 5th May      
+    Scatcherd Pk           New Farnley      
+Mark Ellis         21 Sue Jones           8 
+Chris Stuart       21 Emma Dixon          9 
+Jeffrey Holt       21 Barbara Taylor     14 
+Roy Kellett         6 Bob Taylor         21 
+Keith Kincaid      21 Steve Nelson       18 
+Jack Morley           Pat Skelton           
+Terry Dillon       21 John Dixon         13 
+Peter Oldfield        Ron Lavan             
+       Aggregate: 111        Aggregate:  83 
+          Points:  26           Points:  15 
 
         Div 1             Mon 12th May      
      New Wortley           Whitkirk A       
@@ -301,7 +314,7 @@ Shane Rainbow         Jade Kerry
           Points:  28           Points:  18 
 
         Div 2             Mon 12th May      
-    Rothwell BC B          Meanwood A       
+    Rothwell BC B           Meanwood        
 John Ainsley       10 Ian Macfarlane     21 
 Nigel Richardson    7 Graham Hey         21 
 Carl Mahon         21 Paul Dishman       20 
@@ -314,7 +327,7 @@ John Hemingway        Julie Keightley
           Points:  20           Points:  24 
 
         Div 2             Mon 12th May      
-    New Farnley A         Bramley Park      
+     New Farnley          Bramley Park      
 Sue Jones          21 Keith Davison       8 
 Emma Dixon         20 Peter Caine        21 
 Barbara Taylor     21 Sean Fish          17 
@@ -340,7 +353,7 @@ Wendy Leybourne       Steve Bird
           Points:  26           Points:  17 
 
         Div 2             Mon 12th May      
-     Whitkirk b          Western Flatts     
+     Whitkirk B          Western Flatts     
 Chloe Jackson      21 Andrew Ash          5 
 Phil Cox           21 Glennys Ash        10 
 Jack Williamson    21 Granville Stoyles  12 
@@ -378,6 +391,7 @@ Stuart Reardon     21 Michael Knaggs      7
 Marie Tate            Steve Bird            
         Handicap: Scr         Handicap: +10 
        Aggregate: 114        Aggregate:  99 
+  Result Overridden                         
 
      Round of 16          Mon 19th May      
                        On Chapel Allerton   
@@ -392,6 +406,7 @@ Alfie Hutchinson    9 Lynn Wilcox        21
 Karen Portman         Rachel Wilcox         
         Handicap: +10         Handicap: Scr 
        Aggregate:  80        Aggregate: 126 
+  Result Overridden                         
 
      Round of 16          Mon 19th May      
                           On Gildersome     
@@ -406,10 +421,11 @@ Maveen Tomlinson   21 Jeff Allman        15
 Peter Colley          Shilrley Allman       
         Handicap: +10         Handicap: +10 
        Aggregate: 135        Aggregate:  89 
+  Result Overridden                         
 
      Round of 16          Mon 19th May      
                          On Rothwell BC     
-    New Farnley A          Meanwood A       
+     New Farnley            Meanwood        
 Simon Lavan         6 Oliver Devaney     21 
 Emma Dixon          9 Graham Hey         21 
 Dave Taylor        18 John Hindle        21 
@@ -420,6 +436,7 @@ John Dixon         15 Wendy Skyes        21
 Ron Lavan             Jenny Holiday         
         Handicap: +10         Handicap: +10 
        Aggregate:  88        Aggregate: 136 
+  Result Overridden                         
 
      Round of 16          Mon 19th May      
                         On Western Flatts   
@@ -434,6 +451,7 @@ Jim Smith          21 *No Player*         0
 S Cahill              ----------            
         Handicap: Scr         Handicap: +10 
        Aggregate: 126        Aggregate:  52 
+  Result Overridden                         
 
         Div 1             Mon 26th May      
     Rothwell BC A          New Wortley      
@@ -456,15 +474,15 @@ Raymond Swallow    21 David Taylor       15
 Sharon Kerry        7 Alan Procter       21 
 Laura Love         21 Bev Farrar          9 
 Shane Smith           Alison Lockwood       
-Jade Kerry         19 Linda Gaunt        21 
-Peter Simmons         Tracey Norton         
+Peter Simmons      19 Tracey Norton      21 
+Jade Kerry            Linda Gaunt           
        Aggregate: 110        Aggregate:  77 
           Points:  25           Points:  16 
 
         Div 2             Mon 26th May      
-   Chapel Allerton        New Farnley A     
+   Chapel Allerton         New Farnley      
 David Miller       21 Emma Dixon         14 
-Conner Newton       2 Dave Taylor        21 
+Connor Newton       2 Dave Taylor        21 
 Steve Bird         10 Harry Dixon        21 
 Ronak Singh        21 Sue Jones          10 
 Laurentiu Barbu    21 Steve Nelson       12 
@@ -488,7 +506,7 @@ Andrew Ash            Trevor Hawkin
           Points:  27           Points:  14 
 
         Div 2             Mon 26th May      
-     Meanwood A            Whitkirk b       
+      Meanwood             Whitkirk B       
 Jenice Guild       11 Chloe Jackson      21 
 Jenny Holiday      17 P Hatch            21 
 John Hindle        21 Hannah Risley      11 
@@ -513,19 +531,6 @@ Terry Astley          Roy Kellett
        Aggregate: 100        Aggregate: 106 
           Points:  22           Points:  22 
 
-        Div 2             Fri 30th May      
-    Scatcherd Pk          New Farnley A     
-Mark Ellis         21 Sue Jones           8 
-Chris Stuart       21 Emma Dixon          9 
-Jeffrey Holt       21 Barbara Taylor     14 
-Roy Kellett         6 Bob Taylor         21 
-Keith Kincaid      21 Steve Nelson       18 
-Jack Morley           Pat Skelton           
-Terry Dillon       21 John Dixon         13 
-Peter Oldfield        Ron Lavan             
-       Aggregate: 111        Aggregate:  83 
-          Points:  26           Points:  15 
-
         Div 1              Mon 2nd Jun      
      Gildersome           Garforth C C      
 David Rawson       17 David Horsey       21 
@@ -541,14 +546,14 @@ Tracey Norton         Stuart Cranston
 
         Div 1              Mon 2nd Jun      
      New Wortley            Harehills       
+Angela Morley      21 David Smith        12 
 Keith Sellars      20 Alan McConnell     21 
 Stephen Morley     21 Sharon Kerry        3 
-Angela Morley      21 David Smith        12 
 Malcolm Crowson    17 Laura Love         21 
 Danny Dawson       21 Steven Dolan       15 
 Trevor Dawson         Raymond Swallow       
-Marie Tate         20 Peter Simmons      21 
-Stuart Reardon        Jade Kerry            
+Stuart Reardon     20 Peter Simmons      21 
+Marie Tate            Jade Kerry            
        Aggregate: 120        Aggregate:  93 
           Points:  26           Points:  20 
 
@@ -566,7 +571,7 @@ M Sheerin             Rachel Wilcox
           Points:  23           Points:  18 
 
         Div 2              Mon 2nd Jun      
-    New Farnley A        Western Flatts     
+     New Farnley         Western Flatts     
 Sue Jones          21 Gordon Stalker     11 
 Emma Dixon         20 Hazel Goodall      21 
 Barbara Taylor     20 Granville Stoyles  21 
@@ -579,7 +584,7 @@ Pat Skelton           Andrew Ash
           Points:  27           Points:  20 
 
         Div 2              Mon 2nd Jun      
-    Scatcherd Pk           Meanwood A       
+    Scatcherd Pk            Meanwood        
 Peter Oldfield     21 Ian Macfarlane     19 
 Chris Stuart       21 Jenny Holiday       8 
 Jack Morley        21 Wendy Skyes         9 
@@ -598,10 +603,101 @@ Shilrley Allman    21 Tom Massey Jr       6
 Barry Palmer       21 Ronak Singh         9 
 Sean Fish          17 Matthew Watson     21 
 Jeff Allman        13 Ian McMillan       21 
-Brian Fish            Conner Newton         
+Brian Fish            Connor Newton         
 Bob Davison        21 Anne Miller        15 
 Terry Astley          Laurentiu Barbu       
        Aggregate: 114        Aggregate:  84 
           Points:  25           Points:  17 
+
+        Div 1              Mon 9th Jun      
+    Garforth C C           New Wortley      
+Ian Doughty        21 Trevor Dawson      18 
+Andrew Grunwell     8 Angela Morley      21 
+David Horsey       13 Stephen Morley     21 
+Neil Robinson      21 Malcolm Crowson    11 
+Phil Lodge         21 Keith Sellars      11 
+Joe Doughty           Marie Tate            
+Steve Barltrop     14 Danny Dawson       21 
+Thomas Cranston       Valerie Dawson        
+       Aggregate:  98        Aggregate: 103 
+          Points:  20           Points:  23 
+
+        Div 1              Mon 9th Jun      
+      Harehills           Crossgates BC     
+David Smith        20 Peter Wilcox       21 
+Steven Dolan        6 Luke Bellamy       21 
+Laura Love          9 Natalie Sanderson  21 
+David Tinker       20 Mark Taylor        21 
+Jade Kerry          6 Louie Taylor       21 
+Sharon Kerry          Tom Smith             
+Raymond Swallow    21 Lynn Wilcox         9 
+Peter Simmons         Rachel Wilcox         
+       Aggregate:  82        Aggregate: 114 
+          Points:  16           Points:  26 
+
+        Div 1              Mon 9th Jun      
+    Rothwell BC A          Gildersome       
+Andrew Limbert     21 Barbara Hall        2 
+John Wyard         21 Frank Hales         9 
+Mick Goodhall      21 David Taylor       14 
+Geoff Newbould     21 Alan Procter       18 
+Gary Dennison      21 David Norton       20 
+Nicola Pearson        Andy Lockwood         
+Charlotte Holmes   21 Linda Gaunt         1 
+Georgina Holmes       Tracey Norton         
+       Aggregate: 126        Aggregate:  64 
+          Points:  30           Points:  11 
+
+        Div 2              Mon 9th Jun      
+   Western Flatts         Scatcherd Pk      
+Dot Taylor         18 Jack Morley        21 
+Gordon Stalker     20 Roy Kellett        21 
+Dawn Peters        13 Peter Oldfield     21 
+Granville Stoyles  10 Keith Kincaid      21 
+Maveen Tomlinson   21 Richard Stott      13 
+Peter Colley          Wendy Leybourne       
+Joanna Rochester   16 Elliot Beddard     21 
+Andrew Ash            Les Cheney            
+       Aggregate:  98        Aggregate: 118 
+          Points:  20           Points:  27 
+
+        Div 2              Mon 9th Jun      
+      Meanwood            Bramley Park      
+Jenny Holiday      21 Brian Fish          7 
+Jeff Drumbell      21 Andy Best          18 
+John Hindle        16 Barry Palmer       21 
+Jenice Guild       21 Joe Fish            3 
+Maureen Sheridan   18 Shilrley Allman    21 
+Julie Keightley       Jeff Allman           
+Wendy Skyes        21 Terry Astley        8 
+John King             Sean Fish             
+       Aggregate: 118        Aggregate:  78 
+          Points:  27           Points:  16 
+
+        Div 2              Mon 9th Jun      
+   Chapel Allerton        Rothwell BC B     
+Connor Newton      16 Lyn Owen           21 
+Ronak Singh        21 Robert Leighton    19 
+Michael Knaggs     21 *No Player*         0 
+Matthew Watson     21 Nigel Richardson    5 
+Laurentiu Barbu    10 Karen Portman      21 
+Ian McMillan          Alfie Hutchinson      
+David Miller       21 Ron Owen           16 
+Steve Bird            Mick Bagshaw          
+       Aggregate: 110        Aggregate:  82 
+          Points:  25           Points:  18 
+
+        Div 2              Mon 9th Jun      
+     Whitkirk B            New Farnley      
+Chloe Jackson      21 Emma Dixon         15 
+Jim Smith          21 Sue Jones           4 
+Andy Johnson       21 Bob Taylor         15 
+P Hatch            21 John Ingham        20 
+S Ellis            16 John Dixon         21 
+P Hardy               Barbara Taylor        
+Helen Johnson      21 Dave Taylor        17 
+Thomas Johnson        Pat Skelton           
+       Aggregate: 121        Aggregate:  92 
+          Points:  28           Points:  18 
 
 

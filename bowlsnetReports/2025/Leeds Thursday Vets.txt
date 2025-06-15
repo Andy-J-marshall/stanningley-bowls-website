@@ -1,4 +1,4 @@
-=== Leeds & District (Thursday Over 55s) 2025 (as of Tue 3rd Jun)
+=== Leeds & District (Thursday Over 55s) 2025 (as of Sun 15th Jun)
 === League Match Cards
 
      Division 1           Thu 17th Apr      
@@ -54,7 +54,7 @@ Peter Wild         15 Trevor Sackett     21
           Points:  29           Points:  33 
 
      Division 2           Thu 17th Apr      
-    Bramley Park         Scatcherd Pk A     
+    Bramley Park          Scatcherd Pk      
 Keith Davison      11 Jeff Holt          21 
 Peter Caine        21 Carol Middleton    13 
 John McDermott     21 Sandra Foster       8 
@@ -106,8 +106,8 @@ Stuart Reardon     21 Malcolm Cameron     9
           Points:  29           Points:  24 
 
      Division 1           Thu 24th Apr      
- Stanningley Park A        Burley Prk       
-Dave Eaton         21 Jeff Fryer          7 
+  Stanningley Park         Burley Prk       
+David Eaton        21 Jeff Fryer          7 
 Colin Haque        21 Malcolm Dacre      11 
 Donald Shaw        21 Pauline Stockdale  18 
 Malvin Miller      20 John Gilroy        21 
@@ -119,7 +119,7 @@ Cliff Brogie       21 Steve Pickersgill  16
           Points:  36           Points:  26 
 
      Division 2           Thu 24th Apr      
-   Scatcherd Pk A          New Armley       
+    Scatcherd Pk           New Armley       
 Carol Middleton    15 Gordon Sadler      21 
 Sandra Foster       7 Carol Robinson     21 
 Ken McRae          17 Carol Butters      21 
@@ -158,7 +158,7 @@ Margaret McPhail   21 Barbara Nellis      6
           Points:  38           Points:  14 
 
      Division 1            Thu 1st May      
- Middleton Community   Stanningley Park A   
+ Middleton Community    Stanningley Park    
 Terry Maher        21 Donald Shaw        13 
 Brian Ragan        21 Tracey Marshall    19 
 Neil Hudson        21 Ken Green           8 
@@ -223,7 +223,7 @@ David Hurd         18 Jeff Allman        21
           Points:  35           Points:  22 
 
      Division 2            Thu 1st May      
-   West Royd Park        Scatcherd Pk A     
+   West Royd Park         Scatcherd Pk      
 Colin Pontefract    6 Glenn Parkinson    21 
 Chris Eccleshall   13 Ken McRae          21 
 Jeff Linley        13 Keith Kincaid      21 
@@ -249,7 +249,7 @@ Brian Stevens      13 Stuart Reardon     21
           Points:  31           Points:  26 
 
      Division 1            Thu 8th May      
- Stanningley Park A        Cranmore BC      
+  Stanningley Park         Cranmore BC      
 Phil Sutcliffe      6 Barry Baldwin      21 
 Donald Shaw        10 John Harvey        21 
 Bob Marshall       19 Marvin Stafford    21 
@@ -262,7 +262,7 @@ Colin Haque        21 Don Chadwick       16
           Points:  32           Points:  27 
 
      Division 2            Thu 8th May      
-   Scatcherd Pk A        Western Flatts     
+    Scatcherd Pk         Western Flatts     
 Keith Kincaid      14 Mary Horrocks      21 
 Carol Middleton    21 Gordan Stalker      8 
 Gary Austerfield   10 Glynis Ash         21 
@@ -302,8 +302,8 @@ David Hurd         20 Richard Tatum      21
 
      Qtr-Finals           Thu 15th May      
                          On New Wortley     
- Stanningley Park A        Burley Prk       
-Dave Eaton          9 Mark McCann        21 
+  Stanningley Park         Burley Prk       
+David Eaton         9 Mark McCann        21 
 Donald Shaw        11 Pat Dacre          21 
 Alison Woodfine    21 Malcolm Dacre      14 
 Colin Haque         3 Tommy Parr         21 
@@ -340,17 +340,9 @@ Jeff Higgins       17 Neil Hudson        21
        Aggregate:  95        Aggregate: 168 
 
      Qtr-Finals           Thu 15th May      
-                       On Gildersome B.C.   
        [FREE]             Bramley Park      
-*Withdrawn*        21 Kevin Morley       18 
-*Withdrawn*        21 Jeff Allman        12 
-*Withdrawn*        21 Peter Caine         7 
-*No Player*         0 John McDermott     21 
-*No Player*         0 Anthony Caywood    21 
-*Withdrawn*        16 Brian Fish         21 
-*Withdrawn*        21 Keith Davison       6 
-*Withdrawn*        15 Bob Davison        21 
        Aggregate: 115        Aggregate: 127 
+    Manual Result                           
 
      Qtr-Finals           Thu 15th May      
                          On Armley Park     
@@ -367,7 +359,7 @@ Allan Blue         16 Richard Tatum      21
 
      Qtr-Finals           Thu 15th May      
                        On Cross Flatts Pk   
-   Scatcherd Pk A          New Armley       
+    Scatcherd Pk           New Armley       
 Jeff Holt          21 Fred Hargreaves     7 
 Marilyn Robinson   21 Carol Butters      16 
 Roy Kellett        13 Carol Robinson     21 
@@ -418,7 +410,7 @@ Jeff Higgins       20 Graham Gaunt       21
           Points:  27           Points:  37 
 
      Division 1           Thu 22nd May      
-     New Wortley       Stanningley Park A   
+     New Wortley        Stanningley Park    
 Valerie Dawson      6 Cliff Brogie       21 
 Malcolm Crowson    21 Alison Woodfine     8 
 Angela Morley      21 Malvin Miller      12 
@@ -431,7 +423,7 @@ Stuart Reardon     21 Phil Sutcliffe      8
           Points:  31           Points:  22 
 
      Division 2           Thu 22nd May      
-    Pudsey Park B        Scatcherd Pk A     
+    Pudsey Park B         Scatcherd Pk      
 Kathleen Vince     20 Marilyn Robinson   21 
 Barry Wild         16 Glenn Parkinson    21 
 Barbara Moss       21 John Rowberry      17 
@@ -483,7 +475,7 @@ David Turner       20 Jeff Higgins       21
           Points:  31           Points:  27 
 
      Division 1           Thu 29th May      
-     Gildersome        Stanningley Park A   
+     Gildersome         Stanningley Park    
 Simon Hampshaw     21 Ken Green          15 
 David Taylor       21 Tracey Marshall     7 
 Frank Hales        18 Alison Woodfine    21 
@@ -496,7 +488,7 @@ Linda Gaunt        19 Stuart Potter      21
           Points:  30           Points:  30 
 
      Division 2           Thu 29th May      
-   Scatcherd Pk A        Middleton Park     
+    Scatcherd Pk         Middleton Park     
 Peter Oldfield     21 John Goode          8 
 Roy Kellett        17 Allan Blue         21 
 John Rowberry      14 Philip Rowe        21 
@@ -533,5 +525,148 @@ Chris Swales       21 Michael Hirst      19
 Richard Tatum      18 Derek Howell       21 
        Aggregate: 127        Aggregate: 143 
           Points:  26           Points:  32 
+
+     Division 1            Thu 5th Jun      
+  Stanningley Park        Pudsey Park A     
+Colin Haque        10 Brian Stevens      21 
+Donald Shaw        11 Elaine Hill        21 
+Steve Sheldon       8 David Turner       21 
+Alison Woodfine    21 Peter Colley        8 
+Phil Sutcliffe     17 Frank Lindsay      21 
+Bob Marshall       21 Bill Pyett         12 
+Malvin Miller      21 Maveen Tomlinson    4 
+Cliff Brogie       21 Dennis Walters     18 
+       Aggregate: 130        Aggregate: 126 
+          Points:  28           Points:  27 
+
+     Division 1            Thu 5th Jun      
+     Cranmore BC           Burley Prk       
+Don Chadwick       13 Tommy Parr         21 
+Marvin Stafford    19 Mark McCann        21 
+John Harvey        19 John Gilroy        21 
+Monica Buckroyd    12 Pat Dacre          21 
+Peter Griffin      21 Malcolm Dacre      10 
+Deborah Stafford   21 Barry Palmer       18 
+Peter Nicholson    20 Pauline Stockdale  21 
+Paul Griffiths     21 Jeff Fryer         10 
+       Aggregate: 146        Aggregate: 143 
+          Points:  31           Points:  33 
+
+     Division 2            Thu 5th Jun      
+   Middleton Park         Bramley Park      
+*No Player*         0 Anthony Caywood    21 
+Matt Ramsey        21 Keith Davison      10 
+Patricia Rowe       4 Shirley Allman     21 
+Valerie Darwin     21 John McDermott     18 
+John Goode         16 Bob Davison        21 
+Philip Rowe        21 Terry Astley       15 
+Allan Blue          9 Brian Fish         21 
+Ian Dickinson      13 Jeff Allman        21 
+       Aggregate: 105        Aggregate: 148 
+          Points:  21           Points:  34 
+
+     Division 2            Thu 5th Jun      
+   Western Flatts        West Royd Park     
+Shirley Barker     21 Keith Corp          5 
+Anne Lucas         21 Les Spencer         8 
+Gordan Stalker     21 Joan Coop          16 
+Mary Horrocks      18 Pam Wilson         21 
+Margaret McPhail   20 Richard Tatum      21 
+Stewart Wardlow    21 Jan McGuiness       3 
+Geoff Clark        21 Chris Swales       14 
+Hazel Goodall      21 Howard Gothard     20 
+       Aggregate: 164        Aggregate: 108 
+          Points:  38           Points:  21 
+
+     Division 2            Thu 5th Jun      
+    Pudsey Park B          New Armley       
+Peter Wild         21 Josie M Burdon      7 
+Barbara Nellis     12 Richard Stephen    21 
+Robert Fountain    21 Carol Butters      17 
+Maureen Bradshaw   21 Carol Robinson     11 
+Derek Howell       12 Glynn Barrett      21 
+Stephen Morris     21 Fred Hargreaves    19 
+David Milner       18 Ken Stockhill      21 
+Barbara Moss       10 David Hurd         21 
+       Aggregate: 136        Aggregate: 138 
+          Points:  30           Points:  30 
+
+     Division 1           Thu 12th Jun      
+     New Wortley           Gildersome       
+Stephen Morley     21 Frank Hales        11 
+Paul Shackleton    21 Tony Morris        13 
+Angela Morley      21 Sandra Deegan       7 
+Malcolm Crowson    21 Graham Gaunt       17 
+Keith Sellars      21 David Holmes       15 
+Neil Porter        15 Linda Gaunt        21 
+Trevor Dawson      18 David Norton       21 
+Stuart Reardon     21 Kevin Smales        8 
+       Aggregate: 159        Aggregate: 113 
+          Points:  37           Points:  22 
+
+     Division 1           Thu 12th Jun      
+    Pudsey Park A          Burley Prk       
+Bill Pyett         20 Jeff Fryer         21 
+Maveen Tomlinson   21 Mark McCann        19 
+Frank Lindsay       7 Pat Dacre          21 
+Elaine Hill        21 Malcolm Dacre       6 
+Dennis Walters     21 Barry Palmer       12 
+Janet Pearson      21 Pauline Stockdale  14 
+Peter Colley       10 John Gilroy        21 
+David Turner        8 Tommy Parr         21 
+       Aggregate: 129        Aggregate: 135 
+          Points:  28           Points:  29 
+
+     Division 1           Thu 12th Jun      
+     Cranmore BC       Middleton Community  
+Peter Griffin      21 Terry Maher        18 
+John Harvey        17 Sue Harrison       21 
+Barry Baldwin      13 Shirley Biancardo  21 
+Marvin Stafford    21 Christine Glynne   11 
+Peter Nicholson    21 Malcolm Cameron     9 
+Deborah Stafford    5 Mick Harrison      21 
+Paul Griffiths     13 Malcolm Hallas     21 
+Jeff Higgins        5 Mario Biancardo    21 
+       Aggregate: 116        Aggregate: 143 
+          Points:  24           Points:  32 
+
+     Division 2           Thu 12th Jun      
+    Scatcherd Pk          Bramley Park      
+Carol Middleton    21 Anthony Caywood     2 
+Michael Geary      21 Andy Best          12 
+Terry Dillon       21 Terry Astley        7 
+Marilyn Robinson   18 Peter Caine        21 
+Glenn Parkinson    18 John McDermott     21 
+Roy Kellett        21 Kevin Morley        6 
+Keith Kincaid      21 Brian Fish         12 
+Ken McRae          12 Jeff Allman        21 
+       Aggregate: 153        Aggregate: 102 
+          Points:  35           Points:  21 
+
+     Division 2           Thu 12th Jun      
+   Western Flatts          New Armley       
+Granville Stoyles  21 David Hurd         20 
+Stewart Wardlow     9 Ken Stockhill      21 
+Margaret McPhail   21 Glynn Barrett      10 
+Mary Horrocks      21 Richard Stephen    12 
+Gordan Stalker     21 David Anker        14 
+Anne Lucas         21 Carol Butters      12 
+Geoff Clark        21 Carol Robinson     16 
+Glynis Ash         21 Josie M Burdon     18 
+       Aggregate: 156        Aggregate: 123 
+          Points:  36           Points:  24 
+
+     Division 2           Thu 12th Jun      
+   Middleton Park         Pudsey Park B     
+Trevor Sackett     12 Barry Wild         21 
+Allan Blue         21 Robert Fountain     4 
+Philip Rowe        13 David Milner       21 
+John Goode         18 Maureen Bradshaw   21 
+Valerie Darwin     21 Barbara Moss       19 
+Matt Ramsey        21 Stephen Morris     14 
+Janice Dickinson    3 Peter Wild         21 
+Ian Dickinson      21 Barbara Nellis      8 
+       Aggregate: 130        Aggregate: 129 
+          Points:  28           Points:  27 
 
 

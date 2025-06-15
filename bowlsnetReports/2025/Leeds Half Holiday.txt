@@ -1,4 +1,4 @@
-=== Leeds & District (Half Holiday) 2025 (as of Tue 3rd Jun)
+=== Leeds & District (Half Holiday) 2025 (as of Sun 15th Jun)
 === League Match Cards
 
         Div 1              Wed 2nd Apr       
@@ -18,7 +18,7 @@ Jimmy Swailes      21 Jeff Blackburn      16
 Neil Porter        17 Ian Howard          21 
 Steve Gardner       7 Chris Daysh         21 
 Stuart Reardon     13 Mick Gregory        21 
-Dave Eaton         13 Karen Portman       21 
+David Eaton        13 Karen Portman       21 
 Andy Waller        13 Tina Howard         21 
        Aggregate:  84         Aggregate: 121 
           Points:  15            Points:  28 
@@ -80,7 +80,7 @@ Ian Macfarlaine    14 Ian McMillin        21
 
         Div 3              Wed 2nd Apr       
   Middleton Comm A           Methley         
-Gordon Monk        21 Pam Jukes            9 
+Gordon Monk        21 David Taylor         9 
 Brian Ragan        21 Maggie Boyes         6 
 Neil Hudson         7 Amanda Roberts      21 
 Malcolm Hallas     21 Jeff Baggaley       15 
@@ -107,7 +107,7 @@ Chloe Grant        10 James Lancaster     21
 Janet Stockdale    21 Jenny Mullins       11 
 Neville Salmon     21 Hannah Risley       16 
 Malcolm Collinson  14 Tony Bond           21 
-Alan Goodall       21 Martin Costello     19 
+Alan Goodhall      21 Martin Costello     19 
        Aggregate: 108         Aggregate: 102 
           Points:  24            Points:  21 
 
@@ -167,7 +167,7 @@ Paul Shafar        21 Graham Scholes      16
           Points:  22            Points:  23 
 
         Div 1              Wed 9th Apr       
-    Rothwell BC A         Cross Flatts A     
+    Rothwell BC A          Cross Flatts      
 John Whiteley      21 Stephanie Wood       6 
 John Wyard          4 Mario Biancardo     21 
 Thomas Kaye        21 Paul Hatch          18 
@@ -179,7 +179,7 @@ Gareth Gidman      21 Ian Wood             9
 
         Div 1              Wed 9th Apr       
    Meanwood Park A        Rothwell BC B      
-Chris Daysh        21 Lynne Best          12 
+Chris Daysh        21 Lyn Best            12 
 Jeff Blackburn     21 John Ainsley        17 
 Phil McStay        21 Lyn Owen             9 
 Ian Howard         21 Ron Owen             5 
@@ -261,7 +261,7 @@ Diane Gomersal     21 Barbara Wherrett     9
 Michael Mason      21 Janet Stockdale     14 
 David Wilson       21 Malcolm Collinson   20 
 Tim Wilson         21 Neville Salmon      10 
-Karl Dutton        21 Alan Goodall         9 
+Karl Dutton        21 Alan Goodhall        9 
        Aggregate: 126         Aggregate:  77 
           Points:  30            Points:  13 
 
@@ -322,9 +322,9 @@ Michael Stott      21 Gareth Gidman       11
 
         Div 1              Wed 16th Apr      
     Rothwell BC B        Stanningley Park    
-Lynne Best         21 Malcolm Crowson      8 
+Lyn Best           21 Malcolm Crowson      8 
 Ron Owen           21 Paul Leonard        13 
-Katie Turner       21 Dave Eaton          12 
+Katie Turner       21 David Eaton         12 
 Peter Burrows      21 Andy Waller          9 
 Mark Hopps         15 Neil Porter         21 
 Lyn Owen            7 Jimmy Swailes       21 
@@ -332,7 +332,7 @@ Lyn Owen            7 Jimmy Swailes       21
           Points:  24            Points:  16 
 
         Div 1              Wed 16th Apr      
-   Cross Flatts A        Meanwood Park A     
+    Cross Flatts         Meanwood Park A     
 Shirley Biancardo  21 Ian Howard          17 
 John Lister        15 Karen Portman       21 
 Jim Bootland        6 Mick Gregory        21 
@@ -415,7 +415,7 @@ Chloe Grant        13 Rodney Cundle       21
 Janet Stockdale    13 Ian Lee             21 
 Mal Stockdale      11 Ian Franklin        21 
 Neville Salmon     21 George Ramsden      15 
-Alan Goodall       21 Martin Kaitcer      14 
+Alan Goodhall      21 Martin Kaitcer      14 
        Aggregate:  95         Aggregate: 113 
           Points:  19            Points:  25 
 
@@ -477,7 +477,7 @@ Barry Wild          7 Brian Fish          21
         Div 1              Wed 23rd Apr      
   Stanningley Park        Whitkirk BC A      
 Stuart Reardon     21 Mike Carroll        15 
-Dave Eaton         13 Phil Cox            21 
+David Eaton        13 Phil Cox            21 
 Stuart Potter      12 Graham Hodder       21 
 Steve Gardner      21 Graham Scholes       3 
 Jimmy Swailes      16 Phil Hill           21 
@@ -656,20 +656,20 @@ Geoff West         13 Jeff Blackburn      21
 Phil Hill          21 Geoff Newbould       4 
 Tony Green         21 Mark Hopps          13 
 Barry Tobin        20 Lyn Owen            21 
-Paul Hardy         21 Lynne Best           9 
+Paul Hardy         21 Lyn Best             9 
 Graham Scholes     19 Peter Burrows       21 
 Philip Hatch       21 Ron Owen            11 
        Aggregate: 123         Aggregate:  79 
           Points:  28            Points:  15 
 
         Div 1              Wed 7th May       
-   Cross Flatts A        Stanningley Park    
-Shirley Biancardo  17 Dave Eaton          21 
-Jim Bootland       21 Jimmy Swailes       20 
+    Cross Flatts         Stanningley Park    
 Jason Potter       21 Neil Porter         10 
-Paul Hatch         21 Malcolm Crowson     16 
-Mario Biancardo    21 Andy Waller         12 
 Ian Wood           21 Paul Leonard        19 
+Paul Hatch         21 Malcolm Crowson     16 
+Shirley Biancardo  17 David Eaton         21 
+Jim Bootland       21 Jimmy Swailes       20 
+Mario Biancardo    21 Andy Waller         12 
        Aggregate: 122         Aggregate:  98 
           Points:  28            Points:  20 
 
@@ -796,11 +796,11 @@ Dave Hurd          21 Trevor Dawson       20
 
         Div 1              Wed 14th May      
   Stanningley Park        Rothwell BC A      
-Steve Gardner      13 Alan Box            21 
 Andy Waller        14 Thomas Kaye         21 
 Malcolm Crowson    14 Peter Linley        21 
-Dave Eaton          9 June Johnson        21 
 Alyssa Randell     16 Geoff Newbould      21 
+David Eaton         9 June Johnson        21 
+Steve Gardner      13 Alan Box            21 
 Neil Porter        17 David Kaye          21 
        Aggregate:  83         Aggregate: 126 
           Points:  13            Points:  30 
@@ -812,12 +812,12 @@ Katie Turner       21 Hilary Campbell      7
 Peter Burrows      21 John Binns          13 
 Ron Owen           19 Steve Brown         21 
 Lyn Owen           16 Steve Milton        21 
-Lynne Best         11 Brian Thompson      21 
+Lyn Best           11 Brian Thompson      21 
        Aggregate: 109         Aggregate:  89 
           Points:  24            Points:  19 
 
         Div 1              Wed 14th May      
-    Whitkirk BC A         Cross Flatts A     
+    Whitkirk BC A          Cross Flatts      
 Tony Green         21 Jim Bootland        17 
 Paul Hardy         21 Shirley Biancardo   11 
 Phil Cox           21 Ian Wood             8 
@@ -888,7 +888,7 @@ Patrick Toher       9 Barbara Ragan       21
 Chloe Grant        13 Gordon Monk         21 
 Janet Stockdale    21 Neil Hudson         11 
 David Kellett       4 Malcolm Hallas      21 
-Alan Goodall       21 Brian Ragan         16 
+Alan Goodhall      21 Brian Ragan         16 
 Mal Stockdale      21 Christine Glynn     17 
        Aggregate:  89         Aggregate: 107 
           Points:  18            Points:  23 
@@ -961,12 +961,12 @@ Steve Milton       14 Paul Hardy          21
 
         Div 1              Wed 21st May      
    Moor Allerton A       Stanningley Park    
-Keith Harbage      21 Neil Porter         16 
-Richard Mansell    11 Dave Eaton          21 
-Martin Kaitcer     21 Jimmy Swailes       20 
+John Alper         21 Stuart Reardon      17 
 Paul Shafar        21 Malcolm Crowson     17 
 Geoff West         14 Andy Waller         21 
-John Alper         21 Stuart Reardon      17 
+Richard Mansell    11 David Eaton         21 
+Keith Harbage      21 Neil Porter         16 
+Martin Kaitcer     21 Jimmy Swailes       20 
        Aggregate: 109         Aggregate: 112 
           Points:  24            Points:  23 
 
@@ -982,11 +982,11 @@ Thomas Kaye        16 Ian Howard          21
           Points:  28            Points:  13 
 
         Div 1              Wed 21st May      
-   Cross Flatts A         Rothwell BC B      
+    Cross Flatts          Rothwell BC B      
 Stacey Turner       5 Peter Burrows       21 
 Ian Wood           21 Brian Burrows        9 
 John Lister        21 Lyn Owen            17 
-Mario Biancardo    21 Lynne Best           8 
+Mario Biancardo    21 Lyn Best             8 
 Shirley Biancardo  20 Mark Hopps          21 
 Paul Hatch         21 Ron Owen             9 
        Aggregate: 109         Aggregate:  85 
@@ -1049,11 +1049,11 @@ Roger Boyes        14 Mike Gould          21
 
         Div 3              Wed 21st May      
      Burley Park          Rothwell Park      
+Malcolm Dacre      21 Martin Atkinson     16 
+Mark McCann        21 Diane Gomersal      17 
 Jeff Fryer         12 David Wilson        21 
 Michael Howsham    21 Michael Mason       17 
 Jordan Henderson   21 Tim Wilson          19 
-Malcolm Dacre      21 Martin Atkinson     16 
-Mark McCann        21 Diane Gomersal      17 
 John Gilroy         7 Karl Dutton         21 
        Aggregate: 103         Aggregate: 111 
           Points:  23            Points:  23 
@@ -1064,7 +1064,7 @@ David Miller       21 Patrick Toher       15
 Valerie Bush       14 Chloe Grant         21 
 Frank Powell       19 Janet Stockdale     21 
 Alan Smith         21 Malcolm Collinson   19 
-David Curland      21 Alan Goodall        19 
+David Curland      21 Alan Goodhall       19 
 Dennis Cole         9 Mal Stockdale       21 
        Aggregate: 105         Aggregate: 116 
           Points:  22            Points:  26 
@@ -1126,7 +1126,7 @@ John West          21 Michael Howsham     15
        Aggregate: 120         Aggregate: 109 
 
      Round of 32           Wed 28th May      
-                          On Cranmore 1      
+                          On New Wortley     
     Grove Road B          Rothwell BC B      
 Lyn Carr            2 Peter Burrows       21 
 Bev Shillito       13 Katie Turner        21 
@@ -1144,7 +1144,7 @@ Barry Tobin        21 Patrick Toher       20
 Tony Green         21 Arthur Horne         5 
 Graham Hodder      21 Janet Stockdale      6 
 Phil Cox           21 David Kellett        2 
-Phil Hill          21 Alan Goodall        11 
+Phil Hill          21 Alan Goodhall       11 
 Graham Scholes     21 Mal Stockdale       17 
         Handicap: Scr          Handicap: +20 
        Aggregate: 126         Aggregate:  81 
@@ -1158,8 +1158,7 @@ Paul Simms         21 Jack Morley         20
 Dave Howard        21 John Rowberry       12 
 Richard Howlett    17 Wendy Leybourne     21 
 Helen Simms        17 Chris Roy Stuart    21 
-        Handicap: +30          Handicap: +30 
-       Aggregate: 132         Aggregate: 144 
+       Aggregate: 102         Aggregate: 114 
 
      Round of 32           Wed 28th May      
                          On Churwell Park    
@@ -1172,6 +1171,7 @@ Tim Wilson         21 Maggie Boyes         4
 Karl Dutton        21 Stuart Marsh        13 
         Handicap: +20          Handicap: +20 
        Aggregate: 135         Aggregate: 110 
+  Result Overridden                          
 
      Round of 32           Wed 28th May      
                        On Stanningley Park   
@@ -1184,6 +1184,7 @@ Geoff West         19 Trevor Dawson       21
 John Alper         21 Stephen Morley       7 
         Handicap: Scr          Handicap: +30 
        Aggregate: 121         Aggregate: 107 
+  Result Overridden                          
 
      Round of 32           Wed 28th May      
                          On Cross Flatts     
@@ -1208,18 +1209,20 @@ Bev Farrar         10 Oliver Devaney      21
 Frank Hales        14 Julie Keightley     21 
         Handicap: +30          Handicap: +10 
        Aggregate: 123         Aggregate: 129 
+  Result Overridden                          
 
      Round of 32           Wed 28th May      
-                        On East End Park 2   
+                          On Armley Park     
    Chapel Allerton            Colton         
-Bird Steve         13 Martin Dowling      21 
-Royce Jackson      19 Mick Galley         21 
 Ian McMillin       21 Peter Griffin       18 
-Graham Pickles     16 Michael Noble       21 
 Chris Jones        17 Andrea Ryder        21 
 Alex McSheehy      21 Tony Ward           19 
+Royce Jackson      19 Mick Galley         21 
+Bird Steve         13 Martin Dowling      21 
+Graham Pickles     16 Michael Noble       21 
         Handicap: +10          Handicap: +10 
        Aggregate: 117         Aggregate: 131 
+  Result Overridden                          
 
      Round of 32           Wed 28th May      
                           On Pudsey Park     
@@ -1246,7 +1249,7 @@ Malcolm Hallas     21 Ray Ball            15
        Aggregate: 135         Aggregate:  99 
 
      Round of 32           Wed 28th May      
-                         On Middleton Pk     
+                           On Burley 1       
  South Leeds Cons A       Churwell Park      
 Reece Pratt        10 Ann Lucas           21 
 Malcolm Collinson  18 Stewart Wardlaw     21 
@@ -1260,18 +1263,19 @@ Barbara Wherrett   17 Mick Harrison       21
      Round of 32           Wed 28th May      
                          On East End Park    
      New Armley          Stanningley Park    
-Richard Aspin      16 Neil Porter         21 
-Dave Hurd           4 Jimmy Swailes       21 
-Ken Stockhill      11 Stuart Reardon      21 
-Richard Stephen    14 Malcolm Crowson     21 
-Carol Butters      13 Dave Eaton          21 
 Fred Hargreaves    14 Andy Waller         21 
+Richard Stephen    14 Malcolm Crowsman    21 
+Carol Butters      13 David Eaton         21 
+Ken Stockhill      11 Stuart Reardon      21 
+Dave Hurd           4 Jimmy Swailes       21 
+Richard Aspin      16 Neil Porter         21 
         Handicap: +30          Handicap: Scr 
        Aggregate: 102         Aggregate: 126 
+  Result Overridden                          
 
      Round of 32           Wed 28th May      
                        On South Leeds Cons   
-   Meanwood Park A        Cross Flatts A     
+   Meanwood Park A         Cross Flatts      
 Jeff Blackburn     21 Stacey Turner        3 
 Karen Portman      21 Jim Bootland         6 
 Peter Whipp        14 John Lister         21 
@@ -1291,5 +1295,291 @@ James Drury        21 Jim Smith           15
 Carl Birkin        21 Martin Costello     17 
         Handicap: +10          Handicap: +20 
        Aggregate: 126         Aggregate: 107 
+
+        Div 1              Wed 4th Jun       
+  Stanningley Park         Holbeck Moor      
+Neil Porter        21 Carl Mahon          20 
+Alyssa Randell     17 Steve Brown         21 
+David Eaton        17 Michael Stott       21 
+Jimmy Swailes      17 Brian Thompson      21 
+Andy Waller        21 Steve Milton        17 
+Malcolm Crowson    13 Julie Mathews       21 
+       Aggregate: 106         Aggregate: 121 
+          Points:  21            Points:  27 
+
+        Div 1              Wed 4th Jun       
+    Cross Flatts         Moor Allerton A     
+Ian Wood           21 Richard Mansell     10 
+Stephanie Wood     21 Keith Harbage       13 
+Paul Hatch         21 Martin Kaitcer      10 
+Jason Potter       21 John Alper          20 
+John Lister        21 Paul Shafar         19 
+Jim Bootland       21 Geoff West          19 
+       Aggregate: 126         Aggregate:  91 
+          Points:  30            Points:  18 
+
+        Div 2              Wed 4th Jun       
+   Meanwood Park B            Colton         
+John Hindle        21 David Clarkson       7 
+Paul Dishman       21 Martin Dowling      20 
+John King          19 Mick Galley         21 
+Julie Keightley    21 Peter Griffin       20 
+Ian Macfarlaine    12 Michael Noble       21 
+Graham Hey         18 Andrea Ryder        21 
+       Aggregate: 112         Aggregate: 110 
+          Points:  25            Points:  24 
+
+        Div 2              Wed 4th Jun       
+  Scatcherd Park A      South Leeds Cons A   
+Ian Dufton         21 Reece Pratt         17 
+Peter Oldfield     21 Jackie Cross         3 
+Terry Dillon       11 Bob Emerson         21 
+Kevin Chadwick     19 Brenda Moscrop      21 
+Elliot Beddard     21 Neville Salmon      10 
+Ray Ball           21 David Brooke         5 
+       Aggregate: 114         Aggregate:  77 
+          Points:  26            Points:  16 
+
+        Div 2              Wed 4th Jun       
+    Grove Road A          Churwell Park      
+Lynne Mattison     21 Glen Scott          13 
+Ralph Thompson     16 Ann Lucas           21 
+Peter Allanson     12 Stewart Wardlaw     21 
+Tony Boyes         19 Kath Andrews        21 
+Martin Murdoch      6 Sue Harrison        21 
+John West          12 Mick Harrison       21 
+       Aggregate:  86         Aggregate: 118 
+          Points:  17            Points:  27 
+
+        Div 2              Wed 4th Jun       
+    Gildersome A          Pudsey Park A      
+Tony Morris        19 Brian Stevens       21 
+Kevin Smales       21 Peter Wild          16 
+Graham Gaunt       21 Frank Lindsay       18 
+Sandra Deegan      21 Dennis Walters      18 
+Linda Gaunt        16 Janet Pearson       21 
+Diane Hales         8 Carl Birkin         21 
+       Aggregate: 106         Aggregate: 115 
+          Points:  23            Points:  26 
+
+        Div 3              Wed 4th Jun       
+    Potternewton             Methley         
+Valerie Bush        3 Stuart Marsh        21 
+David Miller       21 Molly Depledge      17 
+Frank Powell       10 Keith Render        21 
+Alan Smith         21 Roger Boyes          3 
+David Curland      21 David Taylor        12 
+Dennis Cole        21 Jeff Baggaley       11 
+       Aggregate:  97         Aggregate:  85 
+          Points:  22            Points:  17 
+
+        Div 3              Wed 4th Jun       
+   Moor Allerton B       Middleton Comm A    
+David Davidson      6 Shirley Biancardo   21 
+Peter Aves         21 Malcolm Hallas      10 
+Susan Lee          19 Karl Chapman        21 
+George Ramsden     21 Christine Glynn     16 
+Ian Lee            21 Terry Maher          7 
+Rodney Cundle       9 Mario Biiancardo    21 
+       Aggregate:  97         Aggregate:  96 
+          Points:  21            Points:  21 
+
+        Div 4              Wed 4th Jun       
+    New Wortley A            Cranmore        
+Paul Shackleton    21 Robert Pearson       3 
+Stephen Morley     21 Peter Nicholson     12 
+Beryl Wainman      12 Harry Gillett       21 
+Valerie Dawson     18 Ray Watson          21 
+Keith Sellars      10 John Harvey         21 
+Trevor Dawson      14 Albert Beggs        21 
+       Aggregate:  96         Aggregate:  99 
+          Points:  20            Points:  22 
+
+        Div 4              Wed 4th Jun       
+    East End Park        Scatcherd Park B    
+Andy Niddrie        7 Jack Morley         21 
+Thelma Lancaster   10 Chris Roy Stuart    21 
+Dave Howard        21 Wendy Leybourne     12 
+Richard Howlett    21 Ken McRae            8 
+Helen Simms        21 Roy Mitchell         8 
+Joesy Olivant      21 Michael Geary       10 
+       Aggregate: 101         Aggregate:  80 
+          Points:  23            Points:  16 
+
+        Div 4              Wed 4th Jun       
+    Pudsey Park B          Gildersome B      
+Maveen Tomlinson   21 Bev Farrar           3 
+Peter Colley       14 Douglas Cooper      21 
+Barbara Nellis     12 Frank Hales         21 
+Elaine Hill        21 Neil Schofield      11 
+Barbara Moss       20 John Ackroyd        21 
+Bill Pyett          3 Simon Hampshaw      21 
+       Aggregate:  91         Aggregate:  98 
+          Points:  18            Points:  22 
+
+        Div 4              Wed 4th Jun       
+     New Armley            Grove Road B      
+Carol Butters       6 David Anker         21 
+Josie Burden       21 Lyn Carr            10 
+Glynn Barrett      21 Pat Harrison        17 
+Richard Stephen    11 Sylvia Bartlett     21 
+Ken Stockhill      16 Peter Sully         21 
+Dave Hurd          14 John Carr           21 
+       Aggregate:  89         Aggregate: 111 
+          Points:  18            Points:  25 
+
+        Div 1              Wed 11th Jun      
+    Holbeck Moor           Cross Flatts      
+John Binns         21 John Lister          8 
+Michael Stott      21 Stephanie Wood      13 
+Brian Thompson     21 Paul Hatch          12 
+Pat Parker         21 Stacey Turner        8 
+Steve Brown        19 Jim Bootland        21 
+Julie Mathews       9 Jason Potter        21 
+       Aggregate: 112         Aggregate:  83 
+          Points:  25            Points:  16 
+
+        Div 1              Wed 11th Jun      
+   Moor Allerton A        Rothwell BC B      
+Mike Gould          9 Peter Burrows       21 
+Keith Harbage      19 Katie Turner        21 
+Martin Kaitcer     21 Lyn Owen            17 
+Geoff West         21 Ron Owen            13 
+Paul Shafar        21 Brian Burrows        5 
+John Alper         21 Mark Hopps          16 
+       Aggregate: 112         Aggregate:  93 
+          Points:  25            Points:  19 
+
+        Div 1              Wed 11th Jun      
+   Meanwood Park A        Whitkirk BC A      
+Chris Daysh        20 Graham Hodder       21 
+Tina Howard        13 Phil Hill           21 
+Rory Bligh          8 Tony Green          21 
+Ian Howard         21 Paul Hardy           2 
+Jeff Blackburn     21 Barry Tobin         13 
+Karen Portman      21 Graham Scholes      17 
+       Aggregate: 104         Aggregate:  95 
+          Points:  22            Points:  20 
+
+        Div 2              Wed 11th Jun      
+ South Leeds Cons A      Chapel Allerton     
+Bob Emerson        21 Andrew Paxton       11 
+Tim Newton         21 Chris Jones          8 
+Reece Pratt        21 Alex McSheehy       12 
+Jackie Cross       15 Graham Pickles      21 
+Trevor Precious     9 Royce Jackson       21 
+David Brooke       20 Ian McMillin        21 
+       Aggregate: 107         Aggregate:  94 
+          Points:  23            Points:  20 
+
+        Div 2              Wed 11th Jun      
+       Colton            Scatcherd Park A    
+Monica Buckroyd    19 Peter Oldfield      21 
+Martin Dowling     21 Ray Ball             5 
+Peter Griffin      21 Kevin Chadwick       5 
+Michael Noble      21 Terry Dillon         9 
+Andrea Ryder       21 Roy Kellet           9 
+Tony Ward          21 Elliot Beddard       8 
+       Aggregate: 124         Aggregate:  57 
+          Points:  29            Points:  10 
+
+        Div 2              Wed 11th Jun      
+    Pudsey Park A          Grove Road A      
+Barry Wild         13 Lynne Mattison      21 
+Carl Birkin        21 Martin Murdoch      14 
+Frank Lindsay      21 Peter Allanson      10 
+Janet Pearson      17 Peter Sully         21 
+Brian Stevens      18 Tony Boyes          21 
+Dennis Walters     21 John West           15 
+       Aggregate: 111         Aggregate: 102 
+          Points:  24            Points:  22 
+
+        Div 2              Wed 11th Jun      
+    Churwell Park        Meanwood Park B     
+Sue Harrison       13 Oliver Devaney      21 
+Kath Andrews       21 John King           12 
+Stewart Wardlaw    21 Julie Keightley     10 
+Stephen Briggs     21 Ian Macfarlaine     10 
+Graham Goodhall    21 Paul Dishman         8 
+Mick Harrison      21 John Hindle          8 
+       Aggregate: 118         Aggregate:  69 
+          Points:  27            Points:  13 
+
+        Div 3              Wed 11th Jun      
+       Methley          South Leeds Cons B   
+David Taylor       21 Patrick Toher        9 
+Maggie Boyes       21 Chloe Grant         18 
+Jeff Baggaley      10 Dave Tinker         21 
+Keith Render       21 David Kellett       19 
+Stuart Marsh       16 Neville Salmon      21 
+Molly Depledge     12 Alan Goodhall       21 
+       Aggregate: 101         Aggregate: 109 
+          Points:  22            Points:  24 
+
+        Div 3              Wed 11th Jun      
+  Middleton Comm A         Potternewton      
+Gordon Monk        12 Phillip Schofield   21 
+Shirley Biancardo  21 Valerie Bush         4 
+Malcolm Hallas     21 Frank Powell         0 
+Christine Glynn    21 Alan Smith          19 
+Mario Biiancardo   21 David Miller         7 
+Karl Chapman       21 Dennis Cole         16 
+       Aggregate: 117         Aggregate:  67 
+          Points:  27            Points:  13 
+
+        Div 3              Wed 11th Jun      
+    Whitkirk BC B        Moor Allerton B     
+Jim Smith          21 Rodney Cundle        6 
+Tony Bond          21 Susan Lee            9 
+Pauline Farrar     21 Peter Aves          16 
+Kevin Collins      21 Etta Cohen           9 
+John Hardwick      21 George Ramsden      12 
+James Lancaster    21 Blair Ross          19 
+       Aggregate: 126         Aggregate:  71 
+          Points:  30            Points:  12 
+
+        Div 4              Wed 11th Jun      
+    Gildersome B          New Wortley A      
+Frank Tempest      12 Jerry Wood          21 
+David Rawson       21 Beryl Wainman       20 
+Neil Schofield     10 Stephen Morley      21 
+John Ackroyd       21 Valerie Dawson      11 
+Frank Hales        14 Keith Sellars       21 
+Simon Hampshaw     21 Trevor Dawson       15 
+       Aggregate:  99         Aggregate: 109 
+          Points:  21            Points:  24 
+
+        Div 4              Wed 11th Jun      
+    Grove Road B          East End Park      
+Lyn Carr           21 Andy Niddrie         6 
+Sylvia Bartlett    14 Paul Simms          21 
+Pat Harrison       21 Thelma Lancaster    18 
+Bev Shillito       21 Dave Howard         15 
+Ralph Thompson     21 Richard Howlett     18 
+John Carr          21 Helen Simms         12 
+       Aggregate: 119         Aggregate:  90 
+          Points:  27            Points:  19 
+
+        Div 4              Wed 11th Jun      
+      Cranmore              New Armley       
+Ray Watson         11 Fred Hargreaves     21 
+Peter Nicholson    21 Carol Butters       15 
+Harry Gillett      21 Richard Stephen     15 
+Robert Pearson      6 Ken Stockhill       21 
+John Harvey        21 Dave Hurd           10 
+Paul Griffiths     17 Glynn Barrett       21 
+       Aggregate:  97         Aggregate: 103 
+          Points:  21            Points:  23 
+
+        Div 4              Wed 11th Jun      
+  Scatcherd Park B         Bramley Park      
+Jack Morley        21 Peter Caine         12 
+John Rowberry      21 Terry Astley        13 
+Sandra Foster       9 Shirley Allman      21 
+Wendy Leybourne    15 Peter Richie        21 
+Ken McRae          17 Jeff Allman         21 
+Roy Mitchell       21 Brian Fish          12 
+       Aggregate: 104         Aggregate: 100 
+          Points:  22            Points:  21 
 
 

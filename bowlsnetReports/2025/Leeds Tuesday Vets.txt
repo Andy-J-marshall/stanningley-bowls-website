@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday Over 55s) 2025 (as of Tue 3rd Jun)
+=== Leeds & District (Tuesday Over 55s) 2025 (as of Sun 15th Jun)
 === League Match Cards
 
                            Tue 1st Apr      
@@ -9,7 +9,7 @@ Graham Bluff       17 Paul Lawson        21
 Peter Nicholson    10 Jim Jordan         21 
 Harry Gillett       0 Graham Hodder      21 
 Albert Beggs        7 Phil Hill          21 
-Deborah Stafford    6 Ralph Taylor       21 
+Debrah Stafford     6 Ralph Taylor       21 
 Ray Watson          8 Ian Vickers        21 
        Aggregate:  83        Aggregate: 167 
           Points:  15           Points:  39 
@@ -42,13 +42,13 @@ Steve Milton       21 Brian Fish         16
 
                            Tue 1st Apr      
   Stanningley Park     Horsforth Woodside.  
-Neil Porter        21 Anne Miller         3 
+Neil Porter        21 Ann Miller          3 
 Steve Gardner      21 Stuart Tennant      7 
 Jim Moorin         21 Brenda Chaffer      5 
 John Armitage      21 Carol Matthews      9 
 Paul Bowes         21 David Lyons        20 
 Duncan McPhail     21 Graham Hey          7 
-Jimmy Swailes      21 Martin McGowan     13 
+Jim Swailes        21 Martin McGowan     13 
 Stewart Watson     21 Ian Tindal         12 
        Aggregate: 168        Aggregate:  76 
           Points:  40           Points:  12 
@@ -121,7 +121,7 @@ Brian Fish         21 Kenny Oates        20
                            Tue 8th Apr      
      Gildersome             Cranmore        
 David Taylor       21 Albert Beggs       16 
-Harvey Lockwood    21 Deborah Stafford    8 
+Harvey Lockwood    21 Debrah Stafford     8 
 Graham Gaunt       16 Ray Watson         21 
 Neil Schofield      9 Graham Bluff       21 
 David Rawson       21 Peter Nicholson    15 
@@ -135,8 +135,8 @@ Frank Hales        21 Jeff Higgins       19
     Saville Park        Stanningley Park    
 Ian Lewis          12 Andy Waller        21 
 Mark Hopps         18 Jim Moorin         21 
-Steve Portman      21 Dave Eaton         11 
-Gary Haley         21 Jimmy Swailes      20 
+Steve Portman      21 David Eaton        11 
+Gary Haley         21 Jim Swailes        20 
 Karen Portman      14 Paul Bowes         21 
 Graham Bickerdike   8 Stewart Watson     21 
 David Steel        12 John Armitage      21 
@@ -164,7 +164,7 @@ Graham Bluff       21 John McDermott     12
 Marvin Stafford    21 Peter Caine        10 
 Ray Watson         16 Hugh Callard       21 
 Harry Gillett      21 Shirley Allman     13 
-Deborah Stafford   15 Barry Palmer       21 
+Debrah Stafford    15 Barry Palmer       21 
 Peter Nicholson    21 Jeffrey Allman     19 
 Jeff Higgins        6 Brian Fish         21 
        Aggregate: 142        Aggregate: 123 
@@ -172,13 +172,13 @@ Jeff Higgins        6 Brian Fish         21
 
                           Tue 15th Apr      
   Harehills Park A         Gildersome       
-Ian Vickers        21 David Rawson       10 
-Ralph Taylor       21 David Taylor        7 
-Graham Hodder      21 Graham Gaunt        1 
-Phil Hill          21 Frank Hales        20 
-Paul Lawson        21 Kevin Smales       13 
 Tony Green         21 John Ackroyd        5 
 Paul Hatch         21 Tony Morris         4 
+Paul Lawson        21 Kevin Smales       13 
+Graham Hodder      21 Graham Gaunt        1 
+Ian Vickers        21 David Rawson       10 
+Phil Hill          21 Frank Hales        20 
+Ralph Taylor       21 David Taylor        7 
 Brian Thompson     11 Linda Gaunt        21 
        Aggregate: 158        Aggregate:  81 
           Points:  37           Points:  15 
@@ -189,7 +189,7 @@ Hilary Campbell    18 Graham Hey         21
 Carl Mahon         21 David Miller       10 
 George Ellener     12 Ian Tindal         21 
 Pat Parker         16 Colin Davison      21 
-Michael Stott      21 Anne Miller        14 
+Michael Stott      21 Ann Miller         14 
 Julie Mathews      21 Edward Vaughan     10 
 Steve Milton       21 Martin McGowan      5 
 Steve Brown        21 David Lyons         7 
@@ -199,13 +199,13 @@ Steve Brown        21 David Lyons         7
                           Tue 15th Apr      
   Stanningley Park       Western Flatts     
 Stewart Watson     21 Andrew Ash         14 
-Dave Eaton         21 Susan Reddyhoff    14 
+David Eaton        21 Susan Reddyhoff    14 
 John Armitage      21 Gary Reddyhoff     11 
 Steve Gardner      21 Shirley Barker      3 
 Paul Bowes         21 Granville Stoyles   6 
 Andy Waller        21 Anne Lucas         15 
 Neil Porter        21 John Manson        10 
-Jimmy Swailes      21 Stewart Wardlow    10 
+Jim Swailes        21 Stewart Wardlow    10 
        Aggregate: 168        Aggregate:  83 
           Points:  40           Points:  14 
 
@@ -237,7 +237,7 @@ Dave Brooke        10 Steve Portman      21
 
                           Tue 22nd Apr      
  Horsforth Woodside.      Drighlington      
-Anne Miller        21 John Roberts       18 
+Ann Miller         21 John Roberts       18 
 John King          17 Kenny Oates        21 
 Martin McGowan     21 Di Hoole           15 
 David Lyons        21 Rod Fox             8 
@@ -278,11 +278,11 @@ Brian Fish         21 Paul Lawson        18
      Gildersome         Stanningley Park    
 Harvey Lockwood     9 Jim Moorin         21 
 David Norton       11 John Armitage      21 
-Neil Schofield     15 Dave Eaton         21 
+Neil Schofield     15 David Eaton        21 
 Tony Morris        19 Neil Porter        21 
 David Rawson        3 Stewart Watson     21 
 Kevin Smales       20 Andy Waller        21 
-Frank Hales         8 Jimmy Swailes      21 
+Frank Hales         8 Jim Swailes        21 
 Linda Gaunt         4 Paul Bowes         21 
        Aggregate:  89        Aggregate: 168 
           Points:  15           Points:  40 
@@ -293,7 +293,7 @@ Mark Hopps         21 Graham Bluff       11
 Sylvia Bickerdike  21 Marvin Stafford    17 
 Lynne Hopps        21 Peter Nicholson    12 
 David Steel        21 Barry Baldwin      17 
-John Peacock       21 Deborah Stafford    9 
+John Peacock       21 Debrah Stafford     9 
 Graham Bickerdike  21 Donald Chadwick    17 
 Steve Portman      21 Ray Watson          5 
 Gary Haley         21 Jeff Higgins        6 
@@ -320,7 +320,7 @@ Ray Watson         12 Jane Boyd          21
 Donald Chadwick    21 Ken Maxim          18 
 Marvin Stafford    21 David Wright       18 
 Graham Bluff       13 Derek Dobson       21 
-Deborah Stafford   13 Chris Boyd         21 
+Debrah Stafford    13 Chris Boyd         21 
 Peter Nicholson    21 Derek Harding      18 
 Paul Griffiths     21 Jennifer Dodgson   12 
        Aggregate: 132        Aggregate: 150 
@@ -328,14 +328,14 @@ Paul Griffiths     21 Jennifer Dodgson   12
 
                           Tue 29th Apr      
   Harehills Park A        Saville Park      
+Tony Green         21 Mark Hopps         15 
+Paul Hatch         21 Karen Portman      11 
+Paul Lawson        21 Lynne Hopps         8 
 Graham Hodder      21 Sylvia Bickerdike  16 
 Ralph Taylor       21 David Steel        18 
-Ian Vickers        21 Ian Lewis          17 
-Paul Hatch         21 Karen Portman      11 
-Phil Hill          21 David Beck         16 
-Paul Lawson        21 Lynne Hopps         8 
 Jim Jordan         21 John Peacock        5 
-Tony Green         21 Mark Hopps         15 
+Phil Hill          21 David Beck         16 
+Ian Vickers        21 Ian Lewis          17 
        Aggregate: 168        Aggregate: 106 
           Points:  40           Points:  20 
 
@@ -354,10 +354,10 @@ Jeffrey Allman     21 Tony Morris        17
 
                           Tue 29th Apr      
   Stanningley Park        Holbeck Moor      
-Dave Eaton         21 Lorraine Baker      8 
+David Eaton        21 Lorraine Baker      8 
 Duncan McPhail     21 Steve Brown        17 
 John Armitage      21 Julie Mathews      10 
-Jimmy Swailes      18 Michael Stott      21 
+Jim Swailes        18 Michael Stott      21 
 Neil Porter        21 Pat Parker         11 
 Paul Bowes         21 Jim Barker          4 
 Steve Gardner      21 George Ellener      3 
@@ -382,7 +382,7 @@ Mick Warren        21 Stewart Wardlow     8
     Sth Lds Cons       Horsforth Woodside.  
 Bob Emerson        11 Ian Tindal         21 
 Alan Goodall       14 Stuart Tennant     21 
-David Kellett      13 Anne Miller        21 
+David Kellett      13 Ann Miller         21 
 Janet Stockdale    15 Graham Hey         21 
 Jackie Cross       13 David Lyons        21 
 Barbara Wherret    10 Martin McGowan     21 
@@ -393,14 +393,14 @@ Dave Brooke        21 David Miller       17
 
                            Tue 6th May      
  Horsforth Woodside.        Cranmore        
-Martin McGowan     21 Deborah Stafford   14 
+Martin McGowan     21 Debrah Stafford    14 
 Graham Hey         21 Peter Nicholson    19 
 Stuart Tennant     21 John Gillett       17 
 David Lyons        21 Paul Griffiths      5 
 Carol Matthews     18 Ray Watson         21 
 Ian Tindal         21 Donald Chadwick     5 
 Brenda Chaffer     19 Barry Baldwin      21 
-Anne Miller        10 Jeff Higgins       21 
+Ann Miller         10 Jeff Higgins       21 
        Aggregate: 152        Aggregate: 123 
           Points:  35           Points:  26 
 
@@ -437,7 +437,7 @@ Andy Waller        21 David Dowse         5
 Neil Porter        21 Di Hoole            8 
 Paul Bowes         21 Mick Warren         6 
 Duncan McPhail     21 Graham Priestley   12 
-Jimmy Swailes      21 Tony Carpenter     17 
+Jim Swailes        21 Tony Carpenter     17 
 Jim Moorin         21 John Roberts       19 
 John Armitage      21 Duncan Newton       3 
        Aggregate: 161        Aggregate:  91 
@@ -499,7 +499,7 @@ David Wright       21 Steve Milton       15
                            On Cranmore      
      Gildersome         Stanningley Park    
 David Rawson        4 Steve Gardner      21 
-John Ackroyd        8 Dave Eaton         21 
+John Ackroyd        8 David Eaton        21 
 Kevin Smales       20 Paul Bowes         21 
 Frank Hales         2 Jim Moorin         21 
 Tony Morris        10 Stuart Potter      21 
@@ -512,7 +512,7 @@ David Norton       13 Andy Waller        21
                          On Bramley Park    
     Saville Park       Horsforth Woodside.  
 Karen Portman      17 Ian Tindal         21 
-Sylvia Bickerdike  21 Anne Miller        12 
+Sylvia Bickerdike  21 Ann Miller         12 
 David Steel        20 Carol Matthews     21 
 Lynne Hopps        21 Martin McGowan      6 
 Jack Sharp         21 Brenda Chaffer     16 
@@ -527,7 +527,7 @@ Marvin Stafford    21 Archie McCaffety   14
 Albert Beggs       21 David Turner       14 
 Graham Bluff       21 Margaret McPhail   15 
 Donald Chadwick    21 John Manson        16 
-Deborah Stafford   21 Granville Stoyles  20 
+Debrah Stafford    21 Granville Stoyles  20 
 Peter Nicholson     9 Anne Lucas         21 
 Ray Watson         21 Stewart Wardlow    14 
 Jeff Higgins       16 Geoff Clark        21 
@@ -536,14 +536,14 @@ Jeff Higgins       16 Geoff Clark        21
 
                           Tue 20th May      
   Harehills Park A         Barwick BC       
-Peter Simmons      17 Derek Dobson       21 
 Brian Thompson     21 Jeff Binns         13 
-Ian Vickers        21 Chris Boyd         11 
-Jim Jordan         21 Jane Boyd          14 
-Phil Hill          21 Pam Binns           7 
 Paul Lawson        21 Jennifer Dodgson    7 
-Paul Hatch         21 Derek Harding      16 
+Peter Simmons      17 Derek Dobson       21 
+Jim Jordan         21 Jane Boyd          14 
 Ralph Taylor       21 David Wright        9 
+Phil Hill          21 Pam Binns           7 
+Paul Hatch         21 Derek Harding      16 
+Ian Vickers        21 Chris Boyd         11 
        Aggregate: 164        Aggregate:  98 
           Points:  38           Points:  17 
 
@@ -554,7 +554,7 @@ Philip Ellis       12 Graham Hey         21
 Peter Caine        21 Brenda Chaffer     16 
 Hugh Callard       17 Ian Tindal         21 
 Barry Palmer       19 David Lyons        21 
-Shirley Allman     21 Anne Miller        18 
+Shirley Allman     21 Ann Miller         18 
 John McDermott     20 Stuart Tennant     21 
 Jeffrey Allman     21 Carol Matthews     15 
        Aggregate: 140        Aggregate: 154 
@@ -575,9 +575,9 @@ Kenny Oates        21 Michael Stott      18
 
                           Tue 20th May      
     Sth Lds Cons        Stanningley Park    
-Bob Emerson         9 Jimmy Swailes      21 
+Bob Emerson         9 Jim Swailes        21 
 Trevor Precious    12 Neil Porter        21 
-Jackie Cross       16 Dave Eaton         21 
+Jackie Cross       16 David Eaton        21 
 Mal Collinson      10 Jim Moorin         21 
 Janet Stockdale    11 John Armitage      21 
 Alan Goodall        4 Paul Bowes         21 
@@ -586,12 +586,25 @@ Dave Brooke        21 Duncan McPhail     12
        Aggregate:  87        Aggregate: 159 
           Points:  15           Points:  37 
 
+                          Tue 20th May      
+     Gildersome           Saville Park      
+David Norton       17 Mark Hopps         21 
+David Taylor       10 Gary Haley         21 
+Kevin Smales       13 Lynne Hopps        21 
+Frank Hales        13 Ian Lewis          21 
+David Rawson       10 Sylvia Bickerdike  21 
+Linda Gaunt        21 David Steel        15 
+Neil Schofield     10 Karen Portman      21 
+Graham Gaunt       13 Steve Portman      21 
+       Aggregate: 107        Aggregate: 162 
+          Points:  20           Points:  38 
+
                           Tue 27th May      
  Horsforth Woodside.       Gildersome       
 Edward Vaughan      9 David Norton       21 
 Stuart Tennant     10 Linda Gaunt        21 
 David Lyons        21 Tony Morris        14 
-Anne Miller        21 Frank Hales        12 
+Ann Miller         21 Frank Hales        12 
 David Miller       21 Neil Schofield     11 
 Martin McGowan     21 David Taylor       14 
 Ian Tindal         21 David Rawson        6 
@@ -628,13 +641,13 @@ Jim Barker          7 Brian Thompson     21
                           Tue 27th May      
   Stanningley Park          Cranmore        
 Duncan McPhail     21 Marvin Stafford     6 
-Jimmy Swailes      21 Donald Chadwick    14 
-Neil Porter        15 Deborah Stafford   21 
+Jim Swailes        21 Donald Chadwick    14 
+Neil Porter        15 Debrah Stafford    21 
 Jim Moorin         15 Ray Watson         21 
 Steve Gardner      21 Graham Bluff        4 
 Stewart Watson     21 Jeff Higgins        9 
 John Armitage      21 Peter Nicholson    14 
-Dave Eaton          3 Paul Griffiths     21 
+David Eaton         3 Paul Griffiths     21 
        Aggregate: 138        Aggregate: 110 
           Points:  31           Points:  21 
 
@@ -682,9 +695,9 @@ Jeff Higgins        9 Duncan Newton      21
 Paul Hatch         14 Stewart Watson     21 
 Paul Lawson        15 Jim Moorin         21 
 Tony Green         21 Neil Porter         8 
-Jim Jordan         21 Duncan McPhail     17 
 Graham Hodder      20 John Armitage      21 
-Brian Thompson     21 Jimmy Swailes      14 
+Jim Jordan         21 Duncan McPhail     17 
+Brian Thompson     21 Jim Swailes        14 
 Phil Hill          21 Andy Waller        13 
 Peter Simmons      11 Paul Bowes         21 
        Aggregate: 144        Aggregate: 136 
@@ -728,5 +741,70 @@ Janet Stockdale     7 Geoff Clark        21
 Dave Brooke        21 David Turner       20 
        Aggregate: 154        Aggregate: 130 
           Points:  36           Points:  26 
+
+                          Tue 10th Jun      
+ Horsforth Woodside.    Harehills Park A    
+Ian Macfarlane     15 Tony Green         21 
+Edward Vaughan     13 Paul Hatch         21 
+Stuart Tennant      7 Jim Jordan         21 
+Brenda Chaffer     21 Paul Lawson        17 
+Martin McGowan      9 Graham Hodder      21 
+Carol Matthews      6 Ralph Taylor       21 
+David Lyons        16 Brian Thompson     21 
+Ian Tindal          7 Phil Hill          21 
+       Aggregate:  94        Aggregate: 164 
+          Points:  17           Points:  38 
+
+                          Tue 10th Jun      
+    Sth Lds Cons          Bramley Park      
+Bob Emerson        21 Anthony Caywood     2 
+Alan Goodall       21 Andy Best          15 
+Dave Hinchcliff     9 Terry Astley       21 
+Trevor Precious    21 Peter Caine        17 
+David Kellett      21 John McDermott     11 
+Jackie Cross       18 Barry Palmer       21 
+Neville Salmon     10 Jeffrey Allman     21 
+Dave Brooke        21 Brian Fish         15 
+       Aggregate: 142        Aggregate: 123 
+          Points:  32           Points:  26 
+
+                          Tue 10th Jun      
+  Stanningley Park         Barwick BC       
+Andy Waller        21 Jane Boyd          10 
+Duncan McPhail     21 Jack Finister      11 
+Jim Swailes        21 Margaret Finister  11 
+Jim Moorin         21 Derek Harding      10 
+Stewart Watson     21 Jennifer Dodgson    3 
+Paul Bowes         21 David Wright        7 
+John Armitage      21 Derek Dobson        9 
+Neil Porter         9 Chris Boyd         21 
+       Aggregate: 156        Aggregate:  82 
+          Points:  36           Points:  15 
+
+                          Tue 10th Jun      
+    Drighlington           Gildersome       
+Kenny Oates        21 Neil Schofield     17 
+John Roberts       21 David Taylor       14 
+Rod Fox            21 Graham Gaunt       17 
+David Dowse        21 David Rawson       15 
+Phil Keating       21 John Ackroyd       14 
+Graham Priestley   21 Frank Hales        10 
+Tony Carpenter     21 David Norton        3 
+Duncan Newton      10 Linda Gaunt        21 
+       Aggregate: 157        Aggregate: 111 
+          Points:  37           Points:  20 
+
+                          Tue 10th Jun      
+    Holbeck Moor            Cranmore        
+Lorraine Baker     21 Paul Griffiths     17 
+Jim Barker         15 Peter Nicholson    21 
+Pat Parker         21 Debrah Stafford    13 
+John Harvey        14 Ray Watson         21 
+Steve Brown        21 Marvin Stafford     9 
+Julie Mathews      21 Donald Chadwick    12 
+Carl Mahon         20 Peter Griffin      21 
+Michael Stott      21 Jeff Higgins        7 
+       Aggregate: 154        Aggregate: 121 
+          Points:  34           Points:  24 
 
 

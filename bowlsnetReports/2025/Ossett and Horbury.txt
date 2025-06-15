@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Tue 3rd Jun)
+=== Ossett & Horbury 2025 (as of Sun 15th Jun)
 === League Match Cards
 
          Division 3                 Tue 8th Apr         
@@ -31,7 +31,7 @@ Trevor Brook              21 Darrell Cook            17
 Kevin Booth               21 Dot Law                  6 
 Julie Hardy               21 Christopher Wilkinson   15 
 Pamela Roys               15 David Purssell          21 
-Joanne McLauchlan         21 Sam Ascough             20 
+Joanne McLaughlan         21 Sam Ascough             20 
 John Kitching             21 Andrew Hughes            5 
 Brenda Ayre                9 Darren Addison          21 
 Keith Jagger              21 Derek Hawes             19 
@@ -46,7 +46,7 @@ Gary Wike                 14 Ash Tattersley          21
 Kristian Shuttleworth     21 Andrew Gallagher        16 
 James Hanson              21 Richard Crowther         5 
 Craig Hopwood             21 Mark Goodall            12 
-James Evison              21 Neil Wood Jnr           13 
+James Evison              21 Neil Wood Jr            13 
               Aggregate: 131             Aggregate: 130 
 
       Premier Division              Thu 10th Apr        
@@ -64,17 +64,17 @@ Aiden Fox                 16 Steve Simmonds          21
       Premier Division              Thu 10th Apr        
        Smirthwaite A              Castleford Town       
 Colin Bradley             18 Robert Lloyd            21 
-Pete Farrar               21 Dean Hopwood            13 
+Peter Farrar              21 Dean Hopwood            13 
 G Gidman                  19 Robert McGuire          21 
 Darren Hennessy           21 Mark Brain              15 
 Craig Newton              21 Daniel Revell           12 
 David Robson              21 Calum Fennell            7 
 Martin Shepherd           20 Ryan Lloyd              21 
-Mark Watson               16 A Beedel                21 
+M Watson                  16 A Beedel                21 
               Aggregate: 157             Aggregate: 131 
 
       Premier Division              Thu 10th Apr        
-      Hanging Heaton A               Rothwell A         
+      Hanging Heaton A                Rothwell          
 Roger Birdsall            21 Thomas Scorah           20 
 Mason Lindley             18 Gareth Lally            21 
 Simon Metcalfe            11 Charlotte Holmes        21 
@@ -88,31 +88,31 @@ Malcolm Preston           11 Mark Hughes             21
       Premier Division              Thu 10th Apr        
       Ossett C & AC A             Skelmanthorpe A       
 Oscar Scott-Parker        18 Chris Kelly             21 
-Chris Nuttall             12 Ashley Daykin           21 
-Stuart Daniel              6 Harry Lumb              21 
-Nigel Miller              14 Ross Meese              21 
 Robert Dunford            21 Josh Brown              17 
-Joshua Dunford            15 Nick White              21 
-Noel Whitaker             17 Mark Booth              21 
 Sam Beresford             15 Jack Dyson              21 
+Stuart Daniel              6 Harry Lumb              21 
+Joshua Dunford            15 Nick White              21 
+Nigel Miller              14 Ross Meese              21 
+Chris Nuttall             12 Ashley Daykin           21 
+Noel Whitaker             17 Mark Booth              21 
               Aggregate: 118             Aggregate: 164 
 
          Division 1                 Thu 10th Apr        
         Dodworth MW                 Morton House        
-Debbie Talbot             18 Michael Sweeney         21 
-Jack Wareing              12 Adrian Leach            21 
-Barry Holland             21 J Payne                  8 
 Jack Hill                 21 Charlie Ripley          12 
+Barry Holland             21 J Payne                  8 
+Tom Marsland              21 Harrison Messinger       5 
 Nigel McDermott           16 Chris Sweeney           21 
 Mark Bramall              21 Tom Gilbert             12 
+Debbie Talbot             18 Michael Sweeney         21 
 Josh Talbot               21 Marcus Leach             3 
-Tom Marsland              21 Harrison Messenger       5 
+Jack Wareing              12 Adrian Leach            21 
               Aggregate: 151             Aggregate: 103 
 
          Division 1                 Thu 10th Apr        
        West Bretton A              Denby Grange A       
 Steve Hall                20 David Walker            21 
-Ian Fisher                 9 Ray Mortimer            21 
+Ian Fisher                 9 Mortimer Ray            21 
 Simon Geal                 8 Danny Walker            21 
 Joe Peckett                9 Paul Mottram            21 
 James Szabo               15 Adam Conlon             21 
@@ -135,31 +135,31 @@ Graham Blenkinsop         21 Luke Gant               13
 
          Division 1                 Thu 10th Apr        
        Clayton West A             Ossett C & AC B       
-M Gilbert                 18 Mel Whitaker            21 
-R Clarkson                20 Peter Lamb              21 
-M Greenall                21 Stephen Briggs           7 
 Bob Dalby                 21 Martin Cross             9 
 T Poulter                 21 Laurie Woodlock         13 
 G Richardson              21 Andrew Callaghan        15 
+M Greenall                21 Stephen Briggs           7 
+R Clarkson                20 Peter Lamb              21 
 D Richardson              21 Mick Scott              16 
+M Gilbert                 18 Mel Whitaker            21 
 Michael Pollard           21 Graeme Eyre             12 
               Aggregate: 164             Aggregate: 114 
 
          Division 1                 Thu 10th Apr        
         Heckmondwike             Alverthorpe WMC A      
-Sean Carter               10 Dave Cowsill            21 
-Jon Edmondson             21 Andy Webb                2 
-Poppy Fox                 21 Jeff Normanton          17 
-Darren Goodall            21 Graham Smith            17 
 Gareth Harwood            18 Colin Lloyd             21 
-Jacob Hatfield-Goodall    21 Steve Lonnia            10 
-Jude Hatfield-Goodall     21 Karl Dutton              6 
+Darren Goodall            21 Graham Smith            17 
+Sean Carter               10 Dave Cowsill            21 
 Darren Ripley             21 Amanda Hagen            14 
+Jude Hatfield-Goodall     21 Karl Dutton              6 
+Poppy Fox                 21 Jeff Normanton          17 
+Jacob Hatfield-Goodall    21 Steve Lonnia            10 
+Jon Edmondson             21 Andy Webb                2 
               Aggregate: 154             Aggregate: 108 
 
          Division 2                 Thu 10th Apr        
-       Horbury WMC A              Hanging Heaton B      
-Arthur Clarkson           21 Ian Taylor              13 
+        Horbury WMC               Hanging Heaton B      
+A Clarkson                21 Ian Taylor              13 
 John Stokes               10 Jacob Amatt             21 
 John Shaw                 21 Michael Underhill        3 
 David Purssell            21 Derek North             20 
@@ -171,14 +171,14 @@ Phillip Dunnill           21 Philip Crossland        18
 
          Division 2                 Thu 10th Apr        
         Slazenger B                Outwood WMC A        
+Roger Byard               21 Mick Booth              16 
 Carol Boyer               21 David Wright            14 
-Stephen Boyer             12 Neil Parkin             21 
-Gary Denton               16 Stuart Race             21 
 Angela Pursglove          12 Howard Rose             21 
 Jack Teal                 19 Peter Varley            21 
-Dean Berry                19 Steve Goddard           21 
-Roger Byard               21 Mick Booth              16 
 Alan Shilito              14 Steve Bennett           21 
+Gary Denton               16 Stuart Race             21 
+Stephen Boyer             12 Neil Parkin             21 
+Dean Berry                19 Steve Goddard           21 
               Aggregate: 134             Aggregate: 156 
 
          Division 2                 Thu 10th Apr        
@@ -208,7 +208,7 @@ Mark Dobson               19 Robyn Walters           21
          Division 3                 Thu 10th Apr        
        Denby Grange B           West Yorks Sports A     
 Bryan Thomas              14 Mark Lingard            21 
-Ben Keeling               16 Sarah Dixon             21 
+*A.N.Other*               16 Sarah Dixon             21 
 Malcolm Brown             15 David Harvey            21 
 Graham Blythe             21 Geoffrey Skenfield       9 
 Chris Nicholson           21 Les Goddard              3 
@@ -219,14 +219,14 @@ Ian Davis                 15 Allan Poyser            21
 
          Division 3                 Thu 10th Apr        
       Skelmanthorpe B               Thornhill B         
-Liz Barden                13 Jason Woodhouse         21 
+Johnathon Taylor          21 Mandy Mitchell          13 
 Maureen Berry             14 Claire Price            21 
+Graham Roys               21 Derek Robinson          12 
+Sam Seargent              21 Jennifer Gray           13 
+Richard Auty              15 Phil Gamble             21 
 Jamal Kelly               19 Ben Gibson              21 
 John Fisher               21 Anne Graham             13 
-Richard Auty              15 Phil Gamble             21 
-Jonatan Taylor            21 Mandy Mitchell          13 
-Sam Seargent              21 Jennifer Gray           13 
-Graham Roys               21 Derek Robinson          12 
+Liz Barden                13 Jason Woodhouse         21 
               Aggregate: 145             Aggregate: 135 
 
          Division 3                 Thu 10th Apr        
@@ -244,13 +244,13 @@ Svajunas Kapitan          17 Marshall Coates         21
          Division 3                 Thu 10th Apr        
        Wake Thornes A               Earlsheaton         
 A Ritson                  16 Nigel Ainley            21 
-Bob Holmes                 8 Keith Pinchbeck         21 
-C Shipley                 21 Malcolm Battye           4 
 D Guile                   21 Daniel Logan            12 
 Diane Eley                21 Jenny Pitchforth        15 
-Gerry Taylor              21 Yvonne Ainley           13 
-R Stables                 21 Lee Crossland           12 
 S Findlay                 17 Karen Ainley            21 
+C Shipley                 21 Malcolm Battye           4 
+Gerry Taylor              21 Yvonne Ainley           13 
+Bob Holmes                 8 Keith Pinchbeck         21 
+R Stables                 21 Lee Crossland           12 
               Aggregate: 146             Aggregate: 119 
 
          Division 4                 Thu 10th Apr        
@@ -282,12 +282,12 @@ Andrew Lord               21 Richard Shackleton       2
 Tony Greenlees            17 Steve Newman            21 
 Geraldine Dickinson       10 Darren Cartwright       21 
 Paul Bramwell             21 Paul Hartshorne         11 
-Andy Wilson               21 M Bradley               13 
+Andy Wilson               21 M Bradley               12 
 Heather Jewitt            21 Geoff Mulvey            17 
 Richard Sweeney           21 Dennis Bowery           13 
-Georgia Jewitt            21 Nigel Oakley             7 
+Nathan Jewitt             21 Nigel Oakley             7 
 Johny Smith               21 Dave Cunniff             7 
-              Aggregate: 153             Aggregate: 110 
+              Aggregate: 153             Aggregate: 109 
 
          Division 4                 Thu 10th Apr        
        Smirthwaite C                   B J D            
@@ -295,7 +295,7 @@ Dale Evans                21 Moira Falshaw            5
 D Watson                   8 Alan Mullins            21 
 Eva Smith                 13 David Shearstone        21 
 Neil Clayton               7 Gerry Pickard           21 
-Lisa Evans                21 Ian Falshaw             14 
+L Evans                   21 Ian Falshaw             14 
 Gary Powis                21 Ken Channer              6 
 R Nowakowski              21 Gillian Haigh           14 
 Matthew Smith             20 Les Conway              21 
@@ -364,18 +364,18 @@ Robert Lloyd              21 Nigel Cranston          16
       Premier Division              Thu 17th Apr        
       Skelmanthorpe A               Thornhill A         
 Chris Kelly               21 Graham Hirst             8 
-Ashley Daykin             21 Ryan Mitchell           11 
 Josh Brown                21 Steve Davis             13 
-Nick White                21 Kath Robinson           13 
-Ross Meese                21 Gary Mountain            3 
-Harry Lumb                11 Paul Sweeney            21 
-Jack Dyson                19 Andy Mitchell           21 
 Mark Booth                21 Aiden Fox                6 
+Ashley Daykin             21 Ryan Mitchell           11 
+Jack Dyson                19 Andy Mitchell           21 
+Harry Lumb                11 Paul Sweeney            21 
+Ross Meese                21 Gary Mountain            3 
+Nick White                21 Kath Robinson           13 
               Aggregate: 156             Aggregate:  96 
 
       Premier Division              Thu 17th Apr        
        Spen Victoria              Hanging Heaton A      
-Neil Wood Jnr             21 Jonathan Orbell         12 
+Neil Wood Jr              21 Jonathan Orbell         12 
 Richard Crowther          21 Roger Birdsall          10 
 Danny Teale               21 Pam Lindley             17 
 Mark Goodall              20 Simon Metcalfe          21 
@@ -386,21 +386,21 @@ Chris Ellis               21 David Armitage           9
               Aggregate: 167             Aggregate: 117 
 
       Premier Division              Thu 17th Apr        
-         Rothwell A                Smirthwaite A        
+          Rothwell                 Smirthwaite A        
 Garry Dennison            21 Martin Shepherd         17 
 Charlotte Holmes           8 David Robson            21 
-Mark Hughes               21 Glen Evans               7 
+Mark Hughes               21 Glen Evans               8 
 Thomas Scorah             21 G Gidman                17 
-Kez Smith                 21 Craig Newton            17 
-David Thomas              21 John Webster            18 
+Kez Smith                 21 Craig Newton            19 
+David Thomas              21 John Webster            15 
+Josh Thomas               18 Peter Farrar            21 
 Matt Turner               21 Marc Armitage           15 
-Josh Thomas               18 Pete Farrar             21 
               Aggregate: 152             Aggregate: 133 
 
          Division 1                 Thu 17th Apr        
        Denby Grange A               Heckmondwike        
 Neil Broadhead            21 Darren Ripley           20 
-Ray Mortimer              18 Jon Edmondson           21 
+Mortimer Ray              18 Jon Edmondson           21 
 Paul Mottram              21 Harry Chadwick          13 
 Chris Nicholson           10 Jacob Hatfield-Goodall  21 
 Danny Walker              20 Poppy Fox               21 
@@ -423,26 +423,26 @@ Andy Hoult                21 Tom Marsland            11
 
          Division 1                 Thu 17th Apr        
      Alverthorpe WMC A             West Bretton A       
-Richard Lonnia            21 Steve Hall              18 
-Colin Lloyd               21 Ian Fisher               9 
-Jeff Normanton            21 James Szabo             17 
 Dave Cowsill              21 Steven Sykes             6 
 Amanda Hagen              21 Tim Chadwick            10 
-Andy Webb                 21 Peter Rhodes            13 
 Karl Dutton               21 Kim Fisher              13 
+Richard Lonnia            21 Steve Hall              19 
+Colin Lloyd               21 Ian Fisher               9 
+Jeff Normanton            21 James Szabo             17 
+Andy Webb                 21 Peter Rhodes            13 
 Steve Lonnia               8 Richard Stead           21 
-              Aggregate: 155             Aggregate: 107 
+              Aggregate: 155             Aggregate: 108 
 
          Division 1                 Thu 17th Apr        
         Morton House               Clayton West A       
-Michael Sweeney           21 G Richardson            14 
-Tom Gilbert               21 D Richardson            13 
 Adrian Leach              21 Bob Dalby                9 
 Chris Sweeney             21 T Poulter               20 
 Charlie Ripley            21 M Greenall              10 
-Harrison Messenger        21 R Clarkson              12 
-J Payne                   21 Michael Pollard          8 
+*A.N.Other*               21 G Richardson            14 
+Harrison Messinger        21 R Clarkson              12 
+*A.N.Other*               21 D Richardson            13 
 Marcus Leach              21 M Gilbert               12 
+David Payne               21 Michael Pollard          8 
               Aggregate: 168             Aggregate:  98 
 
          Division 1                 Thu 17th Apr        
@@ -458,27 +458,27 @@ Graeme Eyre               14 Andy Taylor             21
               Aggregate: 123             Aggregate: 140 
 
          Division 2                 Thu 17th Apr        
-        Savile Park                Horbury WMC A        
+        Savile Park                 Horbury WMC         
 Carolyn Duckett           11 Roy Blackburn           21 
 David Steel               17 John Stokes             21 
 Alfie Hutchinson          21 John Shaw               20 
-Ellis Owen                21 Arthur Clarkson         11 
-P Whipp                   21 Steven Crummack         16 
+Ellis Owen                21 A Clarkson              11 
+P Whipp                   21 S Crummack              10 
 Lynne Hopps               21 David Horan              8 
 Steven Portman            21 Phillip Dunnill         12 
 Gareth Portman            21 Den Law                  9 
-              Aggregate: 154             Aggregate: 118 
+              Aggregate: 154             Aggregate: 112 
 
          Division 2                 Thu 17th Apr        
        Smirthwaite B                Slazenger B         
+R Dunwell                 17 Maureen Jennings        21 
 Roy Limb                  21 Carol Boyer             18 
-Dale Evans                21 Lucie Harding           20 
 Graham Knowles            21 Jeff Shaw               13 
 Tom Knapper               21 Jack Teal               16 
-R Dunwell                 17 Maureen Jennings        21 
+Alan Knowles              18 Gary Denton             21 
+Dale Evans                21 Lucie Harding           20 
 M Nowakowski              21 Angela Pursglove        17 
 Leigh Measham             21 Stephen Boyer           12 
-Alan Knowles              18 Gary Denton             21 
               Aggregate: 161             Aggregate: 138 
 
          Division 2                 Thu 17th Apr        
@@ -519,14 +519,14 @@ Vernon Green              21 R Stables                6
 
          Division 3                 Thu 17th Apr        
         Thornhill B                Denby Grange B       
-David Tolson              15 Graham Blythe           21 
-Anne Graham               21 Lynda Scott              8 
-Claire Price              21 Ben Keeling             12 
 Jason Woodhouse           18 Alan Greenwood          21 
+Claire Price              21 *A.N.Other*             12 
+Anne Graham               21 Lynda Scott              8 
+Jennifer Gray             12 David Walker            21 
 Derek Robinson            21 Kirsty Robinson         15 
 Stephen Wainwright        21 Andrea Daniels           5 
+David Tolson              15 Graham Blythe           21 
 Julie Makepeace           15 Ian Davis               21 
-Jennifer Gray             12 David Walker            21 
               Aggregate: 144             Aggregate: 124 
 
          Division 3                 Thu 17th Apr        
@@ -543,14 +543,14 @@ Yvonne Ainley             12 Terry Weston            21
 
          Division 3                 Thu 17th Apr        
     West Yorks Sports A           Ossett C & AC C       
-Sarah Dixon               21 Alan Nash               16 
-Geoffrey Skenfield        13 Linda Callaghan         21 
-Mark Lingard              16 Svajunas Kapitan        21 
-David Harvey              20 Karen Kellett           21 
-Allan Poyser              17 Chris Goodwin           21 
-Les Goddard               21 Nora Collier            14 
-Alan Smith                21 Alison Sykes             9 
 David Dixon               21 John Kellett             8 
+David Harvey              20 Karen Kellett           21 
+Geoffrey Skenfield        13 Linda Callaghan         21 
+Alan Smith                21 Alison Sykes             9 
+Les Goddard               21 Nora Collier            14 
+Allan Poyser              17 Chris Goodwin           21 
+Sarah Dixon               21 Alan Nash               16 
+Mark Lingard              16 Svajunas Kapitan        21 
               Aggregate: 150             Aggregate: 131 
 
          Division 3                 Thu 17th Apr        
@@ -559,7 +559,7 @@ Adrian Lane               21 Liz Barden              16
 Kevin Scott               21 Jamal Kelly             20 
 Mark Senior               21 Richard Auty            19 
 Marshall Coates           21 John Fisher             14 
-Peter Coates              11 Jonatan Taylor          21 
+Peter Coates              11 Johnathon Taylor        21 
 John Kilvington           21 Graham Roys             18 
 Geoff Close               21 Michael Kuszyk           3 
 Jim Liversidge            21 Sam Seargent            14 
@@ -571,7 +571,7 @@ Grenville Smith           21 D Watson                20
 Tony Codner               21 R Nowakowski            12 
 Barry Young                7 Gary Powis              21 
 Paul Long                 21 B Daniel                11 
-Jennifer Dooler           13 Lisa Evans              21 
+Jennifer Dooler           13 L Evans                 21 
 John Best                 13 Neil Clayton            21 
 Declan Brown               7 Kevin Box               21 
 Jeremy Wightman           19 George Hall             21 
@@ -608,9 +608,9 @@ Graham Brook               5 David Griffiths         21
 Dave Cunniff              21 Elaine Griffiths        14 
 Fred Millership           21 Alan Shilito            18 
 M Bradley                 21 Pamela Studd            15 
-Geoff Mulvey              21 Tricia Eastwood         10 
+Geoff Mulvey              21 Tricia Eastwood         11 
 Steve Newman              21 Arthur Birro             5 
-Darren Cartwright         21 David Fox               10 
+Darren Cartwright         21 David Fox                9 
               Aggregate: 152             Aggregate: 113 
 
          Division 5                 Thu 17th Apr        
@@ -618,7 +618,7 @@ Darren Cartwright         21 David Fox               10
 Christopher Wilkinson     21 Nigel James             15 
 Kath Andrews              20 Tony Moss               21 
 Andrew Hughes             21 Donald Ward             10 
-Terry Walker              21 Malgorzata Miszewska    12 
+Terry Walker              21 Gosia Miszewska         12 
 Sam Ascough                8 Michael Murphy          21 
 Darrell Cook              11 Ron Greenwood           21 
 Adrian Smart              21 Anita Lawson             6 
@@ -638,18 +638,6 @@ Keith Lawrance            21 John Birkett            20
               Aggregate: 157             Aggregate: 114 
 
          Division 5                 Thu 17th Apr        
-      Ossett C & AC D           West Yorks Sports B     
-John Kennelly             21 Jean Chaplin             7 
-Kevin Smith               21 Dorothy Edwards         17 
-Stewart Widdrington       21 Patricia Ryder          18 
-Pauline Clarkson          21 Janet Schofield          3 
-Eric Law                  21 Karen Poyser            12 
-Malcolm Eadie             15 John Tweedle            21 
-Diane Pitchford           16 Clive Sabey             21 
-David Clarkson            21 John O'Hara             17 
-              Aggregate: 157             Aggregate: 116 
-
-         Division 5                 Thu 17th Apr        
        Wake Thornes B              Holmfield Park       
 J Leith                   21 Shirley Griffiths       16 
 Susan Holling              5 Eric France             21 
@@ -660,6 +648,18 @@ Brian Oselton             11 Howard Riley            21
 D Warwick                 21 Lucas Manousios         10 
 Leo Herrera               21 Keith Hawes             19 
               Aggregate: 122             Aggregate: 150 
+
+         Division 5                 Thu 17th Apr        
+      Ossett C & AC D           West Yorks Sports B     
+John Kennelly             21 Jean Chaplin             7 
+Kevin Smith               21 Dorothy Edwards         17 
+Stewart Widdrington       21 Patricia Ryder          18 
+Pauline Clarkson          21 Janet Schofield          3 
+Eric Law                  21 Karen Poyser            12 
+Malcolm Eadie             15 John Tweedle            21 
+Diane Pitchford           16 Clive Sabey             21 
+David Clarkson            21 John O'Hara             17 
+              Aggregate: 157             Aggregate: 116 
 
          Division 4                 Tue 22nd Apr        
         Slazenger C                  Brookhouse         
@@ -686,7 +686,7 @@ Les Conway                11 Andrew Lord             21
               Aggregate: 138             Aggregate: 136 
 
       Premier Division              Thu 24th Apr        
-          Sandal A                   Rothwell A         
+          Sandal A                    Rothwell          
 Nigel Cranston            10 Kez Smith               21 
 James Evison               8 Mark Hughes             21 
 Sam Farmer                14 Josh Thomas             21 
@@ -699,21 +699,21 @@ Ben Sweeney               21 Thomas Scorah           13
 
       Premier Division              Thu 24th Apr        
       Castleford Town             Skelmanthorpe A       
+Mark Hopwood              10 Chris Kelly             21 
 Robert Lloyd              21 Josh Brown              11 
 Calum Fennell             20 Mark Booth              21 
-Alan Glenn                15 Jack Dyson              21 
 S Williams                21 Nick White              19 
-Mark Hopwood              10 Chris Kelly             21 
+Alan Glenn                16 Jack Dyson              21 
+Daniel Revell             15 Harry Lumb              21 
 K Siddle                   9 Ross Meese              21 
 Robert McGuire            19 Ashley Daykin           21 
-Daniel Revell             15 Harry Lumb              21 
-              Aggregate: 130             Aggregate: 156 
+              Aggregate: 131             Aggregate: 156 
 
       Premier Division              Thu 24th Apr        
        Smirthwaite A                  Sandal B          
 Marc Armitage             21 Martin Eley              8 
 Colin Bradley             21 Kristian Shuttleworth    7 
-Pete Farrar               21 Andrew Evison           18 
+Peter Farrar              21 Andrew Evison           18 
 Darren Hennessy           14 Steve Simmonds          21 
 Craig Newton              21 Lee Grieve               9 
 David Robson              21 Darren Pitchforth        9 
@@ -742,7 +742,7 @@ Robert Dunford            20 Richard Crowther        21
 Nigel Miller              14 Ben Halliday            21 
 Oscar Scott-Parker        21 Ash Tattersley          19 
 Joshua Dunford            21 Harley Tattersley       18 
-Noel Whitaker              7 Neil Wood Jnr           21 
+Noel Whitaker              7 Neil Wood Jr            21 
               Aggregate: 133             Aggregate: 141 
 
          Division 1                 Thu 24th Apr        
@@ -772,25 +772,25 @@ Lee Barrett               17 Andy Webb               21
          Division 1                 Thu 24th Apr        
     Ossett Flying Horse            Denby Grange A       
 Graham Blenkinsop         21 Neil Broadhead           9 
+Kevin Burns               21 Paul Mottram             6 
 Danny Hallas              21 Danny Walker            12 
-Graham Higgins            21 David Walker            12 
 Roger Lunn                21 George Fisher           18 
+Graham Higgins            21 David Walker            12 
 Adam Ward                  9 Scott Fisher            21 
-Paul Wildgoose            21 Ray Mortimer             5 
-Kevin Burns               21 Paul Mottram             5 
+Paul Wildgoose            21 Mortimer Ray             5 
 Gordon Hird               21 Charlie Fisher          13 
-              Aggregate: 156             Aggregate:  95 
+              Aggregate: 156             Aggregate:  96 
 
          Division 1                 Thu 24th Apr        
        Clayton West A              West Bretton A       
-M Greenall                21 Steve Hall              10 
-Michael Pollard           21 Tim Chadwick            15 
-M Gilbert                 21 James Szabo             12 
-R Clarkson                21 Joe Peckett             13 
-G Richardson              21 Peter Rhodes            15 
+Bob Dalby                 12 Richard Stead           21 
 T Poulter                 18 Steven Sykes            21 
 D Richardson              13 Kim Fisher              21 
-Bob Dalby                 12 Richard Stead           21 
+M Greenall                21 Steve Hall              10 
+R Clarkson                21 Joe Peckett             13 
+G Richardson              21 Peter Rhodes            15 
+M Gilbert                 21 James Szabo             12 
+Michael Pollard           21 Tim Chadwick            15 
               Aggregate: 148             Aggregate: 128 
 
          Division 1                 Thu 24th Apr        
@@ -801,17 +801,17 @@ Poppy Fox                 21 Chris Sweeney           12
 Darren Goodall            10 Charlie Ripley          21 
 Gareth Harwood             9 Adrian Leach            21 
 Jacob Hatfield-Goodall    21 Tom Gilbert              6 
-Jude Hatfield-Goodall     21 Harrison Messenger      15 
+Jude Hatfield-Goodall     21 Harrison Messinger      15 
 Darren Ripley             21 Michael Sweeney         17 
               Aggregate: 145             Aggregate: 116 
 
          Division 2                 Thu 24th Apr        
-       Horbury WMC A               Wakefield BC A       
+        Horbury WMC                Wakefield BC A       
 John Stokes               21 Kaz Habib                4 
 John Shaw                 21 David Clough            19 
-Steven Crummack           21 Trevor Newey            12 
+S Crummack                21 Trevor Newey            12 
 Phillip Dunnill           21 Trevor Dey               4 
-Arthur Clarkson           10 Mark Young              21 
+A Clarkson                10 Mark Young              21 
 David Ingham              21 John Dudding            19 
 Den Law                   21 Robyn Walters           11 
 David Horan               21 David Crest             18 
@@ -823,7 +823,7 @@ Gareth Portman            21 Graham Kirkaldy          4
 Lynne Hopps               21 R Dunwell               10 
 Alfie Hutchinson          21 Leigh Measham           11 
 Ellis Owen                21 Tom Knapper             10 
-Gary Haley                13 Mark Watson             21 
+Gary Haley                13 M Watson                21 
 Richard Johnson           20 Glen Evans              21 
 Karen Portman             21 Kevin Box               10 
 Steven Portman            21 Dale Evans              18 
@@ -837,33 +837,45 @@ Rebecca Finnegan-Stewart  16 David Wright            21
 John Smart                19 Steve Bennett           21 
 Phillip Schofield          8 Richard Ramsden         21 
 Colin Quarmby             21 Neil Parkin              9 
-Mick Dack                 21 Peter Varley            18 
 James Tiler               21 Steve Goddard           13 
+Mick Dack                 21 Peter Varley            18 
               Aggregate: 144             Aggregate: 132 
 
          Division 2                 Thu 24th Apr        
      Pudsey Littlemoor              Slazenger B         
-Lee Wider                 21 Angela Pursglove         5 
-Nichole Farrar            21 Stephen Boyer            7 
+Alex Wolfenden            21 Maureen Jennings        14 
 Will Bedford              21 Carol Boyer              8 
-Nathan Dobson             21 Gary Larner              9 
+Nichole Farrar            21 Stephen Boyer            7 
+Lee Wider                 21 Angela Pursglove         5 
+Matthew Leaf              21 Lucie Harding           13 
 Tom Morris                21 Jeff Shaw               10 
 Mark Dobson               21 Jack Teal               12 
-Matthew Leaf              21 Lucie Harding           13 
-Alex Wolfenden            21 Maureen Jennings        14 
+Nathan Dobson             21 Gary Larner              9 
               Aggregate: 168             Aggregate:  78 
 
          Division 3                 Thu 24th Apr        
        Denby Grange B              Horbury Bridge       
-Graham Blythe             21 Martin Turner           13 
-Malcolm Brown             17 Mark Senior             21 
-Andrea Daniels            21 Marshall Coates         17 
-Ian Davis                 21 Rob Taylor              15 
-Ben Keeling               11 John Kilvington         21 
 Phil Mack                 11 Geoff Close             21 
-Lynda Scott               21 David Whitaker          18 
+Andrea Daniels            21 Marshall Coates         17 
 Bryan Thomas               9 Adrian Lane             21 
+Lynda Scott               21 Mel Whittaker           18 
+Graham Blythe             21 Martin Turner           13 
+Keeling Ben               11 John Kilvington         21 
+Malcolm Brown             17 Mark Senior             21 
+Ian Davis                 21 Rob Taylor              15 
               Aggregate: 132             Aggregate: 147 
+
+         Division 3                 Thu 24th Apr        
+      Skelmanthorpe B               Wrenthorpe A        
+Liz Barden                 7 Gary Dawson             21 
+Jamal Kelly               19 Dave Gordon             21 
+Stephen Auty              21 Dave White               7 
+Richard Auty              21 John Scholey             9 
+Graham Roys               11 Anthony Dixon           21 
+Johnathon Taylor          21 Eileen Wardman           5 
+Sam Seargent              21 Paul Horrocks           10 
+Lee Dobson                21 Vernon Green            16 
+              Aggregate: 142             Aggregate: 110 
 
          Division 3                 Thu 24th Apr        
         Thornhill B                 Earlsheaton         
@@ -878,20 +890,8 @@ Jason Woodhouse           21 Daniel Logan            15
               Aggregate: 168             Aggregate:  92 
 
          Division 3                 Thu 24th Apr        
-      Skelmanthorpe B               Wrenthorpe A        
-Liz Barden                 7 Gary Dawson             21 
-Stephen Auty              21 Dave White               7 
-Jamal Kelly               19 Dave Gordon             21 
-Richard Auty              21 John Scholey             9 
-Graham Roys               11 Anthony Dixon           21 
-Jonatan Taylor            21 Eileen Wardman           5 
-Sam Seargent              21 Paul Horrocks           10 
-Lee Dobson                21 Vernon Green            16 
-              Aggregate: 142             Aggregate: 110 
-
-         Division 3                 Thu 24th Apr        
       Ossett C & AC C                 Sandal C          
-Karen Kellett             18 John Packer             21 
+John Kellett              18 John Packer             21 
 Linda Callaghan           21 Mel Whittaker           12 
 Nora Collier              21 David Bancroft          17 
 Alison Sykes              21 Neil Brighton           20 
@@ -904,26 +904,14 @@ Bryan Collier             15 Paul Hawes              21
          Division 3                 Thu 24th Apr        
        Wake Thornes A           West Yorks Sports A     
 A Ritson                  19 Mark Lingard            21 
-Bob Holmes                18 David Dixon             21 
-C Shipley                 21 Les Goddard             10 
 D Guile                   21 Sarah Dixon             10 
 Diane Eley                21 David Harvey            18 
-Gerry Taylor              21 Alan Smith              13 
-R Stables                 21 Allan Poyser            16 
 S Findlay                 21 Geoffrey Skenfield      11 
+C Shipley                 21 Les Goddard             10 
+Gerry Taylor              21 Alan Smith              13 
+Bob Holmes                18 David Dixon             21 
+R Stables                 21 Allan Poyser            16 
               Aggregate: 163             Aggregate: 120 
-
-         Division 4                 Thu 24th Apr        
-        Wrenthorpe B                  Altofts           
-Claire Curtis              7 Paul Hartshorne         21 
-Charles Dews              19 Paul Frankish           21 
-Dot White                 21 Dennis Bowery            7 
-Mark Wigglesworth          6 M Bradley               21 
-Jack Norton               13 Dave Cunniff            21 
-Harry Baxby               20 Geoff Mulvey            21 
-Paul Curtis               21 Darren Cartwright       20 
-Les Bailey                16 Steve Newman            21 
-              Aggregate: 123             Aggregate: 153 
 
          Division 4                 Thu 24th Apr        
        West Bretton B                  B J D            
@@ -936,6 +924,18 @@ Paul Wainwright           21 Gillian Haigh           13
 John Hepworth             21 Les Conway              20 
 Simon Geal                21 Peter Richmond          13 
               Aggregate: 148             Aggregate: 129 
+
+         Division 4                 Thu 24th Apr        
+        Wrenthorpe B                  Altofts           
+Claire Curtis              7 Paul Hartshorne         21 
+Charles Dews              19 Paul Frankish           21 
+Dot White                 21 Dennis Bowery            7 
+Mark Wigglesworth          6 M Bradley               21 
+Jack Norton               13 Dave Cunniff            21 
+Harry Baxby               20 Geoff Mulvey            21 
+Paul Curtis               21 Darren Cartwright       20 
+Les Bailey                16 Steve Newman            21 
+              Aggregate: 123             Aggregate: 153 
 
          Division 4                 Thu 24th Apr        
          Overthorpe                  Stanley A          
@@ -951,7 +951,7 @@ Nathan Jewitt             21 Andrew Lord              8
 
          Division 4                 Thu 24th Apr        
        Smirthwaite C               Clayton West B       
-Lisa Evans                21 Jason Mosley            13 
+L Evans                   21 Jason Mosley            13 
 Eva Smith                 11 Kenneth Taylor          21 
 Roy Limb                  21 P Taylor                18 
 Neil Clayton              21 Stuart England          17 
@@ -988,7 +988,7 @@ Lee Woodrow               21 Michael Gilbert         19
          Division 5                 Thu 24th Apr        
     West Yorks Sports B           Skelmanthorpe C       
 Patricia Ryder            11 Keith Jagger            21 
-Dorothy Edwards           21 Joanne McLauchlan       14 
+Dorothy Edwards           21 Joanne McLaughlan       14 
 Janet Schofield            7 Brenda Ayre             21 
 Neil Anderson             21 Pamela Roys             13 
 Janet Denton               8 Julie Hardy             21 
@@ -1006,7 +1006,7 @@ Tommy Hanley              21 Kevin Smith              6
 Margaret Carter            9 David Clarkson          21 
 Donald Ward               21 Pauline Clarkson        13 
 David Carter              15 Rena Hirstle            21 
-Ron Greenwood             21 Terry Fletcher          16 
+Ron Greenwood             21 Terence Fletcher        16 
               Aggregate: 130             Aggregate: 127 
 
          Division 3                 Tue 29th Apr        
@@ -1016,7 +1016,7 @@ Andrea Banham             21 Stephen Auty             5
 Doug Lawson               21 Jamal Kelly             17 
 David Roscoe              21 Richard Auty            11 
 David Bancroft            15 Martin Schofield        21 
-Colin Mackinder           12 Jonatan Taylor          21 
+Colin Mackinder           12 Johnathon Taylor        21 
 Joshua Eley               21 Sam Seargent            10 
 Terry Weston              16 Lee Dobson              21 
               Aggregate: 148             Aggregate: 107 
@@ -1025,7 +1025,7 @@ Terry Weston              16 Lee Dobson              21
       Skelmanthorpe C              Holmfield Park       
 John Kitching             21 David Smith             17 
 Keith Jagger               8 Lee Woodrow             21 
-Joanne McLauchlan         10 Eric France             21 
+Joanne McLaughlan         10 Eric France             21 
 Julie Hardy               19 Frank Ryan              21 
 Trevor Brook              21 Peter Birch              6 
 Brenda Ayre               15 Barbara Oxley           21 
@@ -1050,9 +1050,9 @@ Lee Grieve                21 Pam Lindley              4
 Steve Davis               21 Darren Hennessy         11 
 Aiden Fox                 10 David Robson            21 
 Ryan Mitchell             21 John Webster            19 
-Gary Mountain             17 Pete Farrar             21 
+Gary Mountain             17 Peter Farrar            21 
 Ian Newby                 14 Colin Bradley           21 
-Kath Robinson             21 Mark Watson             11 
+Kath Robinson             21 M Watson                11 
 Paul Sweeney              21 Martin Shepherd          8 
 Jason Woodhouse           13 Craig Newton            21 
               Aggregate: 138             Aggregate: 133 
@@ -1063,8 +1063,8 @@ Harry Lumb                21 Ben Sweeney              4
 Jack Dyson                21 Ian Shuttleworth         7 
 Josh Brown                21 Sam Farmer               8 
 Chris Kelly               21 Gary Wike               18 
-Ross Meese                21 Nigel Cranston          20 
-Mark Booth                21 Joe Cranston            20 
+Mark Booth                21 Nigel Cranston          20 
+Ross Meese                21 Joe Cranston            20 
 Ashley Daykin             15 Craig Hopwood           21 
 Graham Hickey             13 James Hanson            21 
               Aggregate: 154             Aggregate: 119 
@@ -1082,63 +1082,63 @@ Mark Goodall              12 Daniel Revell           21
               Aggregate: 155             Aggregate: 129 
 
       Premier Division              Thu 1st May         
-         Rothwell A               Ossett C & AC A       
-Kez Smith                 21 Oscar Scott-Parker       8 
+          Rothwell                Ossett C & AC A       
 Josh Thomas               21 Robert Dunford          10 
 David Thomas              16 Noel Whitaker           21 
-Matt Turner               21 Nigel Miller            16 
-Mark Hughes               21 Sam Beresford            4 
 Gareth Lally              21 Chris Nuttall           16 
+Matt Turner               21 Nigel Miller            16 
 Garry Dennison            21 Joshua Dunford          19 
 Thomas Scorah             21 Stuart Daniel            8 
+Mark Hughes               21 Sam Beresford            4 
+Kez Smith                 21 Oscar Scott-Parker       8 
               Aggregate: 163             Aggregate: 102 
 
          Division 1                 Thu 1st May         
        Denby Grange A              Clayton West A       
-Paul Mottram              21 Michael Pollard          7 
-Ray Mortimer              21 G Richardson            20 
-Scott Fisher              21 T Poulter                9 
 David Walker              21 Bob Dalby               14 
-Danny Walker              16 M Greenall              21 
+Scott Fisher              21 T Poulter                9 
 David Fisher              21 D Richardson            10 
-Stuart Thompson           21 Neale Wallace           20 
+Danny Walker              16 M Greenall              21 
+*A.N.Other*               21 G Richardson            20 
 Neil Broadhead            21 M Gilbert               14 
+Paul Mottram              21 Michael Pollard          7 
+Stuart Thompson           21 Neale Wallace           20 
               Aggregate: 163             Aggregate: 115 
 
          Division 1                 Thu 1st May         
        West Bretton A           Ossett Flying Horse     
-Tim Chadwick              21 Kevin Burns             20 
-Kim Fisher                15 Gordon Hird             21 
-Steve Hall                21 John Taylor              7 
-Peter Rhodes              20 Adam Ward               21 
 Richard Stead             21 Roger Lunn               9 
-Steven Sykes              11 Graham Blenkinsop       21 
+Peter Rhodes              20 Adam Ward               21 
+Kim Fisher                15 Gordon Hird             21 
 James Szabo               21 Graham Higgins          12 
+Tim Chadwick              21 Kevin Burns             20 
+Steven Sykes              11 Graham Blenkinsop       21 
 Joe Peckett               12 Robert Bennett          21 
+Steve Hall                21 John Taylor              7 
               Aggregate: 142             Aggregate: 132 
 
          Division 1                 Thu 1st May         
      Alverthorpe WMC A              Dodworth MW         
-Colin Lloyd               11 Jack Hill               21 
-Jeff Normanton            21 Barry Holland           15 
-Graham Smith              11 Carl Whitham            21 
 Karl Dutton               21 Debbie Talbot           14 
-Amanda Hagen              21 Lee Schofield           12 
+Graham Smith              11 Carl Whitham            21 
+Jeff Normanton            21 Barry Holland           15 
 Dave Cowsill              16 Mark Bramall            21 
+Amanda Hagen              21 Lee Schofield           12 
+Colin Lloyd               11 Jack Hill               21 
 Andy Webb                 13 Tom Marsland            21 
 David Clarke              18 Micky Hague             21 
               Aggregate: 132             Aggregate: 146 
 
          Division 1                 Thu 1st May         
         Morton House                Slazenger A         
-Adrian Leach              21 John Wilkinson           5 
-Chris Sweeney             21 Mick Redican            12 
-Harrison Messenger        21 Zak Bond                 5 
-Charlie Ripley            21 Liam Redican            18 
-Marcus Leach              21 Gary Eastwood           17 
-Michael Sweeney           20 Gary Larner             21 
-John Leach                21 Lee Barrett              3 
 Tom Gilbert               21 Wayne Bond              14 
+Charlie Ripley            21 Liam Redican            18 
+Chris Sweeney             21 Mick Redican            12 
+Michael Sweeney           20 Gary Larner             21 
+Harrison Messinger        21 Zak Bond                 5 
+Marcus Leach              21 Gary Eastwood           17 
+Adrian Leach              21 John Wilkinson           5 
+John Leach                21 Lee Barrett              3 
               Aggregate: 167             Aggregate:  95 
 
          Division 1                 Thu 1st May         
@@ -1159,31 +1159,31 @@ Richard Ramsden           13 Alex Wolfenden          21
 Steve Bennett             11 Nathan Dobson           21 
 Howard Rose               21 Adam Wider              20 
 David Wright              21 Mark Dobson             16 
-Stuart Race               21 Lee Wider               11 
 Mick Booth                 3 Fern Beaumont           21 
 Neil Parkin               21 Nichole Farrar          18 
 Peter Varley              10 Will Bedford            21 
+Stuart Race               21 Lee Wider               11 
               Aggregate: 121             Aggregate: 149 
 
          Division 2                 Thu 1st May         
         Slazenger B              Alverthorpe WMC B      
-Stephen Boyer             19 Anita Dack              21 
-Angela Pursglove          16 William Grayley         21 
-Steve Powell              21 Abigail Tiler           15 
-Jack Teal                 21 John Smart              19 
 Carol Boyer               17 Phillip Schofield       21 
-Lucie Harding             16 Colin Quarmby           21 
-Gary Denton               21 Mick Dack                3 
+Stephen Boyer             19 Anita Dack              21 
+Jack Teal                 21 John Smart              19 
 Jeff Shaw                 16 James Tiler             21 
+Lucie Harding             16 Colin Quarmby           21 
+Angela Pursglove          16 William Grayley         21 
+Gary Denton               21 Mick Dack                3 
+Steve Powell              21 Abigail Tiler           15 
               Aggregate: 147             Aggregate: 142 
 
          Division 2                 Thu 1st May         
-       Smirthwaite B               Horbury WMC A        
+       Smirthwaite B                Horbury WMC         
 Tom Knapper               21 Adrian Smart            19 
-A France                  21 Arthur Clarkson          7 
+A France                  21 A Clarkson               7 
 Leigh Measham             21 David Purssell           6 
 M Nowakowski              14 John Stokes             21 
-Kevin Box                 15 Steven Crummack         21 
+Kevin Box                 15 S Crummack              21 
 Dale Evans                16 Den Law                 21 
 Alan Knowles              21 David Horan              9 
 Glen Evans                17 Phillip Dunnill         21 
@@ -1191,14 +1191,14 @@ Glen Evans                17 Phillip Dunnill         21
 
          Division 2                 Thu 1st May         
       Hanging Heaton B              Savile Park         
-Gary Amatt                21 Gareth Portman          14 
-Paul Murphy               20 Steven Portman          21 
-Philip Crossland          13 Lynne Hopps             21 
-Derek North               15 Karen Portman           21 
-Ian Taylor                21 Liam Massey             19 
-David Ormsby              21 Alfie Hutchinson        19 
-Jacob Amatt               21 David Steel              5 
 Michael Underhill         20 Ellis Owen              21 
+Jacob Amatt               21 David Steel              5 
+David Ormsby              21 Alfie Hutchinson        19 
+Ian Taylor                21 Liam Massey             19 
+Derek North               15 Karen Portman           21 
+Philip Crossland          13 Lynne Hopps             21 
+Paul Murphy               20 Steven Portman          21 
+Gary Amatt                21 Gareth Portman          14 
               Aggregate: 152             Aggregate: 141 
 
          Division 3                 Thu 1st May         
@@ -1220,21 +1220,21 @@ Jenny Pitchforth          21 Andrea Daniels          15
 Malcolm Battye            15 Graham Blythe           21 
 Lee Crossland             18 David Wright            21 
 David McNally             21 Bryan Thomas             6 
-Vera Battye               21 Ben Keeling             14 
+Vera Battye               21 *A.N.Other*             14 
 Daniel Logan              21 Malcolm Brown            7 
 Keith Pinchbeck           18 Ian Davis               21 
               Aggregate: 156             Aggregate: 124 
 
          Division 3                 Thu 1st May         
     West Yorks Sports A             Thornhill B         
-David Harvey              21 Derek Robinson          16 
-Christopher Gannon        21 Ben Gibson              16 
-Alan Smith                21 Julie Makepeace         15 
+Mark Lingard              21 Claire Price            11 
 Sarah Dixon               21 Anne Graham             11 
+Christopher Gannon        21 Ben Gibson              16 
+Neil Anderson              2 Stephen Wainwright      21 
+David Harvey              21 Derek Robinson          16 
+Alan Smith                21 Julie Makepeace         15 
 Allan Poyser              21 Jennifer Gray            8 
 David Dixon               14 Phil Gamble             21 
-Neil Anderson              2 Stephen Wainwright      21 
-Mark Lingard              21 Claire Price            11 
               Aggregate: 142             Aggregate: 119 
 
          Division 3                 Thu 1st May         
@@ -1299,10 +1299,10 @@ D Hallas                  21 Alan Munro              16
 
          Division 4                 Thu 1st May         
           Altofts                  Smirthwaite C        
-Nigel Oakley              21 Lisa Evans              15 
+Nigel Oakley              21 L Evans                 15 
 Graham Brook              11 George Hall             21 
 Darren Cartwright         21 D Watson                17 
-Geoff Mulvey              21 Eva Smith                4 
+Geoff Mulvey              21 Alison Smith             4 
 Paul Frankish             21 Matthew Smith           16 
 Dave Cunniff              13 Neil Clayton            21 
 Dennis Bowery             21 R Nowakowski            11 
@@ -1311,8 +1311,8 @@ M Bradley                  5 Gary Powis              21
 
          Division 5                 Thu 1st May         
        Horbury WMC B            West Yorks Sports B     
-Terry Walker              21 Dorothy Edwards          4 
-Andrew Hughes             21 Jean Chaplin             7 
+*A.N.Other*               21 Dorothy Edwards          4 
+*A.N.Other*               21 Jean Chaplin             7 
 Christopher Wilkinson     21 Patricia Ryder          10 
 Kath Andrews              21 Janet Schofield          6 
 Bede McCullough           21 John Tweedle            11 
@@ -1323,14 +1323,14 @@ Michael Gilbert           21 Clive Sabey              8
 
          Division 5                 Thu 1st May         
       Ossett C & AC D                Stanley B          
-John Kennelly             21 Alan Parkin              5 
-Eric Law                  21 Tony Bell                6 
-David Clarkson            21 Barrie Plant            19 
-Rena Hirstle              21 Susan Plant             13 
-Terry Fletcher            21 Keith Lawrance          13 
 Pauline Clarkson          21 Antony Bolton           20 
-Stewart Widdrington        9 Cheryl Cole             21 
 Diane Pitchford           21 Vicky Peters            15 
+Stewart Widdrington        9 Cheryl Cole             21 
+Rena Hirstle              21 Susan Plant             13 
+Eric Law                  21 Tony Bell                6 
+John Kennelly             21 Alan Parkin              5 
+Terence Fletcher          21 Keith Lawrance          13 
+David Clarkson            21 Barrie Plant            19 
               Aggregate: 156             Aggregate: 112 
 
          Division 5                 Thu 1st May         
@@ -1345,340 +1345,6 @@ G Milner                  18 Margaret Carter         21
 R Stables                 21 Tony Moss               12 
               Aggregate: 139             Aggregate: 138 
 
-        Round of 32                 Thu 8th May         
-                                  On Wakefield BC       
-        Slazenger A                   Sandal A          
-Lee Barrett                6 Craig Hopwood           21 
-Zak Bond                   7 James Hanson            21 
-John Wilkinson            12 Ian Shuttleworth        21 
-Wayne Bond                13 Leighton Shuttleworth   21 
-Gary Eastwood             21 Nigel Cranston          14 
-Gary Larner                6 Sam Farmer              21 
-Liam Redican              21 Kristian Shuttleworth    7 
-Mick Redican              21 Ben Sweeney             17 
-               Handicap: +12              Handicap: Scr 
-              Aggregate: 119             Aggregate: 143 
-
-        Round of 32                 Thu 8th May         
-                                  On Clayton West       
-     Alverthorpe WMC B            Ossett C & AC B       
-Anita Dack                 8 Martin Cross            21 
-William Grayley           21 Andrew Callaghan        11 
-Abigail Tiler              2 Laurie Woodlock         21 
-John Smart                17 Graeme Eyre             21 
-Richard Quarmby           21 Stephen Briggs          11 
-Phillip Schofield         20 Peter Lamb              21 
-Colin Quarmby             11 Mel Whitaker            21 
-James Tiler               21 Chris Goodwin           19 
-               Handicap: +24              Handicap: +12 
-              Aggregate: 145             Aggregate: 158 
-
-        Round of 32                 Thu 8th May         
-                                  On Ossett C & AC      
-       Clayton West A             Castleford Town       
-Michael Peace              8 S Williams              21 
-D Richardson              18 Calum Fennell           21 
-E Haigh                   12 Robert McGuire          21 
-M Greenall                21 Mark Hopwood             8 
-Bob Dalby                 21 Daniel Revell           14 
-Neale Wallace             15 David Watson            21 
-G Richardson              21 Dean Hopwood            14 
-M Gilbert                 20 K Siddle                21 
-               Handicap: +12              Handicap: Scr 
-              Aggregate: 148             Aggregate: 141 
-
-        Round of 32                 Thu 8th May         
-                                  On Heckmondwike       
-       West Bretton A              Smirthwaite B        
-Peter Rhodes              20 Roy Limb                21 
-Richard Stead             21 Tom Knapper             15 
-Joe Peckett               16 R Dunwell               21 
-Steven Sykes              10 A France                21 
-Kim Fisher                 9 Glen Evans              21 
-Steve Hall                13 Leigh Measham           21 
-Tim Chadwick              15 Alan Knowles            21 
-James Szabo               21 Graham Kirkaldy         19 
-               Handicap: +12              Handicap: +24 
-              Aggregate: 137             Aggregate: 184 
-
-        Round of 32                 Thu 8th May         
-                                  On Spen Victoria      
-          Sandal B                  Thornhill A         
-Martin Eley               11 Graham Hirst            21 
-Paul Hawes                12 Ian Newby               21 
-Terry Weston              14 Ryan Mitchell           21 
-Lee Grieve                16 Gary Mountain           21 
-Neil Brighton             16 Andy Mitchell           21 
-Steve Simmonds            19 Paul Sweeney            21 
-Andrew Evison             21 Steve Davis             16 
-Darren Pitchforth         21 Kath Robinson           12 
-              Aggregate: 130             Aggregate: 154 
-
-        Round of 32                 Thu 8th May         
-                                 On Horbury Bridge      
-      Hanging Heaton B             Spen Victoria        
-Paul Murphy               20 Mark Goodall            21 
-Michael Underhill         15 Ben Halliday            21 
-Jacob Amatt               21 Danny Teale             18 
-Ian Taylor                12 Chris Ellis             21 
-David Ormsby              20 Phil Smith              21 
-Derek North               13 Andrew Gallagher        21 
-Gary Amatt                15 Ash Tattersley          21 
-Tony Howland               2 Neil Wood Jnr           21 
-               Handicap: +24              Handicap: Scr 
-              Aggregate: 142             Aggregate: 165 
-
-        Round of 32                 Thu 8th May         
-                                  On Denby Grange       
-       Smirthwaite A              Ossett C & AC A       
-G Gidman                  21 Nigel Miller            20 
-Pete Farrar               14 Sam Beresford           21 
-Martin Shepherd           21 Mick Scott              19 
-David Robson              21 Joshua Dunford          16 
-Colin Bradley             21 Noel Whitaker           15 
-Craig Newton              21 Oscar Scott-Parker      18 
-Darren Hennessy           15 Stuart Daniel           21 
-Mark Watson               15 Robert Dunford          21 
-              Aggregate: 149             Aggregate: 151 
-
-        Round of 32                 Thu 8th May         
-                                    On Thornhill        
-      Hanging Heaton A             Wakefield BC A       
-Mason Lindley             21 John Dudding            18 
-Simon Metcalfe            17 Peter Claven            21 
-Chris Mordue              21 Mark Young               9 
-Pam Lindley               21 Kaz Habib               15 
-Malcolm Preston           21 Trevor Newey             7 
-David Armitage            21 Trevor Dey               7 
-Jonathan Orbell           21 Robyn Walters            7 
-Roger Birdsall            21 David Clough             6 
-               Handicap: Scr              Handicap: +24 
-              Aggregate: 164             Aggregate: 114 
-
-        Round of 32                 Thu 8th May         
-                                    On Rothwell         
-        Morton House                Slazenger B         
-Adrian Leach              21 Lucie Harding           12 
-Marcus Leach              21 Stephen Boyer           15 
-John Leach                21 Gary Denton             19 
-Michael Sweeney           21 Jeff Shaw               17 
-Harrison Messenger        21 Angela Pursglove         5 
-Tom Gilbert               21 Jack Teal               15 
-Charlie Ripley            21 Carol Boyer             19 
-Chris Sweeney             18 Maureen Jennings        21 
-               Handicap: +12              Handicap: +24 
-              Aggregate: 177             Aggregate: 147 
-
-        Round of 32                 Thu 8th May         
-                               On Ossett Flying Horse   
-       Outwood WMC A             Alverthorpe WMC A      
-David Wright              14 Steve Lonnia            21 
-Mick Booth                 7 Amanda Hagen            21 
-Richard Ramsden           11 Graham Smith            21 
-Stuart Race               14 Dave Cowsill            21 
-Neil Parkin               21 Darren Smith            17 
-David Nichol              13 Richard Lonnia          21 
-Peter Varley               8 Andy Webb               21 
-Howard Rose                8 Colin Lloyd             21 
-               Handicap: +24              Handicap: +12 
-              Aggregate: 120             Aggregate: 176 
-
-        Round of 32                 Thu 8th May         
-                                 On Alverthorpe WMC     
-         Rothwell A              Pudsey Littlemoor      
-Thomas Scorah             12 Nathan Dobson           21 
-Garry Dennison            12 Matthew Leaf            21 
-Matt Turner               16 Fern Beaumont           21 
-Pete Burrows              21 Steve Bowes             20 
-Kez Smith                 21 Mark Dobson             20 
-Gareth Lally              21 Alex Wolfenden          13 
-David Thomas              21 Lee Wider               12 
-Josh Thomas               21 Adam Wider               5 
-               Handicap: Scr              Handicap: +24 
-              Aggregate: 145             Aggregate: 157 
-
-        Round of 32                 Thu 8th May         
-                                On West Yorks Sports    
-       Horbury WMC A            Ossett Flying Horse     
-Phillip Dunnill           21 Roger Lunn              18 
-John Shaw                  5 Adam Ward               21 
-John Stokes               21 Gordon Hird             19 
-Den Law                   17 Danny Hallas            21 
-Arthur Clarkson           21 Paul Wildgoose          19 
-Steven Crummack           14 Robert Bennett          21 
-David Horan               13 Kevin Burns             21 
-Roy Blackburn             21 Graham Blenkinsop       11 
-               Handicap: +24              Handicap: +12 
-              Aggregate: 157             Aggregate: 163 
-
-        Round of 32                 Thu 8th May         
-                                      On B J D          
-          Altofts                  West Bretton B       
-Fred Millership           10 Richard Wilson          21 
-Paul Frankish             21 John Hepworth           16 
-Cyril Youngs               2 Kate Moore              21 
-Paul Hartshorne           21 Steve Darby             19 
-Geoff Mulvey               6 Mathew Boud             21 
-Darren Cartwright         17 Alan Munro              21 
-Graham Brook               5 Simon Geal              21 
-Dave Cunniff              18 Steve Slawycz           21 
-               Handicap: +12              Handicap: +12 
-              Aggregate: 112             Aggregate: 173 
-
-        Round of 32                 Thu 8th May         
-                                   On Earlsheaton       
-        Slazenger C                Wake Thornes B       
-Arthur Birro              11 June Herrera            21 
-Tricia Eastwood           21 Susan Holling           12 
-David Fox                 21 J Leith                 13 
-Roger Byard               21 G Milner                 4 
-Elaine Griffiths          15 Brian Oselton           21 
-Julie Dexter              20 Leo Herrera             21 
-Kathryn Redican           21 D Warwick                6 
-Pamela Studd              21 Khalid Mahmood          19 
-               Handicap: +12              Handicap: +24 
-              Aggregate: 163             Aggregate: 141 
-
-        Round of 32                 Thu 8th May         
-                                   On Dodworth MW       
-    West Yorks Sports B            Holmfield Park       
-Jean Chaplin               8 David Smith             21 
-Patricia Ryder            14 Shirley Griffiths       21 
-Janet Schofield            2 Eric France             21 
-John Wallis               17 Mick Lund               21 
-Neil Anderson              9 Lucas Manousios         21 
-John O'Hara               14 Howard Riley            21 
-Karen Poyser              10 Lee Woodrow             21 
-Clive Sabey               10 Nigel Brown             21 
-               Handicap: +24              Handicap: +24 
-              Aggregate: 108             Aggregate: 192 
-
-        Round of 32                 Thu 8th May         
-                                 On Hanging Heaton      
-        Wrenthorpe B               Outwood WMC B        
-Mark Wigglesworth          7 Robert Race             21 
-Claire Curtis             21 Colin Farrar             9 
-Jack Norton               21 Karen Greaves           14 
-Dot White                 17 Carl Bland              21 
-Harry Baxby               21 Graham Bluff            11 
-John Nunn                 21 Wendy Bland              9 
-Dennis Mercer             21 Tony Hunter             13 
-Paul Curtis               17 John Wood               21 
-               Handicap: +12              Handicap: +24 
-              Aggregate: 158             Aggregate: 143 
-
-        Round of 32                 Thu 8th May         
-                                 On Holmfield Park      
-      Ossett C & AC C             Ossett C & AC D       
-John Kellett              21 Stewart Widdrington     13 
-Karen Kellett             21 John Kennelly           11 
-Nora Collier              21 Kevin Smith             11 
-Bryan Collier             21 David Clarkson           8 
-Linda Callaghan           21 Pauline Clarkson         8 
-Svajunas Kapitan          21 Sharon Scholey          16 
-Alan Nash                 21 Eric Law                 7 
-Alison Sykes              16 Diane Pitchford         21 
-               Handicap: Scr              Handicap: +24 
-              Aggregate: 163             Aggregate: 119 
-
-        Round of 32                 Thu 8th May         
-                                   On Wrenthorpe        
-       Horbury Bridge             Skelmanthorpe C       
-Mark Senior               21 Brenda Ayre              2 
-Jim Liversidge            21 Kevin Booth             15 
-Andrew Fawcett            21 Cerise Booth             8 
-Marshall Coates           21 Andrew McLauchlan       10 
-Adrian Lane               21 Pamela Roys             16 
-John Kilvington           21 Julie Hardy              6 
-Martin Turner             21 Trevor Brook            11 
-Brian Beddow              21 John Kitching           12 
-               Handicap: Scr              Handicap: +24 
-              Aggregate: 168             Aggregate: 104 
-
-        Round of 32                 Thu 8th May         
-                                   On Brookhouse        
-           B J D                   Denby Grange B       
-Moira Falshaw              7 Graham Blythe           21 
-Peter Richmond             3 Josh Broadhead          21 
-Ken Channer               21 Malcolm Brown           20 
-Les Conway                21 George Fisher           10 
-Ian Falshaw               10 Alan Greenwood          21 
-Gerry Pickard             21 Ben Keeling             18 
-Gillian Haigh             21 Chris Nicholson         18 
-Alan Mullins              21 Corey Tattersley        15 
-               Handicap: +12              Handicap: Scr 
-              Aggregate: 137             Aggregate: 144 
-
-        Round of 32                 Thu 8th May         
-                                   On Smirthwaite       
-       Horbury WMC B                Earlsheaton         
-Michael Gilbert            9 Karen Ainley            21 
-Andrew Hughes             11 Daniel Logan            21 
-Sam Ascough               14 Lee Crossland           21 
-Kath Andrews              21 Yvonne Ainley            8 
-Terry Walker              13 David McNally           21 
-Martin Barlow             11 Jenny Pitchforth        21 
-Darren Addison            21 Malcolm Battye          16 
-Derek Hawes               13 Keith Pinchbeck         21 
-               Handicap: +24              Handicap: Scr 
-              Aggregate: 137             Aggregate: 150 
-
-        Round of 32                 Thu 8th May         
-                                  On West Bretton       
-       Smirthwaite C                 Stanley A          
-Gary Powis                21 Stephen Haist           19 
-Eva Smith                  1 C Scargill              21 
-Lisa Evans                19 Kevin Goodhall          21 
-E Fox                     21 Julia Wright            12 
-George Hall               21 Karen Haist              6 
-B Daniel                  21 Linda Goodhall          14 
-Neil Clayton              10 Andrew Lord             21 
-Dale Evans                20 Paul Giblin             21 
-               Handicap: +12              Handicap: +12 
-              Aggregate: 146             Aggregate: 147 
-
-        Round of 32                 Thu 8th May         
-                                    On Slazenger        
-        Wrenthorpe A               Wakefield BC B       
-Eileen Wardman            21 Donald Ward             14 
-Paul Horrocks             21 Tony Moss               19 
-Vernon Green              21 Margaret Carter         20 
-Philip Berry              21 Dorothy Smith           12 
-Dave White                16 Michael Murphy          21 
-Gary Dawson               14 Ron Greenwood           21 
-Dave Gordon               21 David Carter            14 
-Jenny Berry               21 Anita Lawson            13 
-               Handicap: Scr              Handicap: +24 
-              Aggregate: 156             Aggregate: 158 
-
-        Round of 32                 Thu 8th May         
-                                     On Stanley         
-         Brookhouse               Skelmanthorpe B       
-Tony Codner               21 Stephen Auty            18 
-Paul Long                 21 John Roe                12 
-Mark Whittaker            19 Jonatan Taylor          21 
-Barry Young               19 John Fisher             21 
-Declan Brown              21 Graham Roys             10 
-Jennifer Dooler           18 Jamal Kelly             21 
-Barry Hawes               10 Sam Seargent            21 
-Richard Shackleton         2 Martin Schofield        21 
-               Handicap: +12              Handicap: Scr 
-              Aggregate: 143             Aggregate: 145 
-
-        Round of 32                 Thu 8th May         
-                                  On Wake Thornes       
-         Overthorpe                 Thornhill B         
-Geraldine Dickinson       21 Claire Price            11 
-Andy Wilson               18 Julie Makepeace         21 
-Tony Greenlees            10 Ben Gibson              21 
-Heather Jewitt            21 Mandy Mitchell          16 
-Anthony Dickinson          4 Jennifer Gray           21 
-Georgia Jewitt            21 Anne Graham              6 
-Johny Smith               21 Derek Robinson          18 
-Richard Sweeney           21 Jason Woodhouse         20 
-               Handicap: +12              Handicap: Scr 
-              Aggregate: 149             Aggregate: 134 
-
       Premier Division              Thu 15th May        
           Sandal A                    Sandal B          
 Gary Wike                 21 Darren Crummack         10 
@@ -1692,15 +1358,15 @@ Kristian Shuttleworth     10 Joshua Eley             21
               Aggregate: 147             Aggregate: 131 
 
       Premier Division              Thu 15th May        
-      Castleford Town                Rothwell A         
-Robert McGuire            21 Garry Dennison          15 
-Dean Hopwood              21 Thomas Scorah           11 
+      Castleford Town                 Rothwell          
 K Siddle                  21 Mark Hughes             15 
 Daniel Revell             14 Kez Smith               21 
 S Williams                21 David Thomas            14 
 David Watson              10 Gareth Lally            21 
-Calum Fennell             15 Josh Thomas             21 
+Dean Hopwood              21 Thomas Scorah           11 
+Robert McGuire            21 Garry Dennison          15 
 Mark Brain                21 Pete Burrows             5 
+Calum Fennell             15 Josh Thomas             21 
               Aggregate: 144             Aggregate: 123 
 
       Premier Division              Thu 15th May        
@@ -1708,7 +1374,7 @@ Mark Brain                21 Pete Burrows             5
 Chris Kelly               21 Andrew Gallagher         8 
 Ashley Daykin             21 Chris Ellis             14 
 Josh Brown                21 Richard Crowther        17 
-Harry Lumb                21 Neil Wood Jnr           14 
+Harry Lumb                21 Neil Wood Jr            14 
 Nick White                21 Mark Goodall            12 
 Ross Meese                21 Danny Teale             19 
 Jack Dyson                17 Harley Tattersley       21 
@@ -1720,7 +1386,7 @@ Mark Booth                15 Ash Tattersley          21
 David Armitage            21 Martin Shepherd         14 
 Roger Birdsall            18 G Gidman                21 
 Mason Lindley             15 Colin Bradley           21 
-Pam Lindley               21 Pete Farrar             15 
+Pam Lindley               21 Peter Farrar            15 
 Simon Metcalfe            20 Craig Newton            21 
 Chris Mordue              21 Marc Armitage            8 
 Jonathan Orbell           16 David Robson            21 
@@ -1741,14 +1407,14 @@ Chris Nuttall             21 Steve Davis             19
 
          Division 1                 Thu 15th May        
         Dodworth MW                Denby Grange A       
-Josh Talbot               21 Ray Mortimer             4 
 Mark Bramall              21 George Fisher           11 
-Carl Whitham              21 Charlie Fisher           2 
-Nigel McDermott           21 David Fisher            15 
-Tom Marsland              21 David Walker             6 
-Jack Wareing              15 Paul Mottram            21 
 Jack Hill                 21 Danny Towning - Smith    7 
+Tom Marsland              21 David Walker             6 
+Nigel McDermott           21 David Fisher            15 
 Debbie Talbot             21 Danny Walker            18 
+Josh Talbot               21 Mortimer Ray             4 
+Jack Wareing              15 Paul Mottram            21 
+Carl Whitham              21 Charlie Fisher           2 
               Aggregate: 162             Aggregate:  84 
 
          Division 1                 Thu 15th May        
@@ -1765,26 +1431,26 @@ Gary Larner               21 Mel Whitaker            20
 
          Division 1                 Thu 15th May        
      Alverthorpe WMC A              Morton House        
-Colin Lloyd               21 Harrison Messenger      20 
-Amanda Hagen              21 Chris Sweeney           19 
-Karl Dutton               21 Angela Whitworth        18 
-Andy Webb                 21 Marcus Leach            18 
-Edwin Wilkinson           21 Tom Gilbert             20 
+Colin Lloyd               21 Harrison Messinger      20 
 Steve Lonnia              18 Charlie Ripley          21 
+Karl Dutton               21 Angela Whitworth        18 
 Dave Cowsill              18 John Leach              21 
-Mick Cooney               12 Michael Sweeney         21 
+Amanda Hagen              21 Chris Sweeney           19 
+Mick Cooney               12 *A.N.Other*             21 
+Andy Webb                 21 Marcus Leach            18 
+Edwin Wilkinson           21 *A.N.Other*             20 
               Aggregate: 153             Aggregate: 158 
 
          Division 1                 Thu 15th May        
        Clayton West A           Ossett Flying Horse     
 Neale Wallace             18 Robert Bennett          21 
 T Poulter                 21 Gordon Hird              9 
-Michael Pollard            7 Kevin Burns             21 
-E Haigh                   16 Danny Hallas            21 
+M Greenall                 8 Paul Wildgoose          21 
+D Richardson              20 Graham Higgins          21 
 Bob Dalby                 11 Roger Lunn              21 
 G Richardson              21 Graham Blenkinsop        8 
-D Richardson              20 Graham Higgins          21 
-M Greenall                 8 Paul Wildgoose          21 
+E Haigh                   16 Danny Hallas            21 
+Michael Pollard            7 Kevin Burns             21 
               Aggregate: 122             Aggregate: 143 
 
          Division 1                 Thu 15th May        
@@ -1800,9 +1466,9 @@ Darren Ripley             21 Steve Hall              19
               Aggregate: 154             Aggregate: 100 
 
          Division 2                 Thu 15th May        
-       Horbury WMC A               Outwood WMC A        
-Steven Crummack           21 John Birkett            12 
-Arthur Clarkson           21 Mick Booth              15 
+        Horbury WMC                Outwood WMC A        
+S Crummack                21 John Birkett            12 
+A Clarkson                21 Mick Booth              15 
 Phillip Dunnill           15 Peter Varley            21 
 John Stokes               18 Howard Rose             21 
 David Purssell            21 Steve Bennett           18 
@@ -1831,7 +1497,7 @@ Kevin Box                 21 Ian Taylor               7
 Leigh Measham             21 Michael Underhill       10 
 Alan Knowles              21 Tony Howland            16 
 Graham Kirkaldy           17 Paul Murphy             21 
-Mark Watson               11 Gary Amatt              21 
+M Watson                  11 Gary Amatt              21 
 Glen Evans                21 Philip Crossland         5 
               Aggregate: 141             Aggregate: 108 
 
@@ -1849,26 +1515,26 @@ Nathan Dobson             21 Anita Dack               2
 
          Division 3                 Thu 15th May        
        Denby Grange B               Wrenthorpe A        
-David Wright              21 Vernon Green            18 
-Josh Broadhead            21 Jenny Berry             18 
-Chris Nicholson           20 Paul Horrocks           21 
-Neil Broadhead            13 Gary Dawson             21 
 Phil Mack                 14 Dave White              21 
-Ben Keeling                9 Eileen Wardman          21 
 Bryan Thomas               8 Brian Marden            21 
+David Wright              21 Vernon Green            18 
+Chris Nicholson           20 Paul Horrocks           21 
+Barry Holland              9 Eileen Wardman          21 
 Chris Shires               8 Dave Gordon             21 
+Josh Broadhead            21 Jenny Berry             18 
+Neil Broadhead            13 Gary Dawson             21 
               Aggregate: 114             Aggregate: 162 
 
          Division 3                 Thu 15th May        
         Thornhill B                Horbury Bridge       
-Julie Makepeace           19 Mark Senior             21 
-Claire Price              21 Rob Taylor              14 
-Jason Woodhouse           21 Andrew Fawcett           2 
-Jennifer Gray             21 Marshall Coates         14 
 Derek Robinson            21 Adrian Lane             11 
+Jason Woodhouse           21 Andrew Fawcett           2 
 Ben Gibson                17 Kevin Scott             21 
+Julie Makepeace           19 Mark Senior             21 
 Mandy Mitchell            21 Martin Turner            5 
 Phil Gamble               21 Brian Beddow             6 
+Jennifer Gray             21 Marshall Coates         14 
+Claire Price              21 Rob Taylor              14 
               Aggregate: 162             Aggregate:  94 
 
          Division 3                 Thu 15th May        
@@ -1887,7 +1553,7 @@ Lee Crossland             13 Alan Smith              21
       Ossett C & AC C             Skelmanthorpe B       
 Linda Callaghan           21 Martin Schofield         7 
 John Kellett              15 John Fisher             21 
-Karen Kellett             21 Jonatan Taylor          16 
+Karen Kellett             21 Johnathon Taylor        16 
 Nora Collier              11 Stephen Auty            21 
 Svajunas Kapitan          20 Sam Seargent            21 
 Alan Nash                 21 Jamal Kelly             15 
@@ -1927,7 +1593,7 @@ Mary Darby                21 Steve Newman            12
 Steve Darby               21 Dave Cunniff            14 
 John Hepworth             13 Darren Cartwright       21 
 Mick Shaw                 21 Paul Frankish           14 
-Mathew Boud               21 Nigel Oakley            20 
+Martin Barlow             21 Nigel Oakley            20 
 Paul Wainwright           21 Geoff Mulvey             7 
               Aggregate: 151             Aggregate: 118 
 
@@ -1958,9 +1624,9 @@ Johny Smith               21 Pamela Studd            18
          Division 4                 Thu 15th May        
        Smirthwaite C                 Stanley A          
 Gary Powis                21 Stephen Haist           13 
-Lisa Evans                21 Karen Haist             11 
+L Evans                   21 Karen Haist             11 
 Eva Smith                  9 Holger Cole             21 
-Mick Wood                 21 Kevin Goodhall          16 
+Michael Wood              21 Kevin Goodhall          16 
 Neil Clayton              16 C Scargill              21 
 Matthew Smith             15 Linda Goodhall          21 
 George Hall               21 Andrew Lord             12 
@@ -1997,9 +1663,9 @@ Janet Denton              16 Peter Birch             21
 Janet Schofield           21 Shirley Griffiths       12 
 Patricia Ryder            15 Lucas Manousios         21 
 Brian Lister               6 Eric France             21 
+Karen Poyser              19 Mick Lund               21 
 Neil Anderson             10 Howard Riley            21 
 John Tweedle              21 Frank Ryan              11 
-Karen Poyser              19 Mick Lund               21 
 Clive Sabey               19 Keith Hawes             21 
               Aggregate: 127             Aggregate: 149 
 
@@ -2009,232 +1675,11 @@ Margaret Shand            20 Pamela Roys             21
 Donald Ward               21 Brenda Ayre             14 
 Tony Moss                 21 Kevin Booth             12 
 Dorothy Smith             21 Cerise Booth             3 
-David Carter              16 Andrew McLauchlan       21 
+David Carter              16 Andrew McLaughlan       21 
 Ron Greenwood             21 Keith Jagger            18 
-Michael Murphy            17 Joanne McLauchlan       21 
+Michael Murphy            17 Joanne McLaughlan       21 
 Margaret Carter           21 Julie Hardy             11 
               Aggregate: 158             Aggregate: 121 
-
-        Round of 16                 Thu 22nd May        
-                                   On Outwood WMC       
-          Sandal A                Ossett C & AC B       
-Nigel Cranston            19 Mel Whitaker            21 
-Martin Eley               21 Chris Goodwin            6 
-Sam Farmer                21 Laurie Woodlock         15 
-James Hanson              21 Stephen Briggs          11 
-Craig Hopwood             21 Graeme Eyre              7 
-Darren Pitchforth         21 Martin Cross             8 
-Gary Wike                 21 Bryan Collier            8 
-Ben Sweeney               21 Andrew Callaghan        18 
-               Handicap: Scr              Handicap: +12 
-              Aggregate: 166             Aggregate: 106 
-
-        Round of 16                 Thu 22nd May        
-                                  On Denby Grange       
-       Clayton West A              Smirthwaite B        
-T Poulter                 21 Glen Evans               5 
-Neale Wallace             21 Leigh Measham           20 
-G Richardson              21 A France                20 
-Michael Pollard           12 Graham Kirkaldy         21 
-Bob Dalby                 21 Tom Knapper             17 
-M Greenall                13 Roy Limb                21 
-E Haigh                   17 R Dunwell               21 
-Michael Peace             21 Kevin Box               20 
-               Handicap: +12              Handicap: +24 
-              Aggregate: 159             Aggregate: 169 
-
-        Round of 16                 Thu 22nd May        
-                                   On Earlsheaton       
-        Thornhill A                Spen Victoria        
-Steve Davis               21 Chris Ellis             20 
-Ryan Mitchell             16 Neil Wood Jnr           21 
-Aiden Fox                 20 Richard Crowther        21 
-Graham Hirst              10 Ben Halliday            21 
-Ian Newby                 13 Andrew Gallagher        21 
-Kath Robinson             13 Danny Teale             21 
-Gary Mountain             18 Harley Tattersley       21 
-Andy Mitchell             21 Ash Tattersley          19 
-              Aggregate: 132             Aggregate: 165 
-
-        Round of 16                 Thu 22nd May        
-                                  On West Bretton       
-      Ossett C & AC A             Hanging Heaton A      
-Sam Beresford             21 Chris Mordue            16 
-Noel Whitaker             18 Jonathan Orbell         21 
-Chris Nuttall             13 Simon Metcalfe          21 
-Oscar Scott-Parker        13 David Armitage          21 
-Peter Lamb                21 Malcolm Preston         13 
-Mick Scott                13 Mason Lindley           21 
-Robert Dunford            21 Roger Birdsall          11 
-Stuart Daniel             14 Pam Lindley             21 
-              Aggregate: 134             Aggregate: 145 
-
-        Round of 16                 Thu 22nd May        
-                               On Ossett Flying Horse   
-       Denby Grange A               Morton House        
-David Fisher              21 Marcus Leach            14 
-Scott Fisher              21 Charlie Ripley           9 
-Charlie Fisher            21 Adrian Leach            19 
-Paul Mottram              21 Tom Gilbert              5 
-David Walker              21 Chris Sweeney           10 
-Danny Walker              13 Michael Sweeney         21 
-George Fisher              9 John Leach              21 
-Danny Towning - Smith     12 Harrison Messenger      21 
-               Handicap: +12              Handicap: +12 
-              Aggregate: 151             Aggregate: 132 
-
-        Round of 16                 Thu 22nd May        
-                                     On Sandal          
-     Alverthorpe WMC A           Pudsey Littlemoor      
-Richard Lonnia            21 Mark Dobson              4 
-Darren Smith               7 Nathan Dobson           21 
-Amanda Hagen              14 Nichole Farrar          21 
-Steve Lonnia              11 Matthew Leaf            21 
-Karl Dutton               15 Alex Wolfenden          21 
-Dave Cowsill              13 Will Bedford            21 
-Andy Webb                 21 Fern Beaumont           14 
-James Tiler               19 Tom Morris              21 
-               Handicap: +12              Handicap: +24 
-              Aggregate: 133             Aggregate: 168 
-
-        Round of 16                 Thu 22nd May        
-                                    On Rothwell         
-    Ossett Flying Horse             Heckmondwike        
-Gordon Hird               14 Sean Carter             21 
-Danny Hallas              16 Jon Edmondson           21 
-Roger Lunn                21 Poppy Fox               16 
-Graham Higgins            21 Darren Goodall          13 
-Paul Wildgoose            16 Peter Simpson           21 
-Graham Blenkinsop         12 Jacob Hatfield-Goodall  21 
-John Taylor                3 Jude Hatfield-Goodall   21 
-Robert Bennett            21 Gareth Harwood          20 
-               Handicap: +12              Handicap: +12 
-              Aggregate: 136             Aggregate: 166 
-
-        Round of 16                 Thu 22nd May        
-                                  On Morton House       
-        Dodworth MW                 Savile Park         
-Mark Bramall              21 Ellis Owen              16 
-Josh Talbot               21 Gary Haley               5 
-Tom Marsland              21 Gareth Portman          10 
-Jack Hill                 17 Steven Portman          21 
-Carl Whitham              21 Lynne Hopps             14 
-Debbie Talbot             21 David Steel             11 
-Micky Hague               21 Karen Portman           11 
-Nigel McDermott           21 Richard Johnson          6 
-               Handicap: +12              Handicap: +24 
-              Aggregate: 176             Aggregate: 118 
-
-        Round of 16                 Thu 22nd May        
-                                  On Wakefield BC       
-       West Bretton B               Slazenger C         
-Paul Wainwright           21 David Fox               14 
-Richard Wilson            21 Elaine Griffiths         6 
-Kate Moore                21 Julie Dexter            14 
-Mathew Boud               21 Alan Shilito             8 
-Mick Shaw                 21 Kathryn Redican         14 
-Alan Munro                13 Pamela Studd            21 
-Simon Geal                21 David Griffiths         11 
-Steve Slawycz             21 Stuart Kelly            12 
-               Handicap: +12              Handicap: +12 
-              Aggregate: 172             Aggregate: 112 
-
-        Round of 16                 Thu 22nd May        
-                                 On Castleford Town     
-    West Yorks Sports A            Holmfield Park       
-David Dixon               17 Howard Riley            21 
-Neil Anderson             21 Frank Ryan              18 
-David Harvey              21 Mick Lund               19 
-Alan Smith                21 Lucas Manousios         11 
-Allan Poyser              21 Keith Hawes             19 
-Sarah Dixon               21 Shirley Griffiths       15 
-Mark Lingard              17 Lee Woodrow             21 
-John O'Hara               21 Peter Birch             10 
-               Handicap: Scr              Handicap: +24 
-              Aggregate: 160             Aggregate: 158 
-
-        Round of 16                 Thu 22nd May        
-                                   On Overthorpe        
-        Wrenthorpe B              Ossett C & AC C       
-Paul Curtis               21 Karen Kellett           17 
-Dennis Mercer              9 John Kellett            21 
-Claire Curtis             19 Svajunas Kapitan        21 
-John Nunn                 15 Alan Nash               21 
-Joan Bailey               17 Alison Sykes            21 
-Les Bailey                 5 John Kennelly           21 
-Dot White                 21 Linda Callaghan         13 
-Harry Baxby               21 Nora Collier            10 
-               Handicap: +12              Handicap: Scr 
-              Aggregate: 140             Aggregate: 145 
-
-        Round of 16                 Thu 22nd May        
-                                  On Skelmanthorpe      
-       Horbury Bridge              Denby Grange B       
-Mark Senior               21 Chris Nicholson          9 
-Brian Beddow              21 Graham Blythe           19 
-Jim Liversidge            21 Ben Keeling              7 
-Marshall Coates           21 David Wright             9 
-Kevin Scott               21 Malcolm Brown           18 
-John Kilvington           12 Ian Davis               21 
-Adrian Lane               11 Josh Broadhead          21 
-Rob Taylor                21 Neil Broadhead          18 
-              Aggregate: 149             Aggregate: 122 
-
-        Round of 16                 Thu 22nd May        
-                                   On Brookhouse        
-        Earlsheaton                  Stanley A          
-Jenny Pitchforth          21 Holger Cole              7 
-Daniel Logan              21 Julia Wright            14 
-Vera Battye               14 Linda Goodhall          21 
-Nigel Ainley              21 C Scargill              19 
-Karen Ainley              12 Paul Giblin             21 
-Malcolm Battye            15 Kevin Goodhall          21 
-Keith Pinchbeck           21 Andrew Lord             18 
-Lee Crossland             15 Stephen Haist           21 
-               Handicap: Scr              Handicap: +12 
-              Aggregate: 140             Aggregate: 154 
-
-        Round of 16                 Thu 22nd May        
-                                   On Wrenthorpe        
-       Wakefield BC B             Skelmanthorpe B       
-Margaret Shand            15 Liz Barden              21 
-Tommy Hanley              21 Richard Auty            18 
-Nigel James               21 Stephen Auty            18 
-Dorothy Smith             21 Jamal Kelly             19 
-Tony Moss                 12 John Fisher             21 
-Michael Murphy            21 Jonatan Taylor          15 
-Ron Greenwood             20 Sam Seargent            21 
-Anita Lawson               9 Lee Dobson              21 
-               Handicap: +24              Handicap: Scr 
-              Aggregate: 164             Aggregate: 154 
-
-        Round of 16                 Thu 22nd May        
-                                  On Heckmondwike       
-         Overthorpe                Clayton West B       
-Geraldine Dickinson       21 P Taylor                 3 
-Les Bell                  21 Kenneth Taylor          11 
-R Clifford                16 J Hobson                21 
-Heather Jewitt            21 Sue Lindley              8 
-Andy Wilson               21 D Hallas                19 
-Harvey Wilson             21 M Sellars               12 
-Anthony Dickinson         20 Stuart England          21 
-Richard Sweeney           10 Stuart Simmons          21 
-               Handicap: +12              Handicap: +12 
-              Aggregate: 163             Aggregate: 128 
-
-        Round of 16                 Thu 22nd May        
-                                   On Smirthwaite       
-       Wake Thornes A                Stanley B          
-S Findlay                 21 Barrie Plant             8 
-Leo Herrera               21 Antony Bolton           10 
-D Warwick                 21 Vicky Peters            19 
-Diane Eley                21 Cheryl Cole             16 
-C Shipley                 21 Susan Plant              4 
-D Guile                   21 Eric Szpyrka            15 
-Gerry Taylor              21 Keith Lawrance           4 
-Bob Holmes                21 Gordon Ellis            19 
-               Handicap: Scr              Handicap: +24 
-              Aggregate: 168             Aggregate: 119 
 
          Division 3                 Tue 27th May        
           Sandal C                  Thornhill B         
@@ -2265,7 +1710,7 @@ David Griffiths           21 Harry Baxby             12
 Keith Jagger              21 Barrie Plant             1 
 Trevor Brook              21 Keith Lawrance           9 
 Julie Hardy               11 Gordon Ellis            21 
-Joanne McLauchlan          9 Tony Bell               21 
+Joanne McLaughlan          9 Tony Bell               21 
 Brenda Ayre               13 Antony Bolton           21 
 Pamela Roys               21 Vicky Peters             9 
 Kevin Booth               21 Susan Plant              8 
@@ -2298,47 +1743,47 @@ Aiden Fox                 21 Robert Lloyd            10
 
       Premier Division              Thu 29th May        
        Smirthwaite A                  Sandal A          
-Marc Armitage             12 Joe Cranston            21 
-Colin Bradley             19 James Davison           21 
-G Gidman                  16 Nigel Cranston          21 
 Darren Hennessy           21 Darren Pitchforth       12 
 Craig Newton              15 Ian Shuttleworth        21 
 David Robson              21 Ben Sweeney             20 
 Martin Shepherd           10 James Hanson            21 
+G Gidman                  16 Nigel Cranston          21 
 Leigh Measham             18 Gary Wike               21 
+Marc Armitage             12 Joe Cranston            21 
+Colin Bradley             19 James Davison           21 
               Aggregate: 132             Aggregate: 158 
 
       Premier Division              Thu 29th May        
       Hanging Heaton A            Ossett C & AC A       
-Mason Lindley             21 Chris Nuttall           19 
-Pam Lindley               19 Nigel Miller            21 
-David Armitage            21 Sam Beresford           15 
-Simon Metcalfe            21 Noel Whitaker           18 
 Malcolm Preston           21 Robert Dunford          14 
-Chris Mordue              21 Mick Scott               7 
+Mason Lindley             21 Chris Nuttall           19 
 Jonathan Orbell           21 Stuart Daniel            5 
+Pam Lindley               19 Nigel Miller            21 
+Chris Mordue              21 Mick Scott               7 
+David Armitage            21 Sam Beresford           15 
 Roger Birdsall            21 Oscar Scott-Parker      11 
+Simon Metcalfe            21 Noel Whitaker           18 
               Aggregate: 166             Aggregate: 110 
 
       Premier Division              Thu 29th May        
-         Rothwell A               Skelmanthorpe A       
-Thomas Scorah             21 Ashley Daykin           18 
+          Rothwell                Skelmanthorpe A       
 Pete Burrows               7 Chris Kelly             21 
-Matt Turner               16 Harry Lumb              21 
 Kez Smith                 21 Josh Brown              14 
-Gareth Lally              21 Mark Booth              20 
 Josh Thomas               17 Ross Meese              21 
+Gareth Lally              21 Mark Booth              20 
 Garry Dennison            21 Jack Dyson               6 
 Mark Hughes               21 Graham Hickey           20 
+Thomas Scorah             21 Ashley Daykin           18 
+Matt Turner               16 Harry Lumb              21 
               Aggregate: 145             Aggregate: 141 
 
          Division 1                 Thu 29th May        
        Denby Grange A               Morton House        
 Neil Broadhead            11 Michael Sweeney         21 
-Paul Mottram              12 Harrison Messenger      21 
+Paul Mottram              12 Harrison Messinger      21 
 David Walker              18 Adrian Leach            21 
 Danny Towning - Smith     21 Wayne Kemp               5 
-Ray Mortimer              21 Chris Sweeney           14 
+Mortimer Ray              21 Chris Sweeney           14 
 George Fisher             21 Marcus Leach            19 
 Charlie Fisher            20 Charlie Ripley          21 
 Danny Walker              21 Dan Balmforth           15 
@@ -2346,50 +1791,50 @@ Danny Walker              21 Dan Balmforth           15
 
          Division 1                 Thu 29th May        
        West Bretton A               Slazenger A         
-James Szabo               21 Lee Barrett              5 
 Peter Rhodes              12 Derek McAdam            21 
-Steven Sykes              14 Gary Eastwood           21 
-Richard Stead             21 Andy Hoult              17 
-Joe Peckett               18 Zak Bond                21 
-Kim Fisher                16 Gary Larner             21 
-Tim Chadwick              21 Liam Redican            17 
 Steve Hall                21 Wayne Bond              11 
+Tim Chadwick              21 Liam Redican            17 
+Kim Fisher                16 Gary Larner             21 
+Joe Peckett               18 Zak Bond                21 
+Richard Stead             21 Andy Hoult              17 
+Steven Sykes              14 Gary Eastwood           21 
+James Szabo               21 Lee Barrett              5 
               Aggregate: 144             Aggregate: 134 
 
          Division 1                 Thu 29th May        
     Ossett Flying Horse             Dodworth MW         
 Paul Wildgoose             8 Jack Hill               21 
 Roger Lunn                19 Barry Holland           21 
-Graham Higgins            20 Debbie Talbot           21 
-Margaret Higgins          20 Nigel McDermott         21 
-Danny Hallas              21 Carl Whitham             8 
-Gordon Hird               10 Josh Talbot             21 
-Kevin Burns               14 Mark Bramall            21 
 Graham Blenkinsop         21 Tom Marsland            14 
+Margaret Higgins          20 Nigel McDermott         21 
+Kevin Burns               13 Mark Bramall            21 
+Graham Higgins            20 Debbie Talbot           21 
+Gordon Hird               11 Josh Talbot             21 
+Danny Hallas              21 Carl Whitham             8 
               Aggregate: 133             Aggregate: 148 
 
          Division 1                 Thu 29th May        
        Clayton West A               Heckmondwike        
 Bob Dalby                 19 Jacob Hatfield-Goodall  21 
-S Greaves                 21 Logan Preston           10 
-M Greenall                21 Jude Hatfield-Goodall    0 
 T Poulter                 21 Gareth Harwood          15 
 Neale Wallace             21 Darren Goodall          20 
-G Richardson              12 Jon Edmondson           21 
+M Greenall                21 Jude Hatfield-Goodall    0 
 D Richardson              14 Sean Carter             21 
+G Richardson              12 Jon Edmondson           21 
+S Greaves                 21 Logan Preston           10 
 Michael Peace              9 Roy Carter              21 
               Aggregate: 138             Aggregate: 129 
 
          Division 1                 Thu 29th May        
       Ossett C & AC B            Alverthorpe WMC A      
-Martin Cross              21 Edwin Wilkinson         19 
+Andrew Callaghan          17 Steve Lonnia            21 
 Mel Whitaker              12 Andy Webb               21 
+Martin Cross              21 Edwin Wilkinson         19 
 Graeme Eyre               21 Karl Dutton             10 
 Peter Lamb                21 Amanda Hagen            20 
-Stephen Briggs            11 Dave Cowsill            21 
 Laurie Woodlock           21 Colin Lloyd             17 
 Chris Goodwin             16 Jeff Normanton          21 
-Andrew Callaghan          17 Steve Lonnia            21 
+Stephen Briggs            11 Dave Cowsill            21 
               Aggregate: 140             Aggregate: 150 
 
          Division 2                 Thu 29th May        
@@ -2417,13 +1862,13 @@ Steve Powell              21 Carolyn Duckett         16
               Aggregate: 115             Aggregate: 156 
 
          Division 2                 Thu 29th May        
-     Alverthorpe WMC B             Horbury WMC A        
+     Alverthorpe WMC B              Horbury WMC         
 Anita Dack                 8 Adrian Smart            21 
 William Grayley            9 Phillip Dunnill         21 
 Abigail Tiler             12 Kath Andrews            21 
 John Smart                12 Den Law                 21 
-Richard Quarmby           16 Arthur Clarkson         21 
-Phillip Schofield         21 Steven Crummack         10 
+Richard Quarmby           16 A Clarkson              21 
+Phillip Schofield         21 S Crummack              10 
 Colin Quarmby             21 Derek Hawes              5 
 James Tiler               21 David Horan              2 
               Aggregate: 120             Aggregate: 122 
@@ -2456,7 +1901,7 @@ Brian Marden               4 Alan Smith              21
       Skelmanthorpe B              Denby Grange B       
 Liz Barden                14 Graham Blythe           21 
 Stephen Auty              16 David Wright            21 
-Jamal Kelly               21 Ben Keeling             13 
+Jamal Kelly               21 Keeling Ben             13 
 Richard Auty              21 Josh Broadhead          15 
 John Fisher               21 Bryan Thomas            12 
 Graham Roys               21 Malcolm Brown            7 
@@ -2507,20 +1952,20 @@ Andrew Lord               21 Steve Darby              5
 Stephen Haist             17 John Hepworth           21 
 Kevin Goodhall            12 Kate Moore              21 
 Paul Giblin               21 Steve Slawycz           10 
-Linda Goodhall            21 Paul Wainwright          4 
 C Scargill                11 Mick Shaw               21 
+Linda Goodhall            21 Paul Wainwright          4 
 Holger Cole                9 Simon Geal              21 
               Aggregate: 131             Aggregate: 124 
 
          Division 4                 Thu 29th May        
          Overthorpe                Smirthwaite C        
 Geraldine Dickinson       21 Craig Measham           15 
-Heather Jewitt            21 Lisa Evans               8 
+Heather Jewitt            21 L Evans                  8 
 Andy Wilson               21 B Daniel                 7 
 Leah Wetherill            21 D Watson                12 
 Anthony Dickinson         21 Neil Clayton            16 
 Richard Sweeney            6 George Hall             21 
-Johny Smith               21 Mick Wood                5 
+Johny Smith               21 Michael Wood             5 
 Nathan Jewitt             17 Dale Evans              21 
               Aggregate: 149             Aggregate: 105 
 
@@ -2544,7 +1989,7 @@ Sam Ascough               20 Diane Pitchford         21
 Martin Barlow             21 Stewart Widdrington      4 
 Kath Andrews              21 Eric Law                14 
 Den Law                   21 Connor Dunford          14 
-Adrian Smart              21 Terry Fletcher           8 
+Adrian Smart              21 Terence Fletcher         8 
 Phillip Dunnill           21 David Clarkson           6 
               Aggregate: 163             Aggregate: 105 
 
@@ -2574,14 +2019,662 @@ Clive Sabey               21 Michael Murphy          18
 
          Division 3                 Fri 30th May        
         Thornhill B               Ossett C & AC C       
-Stephen Wainwright        21 John Kennelly            9 
-Kath Robinson             21 Linda Callaghan          8 
-Mandy Mitchell            21 Rena Hirstle             8 
-Ben Gibson                21 Alan Nash                7 
-Phil Gamble               21 Nora Collier            15 
 Julie Makepeace           21 Alison Sykes            11 
 Jennifer Gray             18 Diane Pitchford         21 
+Ben Gibson                21 Alan Nash                7 
+Kath Robinson             21 Linda Callaghan          8 
+Phil Gamble               21 Nora Collier            15 
+Stephen Wainwright        21 John Kennelly            9 
 Derek Robinson            21 Keith Hirstle           18 
+Mandy Mitchell            21 Rena Hirstle             8 
               Aggregate: 165             Aggregate:  97 
+
+      Premier Division              Thu 5th Jun         
+          Sandal A                  Thornhill A         
+James Davison             21 Ryan Mitchell           11 
+Nigel Cranston            16 Steve Davis             21 
+Gary Wike                 21 Gary Mountain           12 
+Darren Pitchforth         21 Aiden Fox                6 
+Craig Hopwood             21 Graham Hirst             5 
+James Hanson              21 James McNeil            11 
+Leighton Shuttleworth     21 Stephen Wainwright       6 
+Ben Sweeney               20 Ian Newby               21 
+              Aggregate: 162             Aggregate:  93 
+
+      Premier Division              Thu 5th Jun         
+      Skelmanthorpe A                 Sandal B          
+Chris Kelly               21 Martin Eley             13 
+Josh Brown                21 Darren Pitchforth        8 
+Ashley Daykin             21 Steve Simmonds           8 
+Harry Lumb                21 Joshua Eley              7 
+Nick White                21 Darren Crummack          4 
+Ross Meese                21 Kristian Shuttleworth    9 
+Jack Dyson                21 Andrew Evison            3 
+Mark Booth                21 Lee Grieve              17 
+              Aggregate: 168             Aggregate:  69 
+
+      Premier Division              Thu 5th Jun         
+      Ossett C & AC A              Smirthwaite A        
+Nigel Miller              21 G Gidman                12 
+Oscar Scott-Parker        21 Marc Armitage           19 
+Joshua Dunford            16 Craig Newton            21 
+Sam Beresford             21 Colin Bradley           13 
+Mick Scott                21 Martin Shepherd         18 
+Robert Dunford            21 Peter Farrar             3 
+Noel Whitaker             21 John Webster            13 
+Stuart Daniel             11 David Robson            21 
+              Aggregate: 153             Aggregate: 120 
+
+      Premier Division              Thu 5th Jun         
+      Castleford Town             Hanging Heaton A      
+Calum Fennell             21 Mason Lindley           11 
+Mark Brain                21 Jonathan Orbell         13 
+David Watson              21 Simon Metcalfe          18 
+Daniel Revell             18 Sebastian Mordue        21 
+Robert McGuire            18 Roger Birdsall          21 
+S Williams                16 David Armitage          21 
+Dean Hopwood              14 Pam Lindley             21 
+Robert Lloyd               8 Chris Mordue            21 
+              Aggregate: 137             Aggregate: 147 
+
+      Premier Division              Thu 5th Jun         
+       Spen Victoria                  Rothwell          
+Chris Ellis               15 Gareth Lally            21 
+Harley Tattersley         21 Garry Dennison          13 
+Ben Halliday              21 Josh Thomas             12 
+Danny Teale               21 Thomas Scorah           18 
+Richard Crowther          21 David Thomas            16 
+Andrew Gallagher          18 Charlotte Holmes        21 
+Neil Wood Jr              21 Kez Smith               20 
+Ash Tattersley            11 Mark Hughes             21 
+              Aggregate: 149             Aggregate: 142 
+
+         Division 1                 Thu 5th Jun         
+     Alverthorpe WMC A             Denby Grange A       
+Karl Dutton               21 George Fisher           15 
+Mick Cooney               15 Charlie Fisher          21 
+Edwin Wilkinson           21 Katie Morgan            17 
+Dave Cowsill              17 David Fisher            21 
+Phillip Schofield         10 Neil Broadhead          21 
+Keith Exley               15 David Walker            21 
+Graham Smith              11 Danny Towning - Smith   21 
+Jeff Normanton            18 Danny Walker            21 
+              Aggregate: 128             Aggregate: 158 
+
+         Division 1                 Thu 5th Jun         
+        Dodworth MW                West Bretton A       
+Jack Wareing              21 James Szabo             12 
+Mark Bramall              21 Tim Chadwick            20 
+Tom Marsland              21 Steve Hall              13 
+Josh Talbot               21 Ian Fisher               4 
+Jack Hill                 21 Richard Stead           11 
+Carl Whitham              21 Peter Rhodes             5 
+Nigel McDermott           21 Kim Fisher              15 
+Barry Holland             21 Steven Sykes             3 
+              Aggregate: 168             Aggregate:  83 
+
+         Division 1                 Thu 5th Jun         
+        Slazenger A                Clayton West A       
+Gary Eastwood             10 Bob Dalby               21 
+Liam Redican              21 T Poulter               16 
+Luke Gant                 21 M Greenall              17 
+Zak Bond                  21 D Richardson            15 
+John Wilkinson            10 Neale Wallace           21 
+Wayne Bond                18 G Richardson            21 
+Derek McAdam               9 M Gilbert               21 
+Andy Hoult                21 Michael Pollard         10 
+              Aggregate: 131             Aggregate: 142 
+
+         Division 1                 Thu 5th Jun         
+        Heckmondwike            Ossett Flying Horse     
+Darren Goodall             6 Graham Blenkinsop       21 
+Roy Carter                15 Kevin Burns             21 
+Logan Preston             12 Robert Bennett          21 
+Darren Ripley             21 Danny Hallas             8 
+Sean Carter               21 Graham Higgins          14 
+Jude Hatfield-Goodall     21 Gordon Hird             20 
+Jacob Hatfield-Goodall    21 Paul Wildgoose           8 
+Jon Edmondson             21 Roger Lunn              15 
+              Aggregate: 138             Aggregate: 128 
+
+         Division 1                 Thu 5th Jun         
+        Morton House              Ossett C & AC B       
+Adrian Leach              21 Martin Cross            15 
+Marcus Leach              21 Peter Lamb              16 
+Charlie Ripley            21 Andrew Callaghan         9 
+Paul Wright               12 Mel Whitaker            21 
+Tom Gilbert               21 Chris Goodwin            8 
+Harrison Messinger        21 Stephen Briggs          10 
+Wayne Kemp                21 Bryan Collier           10 
+Michael Sweeney           12 Laurie Woodlock         21 
+              Aggregate: 150             Aggregate: 110 
+
+         Division 2                 Thu 5th Jun         
+        Savile Park              Pudsey Littlemoor      
+Jade Johnson              12 Nichole Farrar          21 
+David Steel                6 Mark Dobson             21 
+Alfie Hutchinson          14 Steve Bowes             21 
+Nicola Portman            21 Adam Wider              10 
+Richard Johnson           21 Matthew Leaf            14 
+Danny Hope                15 Alex Wolfenden          21 
+Liam Massey               21 Mark Allman              8 
+Gary Haley                 9 Simon Wider             21 
+              Aggregate: 119             Aggregate: 137 
+
+         Division 2                 Thu 5th Jun         
+        Horbury WMC                 Slazenger B         
+Adrian Smart              21 Stephen Boyer            7 
+Phillip Dunnill           21 Roger Byard              7 
+S Crummack                21 Lucie Harding           10 
+John Stokes               21 Jeff Shaw               16 
+David Horan               21 Jack Teal               17 
+David Purssell            19 Angela Pursglove        21 
+Den Law                   21 Gary Denton             20 
+Kath Andrews              11 Maureen Jennings        21 
+              Aggregate: 156             Aggregate: 119 
+
+         Division 2                 Thu 5th Jun         
+       Smirthwaite B               Outwood WMC A        
+Dale Evans                21 Howard Rose             18 
+Tom Knapper               19 Neil Parkin             21 
+Roy Limb                  21 David Wright            18 
+R Dunwell                 21 Richard Ramsden         20 
+Graham Kirkaldy           21 Mick Booth               4 
+M Watson                  21 Steve Bennett            6 
+Glen Evans                18 Steve Goddard           21 
+A France                  21 Stuart Race             20 
+              Aggregate: 163             Aggregate: 128 
+
+         Division 2                 Thu 5th Jun         
+      Hanging Heaton B             Wakefield BC A       
+Michael Underhill         21 David Crest             14 
+Ian Taylor                21 Gosia Miszewska          3 
+Peter Byrne               21 Kaz Habib                9 
+Jacob Amatt               21 Trevor Newey            12 
+Derek North               21 Peter Claven            19 
+David Ormsby              11 Robyn Walters           21 
+Paul Murphy               21 John Dudding            12 
+Gary Amatt                21 Mark Young              11 
+              Aggregate: 158             Aggregate: 101 
+
+         Division 3                 Thu 5th Jun         
+    West Yorks Sports A            Horbury Bridge       
+Christopher Gannon         4 Rob Taylor              21 
+Neil Anderson             21 Geoff Close             16 
+Sarah Dixon               21 Kevin Scott             20 
+David Harvey              10 Adrian Lane             21 
+John O'Hara               18 Jim Liversidge          21 
+Mark Lingard               9 Brian Beddow            21 
+David Dixon               21 Martin Turner            8 
+Alan Smith                 9 John Kilvington         21 
+              Aggregate: 113             Aggregate: 149 
+
+         Division 3                 Thu 5th Jun         
+       Wake Thornes A             Skelmanthorpe B       
+R Stables                 17 Liz Barden              21 
+C Shipley                 21 Stephen Auty            16 
+Diane Eley                21 Martin Schofield        19 
+J Walker                  21 Richard Auty            16 
+S Findlay                 21 John Fisher             13 
+D Guile                   21 Jamal Kelly             15 
+Gerry Taylor              21 Graham Roys              9 
+D Warwick                 21 Sam Seargent            20 
+              Aggregate: 164             Aggregate: 129 
+
+         Division 3                 Thu 5th Jun         
+        Earlsheaton                 Wrenthorpe A        
+Nigel Ainley              18 Philip Berry            21 
+Malcolm Battye            14 Jenny Berry             21 
+Jenny Pitchforth          18 Dave Gordon             21 
+Daniel Logan              21 John Scholey            11 
+David McNally             21 Anthony Dixon           13 
+Karen Ainley              14 Dave White              21 
+Lee Crossland              6 Gary Dawson             21 
+Keith Pinchbeck           21 Paul Horrocks            4 
+              Aggregate: 133             Aggregate: 133 
+
+         Division 3                 Thu 5th Jun         
+       Denby Grange B                 Sandal C          
+David Wright               2 John Packer             21 
+Ian Davis                 10 Paul Hawes              21 
+Bryan Thomas               3 Neil Brighton           21 
+Chris Shires              21 Rob Curzon              20 
+Phil Mack                 21 Doug Lawson             17 
+Graham Blythe             21 Lynn Lawson              8 
+Keeling Ben               18 Colin Mackinder         21 
+Josh Broadhead            21 Mel Whittaker           13 
+              Aggregate: 117             Aggregate: 142 
+
+         Division 4                 Thu 5th Jun         
+        Wrenthorpe B                 Stanley A          
+Jack Norton                5 Karen Haist             21 
+Joan Bailey               21 C Scargill              16 
+Dennis Mercer             18 Kevin Goodhall          21 
+Les Bailey                20 Julia Wright            21 
+Paul Curtis               21 Stephen Haist           10 
+Dot White                  4 Paul Giblin             21 
+Claire Curtis             21 Andrew Lord             13 
+John Nunn                 12 Linda Goodhall          21 
+              Aggregate: 122             Aggregate: 144 
+
+         Division 4                 Thu 5th Jun         
+           B J D                     Brookhouse         
+Gerry Pickard             21 Grenville Smith          4 
+David Shearstone          18 Jeremy Wightman         21 
+Alan Mullins              21 Mark Whittaker           5 
+Ken Channer               21 John Best               15 
+Peter Richmond            10 Declan Brown            21 
+Gillian Haigh             21 Richard Shackleton       9 
+Thomas Wright             21 Tony Codner             11 
+Les Conway                21 Andrew Codner           14 
+              Aggregate: 154             Aggregate: 100 
+
+         Division 4                 Thu 5th Jun         
+       Smirthwaite C                Slazenger C         
+Michael Wood              20 David Griffiths         21 
+L Evans                   21 Pamela Studd            19 
+D Watson                  12 Stuart Kelly            21 
+George Hall               21 Tricia Eastwood         14 
+Neil Clayton              19 Julie Dexter            21 
+R Nowakowski               5 Graham Bracewell        21 
+Craig Measham             21 Kathryn Redican         16 
+M Nowakowski              21 Elaine Griffiths        16 
+              Aggregate: 140             Aggregate: 149 
+
+         Division 4                 Thu 5th Jun         
+       Clayton West B                 Altofts           
+John Romano               21 Nigel Oakley             7 
+P Taylor                  20 Graham Brook            21 
+Jason Mosley              15 M Bradley               21 
+D Hallas                  21 Steve Newman            13 
+M Sellars                 21 Dave Cunniff            17 
+Stuart Simmons            16 Darren Cartwright       21 
+H Sansom                  12 Paul Hartshorne         21 
+Stuart England            21 Geoff Mulvey            16 
+              Aggregate: 147             Aggregate: 137 
+
+         Division 4                 Thu 5th Jun         
+       West Bretton B                Overthorpe         
+Carol Stevenson           19 Geraldine Dickinson     21 
+Simon Geal                19 Andy Wilson             21 
+Kate Moore                21 Tony Greenlees           5 
+Paul Wainwright           21 Heather Jewitt          15 
+John Hepworth             19 Paul Bramwell           21 
+Mick Shaw                 21 Anthony Dickinson       18 
+Mathew Boud               21 Richard Sweeney          7 
+Steve Slawycz             21 Johny Smith             17 
+              Aggregate: 162             Aggregate: 125 
+
+         Division 5                 Thu 5th Jun         
+       Wakefield BC B              Holmfield Park       
+Dorothy Smith             21 Howard Riley            20 
+Anita Lawson              21 Barbara Oxley           14 
+Tony Moss                 21 Peter Birch             11 
+Donald Ward               21 David Smith             17 
+Margaret Carter           21 Lucas Manousios         18 
+Ron Greenwood             21 Lee Woodrow              8 
+Michael Murphy            21 Shirley Griffiths       15 
+Nigel James               10 Eric France             21 
+              Aggregate: 157             Aggregate: 124 
+
+         Division 5                 Thu 5th Jun         
+         Stanley B              West Yorks Sports B     
+Susan Plant               19 Dorothy Edwards         21 
+Vicky Peters              21 Janet Schofield          8 
+Cheryl Cole               16 Patricia Ryder          21 
+Eric Szpyrka              21 Janet Denton             9 
+Keith Lawrance            21 Jean Chaplin            11 
+Tony Bell                 21 John Wallis             13 
+Antony Bolton             19 Brian Wild              21 
+Gordon Ellis              21 Clive Sabey             17 
+              Aggregate: 159             Aggregate: 121 
+
+         Division 5                 Thu 5th Jun         
+       Outwood WMC B              Skelmanthorpe C       
+Robert Race               21 Julie Hardy             15 
+Frank Atkinson            21 Joanne McLaughlan       16 
+Alison Birkett            18 Andrew McLaughlan       21 
+Christine Davis           21 Kevin Booth             20 
+David Nichol              21 Pamela Roys              7 
+John Wood                 21 Trevor Brook             8 
+Tony Hunter               21 John Kitching            4 
+Carl Bland                21 Brenda Ayre              3 
+              Aggregate: 165             Aggregate:  94 
+
+         Division 5                 Thu 5th Jun         
+      Ossett C & AC D              Wake Thornes B       
+Eric Law                  21 Sue Twohig              10 
+David Clarkson             7 R Stables               21 
+Pauline Clarkson          21 Susan Holling           16 
+Diane Pitchford           21 D Warwick               11 
+Terence Fletcher          21 Wayne Holling            5 
+Stewart Widdrington       21 J Leith                 14 
+Connor Dunford            15 Brian Oselton           21 
+Kevin Smith               21 Jayne Richardson        16 
+              Aggregate: 148             Aggregate: 114 
+
+         Division 3                 Tue 10th Jun        
+          Sandal C                 Horbury Bridge       
+David Bancroft            13 Mark Senior             21 
+Mel Whittaker             21 Adrian Lane             15 
+Neil Brighton             21 Jim Liversidge           9 
+Doug Lawson               21 Geoff Close             15 
+Colin Mackinder           17 Andrew Fawcett          21 
+David Roscoe              16 Brian Beddow            21 
+Rob Curzon                21 Kevin Scott             16 
+John Packer               21 John Kilvington          4 
+              Aggregate: 151             Aggregate: 122 
+
+         Division 4                 Tue 10th Jun        
+        Slazenger C                Clayton West B       
+Graham Bracewell          21 P Taylor                 2 
+Elaine Griffiths          21 Kenneth Taylor          18 
+Kathryn Redican           21 Stuart England          12 
+David Fox                 15 John Romano             21 
+Arthur Birro               8 M Sellars               21 
+Julie Dexter              11 D Hallas                21 
+Pamela Studd              21 Sue Lindley              7 
+Stuart Kelly              21 Jason Mosley            20 
+              Aggregate: 139             Aggregate: 122 
+
+         Division 5                 Tue 10th Jun        
+      Skelmanthorpe C              Wake Thornes B       
+Trevor Brook              21 Jayne Richardson        19 
+Brenda Ayre                8 Susan Holling           21 
+Pamela Roys               21 G Milner                15 
+Andrew McLaughlan         21 D Warwick               10 
+John Kitching             21 Bob Holmes               7 
+Cerise Booth              18 Khalid Mahmood          21 
+Kevin Booth               21 Wayne Holling            1 
+Julie Hardy               17 Brian Oselton           21 
+              Aggregate: 148             Aggregate: 115 
+
+      Premier Division              Thu 12th Jun        
+        Thornhill A                   Rothwell          
+Steve Davis               21 David Thomas            13 
+James McNeil               8 Mark Hughes             21 
+Andy Mitchell             21 Thomas Scorah           19 
+Ryan Mitchell             19 Charlotte Holmes        21 
+Ian Newby                 17 Gareth Lally            21 
+Kath Robinson             17 Garry Dennison          21 
+Paul Sweeney              20 Josh Thomas             21 
+Stephen Wainwright        11 Kez Smith               21 
+              Aggregate: 134             Aggregate: 158 
+
+      Premier Division              Thu 12th Jun        
+      Hanging Heaton A            Skelmanthorpe A       
+Simon Metcalfe            20 Mark Booth              21 
+Mason Lindley             17 Ross Meese              21 
+Jonathan Orbell           21 Nick White              17 
+Pam Lindley               10 Jack Dyson              21 
+Sebastian Mordue          11 Harry Lumb              21 
+David Armitage            14 Josh Brown              21 
+Chris Mordue              21 Ashley Daykin           20 
+Roger Birdsall             7 Chris Kelly             21 
+              Aggregate: 121             Aggregate: 163 
+
+      Premier Division              Thu 12th Jun        
+       Smirthwaite A               Spen Victoria        
+Colin Bradley             14 Peter Ellis             21 
+Peter Farrar              16 Danny Teale             21 
+G Gidman                  14 Richard Crowther        21 
+Darren Hennessy           20 Andrew Gallagher        21 
+Leigh Measham             13 Ash Tattersley          21 
+Craig Newton              18 Mark Goodall            21 
+David Robson              21 Chris Ellis             14 
+Martin Shepherd           14 Harley Tattersley       21 
+              Aggregate: 130             Aggregate: 161 
+
+      Premier Division              Thu 12th Jun        
+          Sandal B                Castleford Town       
+Joshua Eley               10 S Williams              21 
+John Packer               20 Dean Hopwood            21 
+Andrew Evison             21 Mark Brain              20 
+Paul Hawes                21 Robert McGuire          13 
+Lee Grieve                21 Calum Fennell           13 
+Steve Simmonds            21 K Siddle                11 
+Darren Crummack           21 Robert Lloyd            10 
+Martin Eley               21 Daniel Revell            9 
+              Aggregate: 156             Aggregate: 118 
+
+      Premier Division              Thu 12th Jun        
+      Ossett C & AC A                 Sandal A          
+Robert Dunford            21 Joe Cranston            15 
+Noel Whitaker             15 Craig Hopwood           21 
+Oscar Scott-Parker        21 Nigel Cranston          13 
+Sam Beresford              7 Ben Sweeney             21 
+Mick Scott                21 Martin Eley             13 
+Joshua Dunford            21 Kristian Shuttleworth    8 
+Nigel Miller               8 Gary Wike               21 
+Stuart Daniel             21 Darren Pitchforth       14 
+              Aggregate: 135             Aggregate: 126 
+
+         Division 1                 Thu 12th Jun        
+       Clayton West A            Alverthorpe WMC A      
+M Greenall                21 Amanda Hagen            10 
+T Poulter                 21 Edwin Wilkinson         13 
+D Richardson              21 Mick Cooney             13 
+Bob Dalby                 21 Jeff Normanton          17 
+R Clarkson                21 Karl Dutton             16 
+G Richardson              21 Graham Smith            19 
+E Haigh                   19 Andy Webb               21 
+M Gilbert                 13 Dave Cowsill            21 
+              Aggregate: 158             Aggregate: 130 
+
+         Division 1                 Thu 12th Jun        
+        Heckmondwike                Dodworth MW         
+Jacob Hatfield-Goodall    21 Debbie Talbot           11 
+Jon Edmondson             21 Barry Holland           15 
+Darren Goodall            21 Jack Wareing            18 
+Jude Hatfield-Goodall     21 Jack Hill               19 
+Sean Carter                8 Tom Marsland            21 
+Peter Simpson              8 Mark Bramall            21 
+Logan Preston              8 Nigel McDermott         21 
+Poppy Fox                  7 Josh Talbot             21 
+              Aggregate: 115             Aggregate: 147 
+
+         Division 1                 Thu 12th Jun        
+       Denby Grange A               Slazenger A         
+Charlie Fisher            13 Lee Barrett             21 
+David Fisher              21 Gary Larner             12 
+Danny Walker              21 Mick Redican            17 
+David Walker              21 Liam Redican            20 
+Chris Shires              21 Zak Bond                19 
+Neil Broadhead            10 Wayne Bond              21 
+George Fisher              7 Luke Gant               21 
+Danny Towning - Smith     18 Andy Hoult              21 
+              Aggregate: 132             Aggregate: 152 
+
+         Division 1                 Thu 12th Jun        
+       West Bretton A             Ossett C & AC B       
+James Szabo               21 Stephen Briggs           6 
+Peter Rhodes              21 Andrew Callaghan         8 
+Steve Hall                21 Bryan Collier           11 
+Richard Stead             21 Laurie Woodlock         15 
+Steven Sykes              21 Peter Lamb              16 
+Tim Chadwick              18 Graeme Eyre             21 
+Kim Fisher                14 Martin Cross            21 
+Ian Fisher                10 Chris Goodwin           21 
+              Aggregate: 147             Aggregate: 119 
+
+         Division 1                 Thu 12th Jun        
+    Ossett Flying Horse             Morton House        
+Robert Bennett            13 Chris Sweeney           21 
+Paul Wildgoose            21 Michael Sweeney          9 
+Danny Hallas              13 Harrison Messinger      21 
+Gordon Hird               21 Tom Gilbert             14 
+Adam Ward                  9 Adrian Leach            21 
+Graham Blenkinsop         21 Marcus Leach            15 
+Roger Lunn                21 Wayne Kemp              13 
+Graham Higgins            20 Charlie Ripley          21 
+              Aggregate: 139             Aggregate: 135 
+
+         Division 2                 Thu 12th Jun        
+     Pudsey Littlemoor             Smirthwaite B        
+Mark Allman               21 Kevin Box               11 
+Steve Bowes               21 Glen Evans               9 
+Matthew Leaf              21 Tom Knapper             11 
+Tom Morris                21 A France                11 
+Adam Wider                21 Dale Evans               9 
+Simon Wider               21 M Watson                17 
+Alan Mazurke              21 R Dunwell               13 
+Glenn Pratt               21 Graham Kirkaldy          6 
+              Aggregate: 168             Aggregate:  87 
+
+         Division 2                 Thu 12th Jun        
+       Outwood WMC A                Savile Park         
+David Wright              19 Liam Massey             21 
+David Nichol              21 Alfie Hutchinson        18 
+Howard Rose               21 Steven Portman           9 
+Richard Ramsden           21 David Steel             16 
+Steve Goddard              7 P Whipp                 21 
+Neil Parkin               21 Gary Haley              18 
+Peter Varley              21 Carolyn Duckett         16 
+Stuart Race               21 Karen Portman           16 
+              Aggregate: 152             Aggregate: 135 
+
+         Division 2                 Thu 12th Jun        
+        Slazenger B                Wakefield BC A       
+Carol Boyer               18 Kaz Habib               21 
+Stephen Boyer             17 John Dudding            21 
+Lucie Harding             15 David Crest             21 
+Jack Teal                 10 Mark Young              21 
+Angela Pursglove          21 David Clough            12 
+Jeff Shaw                 21 Peter Claven            10 
+Maureen Jennings          21 Robyn Walters           11 
+Gary Denton               21 Trevor Newey            20 
+              Aggregate: 144             Aggregate: 137 
+
+         Division 3                 Thu 12th Jun        
+      Skelmanthorpe B           West Yorks Sports A     
+Stephen Auty              17 Mark Lingard            21 
+Martin Schofield          21 Christopher Gannon      10 
+Jamal Kelly                7 Clive Sabey             21 
+Richard Auty              21 Sarah Dixon             15 
+John Fisher               21 Neil Anderson            9 
+Johnathon Taylor          21 John O'Hara              7 
+Sam Seargent              21 David Dixon             12 
+Lee Dobson                21 Allan Poyser            12 
+              Aggregate: 150             Aggregate: 107 
+
+         Division 3                 Thu 12th Jun        
+        Wrenthorpe A                Thornhill B         
+Eileen Wardman            13 Ben Gibson              21 
+Brian Marden              17 Claire Price            21 
+John Scholey               9 Phil Gamble             21 
+Anthony Dixon             21 Mandy Mitchell          13 
+Philip Berry              21 Derek Robinson          16 
+Dave Gordon               21 David Tolson            18 
+Jenny Berry               21 Anne Graham              5 
+Gary Dawson               19 Jennifer Gray           21 
+              Aggregate: 142             Aggregate: 136 
+
+         Division 3                 Thu 12th Jun        
+       Wake Thornes A              Denby Grange B       
+Khalid Mahmood             5 Josh Broadhead          21 
+D Warwick                 20 Graham Blythe           21 
+Brian Oselton             21 Keeling Ben             10 
+Diane Eley                21 Malcolm Brown           16 
+S Findlay                 21 Corey Tattersley        10 
+C Shipley                 21 Bryan Thomas             5 
+D Guile                   14 Rob Norbury             21 
+Gerry Taylor              21 Ian Davis               15 
+              Aggregate: 144             Aggregate: 119 
+
+         Division 3                 Thu 12th Jun        
+      Ossett C & AC C               Earlsheaton         
+Nora Collier              10 Keith Pinchbeck         21 
+Alison Sykes              21 Karen Ainley            12 
+Linda Callaghan           21 Jenny Pitchforth        17 
+John Kellett              21 Daniel Logan            10 
+Karen Kellett             21 Yvonne Ainley           16 
+Alan Nash                 18 Malcolm Battye          21 
+Svajunas Kapitan          19 David McNally           21 
+Connor Dunford            21 Nigel Ainley            15 
+              Aggregate: 152             Aggregate: 133 
+
+         Division 4                 Thu 12th Jun        
+         Stanley A                    Altofts           
+Holger Cole               21 Paul Frankish           12 
+Stephen Haist             21 Nigel Oakley            20 
+Andrew Lord               21 Steve Newman            14 
+Julia Wright              18 Geoff Mulvey            21 
+Kevin Goodhall            21 Dave Cunniff            18 
+Linda Goodhall            21 Graham Brook            11 
+Karen Haist               17 Darren Cartwright       21 
+Paul Giblin               17 Paul Hartshorne         21 
+              Aggregate: 157             Aggregate: 138 
+
+         Division 4                 Thu 12th Jun        
+         Overthorpe                    B J D            
+Geraldine Dickinson       21 Gerry Pickard            9 
+Tony Greenlees            21 David Shearstone         8 
+Andy Wilson               21 Alan Mullins             8 
+Heather Jewitt            21 Peter Richmond           8 
+Les Bell                  20 Thomas Wright           21 
+Richard Sweeney           21 Ken Channer             13 
+Anthony Dickinson         12 Gillian Haigh           21 
+Johny Smith               13 Les Conway              21 
+              Aggregate: 150             Aggregate: 109 
+
+         Division 4                 Thu 12th Jun        
+       Smirthwaite C                Wrenthorpe B        
+L Evans                   19 Harry Baxby             21 
+D Watson                  21 Charles Dews            11 
+Roy Limb                  21 John Nunn               13 
+Gary Powis                21 Les Bailey              15 
+Craig Measham             21 Mick Smith              10 
+Michael Wood              21 Joan Bailey             15 
+George Hall               21 Claire Curtis           14 
+M Nowakowski              21 Paul Curtis             10 
+              Aggregate: 166             Aggregate: 109 
+
+         Division 4                 Thu 12th Jun        
+         Brookhouse                West Bretton B       
+Barry Young               15 Carol Stevenson         21 
+Tony Codner               21 Kate Moore              13 
+John Best                 14 Paul Wainwright         21 
+Richard Shackleton        12 Steve Darby             21 
+Jeremy Wightman           21 John Hepworth            9 
+Mark Whittaker             7 Alan Munro              21 
+Declan Brown              21 Mick Shaw                9 
+Andrew Codner             11 Mathew Boud             21 
+              Aggregate: 122             Aggregate: 136 
+
+         Division 5                 Thu 12th Jun        
+       Horbury WMC B                 Stanley B          
+Andrew Hughes             21 Keith Lawrance          19 
+Paul Shilito              21 Anne Waring              3 
+Michael Gilbert           21 Alan Parkin              4 
+Terry Walker              21 Vicky Peters             9 
+Kath Andrews              21 Eric Szpyrka            16 
+Sam Ascough               21 Tony Bell               12 
+Bede McCullough           21 Antony Bolton           13 
+Derek Hawes               21 Gordon Ellis            15 
+              Aggregate: 168             Aggregate:  91 
+
+         Division 5                 Thu 12th Jun        
+       Wakefield BC B              Outwood WMC B        
+Anita Lawson              14 Robert Race             21 
+Donald Ward               20 Peter Davis             21 
+Nigel James               11 John Wood               21 
+Tommy Hanley              18 Graham Bluff            21 
+Nigel Brook               17 Frank Atkinson          21 
+Michael Murphy            21 Carl Bland              20 
+Tony Moss                  9 Tony Hunter             21 
+Ron Greenwood             21 John Birkett             5 
+              Aggregate: 131             Aggregate: 151 
+
+         Division 5                 Thu 12th Jun        
+       Holmfield Park             Ossett C & AC D       
+Shirley Griffiths         21 Eric Law                 7 
+Barbara Oxley             21 Pauline Clarkson        10 
+Lee Woodrow               21 Sharon Scholey           4 
+Frank Ryan                21 Stewart Widdrington      6 
+Lucas Manousios            7 Diane Pitchford         21 
+Eric France               21 Kevin Smith              1 
+Howard Riley              21 David Clarkson           8 
+David Smith               21 John Kennelly           18 
+              Aggregate: 154             Aggregate:  75 
 
 
