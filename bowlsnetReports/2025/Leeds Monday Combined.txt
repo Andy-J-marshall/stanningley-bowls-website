@@ -1,4 +1,4 @@
-=== Leeds & District (Mon. Combined) 2025 (as of Sun 15th Jun)
+=== Leeds & District (Mon. Combined) 2025 (as of Tue 17th Jun)
 === League Match Cards
 
         Div 1             Mon 21st Apr      
@@ -699,5 +699,83 @@ Helen Johnson      21 Dave Taylor        17
 Thomas Johnson        Pat Skelton           
        Aggregate: 121        Aggregate:  92 
           Points:  28           Points:  18 
+
+        Div 1             Mon 16th Jun      
+     Gildersome            New Wortley      
+David Rawson        6 Malcolm Crowson    21 
+Linda Gaunt        21 Stephen Morley     16 
+Tracey Norton      21 Angela Morley      17 
+Alan Procter       21 Thomas Cuddy        6 
+Alison Lockwood    15 Danny Dawson       21 
+Ian Stocks            Martin Heys           
+Andy Lockwood      21 Stuart Reardon     10 
+David Norton          Marie Tate            
+       Aggregate: 105        Aggregate:  91 
+          Points:  24           Points:  19 
+
+        Div 1             Mon 16th Jun      
+      Harehills            Whitkirk A       
+Raymond Swallow     9 T Green            21 
+David Smith        21 G Hodder           10 
+Laura Love         21 Phil Cox           13 
+Steven Dolan        3 S Cahill           21 
+Jade Kerry         11 P Hill             21 
+Sharon Kerry          Dave McGourty         
+Peter Simmons      21 Jason Richards     16 
+Alan McConnell        M Sheerin             
+       Aggregate:  86        Aggregate: 102 
+          Points:  18           Points:  22 
+
+        Div 2             Mon 16th Jun      
+   Western Flatts         Bramley Park      
+Peter Colley       21 Peter Caine        15 
+Gordon Stalker     13 Shilrley Allman    21 
+Granville Stoyles  21 Barry Palmer       17 
+David Turner        9 Brian Fish         21 
+Glennys Ash        21 Sean Fish          19 
+Joanna Rochester      Bob Davison           
+Dot Taylor         21 Terry Astley       10 
+Andrew Ash            Keith Davison         
+       Aggregate: 106        Aggregate: 103 
+          Points:  23           Points:  22 
+
+        Div 2             Mon 16th Jun      
+      Meanwood           Chapel Allerton    
+Oliver Devaney     21 Steve Bird         13 
+Jenny Holiday      21 Alan Smith         12 
+Wendy Skyes        21 David Miller        6 
+Jenice Guild       19 Matthew Watson     21 
+Maureen Sheridan   21 Anne Miller        16 
+Julie Keightley       Colin Wilson          
+Ian Macfarlane     19 Ian McMillan       21 
+Jeff Drumbell         Laurentiu Barbu       
+       Aggregate: 122        Aggregate:  89 
+          Points:  28           Points:  18 
+
+        Div 2             Mon 16th Jun      
+     Whitkirk B           Scatcherd Pk      
+Jim Smith          21 Roy Kellett         7 
+Chloe Jackson      21 Jack Morley        14 
+P Hatch            21 Peter Oldfield     19 
+Andy Johnson       21 Keith Kincaid       3 
+Helen Johnson      21 Richard Stott      11 
+Thomas Johnson        Wendy Leybourne       
+S Worthington      21 Elliot Beddard      4 
+P Hardy               Les Cheney            
+       Aggregate: 126        Aggregate:  58 
+          Points:  30           Points:   9 
+
+        Div 2             Mon 16th Jun      
+    Rothwell BC B          New Farnley      
+John Hemingway     21 Sue Jones          20 
+Nigel Richardson   21 Emma Dixon         12 
+Mark Scruton       14 Howard Fowler      21 
+Robert Leighton     6 Dave Taylor        21 
+Mick Bagshaw       21 Keith Walker       13 
+Trevor Hawkin         Steve Nelson          
+Lyn Owen           21 John Dixon          3 
+Alfie Hutchinson      Harry Dixon           
+       Aggregate: 104        Aggregate:  90 
+          Points:  23           Points:  18 
 
 
