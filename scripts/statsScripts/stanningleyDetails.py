@@ -47,7 +47,6 @@ players = [
     "stewart watson",
     "dave eaton",
     "tracey marshall",
-    "derek wilson",
     "laila packer",
     "paul leonard",
     "malvin miller",
