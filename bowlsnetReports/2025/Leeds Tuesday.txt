@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday) 2025 (as of Tue 17th Jun)
+=== Leeds & District (Tuesday) 2025 (as of Wed 18th Jun)
 === League Match Cards
 
       Division 1            Tue 8th Apr       
@@ -1474,9 +1474,9 @@ Craig White         21 Nicholas Ryder      20
      Calverley YP          Churwell Park      
 Stephen Spurr       21 Ellen Barraclough   17 
 Lindsey Rosendale   10 Robert Spink        21 
-Clifford Wheatley   18 Sue Harrison        21 
+Clifford Wheatley   18 Kath Andrews        21 
 Margaret Wood       12 Martin Huxley       21 
-Carol Matthews      15 Kath Andrews        21 
+Carol Matthews      15 Sue Harrison        21 
 Ricky Kearns        19 Graham Goodall      21 
 Paul Haigh          18 Steve Briggs        21 
 Roger French        21 Mick Harrison       18 
@@ -1523,6 +1523,19 @@ Graham Hill         17 Mark Raistrick      21
            Points:  28            Points:  29 
 
       Division 2            Tue 17th Jun      
+   Crossgates Rec A      Chapel Allerton A    
+Maria Durkan        21 David Burke         12 
+Terry Rock          21 Tommy Massey        18 
+Alan Wood           13 Mandy Wilson        21 
+Dave Farman         15 Matthew Watson      21 
+Dave Sharp          21 Dave Hill           13 
+James Tayolr        21 Colin Wilson        13 
+Graham Scholes      17 Royce Jackson       21 
+Andy Walton         21 Steven Bottomley    20 
+        Aggregate: 150         Aggregate: 139 
+           Points:  33            Points:  29 
+
+      Division 2            Tue 17th Jun      
    Stanningley Park       East End Park A     
 Alyssa Randell      21 Dave Smith           4 
 Andrew Marshall     21 Dave Howard          7 
@@ -1562,6 +1575,19 @@ John Alper          21 Doughty Ian          8
            Points:  31            Points:  22 
 
       Division 3            Tue 17th Jun      
+    Pudsey Park B           Holbeck Moor      
+David Milner         7 Steve Milton        21 
+Barbara Nellis      15 John Binns          21 
+Jane Hirst          19 Russell Porter      21 
+Peter Colley         6 Steve Brown         21 
+Maureen Bradshaw    21 George Ellener       6 
+Bill Pyett          21 Geoff Warbuton      10 
+Barbara Moss         5 Brian Thompson      21 
+Stephen Morris      21 Wayne Warburton     16 
+        Aggregate: 115         Aggregate: 137 
+           Points:  25            Points:  31 
+
+      Division 3            Tue 17th Jun      
         Colton               Meanwood B       
 David Clarkson      11 David L Miller      21 
 Brian Scholes       21 Jeff Dumbrell       17 
@@ -1573,5 +1599,18 @@ Mick Galley         21 Tina Howard         13
 Stuart Birch         9 Jeff Blackburn      21 
         Aggregate: 139         Aggregate: 140 
            Points:  30            Points:  29 
+
+      Division 3            Tue 17th Jun      
+     Gildersome B          Pudsey Park A      
+Neil Schofield      14 Carl Birkin         21 
+Barbara Hall         5 James Drury         21 
+Glenda Holmes       11 Brian Stevens       21 
+Tracy Norton        21 Callum Birkin        8 
+Margaret Johnstone  21 Elaine Hill         20 
+Tony Morris         21 Frank Lindsay       15 
+Alison Lockwood     18 Dennis Walters      21 
+John Ackroyd        21 Darren Lowe         19 
+        Aggregate: 132         Aggregate: 146 
+           Points:  29            Points:  32 
 
 
