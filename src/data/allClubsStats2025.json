@@ -2202,6 +2202,44 @@
                 "steve gardner 21 - 9 derek bridge"
             ]
         },
+        "steve sheldon": {
+            "totalAgg": 8,
+            "totalAggAgainst": 21,
+            "availableAgg": 21,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 21,
+            "availableAwayAgg": 0,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 8,
+            "totalHomeAggAgainst": 21,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 0,
+            "totalAwayAggAgainst": 0,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 1,
+            "awayWins": 0,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 1,
+            "results": [
+                "steve sheldon 8 - 21 david turner"
+            ]
+        },
         "stewart watson": {
             "totalAgg": 1011,
             "totalAggAgainst": 871,
@@ -2522,6 +2560,6 @@
             ]
         }
     },
-    "lastUpdated": "17/06/2025",
+    "lastUpdated": "18/06/2025",
     "statsYear": "2025"
 }

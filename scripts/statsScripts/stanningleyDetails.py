@@ -72,6 +72,7 @@ players = [
     "sarah connolly",
     "stuart reardon",
     "malcolm crowson",
+    "steve sheldon",
 ]
 
 # Players with different spellings of name (lowercase). Also need to add to deduplicateNames function
