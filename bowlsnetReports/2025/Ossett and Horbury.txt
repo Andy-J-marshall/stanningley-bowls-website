@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Wed 18th Jun)
+=== Ossett & Horbury 2025 (as of Thu 19th Jun)
 === League Match Cards
 
          Division 3                 Tue 8th Apr         
@@ -2522,6 +2522,18 @@ Glenn Pratt               21 Graham Kirkaldy          6
               Aggregate: 168             Aggregate:  87 
 
          Division 2                 Thu 12th Jun        
+     Alverthorpe WMC B            Hanging Heaton B      
+Anita Dack                21 David Collinson         19 
+William Grayley           12 Peter Byrne             21 
+Abigail Tiler              6 Jacob Amatt             21 
+Phillip Schofield         21 Ian Taylor              19 
+Rebecca Finnegan-Stewart   2 Gary Amatt              21 
+Colin Quarmby             19 Tony Howland            21 
+John Smart                21 Philip Crossland         9 
+James Tiler               21 Paul Murphy              9 
+              Aggregate: 123             Aggregate: 140 
+
+         Division 2                 Thu 12th Jun        
        Outwood WMC A                Savile Park         
 David Wright              19 Liam Massey             21 
 David Nichol              21 Alfie Hutchinson        18 
@@ -2676,5 +2688,59 @@ Eric France               21 Kevin Smith              1
 Howard Riley              21 David Clarkson           8 
 David Smith               21 John Kennelly           18 
               Aggregate: 154             Aggregate:  75 
+
+         Qtr-Finals                 Thu 19th Jun        
+                                   On Dodworth MW       
+       Spen Victoria              Hanging Heaton A      
+Peter Ellis               21 Pam Lindley             11 
+Danny Teale               21 Jonathan Orbell         11 
+Andrew Wood               10 Simon Metcalfe          21 
+Chris Ellis               21 Roger Birdsall          14 
+Garry Walker              21 David Armitage          18 
+Harley Tattersley         21 Sebastian Mordue        16 
+Ash Tattersley            21 Mason Lindley           13 
+Richard Crowther          21 Malcolm Preston         14 
+              Aggregate: 157             Aggregate: 118 
+
+         Qtr-Finals                 Thu 19th Jun        
+                                  On Clayton West       
+      Ossett C & AC C              Horbury Bridge       
+Nora Collier              16 Mark Senior             21 
+Alan Nash                 11 Kevin Scott             21 
+Alison Sykes              21 Geoff Close             19 
+John Kennelly             14 Jim Liversidge          21 
+Karen Kellett             21 Martin Turner           15 
+Connor Dunford            21 Andrew Fawcett          19 
+John Kellett              10 Rob Taylor              21 
+Svajunas Kapitan          21 Brian Beddow            18 
+              Aggregate: 135             Aggregate: 155 
+
+         Qtr-Finals                 Thu 19th Jun        
+                                   On Savile Park       
+         Stanley A                 Wakefield BC B       
+J Morris                  21 Margaret Shand          10 
+Holger Cole               21 Gosia Miszewska         11 
+C Scargill                11 Anita Lawson            21 
+Julia Wright              21 Nigel James             13 
+Andrew Lord               21 Tony Moss               12 
+Kevin Goodhall            21 Nigel Brook             13 
+Linda Goodhall            15 Ron Greenwood           21 
+Paul Giblin               21 Michael Murphy          10 
+               Handicap: +12              Handicap: +24 
+              Aggregate: 164             Aggregate: 135 
+
+         Qtr-Finals                 Thu 19th Jun        
+                                    On Slazenger        
+         Overthorpe                Wake Thornes A       
+Geraldine Dickinson       18 Diane Eley              21 
+Andy Wilson               21 Bob Holmes              17 
+Tony Greenlees            12 J Walker                21 
+Les Bell                  21 Khalid Mahmood           7 
+Heather Jewitt            21 S Findlay               17 
+Anthony Dickinson         21 J Dales                 19 
+Richard Sweeney           19 D Guile                 21 
+Johny Smith               13 Gerry Taylor            21 
+               Handicap: +12              Handicap: Scr 
+              Aggregate: 158             Aggregate: 144 
 
 
