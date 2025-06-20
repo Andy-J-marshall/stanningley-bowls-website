@@ -1,4 +1,4 @@
-=== Bradford (Vets) 2025 (as of Thu 19th Jun)
+=== Bradford (Vets) 2025 (as of Fri 20th Jun)
 === Comp. Match Cards
 
 Division Four ( 6 Players)       Thu 10th Apr       
@@ -2268,6 +2268,20 @@ Steve Tomkinson           9 Steve Edgley         21
                 Points:   8             Points:  18 
 
        Division One              Thu 19th Jun       
+       Asa Briggs A                Clayton A        
+Andy Denton              21 Andrew Walker         6 
+Clive Foord              21 Dave Jowett          12 
+Paula Graham             21 Alan Peel            15 
+Arthur Schofield         21 Mally Fowler         20 
+John Beverley            20 Mick Bastow          21 
+Kevin Burrage            17 Chris Wilson         21 
+Mark Barnett             12 Ian Johnson          21 
+Peter Wilkinson          12 Andy Thornton        21 
+             Aggregate: 145          Aggregate: 137 
+                 Games:   4              Games:   4 
+                Points:  16             Points:  12 
+
+       Division One              Thu 19th Jun       
          Pudsey A                   Wibsey          
 Sue Chadwick             21 Derek Goor           11 
 Pam Lindley              19 Ann Billington       21 
@@ -2294,6 +2308,20 @@ Steve Spurr              19 Peter Jefferson      21
              Aggregate: 137          Aggregate: 140 
                  Games:   3              Games:   5 
                 Points:  12             Points:  16 
+
+       Division One              Thu 19th Jun       
+          Wyke A                  Guiseley A        
+Gerry Hird               21 Dennis Henderson     20 
+Michael Walton           17 Carolyn Matthewman   21 
+Peter Ellis              21 Jeremy Jones          5 
+Robert Wilkinson         14 Val Grace            21 
+John Armitage            18 Peter Storey         21 
+Paul Metcalf              5 Colin Matthewman     21 
+Kevin Wood               11 Roger Waite          21 
+Nigel Wormald            16 Graham Oliver        21 
+             Aggregate: 123          Aggregate: 151 
+                 Games:   2              Games:   6 
+                Points:   8             Points:  20 
 
        Division One              Thu 19th Jun       
         Littlemoor                  Idle A          
@@ -2420,6 +2448,20 @@ Pam Nellist              21 John Dale             8
              Aggregate: 151          Aggregate: 127 
                  Games:   6              Games:   2 
                 Points:  20             Points:   8 
+
+      Division Three             Thu 19th Jun       
+     Crowghyll Park B             Brackenhill       
+Tony Southern            21 Gordon McLennon       9 
+Audrey Healey            21 Darryl Bowles         8 
+Derek Simpson            21 Michael Feeley        5 
+Janet Welsh               8 Jackie Wilkinson     21 
+Jim Welsh                14 Madeline Gamble      21 
+Flo Johnston              7 Kathy Wilford        21 
+Rae Heddle               10 Bob Armitage         21 
+Pam Robinson             21 Steve Hillam         20 
+             Aggregate: 123          Aggregate: 126 
+                 Games:   4              Games:   4 
+                Points:  13             Points:  15 
 
 Division Four ( 6 Players)       Thu 19th Jun       
           Idle C                 Bowling Park       
