@@ -1,4 +1,4 @@
-=== Tadcaster Evening League 2025 (as of Thu 19th Jun)
+=== Tadcaster Evening League 2025 (as of Fri 20th Jun)
 === League Match Cards
 
     Richardson Trophy           Thu 3rd Apr        
@@ -2250,6 +2250,21 @@ Steve Webster          17 Mark Taylor           21
 
     Main League 2025            Thu 19th Jun       
           Div 1                                    
+    TADCASTER FALCONS            SCHOLES A         
+Frank Cook             21 Steve Hartley         14 
+Steven Dykes           21 R Whitfield           14 
+Neil Taylor            12 Joe Ruddlesden        21 
+Graeme Franklin        17 David Smith           21 
+Aimee Tootell           6 David Walker          21 
+Martin Thornton        13 Duncan Ruddlesden     21 
+Andrew Dodsworth       13 Adam Conlon           21 
+David Lightfoot        21 Jon Schofield         15 
+              Points:   3              Points:   7 
+           Aggregate: 124           Aggregate: 148 
+               Games:   3               Games:   5 
+
+    Main League 2025            Thu 19th Jun       
+          Div 1                                    
        MAGNET OLD              THORNER JOKERS      
 Eileen Emmett          15 Toni Laurie           21 
 M Whittaker            10 Suzie Lawson          21 
@@ -2295,6 +2310,21 @@ Warren Wilson          10 M Reynolds            21
 
     Main League 2025            Thu 19th Jun       
           Div 2                                    
+     BARDSEY EAGLES           WHITKIRK KNAVES      
+James Phillips         17 Paul Hardy            21 
+Carol Cocker           10 T Johnson             21 
+Nick Barker            21 Jason Richards        15 
+Phil Bouic             21 Andy Johnson          17 
+John Conyers           21 Michael Sheerin       16 
+Alan Baldwin           21 Phil Hatch            19 
+Steve Jones            16 S Cahill              21 
+Martin Cocker          10 Phil Cox              21 
+              Points:   4              Points:   6 
+           Aggregate: 137           Aggregate: 151 
+               Games:   4               Games:   4 
+
+    Main League 2025            Thu 19th Jun       
+          Div 2                                    
      BARWICK BADGERS            MAGNET PALE        
 Pam Binns              21 Carl (Rob) Preene     19 
 Nick Moulding          21 Graham Collins        18 
@@ -2306,6 +2336,36 @@ Derek Dobson           21 Melanie Collins       13
 Ian Wallbank           21 P Wetherhill          10 
               Points:   8              Points:   2 
            Aggregate: 155           Aggregate: 135 
+               Games:   6               Games:   2 
+
+    Main League 2025            Thu 19th Jun       
+          Div 2                                    
+        SCHOLES B             LOW HARROGATE A      
+John Pennock           21 Peter Hicks           11 
+J Dickinson            12 Cath Patrick          21 
+J Frisby               21 Jo Bonsels            16 
+Paul Ellis             21 Angela Spilsbury      19 
+Stephen Copley          7 Ian Jarratt           21 
+Steven Proberts        21 Nick Binns            17 
+S Wright               21 Graham Patrick         5 
+G Dickinson            18 Chris Olding          21 
+              Points:   7              Points:   3 
+           Aggregate: 142           Aggregate: 131 
+               Games:   5               Games:   3 
+
+    Main League 2025            Thu 19th Jun       
+          Div 2                                    
+        WAYSIDE B              EAST END PARK       
+Martin Knights         21 Sophie Olivant         7 
+S Forbes               10 Darran Baker          21 
+J Forbes               21 Joesy Olivant         17 
+Greggan Johnstone      21 Peter Simmons          9 
+Colin Rigby            21 Dave Smith             5 
+Chris Wood             21 Matt Ramsey           10 
+Hayden Whitehouse      21 Helen Simms           13 
+Jenny Asker            11 Paul Reynard          21 
+              Points:   8              Points:   2 
+           Aggregate: 147           Aggregate: 103 
                Games:   6               Games:   2 
 
     Main League 2025            Thu 19th Jun       
@@ -2381,6 +2441,51 @@ David Hughan           15 Michelle Scorah       21
 Alan Old               10 Wayne Broadhead       21 
               Points:   3              Points:   7 
            Aggregate: 130           Aggregate: 134 
+               Games:   3               Games:   5 
+
+    Main League 2025            Thu 19th Jun       
+          Div 4                                    
+      COLTON SPORTS            BARDSEY HAWKS       
+Andrew Stocks          21 Peter Mason            7 
+Sue Barker             18 Linda Matthews        21 
+Elizabeth Loveday      21 Ron Clark             20 
+J Orrell               21 Martin Woolley        14 
+Allan Millington       13 Paul Matthews         21 
+Brian Scholes          21 Rita Beadle           11 
+Anthony Fawcett        21 Hazel Kelly           17 
+Mick Barker            20 David Lewis           21 
+              Points:   7              Points:   3 
+           Aggregate: 156           Aggregate: 132 
+               Games:   5               Games:   3 
+
+    Main League 2025            Thu 19th Jun       
+          Div 4                                    
+    KNARESBOROUGH ASH          DRAGON HOPPERS      
+David Wilkinson        15 Richard Bullough      21 
+Bill Harrison          21 Paul Seaward          18 
+Karen Blaymire         19 Philip Boreham        21 
+Alf Osburn              8 Whincup Trevor        21 
+Sue Massey             16 Hazel Parker          21 
+Phil Blaymire          21 Colin Rudd            13 
+Steve Tyreman           7 Barry Woodward        21 
+R Bushell              14 White Peter           21 
+              Points:   2              Points:   8 
+           Aggregate: 121           Aggregate: 157 
+               Games:   2               Games:   6 
+
+    Main League 2025            Thu 19th Jun       
+          Div 4                                    
+      THORNER WANDS           BARWICK BEAVERS      
+Alistair Warren        21 Keith Dodgson         12 
+Richard Eshelby        14 Michael Higgins       21 
+Thelma Lancaster       21 Sue Wilkinson         16 
+Christine Holmes       12 Paul Foster           21 
+Joe Wilkinson          15 Margaret Finister     21 
+Halle Moore             4 Peter Elliot          21 
+Joyce Broadbent        19 Jennifer Dodgson      21 
+Nick Koslowsky         21 Jack Finister         17 
+              Points:   3              Points:   7 
+           Aggregate: 127           Aggregate: 150 
                Games:   3               Games:   5 
 
 

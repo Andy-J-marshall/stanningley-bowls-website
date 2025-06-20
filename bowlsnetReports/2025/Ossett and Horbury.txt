@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Thu 19th Jun)
+=== Ossett & Horbury 2025 (as of Fri 20th Jun)
 === League Match Cards
 
          Division 3                 Tue 8th Apr         
@@ -2689,6 +2689,18 @@ Howard Riley              21 David Clarkson           8
 David Smith               21 John Kennelly           18 
               Aggregate: 154             Aggregate:  75 
 
+         Division 2                 Thu 19th Jun        
+       Wakefield BC A               Slazenger B         
+Trevor Dey                13 Jack Teal               21 
+Kaz Habib                 21 Jeff Shaw               18 
+David Clough              21 Carol Boyer             17 
+Trevor Newey              13 Maureen Jennings        21 
+David Crest               21 Stephen Boyer           11 
+Robyn Walters             21 Lucie Harding           11 
+John Dudding              21 Angela Pursglove        12 
+Mark Young                21 Gary Denton              8 
+              Aggregate: 152             Aggregate: 119 
+
          Qtr-Finals                 Thu 19th Jun        
                                    On Dodworth MW       
        Spen Victoria              Hanging Heaton A      
@@ -2701,6 +2713,48 @@ Harley Tattersley         21 Sebastian Mordue        16
 Ash Tattersley            21 Mason Lindley           13 
 Richard Crowther          21 Malcolm Preston         14 
               Aggregate: 157             Aggregate: 118 
+
+         Qtr-Finals                 Thu 19th Jun        
+                                     On Altofts         
+       Denby Grange A            Pudsey Littlemoor      
+Danny Walker              18 Nathan Dobson           21 
+Paul Mottram              15 Matthew Leaf            21 
+David Walker              21 Mark Dobson              7 
+Charlie Fisher            21 Alex Wolfenden          18 
+David Fisher              21 Tom Morris              15 
+Scott Fisher              21 Will Bedford            20 
+Neil Broadhead            21 Fern Beaumont           17 
+Danny Towning - Smith     21 Lee Wider               18 
+               Handicap: +12              Handicap: +24 
+              Aggregate: 171             Aggregate: 161 
+
+         Qtr-Finals                 Thu 19th Jun        
+                                 On Castleford Town     
+        Heckmondwike                Dodworth MW         
+Jude Hatfield-Goodall     18 Barry Holland           21 
+Jacob Hatfield-Goodall    21 Debbie Talbot           13 
+Poppy Fox                 21 Nigel McDermott         17 
+Gareth Harwood            12 Jack Hill               21 
+Logan Preston             21 Tom Marsland            20 
+Roy Carter                12 Josh Talbot             21 
+Darren Ripley             18 Carl Whitham            21 
+Darren Goodall            10 Jack Wareing            21 
+               Handicap: +12              Handicap: +12 
+              Aggregate: 145             Aggregate: 167 
+
+         Qtr-Finals                 Thu 19th Jun        
+                                   On Horbury WMC       
+       West Bretton B           West Yorks Sports A     
+Carol Stevenson           21 Mark Lingard            20 
+John Hepworth             21 Christopher Gannon      17 
+Kate Moore                17 Sarah Dixon             21 
+Paul Wainwright           21 Neil Anderson           10 
+Simon Geal                19 David Dixon             21 
+Mick Shaw                 21 John O'Hara              6 
+Alan Munro                19 Alan Smith              21 
+Steve Slawycz             21 Allan Poyser            12 
+               Handicap: +12              Handicap: Scr 
+              Aggregate: 172             Aggregate: 128 
 
          Qtr-Finals                 Thu 19th Jun        
                                   On Clayton West       
