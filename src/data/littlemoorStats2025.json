@@ -206,25 +206,25 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 621,
-            "totalAggAgainst": 557,
-            "availableAgg": 735,
+            "totalAgg": 642,
+            "totalAggAgainst": 561,
+            "availableAgg": 756,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 357,
+            "availableHomeAgg": 378,
             "availableAwayAgg": 336,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 334,
-            "totalHomeAggAgainst": 258,
+            "totalHomeAgg": 355,
+            "totalHomeAggAgainst": 262,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 257,
             "totalAwayAggAgainst": 262,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 11,
+            "homeWins": 12,
             "homeLosses": 6,
             "awayWins": 8,
             "awayLosses": 8,
@@ -238,7 +238,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 35,
+            "totalGamesPlayed": 36,
             "results": [
                 "jim moorin 21 - 2 janice connaleigh",
                 "jim moorin 10 - 21 deborah swann",
@@ -274,7 +274,8 @@
                 "jim moorin 21 - 19 peter owen",
                 "jim moorin 21 - 4 joe mellor",
                 "jim moorin 19 - 21 carolyn matthewman",
-                "jim moorin 21 - 6 steve kemp"
+                "jim moorin 21 - 6 steve kemp",
+                "jim moorin 21 - 4 vincent bussingham"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -332,18 +333,18 @@
                 "aggDiff": 0
             },
             "bradford saturday (b)": {
-                "games": 6,
-                "wins": 4,
-                "aggDiff": 36
+                "games": 7,
+                "wins": 5,
+                "aggDiff": 53
             }
         },
         "john armitage": {
-            "totalAgg": 681,
-            "totalAggAgainst": 531,
-            "availableAgg": 756,
+            "totalAgg": 702,
+            "totalAggAgainst": 549,
+            "availableAgg": 777,
             "availablePairsAgg": 0,
             "availableHomeAgg": 315,
-            "availableAwayAgg": 357,
+            "availableAwayAgg": 378,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -352,13 +353,13 @@
             "totalHomeAggAgainst": 204,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 315,
-            "totalAwayAggAgainst": 277,
+            "totalAwayAgg": 336,
+            "totalAwayAggAgainst": 295,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 11,
             "homeLosses": 4,
-            "awayWins": 9,
+            "awayWins": 10,
             "awayLosses": 8,
             "cupWins": 3,
             "cupLosses": 1,
@@ -370,7 +371,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 36,
+            "totalGamesPlayed": 37,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
@@ -407,6 +408,7 @@
                 "john armitage 21 - 10 alan bray",
                 "john armitage 16 - 21 frank cullen",
                 "john armitage 21 - 15 lewis pember",
+                "john armitage 21 - 18 adam sharpe",
                 "john armitage 21 - 12 mick griffiths"
             ],
             "airewharfe monday": {
@@ -460,9 +462,9 @@
                 "aggDiff": 0
             },
             "bradford saturday": {
-                "games": 4,
-                "wins": 2,
-                "aggDiff": 2
+                "games": 5,
+                "wins": 3,
+                "aggDiff": 5
             },
             "bradford saturday (b)": {
                 "games": 1,
@@ -685,25 +687,25 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 284,
-            "totalAggAgainst": 303,
-            "availableAgg": 357,
+            "totalAgg": 305,
+            "totalAggAgainst": 313,
+            "availableAgg": 378,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 147,
+            "availableHomeAgg": 168,
             "availableAwayAgg": 168,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 146,
-            "totalHomeAggAgainst": 116,
+            "totalHomeAgg": 167,
+            "totalHomeAggAgainst": 126,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 101,
             "totalAwayAggAgainst": 157,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 6,
+            "homeWins": 7,
             "homeLosses": 1,
             "awayWins": 1,
             "awayLosses": 7,
@@ -717,7 +719,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 17,
+            "totalGamesPlayed": 18,
             "results": [
                 "stewart watson 7 - 21 steve rothwell",
                 "stewart watson 15 - 21 chris wilson",
@@ -735,7 +737,8 @@
                 "stewart watson 20 - 21 daley clark",
                 "stewart watson 14 - 21 eddie hill",
                 "stewart watson 21 - 14 lynne ogden",
-                "stewart watson 21 - 10 derek goor"
+                "stewart watson 21 - 10 derek goor",
+                "stewart watson 21 - 10 roger binks"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -793,13 +796,13 @@
                 "aggDiff": 0
             },
             "bradford saturday (b)": {
-                "games": 5,
-                "wins": 3,
-                "aggDiff": 14
+                "games": 6,
+                "wins": 4,
+                "aggDiff": 25
             }
         }
     },
     "teamResults": [],
-    "lastUpdated": "20/06/2025",
+    "lastUpdated": "21/06/2025",
     "statsYear": "2025"
 }
