@@ -1,4 +1,3 @@
-// TODO add leagues back in once they are available
 export const leagues = [
   {
     day: "Leeds Monday Combined",
@@ -32,6 +31,7 @@ export const leagues = [
     day: "Mirfield",
     url: "/Mirfield",
   },
+  // TODO add back in once updated
   // {
   //   day: "Spen Valley",
   //   url: "/WestRiding",
@@ -48,14 +48,14 @@ export const leagues = [
     day: "AireWharfe Wednesday Pairs",
     url: "/AW-WedPairs",
   },
-  // {
-  //   day: "AireWharfe Vets",
-  //   url: "/AW-Vets",
-  // },
-  // {
-  //   day: "AireWharfe Saturday",
-  //   url: "/AW-Sat",
-  // },
+  {
+    day: "AireWharfe Vets",
+    url: "/AW-Vets",
+  },
+  {
+    day: "AireWharfe Saturday",
+    url: "/AW-Sat",
+  },
   {
     day: "Bradford Monday",
     url: "/Bradford-Mon",
