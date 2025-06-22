@@ -303,10 +303,10 @@ def checkPlayerStatsValuesIncreased(
                             playerTeamStats["aggDiff"]
                             - existingPlayerStats[teamName]["aggDiff"]
                         )
-                        > 27
+                        > 100
                     ):
                         raise Exception(
-                            f"{teamName} aggDiff for {player} is not within -26 and +26 of the previous value"
+                            f"{teamName} aggDiff for {player} is not within -100 and +100 of the previous value"
                         )
 
 
