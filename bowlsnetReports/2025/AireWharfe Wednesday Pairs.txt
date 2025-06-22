@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Wed. Pairs) 2025 (as of Tue 3rd Jun)
+=== AireDale & Wharfedale (Wed. Pairs) 2025 (as of Sun 22nd Jun)
 === League Match Cards
 
        Division 1                Wed 9th Apr        
@@ -61,8 +61,8 @@ Anthony Postlethwaite     Bob Williams
          Rawdon                Meanwood Park B      
 Bernard Harrison       10 John Hindle            26 
 Stan Parker               Pat Blackburn             
-Christine Scott        26 Kathy Hey              12 
-Ian Scott                 David L Miller            
+Ian Scott              26 Kathy Hey              12 
+Christine Scott           David L Miller            
 Paul Haigh             26 Norman Bracewell       16 
 Allan Sample              Paul Dishman              
 Graham Hogg            21 Jeff Blackburn         26 
@@ -94,14 +94,14 @@ Laurie Robinson           Nigel Stockdale
 Gary Skeet             26 Richard Sunley         10 
 Nigel Buckley             Bruce Callard             
 Shaun Johnson          26 Phil Clayton           25 
-Simon Cowley              Kath Crompton             
+Simon Cowley              Ken Crompton              
            Aggregate: 104            Aggregate:  72 
                Games:   4                Games:   0 
               Points:  19               Points:   5 
 
        Division 2                Wed 9th Apr        
        Grove Hill               Greenbottom A       
-Kay Lodge              26 Ann Ryley              21 
+Katherine Lodge        26 Ann Ryley              21 
 David Locke               Edgar Ryley               
 Neil Jameson           24 Karen Whitelaw         26 
 Tony Farrar               Mike Whitelaw             
@@ -115,14 +115,14 @@ Belinda Mitchell          Anita Kingham
 
        Division 3                Wed 9th Apr        
     Stanningley Park             Northcliffe        
-Rob Packer              5 Terry Archer           26 
-Linda Barrand             Denis Collet              
+Linda Barrand           5 Terry Archer           26 
+Rob Packer                Denis Collet              
 Vanessa Lancaster      11 Michael Dennison       26 
 Ken Green                 Richard Handford          
 Paul Leonard           26 Andrea Chiverton        9 
 Harvey Leonard            Anne Idle                 
 Tracey Marshall        19 Duncan Campbell        26 
-Colin Haque               Ken Web                   
+Colin Haque               Ken Webb                  
            Aggregate:  61            Aggregate:  87 
                Games:   1                Games:   3 
               Points:   7               Points:  17 
@@ -170,20 +170,6 @@ Alan Jukes                Val Leach
               Points:  10               Points:  14 
 
        Division 1               Wed 16th Apr        
-        Rufford B                 Guiseley          
-Helen Gilroy           26 Lynne Ogden            13 
-Jack Snowden              Caroline Corbett          
-Alexander Waite         9 Roger Waite            26 
-Mick Snowden              Jeremy Jones              
-Stuart Parker           3 Carolyn Matthewman     26 
-Gabriella-Jane Parker     Colin Matthewman          
-Pauline Gilroy         26 Maureen Jarvis         18 
-Pauline Ingleson          Peter Storey              
-           Aggregate:  64            Aggregate:  83 
-               Games:   2                Games:   2 
-              Points:   9               Points:  15 
-
-       Division 1               Wed 16th Apr        
          Adel A                   Rufford A         
 Jean Shepherd          12 Ken Lee                26 
 Philip Hynes              Glynn Goodyear            
@@ -219,11 +205,25 @@ Antonio Sanna          26 Rory Bligh             22
 Ian Warner                Craig Goodall             
 Billy Webb             26 Michael Gregory        18 
 Stewart Sunman            Ian Macfarlane            
-Pam Wood                9 Lynda Heath            26 
-Linda Porter              Ian Howard                
+Linda Porter            9 Lynda Heath            26 
+Pam Wood                  Ian Howard                
            Aggregate:  87            Aggregate:  72 
                Games:   3                Games:   1 
               Points:  16               Points:   8 
+
+       Division 1               Wed 16th Apr        
+        Rufford B                 Guiseley          
+Helen Gilroy           26 Lynne Ogden            13 
+Jack Snowden              Caroline Corbett          
+Alexander Waite         9 Roger Waite            26 
+Mick Snowden              Jeremy Jones              
+Stuart Parker           3 Carolyn Matthewman     26 
+Gabby Parker              Colin Matthewman          
+Pauline Gilroy         26 Maureen Jarvis         18 
+Pauline Ingleson          Peter Storey              
+           Aggregate:  64            Aggregate:  83 
+               Games:   2                Games:   2 
+              Points:   9               Points:  15 
 
        Division 2               Wed 16th Apr        
       Wharfemeadows               Menston A         
@@ -241,7 +241,7 @@ Paul Bowden               Nigel Buckley
 
        Division 2               Wed 16th Apr        
      Meanwood Park B             Grove Hill         
-Jeff Blackburn         14 Kay Lodge              26 
+Jeff Blackburn         14 Katherine Lodge        26 
 Douglas Blair             David Locke               
 Paul Dishman           26 Neil Jameson           22 
 Julie Keightley           Tony Farrar               
@@ -271,12 +271,12 @@ Nigel Stockdale           Dave Hill
       Greenbottom A             Yeadon Park A       
 Gary Poucher           26 Allen Hardcastle       17 
 Anita Kingham             Patrick Campbell          
-Ann Ryley              26 Tracy Wilson           23 
-Edgar Ryley               Richard Gosnay            
+Ann Ryley              26 Richard Gosnay         23 
+Edgar Ryley               Tracy Wilson              
 Karen Whitelaw         26 Mark Wilson            12 
 Mike Whitelaw             David Baldwin             
-Bill Lovedale          12 Frank Baker            26 
-Elinor Newhouse           Joan Baker                
+Bill Lovedale          12 Joan Baker             26 
+Elinor Newhouse           Frank Baker               
            Aggregate:  90            Aggregate:  78 
                Games:   3                Games:   1 
               Points:  15               Points:   9 
@@ -299,12 +299,12 @@ Matthew Rollinson         Lesley Williams
         Menston B             Stanningley Park      
 Jean Shepherd          26 Alyssa Randell         21 
 Peter Gaston              Karen Uttley              
-Christine Asquith      17 Vanessa Lancaster      26 
-Stuart Davies             Ken Green                 
+Christine Asquith      17 Ken Green              26 
+Stuart Davies             Vanessa Lancaster         
 Mike Ripley            26 Linda Barrand          18 
 Joyce Bishop              Stephen Tiernan           
-Barbara Harrison       14 Harvey Leonard         26 
-Rosemary Cowley           Paul Leonard              
+Barbara Harrison       14 Paul Leonard           26 
+Rosemary Cowley           Harvey Leonard            
            Aggregate:  83            Aggregate:  91 
                Games:   2                Games:   2 
               Points:  10               Points:  14 
@@ -331,7 +331,7 @@ Roy Barlow             26 Geoff Megson           17
 Val Leach                 Brendan Clarke            
 Yvonne Coppin          22 Debbie Sandles         26 
 Tekla England             Michelle Norcliffe        
-Michael Barrett        26 Kathleen Haley         22 
+Mick Barrett           26 Kathleen Haley         22 
 Mark Paxton               Peter Byford              
            Aggregate: 100            Aggregate:  86 
                Games:   3                Games:   1 
@@ -343,20 +343,20 @@ Catherine New          21 Brian Wheeler          26
 Angela Bennett            Pete Thornton             
 Ken Lee                26 Ben Ullock             16 
 Glynn Goodyear            Richard Kellett           
+Christopher Sims       26 Andrew Shaw            14 
+Dianne Teale              Mark Ullock               
 Val Grace               7 Roy Knowles            26 
 Allan Caine               Joe Ullock                
-Dianne Teale           26 Andrew Shaw            14 
-Christopher Sims          Mark Ullock               
            Aggregate:  80            Aggregate:  82 
                Games:   2                Games:   2 
               Points:  11               Points:  13 
 
        Division 1               Wed 23rd Apr        
         Ilkley A                   Adel A           
-Steve Ackroyd          26 Jean Shepherd           9 
-Darren Thompson           Philip Hynes              
-Steve Senior           25 Antony Shenton         26 
-Bernie Connor             David Pike                
+Steve Ackroyd          26 Philip Hynes            9 
+Darren Thompson           Jean Shepherd             
+Steve Senior           25 David Pike             26 
+Bernie Connor             Antony Shenton            
 Andrew Breare          26 Bruce Tremlett          6 
 Terry Almond              Trevor Sargison           
 Cliff Taylor           26 Meryl Auty             18 
@@ -383,8 +383,8 @@ Colin Matthewman          Ian Macfarlane
  Burley in Wharfedale B           Rufford B         
 Brian Wardle           20 Graham Ingleson        26 
 Sue Knowles               Angela Burnham            
-Freya Hill             26 Pauline Ingleson       10 
-Paul Hill                 Pauline Gilroy            
+Freya Hill             26 Pauline Gilroy         10 
+Paul Hill                 Pauline Ingleson          
 Phil Argyle            26 Alexander Waite        15 
 Alwyn Robertson           Stuart Parker             
 Anthony Postlethwaite  19 Helen Gilroy           26 
@@ -397,8 +397,8 @@ Robert Wheeler            Jack Snowden
          Rawdon                 Greenbottom A       
 Allan Sample           26 Bill Lovedale           9 
 Graham Hogg               Elinor Newhouse           
-Christine Scott        26 Gary Poucher            3 
-Ian Scott                 Anita Kingham             
+Ian Scott              26 Gary Poucher            3 
+Christine Scott           Anita Kingham             
 Bernard Harrison        8 Ann Ryley              26 
 Stan Parker               Edgar Ryley               
 Ken Garbett            26 Karen Whitelaw         23 
@@ -437,14 +437,14 @@ Amrik Singh               Alan Strachan
 
        Division 2               Wed 23rd Apr        
       Yeadon Park A             Wharfemeadows       
-Frank Baker            26 Nancy Marston          10 
-Joan Baker                Jeff Appleyard            
-Richard Gosnay         26 Brenda Appleyard       18 
-Tracy Wilson              Graham Tansley            
 Patrick Campbell       26 Jean Crawford          24 
 David Baldwin             Paul Crawford             
 John Hutton            26 Jane Bowden            12 
 David Keighley            Paul Bowden               
+Richard Gosnay         26 Brenda Appleyard       18 
+Tracy Wilson              Graham Tansley            
+Frank Baker            26 Nancy Marston          10 
+Joan Baker                Jeff Appleyard            
            Aggregate: 104            Aggregate:  64 
                Games:   4                Games:   0 
               Points:  20               Points:   4 
@@ -453,10 +453,10 @@ David Keighley            Paul Bowden
     Stanningley Park            Yeadon Park B       
 Harvey Leonard         26 David Poole            11 
 Paul Leonard              Marian Poole              
-Vanessa Lancaster      24 Tim Nicholson          26 
-Ken Green                 Shirley Nicholson         
-Rob Packer             22 Julie Watson           26 
-Laila Packer              Reid Haddow               
+Ken Green              24 Tim Nicholson          26 
+Vanessa Lancaster         Shirley Nicholson         
+Laila Packer           22 Julie Watson           26 
+Rob Packer                Reid Haddow               
 Tracey Marshall         6 Mark Sample            26 
 Colin Haque               Adam Sample               
            Aggregate:  78            Aggregate:  89 
@@ -465,7 +465,7 @@ Colin Haque               Adam Sample
 
        Division 3               Wed 23rd Apr        
        Northcliffe                Menston B         
-Val Haynes             26 Barbara Harrison       17 
+Valerie Haynes         26 Barbara Harrison       17 
 Anne Idle                 Rosemary Cowley           
 Roger Pollard          26 Stuart Davies          16 
 Duncan Campbell           Christine Hughes          
@@ -476,20 +476,6 @@ David Idle                Christine Asquith
            Aggregate:  97            Aggregate:  71 
                Games:   3                Games:   1 
               Points:  17               Points:   7 
-
-       Division 3               Wed 23rd Apr        
-         Adel B                   Holt Park         
-Graham Clough          11 David Lyons            26 
-John Auty                 Geraldine Lyons           
-Les Tugwell            26 Ray Boast              13 
-Lesley Williams           Andy Barclay              
-Alan Wittrick          26 Geoff Megson           14 
-Phil Hayward              Brendan Clarke            
-Gordon Robinson         7 Debbie Sandles         26 
-Paul Williams             Michelle Norcliffe        
-           Aggregate:  70            Aggregate:  79 
-               Games:   2                Games:   2 
-              Points:  10               Points:  14 
 
        Division 3               Wed 23rd Apr        
       Greenbottom B              New Armley         
@@ -505,112 +491,14 @@ Pam Radcliffe             Alan Taylor
                Games:   2                Games:   2 
               Points:  10               Points:  14 
 
-         Round 1                Wed 30th Apr        
-                                On Holt Park        
-        Ilkley A                  Menston B         
-Steve Senior           26 Joyce Bishop           16 
-Bernie Connor             Jim Hughes                
-Steve Birch 'A'        26 Rosemary Cowley        10 
-Cliff Taylor              Mike Ripley               
-Andrew Breare          26 Christine Asquith      12 
-Terry Almond              Christine Hughes          
-Steve Ackroyd          26 Jean Shepherd           6 
-Darren Thompson           Monty Navias              
-            Handicap: Scr             Handicap: +40 
-           Aggregate: 104            Aggregate:  84 
-
-         Round 1                Wed 30th Apr        
-                             On Stanningley Park    
-        Menston A                 Rufford B         
-Gwen Smith             26 Mick Snowden           16 
-Laurie Robinson           Jack Snowden              
-Gail Singh             26 Graham Ingleson        13 
-Amrik Singh               Angela Burnham            
-Gary Skeet             23 Pauline Gilroy         26 
-Nigel Buckley             Pauline Ingleson          
-Shaun Johnson          26 Alexander Waite         3 
-Simon Cowley              Stuart Parker             
-            Handicap: +20             Handicap: Scr 
-           Aggregate: 121            Aggregate:  58 
-
-         Round 1                Wed 30th Apr        
-                               On Greenbottom       
- Burley in Wharfedale B         Wharfemeadows       
-Brian Wardle           26 Lorna Crabtree          3 
-Sue Knowles               Jeffrey Crabtree          
-Paul Hill              26 Brenda Appleyard       24 
-Freya Hill                Graham Tansley            
-Robert Wheeler         26 Jane Bowden            25 
-Anthony Postlethwaite     Paul Bowden               
-Brian Wheeler          26 Jean Crawford           7 
-Christopher Wheeler       Paul Crawford             
-            Handicap: Scr             Handicap: +20 
-           Aggregate: 104            Aggregate:  79 
-
-         Round 1                Wed 30th Apr        
-                           On Burley In Wharfedale  
-   Horsforth Hall Park         Meanwood Park A      
-Paul Stoyles           20 Craig Goodall          26 
-Phil Clayton              Rory Bligh                
-Bruce Callard          10 Karen Portman          26 
-Frank Sutcliffe           Andy Swain                
-Richard Sunley         12 Michael Gregory        26 
-Kath Crompton             Ian Macfarlane            
-Ruth Sutcliffe         18 Lynda Heath            26 
-Nigel Stockdale           Ian Howard                
-            Handicap: +20             Handicap: Scr 
-           Aggregate:  80            Aggregate: 104 
-
-         Round 1                Wed 30th Apr        
-                                 On Bramhope        
-        Rufford A               Yeadon Park A       
-Val Grace              26 John Hutton            10 
-Allan Caine               David Keighley            
-Catherine New          23 Frank Baker            26 
-Angela Bennett            Joan Baker                
-Glynn Goodyear         26 David Baldwin           6 
-Ken Lee                   Mark Wilson               
-Dianne Teale           25 Richard Gosnay         26 
-Christopher Sims          Tracy Wilson              
-            Handicap: Scr             Handicap: +20 
-           Aggregate: 100            Aggregate:  88 
-
-         Round 1                Wed 30th Apr        
-                               On Northcliffe       
-      Greenbottom B              Grove Hill         
-Anne Raw               11 David Samuel           26 
-Peter Raw                 Daniel Twist              
-Margaret Adamson       26 Alan Byers             13 
-Pam Radcliffe             Belinda Mitchell          
-Diane Walker           11 Tony Farrar            26 
-Keith Roberts             Neil Jameson              
-Trevor Dawson          10 Kay Lodge              26 
-Linda Summers             David Locke               
-            Handicap: +40             Handicap: +20 
-           Aggregate:  98            Aggregate: 111 
-
-         Round 1                Wed 30th Apr        
-                                  On Ilkley         
-      Yeadon Park B               Guiseley          
-Tim Nicholson          21 Carolyn Matthewman     26 
-Shirley Nicholson         Colin Matthewman          
-Mark Sample            21 Maureen Jarvis         26 
-Adam Sample               Peter Storey              
-David Poole            26 Caroline Corbett        8 
-Reid Haddow               Lynne Ogden               
-Sandra Taylor          10 Ralph Sissons          26 
-Lynne Myers               Jeremy Jones              
-            Handicap: +40             Handicap: Scr 
-           Aggregate: 118            Aggregate:  86 
-
        Division 1                Wed 7th May        
         Rufford B                 Rufford A         
 Pauline Gilroy         12 Dianne Teale           26 
 Pauline Ingleson          Christopher Sims          
 Stuart Parker          13 Allan Caine            26 
 Alexander Waite           Val Grace                 
-Helen Gilroy           24 Catherine New          26 
-Angela Burnham            Angela Bennett            
+Helen Gilroy           24 Angela Bennett         26 
+Angela Burnham            Catherine New             
 Mick Snowden           15 Glynn Goodyear         26 
 Jack Snowden              Ken Lee                   
            Aggregate:  64            Aggregate: 104 
@@ -621,10 +509,10 @@ Jack Snowden              Ken Lee
      Meanwood Park A       Burley in Wharfedale B   
 Lynda Heath            26 John Hardisty          15 
 Ian Howard                Christopher Wheeler       
-Craig Goodall          14 Brian Wardle           26 
-Rory Bligh                Sue Knowles               
-Karen Portman          21 Paul Hill              26 
-Peter Whipp               Freya Hill                
+Craig Goodall          14 Sue Knowles            26 
+Rory Bligh                Brian Wardle              
+Karen Portman          21 Freya Hill             26 
+Peter Whipp               Paul Hill                 
 Michael Gregory        26 Robert Wheeler          8 
 Ian Macfarlane            Anthony Postlethwaite     
            Aggregate:  87            Aggregate:  75 
@@ -635,8 +523,8 @@ Ian Macfarlane            Anthony Postlethwaite
  Burley in Wharfedale A           Ilkley A          
 Andrew Shaw            26 Steve Senior           10 
 Mark Ullock               Andrew Cook               
-Brian Wheeler          26 Steve Ackroyd          24 
-Pete Thornton             Darren Thompson           
+Brian Wheeler          26 Darren Thompson        24 
+Pete Thornton             Steve Ackroyd             
 Ben Ullock             26 Terry Almond            8 
 Richard Kellett           Andrew Breare             
 Joe Ullock             26 Steve Birch 'A'         8 
@@ -675,26 +563,26 @@ Jeffrey Crabtree          Stan Parker
 
        Division 2                Wed 7th May        
         Ilkley B                Yeadon Park A       
-John Brennan           26 David Keighley         12 
-Deborah Swann             Mark Wilson               
+John Brennan           26 Mark Wilson            12 
+Deborah Swann             David Baldwin             
 Lee Stevens            26 Allen Hardcastle       20 
 Steve Morton              John Hutton               
-Colin Spooner          26 Frank Baker            14 
-Alan Strachan             Joan Baker                
-Bernie Connor          16 Richard Gosnay         26 
-Denise Almond             Tracy Wilson              
+Colin Spooner          26 Joan Baker             14 
+Alan Strachan             Frank Baker               
+Bernie Connor          16 Tracy Wilson           26 
+Denise Almond             Richard Gosnay            
            Aggregate:  94            Aggregate:  72 
                Games:   3                Games:   1 
               Points:  17               Points:   7 
 
        Division 2                Wed 7th May        
         Menston A                Grove Hill         
-Amrik Singh            26 Kay Lodge              17 
-Gail Singh                Alan Dawson               
+Gail Singh             26 Katherine Lodge        17 
+Amrik Singh               *A.N.Other*               
 Gwen Smith             26 John Chippindale       23 
 Ian Smith                 David Samuel              
 Gary Skeet             26 Tony Farrar            11 
-Nigel Buckley             Ruth Marshall             
+Nigel Buckley             *A.N.Other*               
 Shaun Johnson          25 Daniel Twist           26 
 Simon Cowley              Belinda Mitchell          
            Aggregate: 103            Aggregate:  77 
@@ -737,8 +625,8 @@ Geoff Megson           13 Sandy Watson           26
 Brendan Clarke            Margaret Adamson          
 Ray Boast              26 Trevor Dawson          19 
 Andy Barclay              Keith Roberts             
-Debbie Sandles         24 Linda Summers          26 
-Michelle Norcliffe        Jean Lees                 
+Debbie Sandles         24 Jean Lees              26 
+Michelle Norcliffe        Linda Summers             
            Aggregate:  89            Aggregate:  90 
                Games:   2                Games:   2 
               Points:  11               Points:  13 
@@ -752,14 +640,14 @@ Marian Poole              Denis Collet
 Adam Sample            26 Ian Chiverton          25 
 Mark Sample               Gary Johnson              
 Tim Nicholson          26 David Idle             14 
-Shirley Nicholson         Ken Web                   
+Shirley Nicholson         Ken Webb                  
            Aggregate: 104            Aggregate:  75 
                Games:   4                Games:   0 
               Points:  19               Points:   5 
 
        Division 3                Wed 7th May        
           Idle                    Menston B         
-Michael Barrett        26 Christine Asquith      10 
+Mick Barrett           26 Christine Asquith      10 
 Mark Paxton               Jim Hughes                
 Yvonne Coppin          26 Rosemary Cowley        10 
 Tekla England             Peter Hammond             
@@ -817,8 +705,8 @@ Russell Cooper            Andrew Shaw
  Burley in Wharfedale B           Guiseley          
 Paul Hill              20 Roger Waite            26 
 Nigel Steels              Jeremy Jones              
-Brian Wardle           26 Carolyn Matthewman      9 
-Sue Knowles               Colin Matthewman          
+Sue Knowles            26 Carolyn Matthewman      9 
+Brian Wardle              Colin Matthewman          
 Robert Wheeler         26 Peter Storey           24 
 Anthony Postlethwaite     Caroline Corbett          
 John Hardisty          26 Ralph Sissons          16 
@@ -847,31 +735,31 @@ Paul Stoyles           26 Elinor Newhouse         9
 Phil Clayton              Bill Lovedale             
 Bruce Callard          26 Diane Walker           11 
 Frank Sutcliffe           Keith Roberts             
-Richard Sunley         26 Gary Poucher           11 
-Kath Crompton             Anita Kingham             
-Nigel Stockdale        21 Ann Ryley              26 
-Ruth Sutcliffe            Edgar Ryley               
+Kath Crompton          26 Gary Poucher           11 
+Richard Sunley            Anita Kingham             
+Ruth Sutcliffe         21 Ann Ryley              26 
+Nigel Stockdale           Edgar Ryley               
            Aggregate:  99            Aggregate:  57 
                Games:   3                Games:   1 
               Points:  19               Points:   5 
 
        Division 2               Wed 14th May        
       Yeadon Park A               Menston A         
-John Hutton            26 Steve Cummins          16 
-Allen Hardcastle          Peter Hammond             
+Allen Hardcastle       26 Steve Cummins          16 
+John Hutton               Peter Hammond             
 Richard Gosnay         26 Gwen Smith             15 
 Ian Robertson             Laurie Robinson           
 Patrick Campbell       20 Jeremy Gill            26 
 David Baldwin             Simon Cowley              
-Frank Baker            23 Gary Skeet             26 
-Joan Baker                Nigel Buckley             
+Joan Baker             23 Gary Skeet             26 
+Frank Baker               Nigel Buckley             
            Aggregate:  95            Aggregate:  83 
                Games:   2                Games:   2 
               Points:  14               Points:  10 
 
        Division 2               Wed 14th May        
        Grove Hill               Wharfemeadows       
-Kay Lodge              26 Graham Tansley          8 
+Katherine Lodge        26 Graham Tansley          8 
 David Locke               Jeffrey Crabtree          
 Daniel Twist           26 Paul Bowden            11 
 Belinda Mitchell          Jeff Appleyard            
@@ -889,10 +777,10 @@ Linda Barrand          14 Geoff Megson           26
 Stephen Tiernan           Brendan Clarke            
 Nicola Bona            20 Peter Byford           26 
 Phil Sutcliffe            Kathleen Haley            
-Laila Packer            8 David Lyons            26 
-Rob Packer                Geraldine Lyons           
-Harvey Leonard         26 Ray Boast              12 
-Paul Leonard              Andy Barclay              
+Laila Packer            8 Geraldine Lyons        26 
+Rob Packer                David Lyons               
+Paul Leonard           26 Ray Boast              12 
+Harvey Leonard            Andy Barclay              
            Aggregate:  68            Aggregate:  90 
                Games:   1                Games:   3 
               Points:   7               Points:  17 
@@ -901,9 +789,9 @@ Paul Leonard              Andy Barclay
        Northcliffe                  Idle            
 Denis Collet           12 Dave Duckett           26 
 Terry Archer              Jane Paxton               
-Ken Web                 7 Roy Barlow             26 
+Ken Webb                7 Roy Barlow             26 
 Roger Pollard             Val Leach                 
-Anne Idle               3 Michael Barrett        26 
+Anne Idle               3 Mick Barrett           26 
 Peter Roy Lamonby         Mark Paxton               
 Michael Dennison       26 Yvonne Coppin          19 
 Richard Handford          Tekla England             
@@ -915,12 +803,12 @@ Richard Handford          Tekla England
         Menston B               Yeadon Park B       
 Joyce Bishop           15 Mark Sample            26 
 Christine Asquith         Adam Sample               
-Barbara Harrison       12 Reid Haddow            26 
-Monty Navias              Andrew Smalley            
-Rosemary Cowley        26 Marian Poole           15 
-Jim Hughes                David Poole               
-Christine Hughes        6 Shirley Nicholson      26 
-Stuart Davies             Tim Nicholson             
+Barbara Harrison       12 Andrew Smalley         26 
+Monty Navias              Reid Haddow               
+Rosemary Cowley        26 David Poole            15 
+Jim Hughes                Marian Poole              
+Christine Hughes        6 Tim Nicholson          26 
+Stuart Davies             Shirley Nicholson         
            Aggregate:  59            Aggregate:  93 
                Games:   1                Games:   3 
               Points:   6               Points:  18 
@@ -943,12 +831,12 @@ Trevor Dawson             Lesley Williams
         Rufford B                  Adel A           
 Helen Gilroy           26 Les Tugwell            14 
 Graham Ingleson           Jean Shepherd             
-Stuart Parker          26 Meryl Auty             14 
-Angela Burnham            Trevor Sargison           
+Angela Burnham         26 Meryl Auty             14 
+Stuart Parker             Trevor Sargison           
 Pauline Gilroy         26 Bruce Tremlett         23 
 Alexander Waite           Antony Shenton            
-Mick Snowden            5 Dave Brown             26 
-Jack Snowden              John Binns                
+Jack Snowden            5 Dave Brown             26 
+Mick Snowden              John Binns                
            Aggregate:  83            Aggregate:  77 
                Games:   3                Games:   1 
               Points:  14               Points:  10 
@@ -966,20 +854,6 @@ Peter Whipp               Steve Senior
            Aggregate: 104            Aggregate:  63 
                Games:   4                Games:   0 
               Points:  20               Points:   4 
-
-       Division 1               Wed 21st May        
-        Guiseley                  Rufford A         
-Ralph Sissons          23 Angela Bennett         26 
-Peter Storey              Catherine New             
-Roger Waite            26 Glynn Goodyear          6 
-Jeremy Jones              Ken Lee                   
-Carolyn Matthewman     26 Christopher Sims       24 
-Colin Matthewman          Dianne Teale              
-Caroline Corbett       24 Brian Teale            26 
-Lynne Ogden               Allan Caine               
-           Aggregate:  99            Aggregate:  82 
-               Games:   2                Games:   2 
-              Points:  15               Points:   9 
 
        Division 1               Wed 21st May        
         Bramhope           Burley in Wharfedale A   
@@ -1027,8 +901,8 @@ John Warburton            Douglas Blair
         Menston A                  Rawdon           
 Gwen Smith             26 Lindsay Rosendale      17 
 Laurie Robinson           Ken Garbett               
-Amrik Singh            26 Christine Scott        10 
-Gail Singh                Ian Scott                 
+Gail Singh             26 Christine Scott        10 
+Amrik Singh               Ian Scott                 
 Gary Skeet             26 Bernard Harrison        6 
 Nigel Buckley             Stan Parker               
 Shaun Johnson          26 Graham Hogg            10 
@@ -1039,13 +913,13 @@ Simon Cowley              Ray Weldrand
 
        Division 2               Wed 21st May        
       Yeadon Park A              Grove Hill         
-Richard Gosnay         15 John Chippindale       26 
-Tracy Wilson              David Samuel              
-Frank Baker            26 Belinda Mitchell       22 
-Joan Baker                Joan Holden               
+Tracy Wilson           15 John Chippindale       26 
+Richard Gosnay            David Samuel              
+Joan Baker             26 Belinda Mitchell       22 
+Frank Baker               Joan Holden               
 Allen Hardcastle       26 Neil Jameson           18 
 John Hutton               Tony Farrar               
-Patrick Campbell       13 Kay Lodge              26 
+Patrick Campbell       13 Katherine Lodge        26 
 David Baldwin             David Locke               
            Aggregate:  80            Aggregate:  92 
                Games:   2                Games:   2 
@@ -1081,14 +955,14 @@ Geraldine Lyons           Peter Roy Lamonby
 
        Division 3               Wed 21st May        
          Adel B               Stanningley Park      
-Alan Wittrick          21 Phil Sutcliffe         26 
-Phil Hayward              Nicola Bona               
-Graham Clough          26 Ken Green              17 
-Sue Pagdin                Stephen Tiernan           
-Gordon Robinson         9 Alyssa Randell         26 
-John Auty                 Tracey Marshall           
-Brian Ward             21 Paul Leonard           26 
-Marian Ward               Harvey Leonard            
+Alan Wittrick          21 Nicola Bona            26 
+Phil Hayward              Phil Sutcliffe            
+Sue Pagdin             26 Ken Green              17 
+Graham Clough             Stephen Tiernan           
+John Auty               9 Alyssa Randell         26 
+Gordon Robinson           Tracey Marshall           
+Marian Ward            21 Harvey Leonard         26 
+Brian Ward                Paul Leonard              
            Aggregate:  77            Aggregate:  95 
                Games:   1                Games:   3 
               Points:   8               Points:  16 
@@ -1099,7 +973,7 @@ Dave Duckett           26 Shirley Nicholson      14
 Jane Paxton               Tim Nicholson             
 Roy Barlow             26 Reid Haddow            25 
 John Mellan               David Poole               
-Michael Barrett        18 Mark Sample            26 
+Mick Barrett           18 Mark Sample            26 
 Mark Paxton               Adam Sample               
 Yvonne Coppin          26 Lynne Myers             6 
 Tekla England             Sandra Taylor             
@@ -1127,8 +1001,8 @@ Steve Senior           26 Maureen Jarvis         11
 Andrew Cook               Peter Storey              
 Steve Ackroyd          26 Luke Teale             19 
 Darren Thompson           Lynne Ogden               
-Andrew Breare          26 Ralph Sissons          18 
-Terry Almond              Jeremy Jones              
+Terry Almond           26 Ralph Sissons          18 
+Andrew Breare             Jeremy Jones              
 Steve Birch 'A'        26 Carolyn Matthewman     15 
 Cliff Taylor              Caroline Corbett          
            Aggregate: 104            Aggregate:  63 
@@ -1141,8 +1015,8 @@ Jean Shepherd          26 Nigel Steels           13
 David Pike                Phil Argyle               
 Bruce Tremlett         26 Brian Wardle           23 
 Antony Shenton            Sue Knowles               
-Meryl Auty              5 Paul Hill              26 
-Keith Ellse               Freya Hill                
+Meryl Auty              5 Freya Hill             26 
+Keith Ellse               Paul Hill                 
 Dave Brown             26 Christopher Wheeler    21 
 Howard Rew                Robert Wheeler            
            Aggregate:  83            Aggregate:  83 
@@ -1165,14 +1039,14 @@ Mark Ullock               Frankie Snowden
 
        Division 2               Wed 28th May        
      Meanwood Park B              Menston A         
-Julie Keightley        12 Gwen Smith             26 
-David L Miller            Laurie Robinson           
+Julie Keightley        12 Laurie Robinson        26 
+David L Miller            Gwen Smith                
 Pat Blackburn          11 Amrik Singh            26 
 John Hindle               Gail Singh                
-John King              26 Nigel Buckley          10 
-Oliver Devaney            Gary Skeet                
-Douglas Blair          26 Simon Cowley           19 
-Jeff Blackburn            Shaun Johnson             
+John King              26 Gary Skeet             10 
+Oliver Devaney            Nigel Buckley             
+Jeff Blackburn         26 Simon Cowley           19 
+Douglas Blair             Shaun Johnson             
            Aggregate:  75            Aggregate:  81 
                Games:   2                Games:   2 
               Points:  11               Points:  13 
@@ -1183,10 +1057,10 @@ Phil Clayton           26 David Keighley          9
 Paul Stoyles              Mark Wilson               
 Nigel Stockdale        25 Allen Hardcastle       26 
 Ruth Sutcliffe            John Hutton               
-Bruce Callard          25 Richard Gosnay         26 
-Richard Sunley            Tracy Wilson              
-Frank Sutcliffe        10 Frank Baker            26 
-Kath Crompton             Joan Baker                
+Bruce Callard          25 Tracy Wilson           26 
+Richard Sunley            Richard Gosnay            
+Frank Sutcliffe        10 Joan Baker             26 
+Kath Crompton             Frank Baker               
            Aggregate:  86            Aggregate:  87 
                Games:   1                Games:   3 
               Points:  10               Points:  14 
@@ -1205,30 +1079,16 @@ Mike Whitelaw             Linda Yates
                Games:   3                Games:   1 
               Points:  16               Points:   8 
 
-       Division 2               Wed 28th May        
-       Grove Hill                 Ilkley B          
-Belinda Mitchell       26 John Brennan           18 
-Joan Holden               Deborah Swann             
-John Chippindale       26 Bernie Connor          10 
-David Samuel              Sally Brennan             
-Neil Jameson           26 Debbie Shuttleworth    23 
-Tony Farrar               Denise Almond             
-Kay Lodge              26 Colin Spooner          16 
-David Locke               Alan Strachan             
-           Aggregate: 104            Aggregate:  67 
-               Games:   4                Games:   0 
-              Points:  20               Points:   4 
-
        Division 3               Wed 28th May        
     Stanningley Park                Idle            
 Rob Packer             16 Roy Barlow             26 
 Phil Sutcliffe            Val Leach                 
 Laila Packer           12 Steve Horne            26 
 Karen Uttley              Mark Paxton               
-Tracey Marshall        26 Pam Barlow             25 
-Colin Haque               Tekla England             
-Vanessa Lancaster      17 Dave Duckett           26 
-Ken Green                 Jane Paxton               
+Tracey Marshall        26 Tekla England          25 
+Colin Haque               Pam Barlow                
+Ken Green              17 Jane Paxton            26 
+Vanessa Lancaster         Dave Duckett              
            Aggregate:  71            Aggregate: 103 
                Games:   1                Games:   3 
               Points:   6               Points:  18 
@@ -1236,12 +1096,12 @@ Ken Green                 Jane Paxton
        Division 3               Wed 28th May        
        Northcliffe                 Adel B           
 Gary Johnson           19 Graham Clough          26 
-Ken Web                   Lesley Williams           
+Ken Webb                  *A.N.Other*               
 Denis Collet           26 Phil Hayward           15 
 Duncan Campbell           Alan Wittrick             
 Ian Chiverton          26 John Auty              13 
-Sleight Debbie            Sue Pagdin                
-Michael Dennison       26 Paul Williams          12 
+Debbie Sleight            Sue Pagdin                
+Michael Dennison       26 *A.N.Other*            12 
 Andrea Chiverton          Sheena Parker             
            Aggregate:  97            Aggregate:  66 
                Games:   3                Games:   1 
@@ -1253,8 +1113,8 @@ Stuart Davies          26 Sandy Watson            6
 Peter Gaston              Margaret Adamson          
 Ian Smith              26 Diane Walker            7 
 Christine Hughes          Peter Raw                 
-Joyce Bishop           16 Jean Lees              26 
-Christine Asquith         Linda Summers             
+Christine Asquith      16 Jean Lees              26 
+Joyce Bishop              Linda Summers             
 Jim Hughes             26 Trevor Dawson           6 
 Rosemary Cowley           Keith Roberts             
            Aggregate:  94            Aggregate:  45 
@@ -1265,14 +1125,421 @@ Rosemary Cowley           Keith Roberts
       Yeadon Park B              New Armley         
 Julie Watson           24 Walter Stockhill       26 
 Reid Haddow               David Gregory             
-David Poole            26 Carol Robinson         17 
-Marian Poole              David Hurd                
+Marian Poole           26 Carol Robinson         17 
+David Poole               David Hurd                
 Mark Sample            26 Matthew Rollinson      10 
 Adam Sample               Mark Rollinson            
-Tim Nicholson          26 Anne Gothard           11 
-Shirley Nicholson         Howard Gothard            
+Tim Nicholson          26 Howard Gothard         11 
+Shirley Nicholson         Anne Gothard              
            Aggregate: 102            Aggregate:  64 
                Games:   3                Games:   1 
               Points:  19               Points:   5 
 
+       Division 1               Wed 11th Jun        
+        Rufford B                 Bramhope          
+Angela Burnham         26 Linda Porter           17 
+Gabby Parker              Sabrina Piggott           
+Jack Snowden           22 Billy Webb             26 
+Graham Ingleson           Ian Pruchniewicz          
+Stuart Parker          25 Anne Mackman           26 
+Pauline Ingleson          Chris Jowett              
+Mick Snowden           26 Antonio Sanna          23 
+Alexander Waite           Ian Warner                
+           Aggregate:  99            Aggregate:  92 
+               Games:   2                Games:   2 
+              Points:  13               Points:  11 
+
+       Division 1               Wed 11th Jun        
+        Guiseley           Burley in Wharfedale A   
+Carolyn Matthewman     21 Richard Kellett        26 
+Colin Matthewman          Ben Ullock                
+Maureen Jarvis         21 Roy Knowles            26 
+Peter Storey              Joe Ullock                
+Jeremy Jones           26 Brian Wheeler          13 
+Roger Waite               Pete Thornton             
+Caroline Corbett       20 Mark Ullock            26 
+Joe Stockdale             Andrew Shaw               
+           Aggregate:  88            Aggregate:  91 
+               Games:   1                Games:   3 
+              Points:  10               Points:  14 
+
+       Division 1               Wed 11th Jun        
+ Burley in Wharfedale B           Ilkley A          
+Christopher Wheeler    18 Steve Ackroyd          26 
+John Hardisty             Darren Thompson           
+Freya Hill             26 Cliff Taylor            7 
+Paul Hill                 Steve Birch 'A'           
+Robert Wheeler          7 Richard Garth          26 
+Anthony Postlethwaite     Robert Garth              
+Brian Wardle           26 Andrew Cook            17 
+Sue Knowles               Andrew Breare             
+           Aggregate:  77            Aggregate:  76 
+               Games:   2                Games:   2 
+              Points:  13               Points:  11 
+
+       Division 1               Wed 11th Jun        
+     Meanwood Park A               Adel A           
+Rory Bligh             26 Jean Shepherd          22 
+Craig Goodall             Philip Hynes              
+Lynda Heath            26 Bruce Tremlett         16 
+Ian Howard                Antony Shenton            
+Michael Gregory        26 Meryl Auty              7 
+Ian Macfarlane            Trevor Sargison           
+Karen Portman          26 Les Tugwell             7 
+Peter Whipp               John Binns                
+           Aggregate: 104            Aggregate:  52 
+               Games:   4                Games:   0 
+              Points:  22               Points:   2 
+
+       Division 2               Wed 11th Jun        
+        Menston A               Greenbottom A       
+Simon Cowley           26 Elinor Newhouse         9 
+Shaun Johnson             Bill Lovedale             
+Gary Skeet             26 Gary Poucher           22 
+Nigel Buckley             Alan Bishop               
+Gail Singh             26 Karen Whitelaw         24 
+Amrik Singh               Mike Whitelaw             
+Gwen Smith             26 Ann Ryley               6 
+Laurie Robinson           Edgar Ryley               
+           Aggregate: 104            Aggregate:  61 
+               Games:   4                Games:   0 
+              Points:  21               Points:   3 
+
+       Division 2               Wed 11th Jun        
+        Ilkley B             Horsforth Hall Park    
+Sally Brennan           9 Paul Stoyles           26 
+John Brennan              Phil Clayton              
+Steve Morton           26 Nigel Stockdale        19 
+Lee Stevens               Ruth Sutcliffe            
+Debbie Shuttleworth    26 Richard Sunley         20 
+Martin Bailey             Bruce Callard             
+Colin Spooner          26 Kath Crompton          15 
+Bernie Connor             John Sutton               
+           Aggregate:  87            Aggregate:  80 
+               Games:   3                Games:   1 
+              Points:  14               Points:  10 
+
+       Division 2               Wed 11th Jun        
+       Grove Hill                  Rawdon           
+Belinda Mitchell       26 Ray Weldrand           12 
+Daniel Twist              Neil Hargreaves           
+Neil Jameson           26 Stan Parker             8 
+Tony Farrar               Bernard Harrison          
+John Chippindale       26 Lindsay Rosendale      22 
+David Samuel              Ken Garbett               
+Katherine Lodge        26 Ian Scott               4 
+David Locke               Christine Scott           
+           Aggregate: 104            Aggregate:  46 
+               Games:   4                Games:   0 
+              Points:  23               Points:   1 
+
+       Division 2               Wed 11th Jun        
+      Yeadon Park A            Meanwood Park B      
+Allen Hardcastle       26 Oliver Devaney         18 
+John Hutton               John King                 
+Tracy Wilson           14 John Hindle            26 
+Richard Gosnay            Pat Blackburn             
+Mark Wilson            22 Jeff Blackburn         26 
+Ian Robertson             Douglas Blair             
+David Arundale         26 Julie Keightley        18 
+David Baldwin             David L Miller            
+           Aggregate:  88            Aggregate:  88 
+               Games:   2                Games:   2 
+              Points:  12               Points:  12 
+
+       Division 3               Wed 11th Jun        
+       New Armley                   Idle            
+David Gregory          26 Mick Barrett           20 
+Walter Stockhill          Mark Paxton               
+Matthew Rollinson      26 Pam Barlow             17 
+Mark Rollinson            Tekla England             
+Josie Burdon           12 Roy Barlow             26 
+Karl Chapman              Val Leach                 
+Maureen Morris         18 Dave Duckett           26 
+Alan Taylor               Jane Paxton               
+           Aggregate:  82            Aggregate:  89 
+               Games:   2                Games:   2 
+              Points:  11               Points:  13 
+
+       Division 3               Wed 11th Jun        
+      Greenbottom B              Northcliffe        
+Linda Summers          26 Roger Pollard          16 
+Jean Lees                 Gary Johnson              
+Trevor Dawson          26 Michael Dennison       18 
+Alan Jukes                Andrea Chiverton          
+Sandy Watson           26 Debbie Sleight         12 
+Margaret Adamson          Peter Roy Lamonby         
+Anne Raw               22 Denis Collet           26 
+Peter Raw                 Terry Archer              
+           Aggregate: 100            Aggregate:  72 
+               Games:   3                Games:   1 
+              Points:  17               Points:   7 
+
+       Division 3               Wed 11th Jun        
+         Adel B                 Yeadon Park B       
+Phil Hayward            8 David Poole            26 
+Alan Wittrick             Marian Poole              
+Paul Williams          10 Reid Haddow            26 
+Gordon Robinson           Robert North              
+Graham Clough          19 Lynne Myers            26 
+Lesley Williams           Julie Watson              
+John Auty              26 Mark Sample            24 
+Sue Pagdin                Adam Sample               
+           Aggregate:  63            Aggregate: 102 
+               Games:   1                Games:   3 
+              Points:   5               Points:  19 
+
+       Division 1               Wed 18th Jun        
+ Burley in Wharfedale A        Meanwood Park A      
+Mark Ullock            26 Lynda Heath            12 
+Brian Wheeler             Philip McStay             
+Pete Thornton          26 Douglas Blair          21 
+John Hardisty             Oliver Devaney            
+Roy Knowles            26 Michael Gregory        10 
+Joe Ullock                Ian Macfarlane            
+Richard Kellett        13 Peter Whipp            26 
+Ben Ullock                Karen Portman             
+           Aggregate:  91            Aggregate:  69 
+               Games:   3                Games:   1 
+              Points:  17               Points:   7 
+
+       Division 1               Wed 18th Jun        
+        Rufford A          Burley in Wharfedale B   
+Brian Teale            26 Freya Hill             15 
+Catherine New             Paul Hill                 
+Glynn Goodyear         26 Sue Knowles            15 
+Ken Lee                   Brian Wardle              
+Val Grace              26 Christopher Wheeler    11 
+Allan Caine               Robert Wheeler            
+Christopher Sims       26 Anthony Postlethwaite  16 
+Dianne Teale              Nigel Steels              
+           Aggregate: 104            Aggregate:  57 
+               Games:   4                Games:   0 
+              Points:  21               Points:   3 
+
+       Division 1               Wed 18th Jun        
+        Bramhope                  Guiseley          
+Billy Webb             26 Roger Waite            14 
+Stewart Sunman            Jeremy Jones              
+Antonio Sanna          23 Caroline Corbett       26 
+Helen Mylan               Ralph Sissons             
+Pam Wood               26 Peter Storey           24 
+Chris Jowett              Maureen Jarvis            
+Anne Mackman           22 Carolyn Matthewman     26 
+Bob Williams              Colin Matthewman          
+           Aggregate:  97            Aggregate:  90 
+               Games:   2                Games:   2 
+              Points:  13               Points:  11 
+
+       Division 1               Wed 18th Jun        
+        Ilkley A                  Rufford B         
+Darren Thompson        26 Angela Burnham          6 
+Steve Ackroyd             Gabby Parker              
+Terry Almond           25 Pauline Ingleson       26 
+Andrew Breare             Aileen Waite              
+Cliff Taylor           26 Graham Ingleson        14 
+Steve Birch 'A'           Helen Gilroy              
+Steve Senior           26 Jack Snowden           10 
+Andrew Cook               Alexander Waite           
+           Aggregate: 103            Aggregate:  56 
+               Games:   3                Games:   1 
+              Points:  20               Points:   4 
+
+       Division 2               Wed 18th Jun        
+   Horsforth Hall Park           Grove Hill         
+Kath Crompton          26 Neil Jameson           10 
+John Sutton               Tony Farrar               
+Nigel Stockdale        26 Belinda Mitchell       14 
+Ruth Sutcliffe            Daniel Twist              
+Bruce Callard          14 Katherine Lodge        26 
+Keith Barran              David Locke               
+Paul Stoyles           26 John Chippindale       21 
+Phil Clayton              David Samuel              
+           Aggregate:  92            Aggregate:  71 
+               Games:   3                Games:   1 
+              Points:  16               Points:   8 
+
+       Division 2               Wed 18th Jun        
+         Rawdon                 Yeadon Park A       
+John Collins           26 Tracy Wilson           25 
+Ray Weldrand              Richard Gosnay            
+Stan Parker            24 David Baldwin          26 
+Bernard Harrison          David Keighley            
+Lindsay Rosendale      26 Mark Wilson            13 
+Ken Garbett               Patrick Campbell          
+Ian Scott              18 Allen Hardcastle       26 
+Christine Scott           John Hutton               
+           Aggregate:  94            Aggregate:  90 
+               Games:   2                Games:   2 
+              Points:  13               Points:  11 
+
+       Division 2               Wed 18th Jun        
+     Meanwood Park B            Wharfemeadows       
+Julie Keightley        26 Nancy Marston          20 
+John King                 Paul Crawford             
+Jeff Blackburn         26 Jeff Appleyard          5 
+Norman Bracewell          Paul Bowden               
+Wendy Sykes            26 Jane Bowden            21 
+Maureen Sheridan          Jean Crawford             
+Pat Blackburn           7 Brenda Appleyard       26 
+David L Miller            Graham Tansley            
+           Aggregate:  85            Aggregate:  72 
+               Games:   3                Games:   1 
+              Points:  15               Points:   9 
+
+       Division 3               Wed 18th Jun        
+    Stanningley Park            Greenbottom B       
+Ken Green              26 Anne Raw               14 
+Vanessa Lancaster         Peter Raw                 
+Laila Packer           12 Linda Summers          26 
+Nicola Bona               Jean Lees                 
+Stephen Tiernan         9 Pam Radcliffe          26 
+Rob Packer                Margaret Adamson          
+Paul Leonard           26 Sandy Watson           20 
+Harvey Leonard            Trevor Dawson             
+           Aggregate:  73            Aggregate:  86 
+               Games:   2                Games:   2 
+              Points:  10               Points:  14 
+
+       Division 3               Wed 18th Jun        
+          Idle                     Adel B           
+Yvonne Coppin          26 Graham Clough           6 
+Tekla England             Lesley Williams           
+Dave Duckett           26 Sue Pagdin             12 
+Jane Paxton               John Auty                 
+Mick Barrett           26 Phil Hayward           21 
+Mark Paxton               Sheena Parker             
+Roy Barlow             26 Brian Ward             10 
+Val Leach                 Marian Ward               
+           Aggregate: 104            Aggregate:  49 
+               Games:   4                Games:   0 
+              Points:  22               Points:   2 
+
+       Division 3               Wed 18th Jun        
+      Yeadon Park B               Holt Park         
+Julie Watson           22 Ray Boast              26 
+Sandra Taylor             Andy Barclay              
+Adam Sample            26 Debbie Sandles         18 
+Ian Robertson             Michelle Norcliffe        
+Tim Nicholson          26 Trevor Haley           17 
+Shirley Nicholson         Barry Norcliffe           
+Robert North           17 David Lyons            26 
+Alan Keighley             Geoff Megson              
+           Aggregate:  91            Aggregate:  87 
+               Games:   2                Games:   2 
+              Points:  13               Points:  11 
+
+       Division 3               Wed 18th Jun        
+       Northcliffe               New Armley         
+Michael Dennison       12 Walter Stockhill       26 
+Richard Handford          David Gregory             
+Joanne Johnson         16 Carol Robinson         26 
+Denis Collet              David Hurd                
+Ian Chiverton          21 Matthew Rollinson      26 
+Gary Johnson              Mark Rollinson            
+Andrea Chiverton       26 Maureen Morris          7 
+David Idle                Alan Taylor               
+           Aggregate:  75            Aggregate:  85 
+               Games:   1                Games:   3 
+              Points:   9               Points:  15 
+
+
+        Round 1                Wed 30th Apr        
+                               On Northcliffe       
+      Greenbottom B              Grove Hill         
+Anne Raw               11 David Samuel           26 
+Peter Raw                 Daniel Twist              
+Margaret Adamson       26 Alan Byers             13 
+Pam Radcliffe             Belinda Mitchell          
+Diane Walker           11 Tony Farrar            26 
+Keith Roberts             Neil Jameson              
+Trevor Dawson          10 Kay Lodge              26 
+Linda Summers             David Locke               
+            Handicap: +40             Handicap: +20 
+           Aggregate:  98            Aggregate: 111 
+
+         Round 1                Wed 30th Apr        
+                                  On Ilkley         
+      Yeadon Park B               Guiseley          
+Tim Nicholson          21 Carolyn Matthewman     26 
+Shirley Nicholson         Colin Matthewman          
+Mark Sample            21 Maureen Jarvis         26 
+Adam Sample               Peter Storey              
+David Poole            26 Caroline Corbett        8 
+Reid Haddow               Lynne Ogden               
+Sandra Taylor          10 Ralph Sissons          26 
+Lynne Myers               Jeremy Jones              
+            Handicap: +40             Handicap: Scr 
+           Aggregate: 118            Aggregate:  86 
+
+
+         Round 1                Wed 30th Apr        
+                           On Burley In Wharfedale  
+   Horsforth Hall Park         Meanwood Park A      
+Paul Stoyles           20 Craig Goodall          26 
+Phil Clayton              Rory Bligh                
+Bruce Callard          10 Karen Portman          26 
+Frank Sutcliffe           Andy Swain                
+Richard Sunley         12 Michael Gregory        26 
+Kath Crompton             Ian Macfarlane            
+Ruth Sutcliffe         18 Lynda Heath            26 
+Nigel Stockdale           Ian Howard                
+            Handicap: +20             Handicap: Scr 
+           Aggregate:  80            Aggregate: 104 
+
+         Round 1                Wed 30th Apr        
+                                 On Bramhope        
+        Rufford A               Yeadon Park A       
+Val Grace              26 John Hutton            10 
+Allan Caine               David Keighley            
+Catherine New          23 Frank Baker            26 
+Angela Bennett            Joan Baker                
+Glynn Goodyear         26 David Baldwin           6 
+Ken Lee                   Mark Wilson               
+Dianne Teale           25 Richard Gosnay         26 
+Christopher Sims          Tracy Wilson              
+            Handicap: Scr             Handicap: +20 
+           Aggregate: 100            Aggregate:  88 
+
+         Round 1                Wed 30th Apr        
+                             On Stanningley Park    
+        Menston A                 Rufford B         
+Gwen Smith             26 Mick Snowden           16 
+Laurie Robinson           Jack Snowden              
+Gail Singh             26 Graham Ingleson        13 
+Amrik Singh               Angela Burnham            
+Gary Skeet             23 Pauline Gilroy         26 
+Nigel Buckley             Pauline Ingleson          
+Shaun Johnson          26 Alexander Waite         3 
+Simon Cowley              Stuart Parker             
+            Handicap: +20             Handicap: Scr 
+           Aggregate: 121            Aggregate:  58 
+
+         Round 1                Wed 30th Apr        
+                               On Greenbottom       
+ Burley in Wharfedale B         Wharfemeadows       
+Brian Wardle           26 Lorna Crabtree          3 
+Sue Knowles               Jeffrey Crabtree          
+Paul Hill              26 Brenda Appleyard       24 
+Freya Hill                Graham Tansley            
+Robert Wheeler         26 Jane Bowden            25 
+Anthony Postlethwaite     Paul Bowden               
+Brian Wheeler          26 Jean Crawford           7 
+Christopher Wheeler       Paul Crawford             
+            Handicap: Scr             Handicap: +20 
+           Aggregate: 104            Aggregate:  79 
+
+         Round 1                Wed 30th Apr        
+                                On Holt Park        
+        Ilkley A                  Menston B         
+Steve Senior           26 Joyce Bishop           16 
+Bernie Connor             Jim Hughes                
+Steve Birch 'A'        26 Rosemary Cowley        10 
+Cliff Taylor              Mike Ripley               
+Andrew Breare          26 Christine Asquith      12 
+Terry Almond              Christine Hughes          
+Steve Ackroyd          26 Jean Shepherd           6 
+Darren Thompson           Monty Navias              
+            Handicap: Scr             Handicap: +40 
+           Aggregate: 104            Aggregate:  84 
 
