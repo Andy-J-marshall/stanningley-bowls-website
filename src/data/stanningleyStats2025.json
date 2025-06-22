@@ -715,12 +715,12 @@
             }
         },
         "craig clarkson": {
-            "totalAgg": 260,
-            "totalAggAgainst": 257,
-            "availableAgg": 315,
+            "totalAgg": 239,
+            "totalAggAgainst": 237,
+            "availableAgg": 294,
             "availablePairsAgg": 0,
             "availableHomeAgg": 126,
-            "availableAwayAgg": 147,
+            "availableAwayAgg": 126,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -729,13 +729,13 @@
             "totalHomeAggAgainst": 99,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 112,
-            "totalAwayAggAgainst": 125,
+            "totalAwayAgg": 91,
+            "totalAwayAggAgainst": 105,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 2,
             "homeLosses": 4,
-            "awayWins": 3,
+            "awayWins": 2,
             "awayLosses": 4,
             "cupWins": 1,
             "cupLosses": 1,
@@ -747,7 +747,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 15,
+            "totalGamesPlayed": 14,
             "results": [
                 "craig clarkson 20 - 21 sylvia petty",
                 "craig clarkson 21 - 12 keith farrell",
@@ -762,8 +762,7 @@
                 "craig clarkson 19 - 21 stephen jackson",
                 "craig clarkson 15 - 21 alan wood",
                 "craig clarkson 21 - 12 lorraine barker",
-                "craig clarkson 8 - 21 mandy wilson",
-                "craig clarkson 21 - 20 alex perry"
+                "craig clarkson 8 - 21 mandy wilson"
             ],
             "airewharfe monday": {
                 "games": 7,
@@ -801,9 +800,9 @@
                 "aggDiff": 0
             },
             "leeds saturday": {
-                "games": 1,
-                "wins": 1,
-                "aggDiff": 1
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
             },
             "leeds saturday (b)": {
                 "games": 0,
