@@ -40,14 +40,14 @@ export const leagues = [
     day: "Ossett and Horbury",
     url: "/Ossett",
   },
-  // {
-  //   day: "AireWharfe Monday",
-  //   url: "/AW-Mon",
-  // },
-  // {
-  //   day: "AireWharfe Wednesday Pairs",
-  //   url: "/AW-WedPairs",
-  // },
+  {
+    day: "AireWharfe Monday",
+    url: "/AW-Mon",
+  },
+  {
+    day: "AireWharfe Wednesday Pairs",
+    url: "/AW-WedPairs",
+  },
   // {
   //   day: "AireWharfe Vets",
   //   url: "/AW-Vets",
