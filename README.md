@@ -157,6 +157,7 @@ A number of manual changes are required at the end of each calendar year.
 
 3. If entering a new league, make sure the `bowlsClubStats.py` script will still work e.g. different scoring methods, or different number of players in a team might cause issues
 4. Check the scripts still work for the new season. The Bowlsnet website or text reports may have changed which could cause the scripts to fail
+5. Remove the `combineFiles.py` call in `get-stats` in `package.json` file. This is only needed if AireWharfe has reset the cup half way through and lost results.
 
 ## Web application
 
