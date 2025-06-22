@@ -1,10 +1,10 @@
 files_to_update = [
     {
-        "input_file": "bowlsnetReports/2025/Ronnie Collins R16.txt",
+        "input_file": "bowlsnetReports/2025/AireWharfe Monday Cup.txt",
         "output_file": "bowlsnetReports/2025/AireWharfe Monday.txt",
     },
     {
-        "input_file": "bowlsnetReports/2025/AireWharfe Wednesday Pairs R16.txt",
+        "input_file": "bowlsnetReports/2025/AireWharfe Wednesday Pairs Cup.txt",
         "output_file": "bowlsnetReports/2025/AireWharfe Wednesday Pairs.txt",
     },
 ]

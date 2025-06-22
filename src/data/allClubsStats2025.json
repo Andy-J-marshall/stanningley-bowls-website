@@ -766,9 +766,9 @@
             ]
         },
         "jim moorin": {
-            "totalAgg": 867,
-            "totalAggAgainst": 696,
-            "availableAgg": 987,
+            "totalAgg": 886,
+            "totalAggAgainst": 717,
+            "availableAgg": 1008,
             "availablePairsAgg": 0,
             "availableHomeAgg": 483,
             "availableAwayAgg": 441,
@@ -789,7 +789,7 @@
             "awayWins": 13,
             "awayLosses": 8,
             "cupWins": 2,
-            "cupLosses": 1,
+            "cupLosses": 2,
             "pairWins": 0,
             "pairLosses": 0,
             "pairHomeWins": 0,
@@ -798,7 +798,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 47,
+            "totalGamesPlayed": 48,
             "results": [
                 "jim moorin 21 - 5 brenda chaffer",
                 "jim moorin 21 - 18 mark hopps",
@@ -826,6 +826,7 @@
                 "jim moorin 20 - 21 val grace",
                 "jim moorin 21 - 18 sarah harrison",
                 "jim moorin 21 - 16 t harrison",
+                "jim moorin 19 - 21 ken garbett",
                 "jim moorin 14 - 21 christine barker",
                 "jim moorin 14 - 21 john shoesmith",
                 "jim moorin 21 - 13 pauline gilroy",

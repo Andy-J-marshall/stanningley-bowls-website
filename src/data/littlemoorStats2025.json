@@ -206,9 +206,9 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 663,
-            "totalAggAgainst": 579,
-            "availableAgg": 777,
+            "totalAgg": 682,
+            "totalAggAgainst": 600,
+            "availableAgg": 798,
             "availablePairsAgg": 0,
             "availableHomeAgg": 399,
             "availableAwayAgg": 336,
@@ -229,7 +229,7 @@
             "awayWins": 8,
             "awayLosses": 8,
             "cupWins": 1,
-            "cupLosses": 1,
+            "cupLosses": 2,
             "pairWins": 0,
             "pairLosses": 0,
             "pairHomeWins": 0,
@@ -238,7 +238,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 37,
+            "totalGamesPlayed": 38,
             "results": [
                 "jim moorin 21 - 2 janice connaleigh",
                 "jim moorin 10 - 21 deborah swann",
@@ -249,6 +249,7 @@
                 "jim moorin 20 - 21 val grace",
                 "jim moorin 21 - 18 sarah harrison",
                 "jim moorin 21 - 16 t harrison",
+                "jim moorin 19 - 21 ken garbett",
                 "jim moorin 14 - 21 christine barker",
                 "jim moorin 14 - 21 john shoesmith",
                 "jim moorin 21 - 13 pauline gilroy",
@@ -284,9 +285,9 @@
                 "aggDiff": 0
             },
             "airewharfe monday (b)": {
-                "games": 9,
+                "games": 10,
                 "wins": 7,
-                "aggDiff": 47
+                "aggDiff": 45
             },
             "mirfield": {
                 "games": 0,
