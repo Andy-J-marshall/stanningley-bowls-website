@@ -1506,12 +1506,12 @@
             }
         },
         "joey broadbent": {
-            "totalAgg": 125,
-            "totalAggAgainst": 86,
-            "availableAgg": 126,
+            "totalAgg": 146,
+            "totalAggAgainst": 106,
+            "availableAgg": 147,
             "availablePairsAgg": 0,
             "availableHomeAgg": 42,
-            "availableAwayAgg": 63,
+            "availableAwayAgg": 84,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -1520,13 +1520,13 @@
             "totalHomeAggAgainst": 22,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 62,
-            "totalAwayAggAgainst": 46,
+            "totalAwayAgg": 83,
+            "totalAwayAggAgainst": 66,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 2,
             "homeLosses": 0,
-            "awayWins": 2,
+            "awayWins": 3,
             "awayLosses": 1,
             "cupWins": 1,
             "cupLosses": 0,
@@ -1538,14 +1538,15 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 6,
+            "totalGamesPlayed": 7,
             "results": [
                 "joey broadbent 20 - 21 ruth sutcliffe",
                 "joey broadbent 21 - 15 thomas kilminster",
                 "joey broadbent 21 - 8 philip leadbeater",
                 "joey broadbent 21 - 18 richard briggs",
                 "joey broadbent 21 - 14 christine pollard",
-                "joey broadbent 21 - 10 paul bullock"
+                "joey broadbent 21 - 10 paul bullock",
+                "joey broadbent 21 - 20 alex perry"
             ],
             "airewharfe monday": {
                 "games": 6,
@@ -1583,9 +1584,9 @@
                 "aggDiff": 0
             },
             "leeds saturday": {
-                "games": 0,
-                "wins": 0,
-                "aggDiff": 0
+                "games": 1,
+                "wins": 1,
+                "aggDiff": 1
             },
             "leeds saturday (b)": {
                 "games": 0,
@@ -4431,6 +4432,6 @@
             ]
         }
     ],
-    "lastUpdated": "21/06/2025",
+    "lastUpdated": "22/06/2025",
     "statsYear": "2025"
 }
