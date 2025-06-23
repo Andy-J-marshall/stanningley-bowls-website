@@ -206,12 +206,12 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 682,
-            "totalAggAgainst": 600,
-            "availableAgg": 798,
+            "totalAgg": 696,
+            "totalAggAgainst": 621,
+            "availableAgg": 819,
             "availablePairsAgg": 0,
             "availableHomeAgg": 399,
-            "availableAwayAgg": 336,
+            "availableAwayAgg": 357,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -220,14 +220,14 @@
             "totalHomeAggAgainst": 280,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 257,
-            "totalAwayAggAgainst": 262,
+            "totalAwayAgg": 271,
+            "totalAwayAggAgainst": 283,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 13,
             "homeLosses": 6,
             "awayWins": 8,
-            "awayLosses": 8,
+            "awayLosses": 9,
             "cupWins": 1,
             "cupLosses": 2,
             "pairWins": 0,
@@ -238,7 +238,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 38,
+            "totalGamesPlayed": 39,
             "results": [
                 "jim moorin 21 - 2 janice connaleigh",
                 "jim moorin 10 - 21 deborah swann",
@@ -248,6 +248,7 @@
                 "jim moorin 21 - 8 kathryn jones",
                 "jim moorin 20 - 21 val grace",
                 "jim moorin 21 - 18 sarah harrison",
+                "jim moorin 14 - 21 ken garbett",
                 "jim moorin 21 - 16 t harrison",
                 "jim moorin 19 - 21 ken garbett",
                 "jim moorin 14 - 21 christine barker",
@@ -285,9 +286,9 @@
                 "aggDiff": 0
             },
             "airewharfe monday (b)": {
-                "games": 10,
+                "games": 11,
                 "wins": 7,
-                "aggDiff": 45
+                "aggDiff": 38
             },
             "mirfield": {
                 "games": 0,
@@ -341,9 +342,9 @@
             }
         },
         "john armitage": {
-            "totalAgg": 765,
-            "totalAggAgainst": 590,
-            "availableAgg": 840,
+            "totalAgg": 786,
+            "totalAggAgainst": 606,
+            "availableAgg": 861,
             "availablePairsAgg": 21,
             "availableHomeAgg": 336,
             "availableAwayAgg": 399,
@@ -363,7 +364,7 @@
             "homeLosses": 4,
             "awayWins": 11,
             "awayLosses": 8,
-            "cupWins": 4,
+            "cupWins": 5,
             "cupLosses": 1,
             "pairWins": 1,
             "pairLosses": 0,
@@ -373,7 +374,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 40,
+            "totalGamesPlayed": 41,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
@@ -383,6 +384,7 @@
                 "john armitage 21 - 14 dennis henderson",
                 "john armitage 21 - 18 craig wilkins",
                 "john armitage & marc armitage 21 - 9 paul leonard & harvey leonard",
+                "john armitage 21 - 16 neil madden",
                 "john armitage 21 - 7 lynda heath",
                 "john armitage 21 - 11 chris brown",
                 "john armitage 21 - 15 dean missere",
@@ -417,9 +419,9 @@
                 "john armitage 21 - 12 mick griffiths"
             ],
             "airewharfe monday": {
-                "games": 8,
-                "wins": 4,
-                "aggDiff": 2
+                "games": 9,
+                "wins": 5,
+                "aggDiff": 7
             },
             "airewharfe monday (b)": {
                 "games": 1,
@@ -810,6 +812,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "22/06/2025",
+    "lastUpdated": "23/06/2025",
     "statsYear": "2025"
 }

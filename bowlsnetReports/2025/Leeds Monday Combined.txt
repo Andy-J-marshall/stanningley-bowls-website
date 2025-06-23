@@ -1,4 +1,4 @@
-=== Leeds & District (Mon. Combined) 2025 (as of Sun 22nd Jun)
+=== Leeds & District (Mon. Combined) 2025 (as of Mon 23rd Jun)
 === League Match Cards
 
         Div 1             Mon 21st Apr      
@@ -790,5 +790,59 @@ Lyn Owen           21 John Dixon          3
 Alfie Hutchinson      Harry Dixon           
        Aggregate: 104        Aggregate:  90 
           Points:  23           Points:  18 
+
+     Qtr-Finals           Mon 23rd Jun      
+                           On Meanwood      
+      Harehills            New Wortley      
+David Smith        21 *No Player*         0 
+David Tinker       11 Trevor Dawson      21 
+Raymond Swallow    21 Angela Morley      18 
+Laura Love         21 Stephen Morley     16 
+Sharon Kerry       14 Danny Dawson       21 
+Jade Kerry            Valerie Dawson        
+Peter Simmons      19 Stuart Reardon     21 
+Alan McConnell        Martin Heys           
+       Aggregate: 107        Aggregate:  97 
+
+     Qtr-Finals           Mon 23rd Jun      
+                         On New Farnley     
+    Crossgates BC        Western Flatts     
+Peter Wilcox       21 David Turner        4 
+Lynn Wilcox        21 Andrew Ash         18 
+Natalie Sanderson  21 Glennys Ash         5 
+Tom Smith          21 Granville Stoyles  13 
+Louie Taylor       21 Maveen Tomlinson   12 
+Mark Taylor           Peter Colley          
+Grant Bartle       21 Joanna Rochester    2 
+Will Bartle           Hazel Goodall         
+        Handicap: Scr         Handicap: +10 
+       Aggregate: 126        Aggregate:  54 
+
+     Qtr-Finals           Mon 23rd Jun      
+                        On Crossgates BC    
+    Garforth C C            Meanwood        
+David Horsey       11 Oliver Devaney     21 
+Phil Lodge         21 Paul Dishman       16 
+Robert Beattie     13 Graham Hey         21 
+Thomas Cranston    21 John Hindle        10 
+Ian Doughty         5 Jeff Drumbell      21 
+Steve Barltrop        Ian Macfarlane        
+Neil Robinson      15 Wendy Skyes        21 
+Andrew Grunwell       Jenny Holiday         
+        Handicap: Scr         Handicap: +10 
+       Aggregate:  86        Aggregate: 110 
+
+     Qtr-Finals           Mon 23rd Jun      
+                         On New Wortley     
+     Whitkirk A           Rothwell BC A     
+G Hodder           21 Lynne Best         10 
+T Green            14 Andrew Limbert     21 
+Thomas Johnson     21 Gary Haley         14 
+S Cahill           14 Ellis Owen         21 
+Jason Richards     12 Lyn Owen           21 
+M Sheerin             Ron Owen              
+P Hill             21 Alfie Hutchinson    9 
+P Hardy               Peter Burrows         
+       Aggregate: 103        Aggregate:  96 
 
 

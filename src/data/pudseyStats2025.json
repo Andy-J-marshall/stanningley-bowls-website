@@ -265,9 +265,9 @@
             }
         },
         "richard hodgson": {
-            "totalAgg": 341,
-            "totalAggAgainst": 251,
-            "availableAgg": 357,
+            "totalAgg": 362,
+            "totalAggAgainst": 271,
+            "availableAgg": 378,
             "availablePairsAgg": 0,
             "availableHomeAgg": 189,
             "availableAwayAgg": 147,
@@ -287,7 +287,7 @@
             "homeLosses": 0,
             "awayWins": 3,
             "awayLosses": 4,
-            "cupWins": 1,
+            "cupWins": 2,
             "cupLosses": 0,
             "pairWins": 0,
             "pairLosses": 0,
@@ -297,7 +297,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 17,
+            "totalGamesPlayed": 18,
             "results": [
                 "richard hodgson 21 - 12 david pike",
                 "richard hodgson 21 - 16 catherine new",
@@ -306,6 +306,7 @@
                 "richard hodgson 21 - 15 dave hill",
                 "richard hodgson 21 - 20 deborah swann",
                 "richard hodgson 21 - 7 david samuel",
+                "richard hodgson 21 - 20 colin rhodes",
                 "richard hodgson 21 - 15 thomas powell",
                 "richard hodgson 21 - 12 derek carroll",
                 "richard hodgson 21 - 5 richard whitaker",
@@ -323,9 +324,9 @@
                 "aggDiff": 0
             },
             "airewharfe monday (b)": {
-                "games": 7,
-                "wins": 6,
-                "aggDiff": 38
+                "games": 8,
+                "wins": 7,
+                "aggDiff": 39
             },
             "airewharfe vets": {
                 "games": 0,
@@ -399,9 +400,9 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 402,
-            "totalAggAgainst": 378,
-            "availableAgg": 483,
+            "totalAgg": 408,
+            "totalAggAgainst": 399,
+            "availableAgg": 504,
             "availablePairsAgg": 0,
             "availableHomeAgg": 252,
             "availableAwayAgg": 231,
@@ -422,7 +423,7 @@
             "awayWins": 5,
             "awayLosses": 6,
             "cupWins": 0,
-            "cupLosses": 0,
+            "cupLosses": 1,
             "pairWins": 0,
             "pairLosses": 0,
             "pairHomeWins": 0,
@@ -431,7 +432,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 23,
+            "totalGamesPlayed": 24,
             "results": [
                 "stewart watson 21 - 12 terri durrans",
                 "stewart watson 21 - 15 philip sykes",
@@ -439,6 +440,7 @@
                 "stewart watson 21 - 19 stephen bottomley",
                 "stewart watson 21 - 15 allan hughes",
                 "stewart watson 21 - 3 charles holden",
+                "stewart watson 6 - 21 duncan mcphail",
                 "stewart watson 10 - 21 andy swain",
                 "stewart watson 21 - 14 john lewis",
                 "stewart watson 6 - 21 dave fox",
@@ -463,9 +465,9 @@
                 "aggDiff": 0
             },
             "airewharfe monday (b)": {
-                "games": 6,
+                "games": 7,
                 "wins": 6,
-                "aggDiff": 49
+                "aggDiff": 34
             },
             "airewharfe vets": {
                 "games": 0,
@@ -540,6 +542,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "22/06/2025",
+    "lastUpdated": "23/06/2025",
     "statsYear": "2025"
 }

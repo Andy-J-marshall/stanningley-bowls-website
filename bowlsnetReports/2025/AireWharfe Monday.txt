@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Sun 22nd Jun)
+=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Mon 23rd Jun)
 === League Match Cards
 
        Division 1                Mon 7th Apr        
@@ -818,6 +818,22 @@ David Keighley         21 David Lyons            14
               Points:  18               Points:  12 
 
        Division 3               Mon 28th Apr        
+        Rawdon B             Horsforth Hall Park    
+Terry Waite-Pullan     20 Ruth Sutcliffe         21 
+Allan Sample           21 Keith Barran            7 
+Philip Leadbeater      21 Frank Sutcliffe         7 
+Ken Chapman            20 Bruce Callard          21 
+Graham Hogg            14 Nigel Stockdale 'A'    21 
+Ray Weldrand           21 David Ascough          14 
+Marlene Waite-Pullan   15 Richard Sunley         21 
+John Collins           19 Phillip Clayton        21 
+George McLaren         21 Kath Crompton           2 
+Allan Sample           21 Paul Stoyles           18 
+           Aggregate: 193            Aggregate: 153 
+               Games:   5                Games:   5 
+              Points:  19               Points:  11 
+
+       Division 3               Mon 28th Apr        
        Stanningley              Greenbottom A       
 Steve Gardner          21 Jack Beck              14 
 Harvey Leonard         21 Anita Kingham          18 
@@ -1024,6 +1040,22 @@ Steve Calvert 'A'      21 Ian Matthews           10
            Aggregate: 191            Aggregate: 136 
                Games:   8                Games:   2 
               Points:  24               Points:   6 
+
+       Division 2                Mon 5th May        
+        Ilkley B                   Adel A           
+Alison Wailes          21 Kathryn Jones           6 
+Allan Hughes           21 Wendy Allison           1 
+Andrew Cook            21 Trevor Sargison        12 
+Terry Almond           21 Phil Hynes             12 
+Deborah Swann          21 Philip Sykes           10 
+Alex Watson            10 Russell Cooper         21 
+Clive Swan             16 Lynda Heath 'A'        21 
+Steven Senior          21 Bruce Tremlett          6 
+Robert Garth           19 David Pike 'A'         21 
+Steve Birch            10 John Binns             21 
+           Aggregate: 181            Aggregate: 131 
+               Games:   6                Games:   4 
+              Points:  21               Points:   9 
 
        Division 2                Mon 5th May        
         Pudsey B               Wharfemeadows A      
@@ -1482,7 +1514,7 @@ Antonio Sanna           8 John Parker            21
 Sue Bird               21 Lorna Crabtree         18 
 Chris Jowett           21 David Warburton        11 
 Billy Webb             21 Brenda Appleyard        8 
-Sabrina Piggott        21 *A.N.Other*            12 
+Sabrina Piggott        21 John Farquhar          12 
 Ian Warner             21 Malolm Levi            15 
 Bob Williams           21 Ray Smith Snr           5 
            Aggregate: 197            Aggregate: 119 
@@ -1584,6 +1616,22 @@ Daniel Teale           21 Simon Wider            13
            Aggregate: 191            Aggregate: 169 
                Games:   5                Games:   5 
               Points:  18               Points:  12 
+
+       Division 2               Mon 19th May        
+       Guiseley B                 Ilkley B          
+Ralph Sissons          20 Alison Wailes          21 
+Carolyn Matthewman     12 Allan Hughes           21 
+Lynn Ogden             20 Denise Almond          21 
+Graham Oliver          21 Alex Watson             3 
+Jeremy Jones           21 Deborah Swann          18 
+Andy Baxter            21 Clive Swan             19 
+Roger Waite            21 Terry Almond           18 
+Peter Storey           21 Steve Birch            14 
+Andrew Durkin           8 Andrew Breare          21 
+Colin Matthewman       11 Steven Senior          21 
+           Aggregate: 176            Aggregate: 177 
+               Games:   5                Games:   5 
+              Points:  14               Points:  16 
 
        Division 2               Mon 19th May        
        Grove Hill               Eccleshill B        
@@ -1941,17 +1989,17 @@ Steve Birch            21 Duncan Reeves          15
         Rufford B             Littlemoor S&SC B     
 Glynn Goodyear         21 Alan Mazurke           15 
 Val Grace              21 James Moorin           20 
-Brian Teale            21 *A.N.Other*             0 
+Brian Teale            21 *No Player*             0 
 Pauline Ingleson       10 Glen Miller            21 
 David Norris           21 Adam Wider              9 
 Graham Ingleson        21 Kath Mazurke           19 
 Diane Teale            21 Glen Merrick           10 
 Catherine New          21 Terri Durrans          13 
 Angela Burnham         18 Thomas Powell          21 
-Christopher Sims       18 Philip Thornton        21 
-           Aggregate: 193            Aggregate: 149 
+Christopher Sims       14 Philip Thornton        21 
+           Aggregate: 189            Aggregate: 149 
                Games:   7                Games:   3 
-              Points:  22               Points:   8 
+              Points:  21               Points:   9 
 
        Division 3                Mon 2nd Jun        
  Burley in Wharfedale B         Greenbottom A       
@@ -2210,6 +2258,22 @@ Philip Thornton        21 Peter Jefferson        19
               Points:  26               Points:   4 
 
        Division 2                Mon 9th Jun        
+       Grove Hill                 Ilkley B          
+Charles Holden         21 Allan Hughes           14 
+Diane Farrar           21 Alan Strachan           6 
+David Locke            19 Bernie Connor          21 
+David Samuel           21 Andrew Cook            19 
+Tony Farrar            21 John Warburton         20 
+Belinda Mitchell       21 Hedley Chapman         20 
+Kay Lodge              21 Alex Watson            18 
+Tim Marshall           21 Steve Birch            14 
+Neil Jameson           18 Steven Senior          21 
+Daniel Twist           15 Robert Garth           21 
+           Aggregate: 199            Aggregate: 174 
+               Games:   7                Games:   3 
+              Points:  20               Points:  10 
+
+       Division 2                Mon 9th Jun        
      Wharfemeadows A              Rawdon A          
 Janet Warburton        21 Gordon Longfellow      18 
 Pauline Barnett 'A'    18 Ian Scott              21 
@@ -2402,6 +2466,22 @@ Alexander Wolfenden    21 Richard Hargreaves      8
               Points:  22               Points:   8 
 
        Division 1               Mon 16th Jun        
+     Skipton Craven        Burley in Wharfedale A   
+Mick Bastow            21 Steven Fender 'A'      13 
+Paul Drinkall          21 Brian Wheeler 'A'      17 
+Paul Kaye              12 Robert Wheeler         21 
+Daniel Moore           21 Alan Goodenough         8 
+Ian Dewhirst           21 Susan Knowles          10 
+Guy Greene             21 Paul Hill              18 
+Michael Demain         21 Mark Ullock            15 
+Viv Abell              21 Roy Knowles            12 
+Dave Jowett            14 Joe Ullock'A'          21 
+Andy Wood              16 Ben Ullock 'A'         21 
+           Aggregate: 189            Aggregate: 156 
+               Games:   7                Games:   3 
+              Points:  21               Points:   9 
+
+       Division 1               Mon 16th Jun        
         Rufford A               Eccleshill A        
 Andrew Haran           21 Ian Matthews           10 
 Tony Beeden            21 Neil Mylan 'A'         20 
@@ -2432,6 +2512,22 @@ David Pike 'A'         21 Paul Crawford 'A'      10
            Aggregate: 154            Aggregate: 176 
                Games:   5                Games:   5 
               Points:  12               Points:  18 
+
+       Division 2               Mon 16th Jun        
+        Rawdon A              Littlemoor S&SC B     
+Ian Scott              21 Kath Mazurke            2 
+Lindsay Rosendale      21 Adam Wider              7 
+Ken Garbett            21 James Moorin           14 
+Gordon Longfellow       7 Alex Wolfendon         21 
+Ian Tindal             21 Glen Merrick           16 
+Paul Haigh             21 Angela Carter          13 
+Dave Hill 'A'          10 Billy Swailes          21 
+Roger French'A'        21 Terri Durrans          12 
+David Johnson 'A'      11 Nicky Dewhirst         21 
+Stephen Bottomley      17 Alan Mazurke           21 
+           Aggregate: 171            Aggregate: 148 
+               Games:   6                Games:   4 
+              Points:  19               Points:  11 
 
        Division 2               Mon 16th Jun        
         Pudsey B                 Grove Hill         
@@ -2638,6 +2734,202 @@ Tracy Wilson              Stephen Gilroy
 Tim Nicholson 'A'       3 Chris Hight            21 
 Shirley Nicholson         Daniel Beardsworth        
               Points: 0.0               Points: 8.5 
+
+     WHEATLEY TROPHY            Mon 23rd Jun        
+        Pudsey B                   Farsley          
+Stewart Watson          6 Duncan McPhail         21 
+Sue Chadwick            3 David Smalley          21 
+Richard Hodgson        21 Colin Rhodes           20 
+Kevin Rankin           15 Peter Scott            21 
+David McDonald          7 Stuart Brook           21 
+Sam Hunak              12 Paul Jacques           21 
+Craig Farquharson      12 Dean Helliwell         21 
+Janice Connaleigh       6 Daniel Beardsworth     21 
+Melissa Morris         11 Ken Gilroy             21 
+Duncan Reeves          14 Neil Nicholson         21 
+            Handicap: +20             Handicap:  +6 
+           Aggregate: 127            Aggregate: 215 
+
+     WHEATLEY TROPHY            Mon 23rd Jun        
+      Eccleshill A                Rufford A         
+Graham Chaffer'A'      10 Tony Beeden            21 
+Mick Angus 'A'         13 Andrew Haran           21 
+Neil Mylan 'A'         19 John Benson 'A'        21 
+Will Gilroy            19 David Kirkbright       21 
+Steve Bowes             6 Helen Gilroy           21 
+Stephen Bastow         17 Martyn Benson 'A'      21 
+Jeremy Knowles          9 Daniel Teale           21 
+Pauline Gilroy         19 Debbie Kirkbright      21 
+Paul Rooks 'A'         21 Tim Bennett 'A'        15 
+Andy Howie             20 Ryan Benson 'A'        21 
+            Handicap: +18             Handicap:  +4 
+           Aggregate: 171            Aggregate: 208 
+
+     WHEATLEY TROPHY            Mon 23rd Jun        
+ Burley in Wharfedale A        Wharfemeadows A      
+Susan Knowles          21 Corrine Thuilliez      10 
+Joe Ullock'A'          21 Mark Silvester 'A'     11 
+Alan Goodenough        21 Michael Smith          16 
+Roy Knowles            21 Pauline Barnett 'A'     8 
+Mark Ullock            21 Raymond Smith Jr        8 
+Paul Hill              17 Ben Smith              21 
+Steven Fender 'A'      21 Howard Gardiner        12 
+Brian Wheeler 'A'      21 Graham Tansley         10 
+Andrew Shaw            21 Paul Crawford 'A'      14 
+Ben Ullock 'A'         21 John Chippindale 'A'    9 
+            Handicap: +14             Handicap: +34 
+           Aggregate: 220            Aggregate: 153 
+
+     WHEATLEY TROPHY            Mon 23rd Jun        
+       Cross Roads            Littlemoor S&SC A     
+Neill Hargreaves       21 Johnny Orbell           5 
+Ryan Tiler             21 Glen Pratt             18 
+Les Foster             21 Lee Wider              18 
+Richard Hargreaves     21 Ben Falkingham         18 
+Craig Wilkins          21 Simon Wider            18 
+Thomas Johnson         21 Will Bedford           20 
+Peter Hepworth         18 Lewis Cooper           21 
+Paul Berry             16 Adam Mellor            21 
+Neil Madden            16 John Armitage          21 
+Richard Dunhill        11 Marc Armitage          21 
+            Handicap: +10             Handicap: +16 
+           Aggregate: 197            Aggregate: 197 
+    Result Overridden                               
+
+     WHEATLEY TROPHY            Mon 23rd Jun        
+        Rufford B                 Ilkley A          
+Glynn Goodyear         20 Andy Thornton 'A'      21 
+Guy Barrie             21 Dennis Henderson       10 
+Christopher Sims       21 Danny Barker           13 
+Angela Burnham         20 Anthony Walsh          21 
+Val Grace              21 Andrew Breare          19 
+David Norris            3 Steve Cooper 'A'       21 
+Diane Teale            21 Martin Bailey          12 
+Ken Lee                12 Dave Scott             21 
+Graham Ingleson        10 Darren Thompson        21 
+Brian Teale             2 Jamie Cunningham 'A'   21 
+            Handicap: +24             Handicap: +12 
+           Aggregate: 175            Aggregate: 192 
+
+     WHEATLEY TROPHY            Mon 23rd Jun        
+        Ilkley B                 Guiseley B         
+Allan Hughes           10 Graham Oliver          21 
+Andrew Cook             7 James Teale            21 
+Alison Wailes          18 Andy Baxter            21 
+Denise Almond          17 Jeremy Jones           21 
+Clive Swan             21 Carolyn Matthewman     11 
+Alex Watson            13 Andrew Durkin          21 
+Steve Birch            20 Billy Cater            21 
+Terry Almond           21 Roger Waite            18 
+Steven Senior          21 Colin Matthewman       14 
+Robert Garth           14 Bob Jeffrey            21 
+            Handicap: +30             Handicap: +32 
+           Aggregate: 192            Aggregate: 222 
+
+     WHEATLEY TROPHY            Mon 23rd Jun        
+       Grove Hill                 Pudsey A          
+Ruth Marshall          14 Andrew Sykes'A'        21 
+Andrew Wilson          12 Hannah Leaf            21 
+David Locke             6 Dean Scarth            21 
+David Samuel           16 Tom Lawrence 'A'       21 
+Tony Farrar             3 Jack Bowes             21 
+Diane Farrar           19 Thomas Morris          21 
+Kay Lodge              21 Matthew Leaf            9 
+Charles Holden         10 Stuart Hanson          21 
+Neil Jameson           14 Jamie Winterburn       21 
+Daniel Twist            5 Ian Shaw 'A'           21 
+            Handicap: +36             Handicap: Scr 
+           Aggregate: 156            Aggregate: 198 
+
+     WHEATLEY TROPHY            Mon 23rd Jun        
+        Rawdon A                 Guiseley A         
+Gordon Longfellow      20 Joe Stockdale 'A'      21 
+Ken Garbett            16 David Poole            21 
+Ian Scott               5 Ian Howard'A'          21 
+Steve Calvert 'A'      21 Nick Bastow            10 
+Dave Hill 'A'          19 Chris Daysh            21 
+David Johnson 'A'      19 Thomas Cater           21 
+Ian Tindal             14 Ben Stockdale 'A'      21 
+Roger French'A'        21 Gary Whelan            12 
+Stephen Bottomley      15 Kevin Siddle           21 
+Paul Haigh              5 Luke Teale 'A'         21 
+            Handicap: +22             Handicap:  +2 
+           Aggregate: 177            Aggregate: 192 
+
+     CARLISLE SHIELD            Mon 23rd Jun        
+      Yeadon Park B              Holt Park A        
+Tracy Wilson           21 Terry Cook             16 
+Joan Baker              9 Ernest Johnson         21 
+Marian Poole           12 John Patrick 'A'       21 
+Stan Parker            12 Carol Matthews         21 
+Barry Slater           16 Peter Byford 'A'       21 
+Mark Wilson            13 Mike Cox 'A'           21 
+Shirley Nicholson      18 Tony Watson 'A'        21 
+Julie Watson            8 John Gilroy            21 
+Adam Sample            15 David Lyons            21 
+Lynne Myers            17 Colin Chadwick         21 
+            Handicap: +34             Handicap: Scr 
+           Aggregate: 175            Aggregate: 205 
+
+     CARLISLE SHIELD            Mon 23rd Jun        
+      Greenbottom A               Rawdon B          
+Jack Beck              21 Marlene Waite-Pullan   19 
+Dave Whelan 'A'        13 Allan Sample           21 
+Stan Marsden           15 George McLaren         21 
+Mike Whitelaw          11 John Collins           21 
+Janice Waite           21 Ray Weldrand            7 
+Karen Whitelaw'A'      21 Philip Leadbeater      12 
+Gary Poucher           21 Christine Scott         4 
+Fiona Haxby 'A'        17 Philip Jackson         21 
+Ann Ryley 'A'          21 Terry Waite-Pullan     10 
+Brian Hall             21 Graham Hogg             6 
+            Handicap: +12             Handicap:  +8 
+           Aggregate: 194            Aggregate: 150 
+
+     CARLISLE SHIELD            Mon 23rd Jun        
+   Horsforth Hall Park     Burley in Wharfedale B   
+Keith Barran            8 Michael Mitchell       21 
+Keith Farrell          21 Marie Drysdale         16 
+John Sutton            11 Brian Wardle           21 
+Ruth Sutcliffe         21 Anthony Postlethwaite  12 
+Frank Sutcliffe         4 Andrew Wilson          21 
+Bruce Callard           8 Christopher Wheeler    21 
+David Ascough          11 Richard Kellett        21 
+Kath Crompton          21 Pete Thornton          20 
+Phillip Clayton        20 John Hardisty          21 
+Nigel Stockdale 'A'    13 Robert Wheeler         21 
+            Handicap:  +2             Handicap: +16 
+           Aggregate: 140            Aggregate: 211 
+
+     CARLISLE SHIELD            Mon 23rd Jun        
+        Menston A                   Salts           
+Simon Cowley 'A'       19 Maureen Adams          21 
+Keith Bond              4 Lek Fletcher           21 
+Raymond Dalton         21 John French            12 
+Gwen Smith 'A'         13 John Greenwood         21 
+Gail Singh             21 Patricia Allison       20 
+Shaun Johnson          21 Thomas Kilerminster     9 
+Laurie Robinson 'A'     6 Chris Womersley        21 
+Ian Smith              21 Stephen Crossley        8 
+Nigel Buckley          21 Jonathan Duke           9 
+Amrik Singh            20 Richard Lonsdale       21 
+            Handicap:  +4             Handicap:  +6 
+           Aggregate: 171            Aggregate: 169 
+
+     CARLISLE SHIELD            Mon 23rd Jun        
+       Stanningley                Menston B         
+Joey Broadbent         21 Jim Hughes             17 
+Steve Gardner          21 Jeremy Gill             3 
+Paul Leonard           21 Barbara Harrison       13 
+Paul Bowes             21 Rosemary Cowley        11 
+Alyssa Randell         21 Joyce Bishop            8 
+Andrew Marshall        21 Christine Hughes        3 
+Craig Clarkson         21 Stuart Davies           8 
+Stuart Potter          21 Jean Shepherd          13 
+Andy Waller            21 Geoff Winter           14 
+Neil Porter            21 Christine Asquith       4 
+            Handicap: +10             Handicap: +36 
+           Aggregate: 220            Aggregate: 130 
 
 
 

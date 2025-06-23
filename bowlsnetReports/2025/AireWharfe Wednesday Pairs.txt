@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Wed. Pairs) 2025 (as of Sun 22nd Jun)
+=== AireDale & Wharfedale (Wed. Pairs) 2025 (as of Mon 23rd Jun)
 === League Match Cards
 
        Division 1                Wed 9th Apr        
@@ -478,6 +478,20 @@ David Idle                Christine Asquith
               Points:  17               Points:   7 
 
        Division 3               Wed 23rd Apr        
+         Adel B                   Holt Park         
+Graham Clough          11 David Lyons            26 
+John Auty                 Geraldine Lyons           
+Les Tugwell            26 Ray Boast              13 
+Lesley Williams           Andy Barclay              
+Alan Wittrick          26 Geoff Megson           14 
+Phil Hayward              Brendan Clarke            
+Gordon Robinson         7 Debbie Sandles         26 
+Paul Williams             Michelle Norcliffe        
+           Aggregate:  70            Aggregate:  79 
+               Games:   2                Games:   2 
+              Points:  10               Points:  14 
+
+       Division 3               Wed 23rd Apr        
       Greenbottom B              New Armley         
 Linda Summers          23 Walter Stockhill       26 
 Dorothy Jackson           David Gregory             
@@ -564,7 +578,7 @@ Jeffrey Crabtree          Stan Parker
        Division 2                Wed 7th May        
         Ilkley B                Yeadon Park A       
 John Brennan           26 Mark Wilson            12 
-Deborah Swann             David Baldwin             
+Deborah Swann             David Keighley            
 Lee Stevens            26 Allen Hardcastle       20 
 Steve Morton              John Hutton               
 Colin Spooner          26 Joan Baker             14 
@@ -578,11 +592,11 @@ Denise Almond             Richard Gosnay
        Division 2                Wed 7th May        
         Menston A                Grove Hill         
 Gail Singh             26 Katherine Lodge        17 
-Amrik Singh               *A.N.Other*               
+Amrik Singh               Alan Dawson               
 Gwen Smith             26 John Chippindale       23 
 Ian Smith                 David Samuel              
 Gary Skeet             26 Tony Farrar            11 
-Nigel Buckley             *A.N.Other*               
+Nigel Buckley             Ruth Marshall             
 Shaun Johnson          25 Daniel Twist           26 
 Simon Cowley              Belinda Mitchell          
            Aggregate: 103            Aggregate:  77 
@@ -856,6 +870,20 @@ Peter Whipp               Steve Senior
               Points:  20               Points:   4 
 
        Division 1               Wed 21st May        
+        Guiseley                  Rufford A         
+Ralph Sissons          23 Angela Bennett         26 
+Peter Storey              Catherine New             
+Roger Waite            26 Glynn Goodyear          6 
+Jeremy Jones              Ken Lee                   
+Carolyn Matthewman     26 Christopher Sims       24 
+Colin Matthewman          Dianne Teale              
+Lynne Ogden            24 Brian Teale            26 
+Caroline Corbett          Allan Caine               
+           Aggregate:  99            Aggregate:  82 
+               Games:   2                Games:   2 
+              Points:  15               Points:   9 
+
+       Division 1               Wed 21st May        
         Bramhope           Burley in Wharfedale A   
 Chris Jowett           17 Brian Wheeler          26 
 Helen Mylan               Mark Ullock               
@@ -1079,6 +1107,20 @@ Mike Whitelaw             Linda Yates
                Games:   3                Games:   1 
               Points:  16               Points:   8 
 
+       Division 2               Wed 28th May        
+       Grove Hill                 Ilkley B          
+Belinda Mitchell       26 John Brennan           18 
+Joan Holden               Deborah Swann             
+John Chippindale       26 Bernie Connor          10 
+David Samuel              Sally Brennan             
+Neil Jameson           26 Debbie Shuttleworth    23 
+Tony Farrar               Denise Almond             
+Katherine Lodge        26 Colin Spooner          16 
+David Locke               Alan Strachan             
+           Aggregate: 104            Aggregate:  67 
+               Games:   4                Games:   0 
+              Points:  20               Points:   4 
+
        Division 3               Wed 28th May        
     Stanningley Park                Idle            
 Rob Packer             16 Roy Barlow             26 
@@ -1096,12 +1138,12 @@ Vanessa Lancaster         Dave Duckett
        Division 3               Wed 28th May        
        Northcliffe                 Adel B           
 Gary Johnson           19 Graham Clough          26 
-Ken Webb                  *A.N.Other*               
+Ken Webb                  Lesley Williams           
 Denis Collet           26 Phil Hayward           15 
 Duncan Campbell           Alan Wittrick             
 Ian Chiverton          26 John Auty              13 
 Debbie Sleight            Sue Pagdin                
-Michael Dennison       26 *A.N.Other*            12 
+Michael Dennison       26 Paul Williams          12 
 Andrea Chiverton          Sheena Parker             
            Aggregate:  97            Aggregate:  66 
                Games:   3                Games:   1 
@@ -1344,6 +1386,20 @@ Andrew Cook               Alexander Waite
            Aggregate: 103            Aggregate:  56 
                Games:   3                Games:   1 
               Points:  20               Points:   4 
+
+       Division 2               Wed 18th Jun        
+      Greenbottom A               Ilkley B          
+Ann Ryley              26 Steve Morton           14 
+Edgar Ryley               Lee Stevens               
+Karen Whitelaw         26 John Brennan           12 
+Mike Whitelaw             Philip Blackburn          
+Elinor Newhouse        21 Deborah Swann          26 
+Bill Lovedale             Denise Almond             
+Gary Poucher           26 Alan Strachan          25 
+Alan Bishop               Colin Spooner             
+           Aggregate:  99            Aggregate:  77 
+               Games:   3                Games:   1 
+              Points:  17               Points:   7 
 
        Division 2               Wed 18th Jun        
    Horsforth Hall Park           Grove Hill         
