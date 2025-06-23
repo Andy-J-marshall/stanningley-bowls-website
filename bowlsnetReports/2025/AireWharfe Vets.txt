@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Tues. Vets) 2025 (as of Sun 22nd Jun)
+=== AireDale & Wharfedale (Tues. Vets) 2025 (as of Mon 23rd Jun)
 === League Match Cards
 
        Division 1                Tue 1st Apr        
@@ -16,21 +16,21 @@ John Sample            21 Phil Clayton           16
        Division 1                Tue 1st Apr        
         Baildon A                  Salts A          
 Keith Haigh            21 Brian Tempest          17 
-Sue Farrell             1 David Bottomley 'A'    21 
+Sue Farrell             1 David Bottomley        21 
 Christine Ramsden A'   21 Patricia Allison       11 
 Les Ward                8 John Greenwood'A'      21 
 Bob Ramsden'A'          6 Martin Sherred 'A'     21 
-Geoff Hanson           13 Chris Womersley        21 
+Geoff Hanson           13 Chris Womersley 'A'    21 
 Derek Bridge           21 Richard Lonsdale       17 
 Richard Briggs 'A'     21 Dennis Thorpe           9 
               Points:  24               Points:  29 
 
        Division 1                Tue 1st Apr        
          Wibsey                 Myrtle Park A       
-John Stevenson         16 Pete Hepworth          21 
+John Stevenson         16 Pete Hepworth 'A'      21 
 Tasawir Hussain        21 Richard Berry          18 
 Andy Denton             7 Keith Hilton           21 
-John May               21 Maureen Wood 'A'       16 
+John May               21 Maureen Wood           16 
 Paula Graham           13 Irene Bird             21 
 Paul Gill              21 Stephen Turner         10 
 Peter Oliver           12 Michael Upton 'A'      21 
@@ -51,14 +51,14 @@ Roger French           20 John Collins           21
 
        Division 1                Tue 1st Apr        
         Ilkley A                   Farsley          
-Rod Bastow 'A'         21 Kevin Rankin           13 
+Rod Bastow             21 Kevin Rankin           13 
 Paul Hillam            17 Colin Rhodes           21 
 Martin Bailey          21 Peter Crowther          7 
 Brian Wheeler'A'       21 Graham Petty           11 
 Terry Almond           21 Stuart Brook           14 
 Andy Thornton'A'       21 Duncan McPhail         11 
 Steve Cooper           21 Bob Jeffrey            19 
-Mick Bastow            21 Stewart Watson         10 
+Mick Bastow 'A'        21 Stewart Watson         10 
               Points:  38               Points:  20 
 
        Division 2                Tue 1st Apr        
@@ -78,11 +78,11 @@ Malcolm Pitt           21 Rae Heddle              9
 Janice Waite           20 Michael Mitchell       21 
 Kate Jukes             21 John McCabe             6 
 Dave Whelan            21 Maureen Poucher        17 
-Mike Whitelaw          13 Patricia Sedman        21 
+Mike Whitelaw 'A'      13 Patricia Sedman        21 
 Alan Jukes             18 Phil Argyle            21 
 Edgar Ryley             7 Bob Hartley            21 
-Ann Ryley              21 Nigel Steels           12 
-Karen Whitelaw         21 Brian Wardle           12 
+Ann Ryley 'A'          21 Nigel Steels           12 
+Karen Whitelaw 'A'     21 Brian Wardle           12 
               Points:  31               Points:  28 
 
        Division 2                Tue 1st Apr        
@@ -99,13 +99,13 @@ Shaun Johnson          20 Tony Foster            21
 
        Division 2                Tue 1st Apr        
          Idle A                Crowghyll Park       
-Colin Richardson'A'    21 Peter Mitchell          9 
+Colin Richardson       21 Peter Mitchell          9 
 Pamela Barlow          21 Pamela Robinson        12 
 Michael Barrett        21 Dennis Collett          8 
 Michael Leach          21 Flo Johnston           15 
 Yvonne Coppin          21 Derek Simpson          15 
 Alan Sinfield          21 Phil Robinson          20 
-Dave Duckett           21 Tony Southern           8 
+Dave Duckett 'A'       21 Tony Southern           8 
 Roy Barlow'A'          20 Jeffrey Townend        21 
               Points:  39               Points:  20 
 
@@ -122,6 +122,18 @@ John Chippindale       21 Keith Goodall          16
               Points:  40               Points:  19 
 
        Division 3                Tue 1st Apr        
+        Rufford B                 Guiseley          
+Pauline Ingleson       21 Jeremy Jones            5 
+Angela Carter          21 Lynn Ogden             16 
+Janet Uttley           17 Norman Lickley         21 
+Carol Wright           21 Christine Fountain     11 
+John Arundel           18 Lynette Hall           21 
+Mick Snowden           21 Anne Brown             11 
+Peter O'Brien          16 Paul Gaines            21 
+John McHale            21 Caroline Corbett       15 
+              Points:  35               Points:  26 
+
+       Division 3                Tue 1st Apr        
        Grove Hill                  Pudsey           
 Billy Hartley          13 John Atkinson          21 
 Janet Warburton        21 Elenor Graves          14 
@@ -136,14 +148,14 @@ Neil Jameson           21 Frank Harwood           4
        Division 3                Tue 1st Apr        
         Tarnfield               Yeadon Park B       
 Stan Southern          10 Julie Watson           21 
-Graham Howden          16 Christine Scott        21 
+Graham Howden          10 Christine Scott        21 
 John Illingworth       21 Gordon Baines           2 
 Pam Ratcliffe          21 Sandra Taylor           6 
 Harry Utley            19 Barry Slater           21 
 Anita Howard            5 Shirley Nicholson      21 
 Bob Williams           21 Joan Baker             13 
 George McClaren 'A'    21 Maureen Slater         18 
-              Points:  30               Points:  27 
+              Points:  29               Points:  27 
 
        Division 3                Tue 1st Apr        
       Myrtle Park B                Idle B           
@@ -195,10 +207,10 @@ Derek Pickering        21 James Welsh             9
 
        Division 1                Tue 8th Apr        
    Horsforth Hall Park            Ilkley A          
-Peter Powell            4 Rod Bastow 'A'         21 
+Peter Powell            4 Rod Bastow             21 
 Helen Mylan             6 Paul Hillam            21 
 Anne Mackman           21 Allan Hughes            9 
-Kath Crompton           7 Mick Bastow            21 
+Kath Crompton           7 Mick Bastow 'A'        21 
 Keith Farrell          11 Terry Almond           21 
 Phil Clayton           21 Andy Thornton'A'       13 
 Nigel Stockdale         9 Steve Cooper           21 
@@ -207,9 +219,9 @@ Paul Stoyles            7 Brian Wheeler'A'       21
 
        Division 1                Tue 8th Apr        
       Myrtle Park A               Calverley         
-Pete Hepworth          21 Steve Spurr            18 
+Pete Hepworth 'A'      21 Steve Spurr            18 
 Keith Hilton           21 Michael Bennett         8 
-Maureen Wood 'A'       19 Derek Whitaker         21 
+Maureen Wood           19 Derek Whitaker         21 
 Richard Berry          21 Margaret Whitaker       8 
 Miles Berry'A'         21 Margaret Wood          12 
 Irene Bird             21 Colin Whitley           4 
@@ -219,13 +231,13 @@ Michael Upton 'A'      21 Brian Hodgson          15
 
        Division 1                Tue 8th Apr        
         Rufford A                 Baildon A         
-David Kirkbright       21 Joan Dean               2 
+David Kirkbright 'A'   21 Joan Dean               2 
 Carolyn Matthewman     19 Sue Farrell            21 
 Glynn Goodyear         21 Bob Ramsden'A'         12 
 Val Grace              10 Geoff Hanson           21 
 Allan Caine'A'         21 Keith Haigh            16 
-Colin Matthewman 'A'   21 Christine Ramsden A'    4 
-Debbie Kirkbright      21 Richard Briggs 'A'     14 
+Colin Matthewman       21 Christine Ramsden A'    4 
+Debbie Kirkbright 'A'  21 Richard Briggs 'A'     14 
 Ken Lee                21 Derek Bridge           20 
               Points:  36               Points:  21 
 
@@ -243,14 +255,14 @@ Alwyn Robertson        14 Les Schofield          21
 
        Division 2                Tue 8th Apr        
         Baildon B               Yeadon Park A       
-Malcolm Throup         10 Ian Robertson'A'       21 
-Maureen Kitson         21 Robert North'A'        12 
+Malcolm Throup         10 Ian Robertson          21 
+Maureen Kitson         21 Robert North           12 
 Linda Bakes            21 David Arundale         14 
 Sue Adamthwaite        21 Reid Haddow            17 
 Celia Throup           12 Allen Hardcastle       21 
 Christine Ratcliffe    21 Tim Nicholson          14 
-*A.N.Other*            16 Frank Baker            21 
-John Tyson             21 John Hutton'A'         17 
+Malcolm Watts          16 Frank Baker 'A'        21 
+John Tyson             21 John Hutton            17 
               Points:  32               Points:  27 
 
        Division 2                Tue 8th Apr        
@@ -267,9 +279,9 @@ Tony Southern          13 John Chippindale       21
 
        Division 2                Tue 8th Apr        
      New Greengates                Idle A           
-Christine Hillas        9 Dave Duckett           21 
+Christine Hillas        9 Dave Duckett 'A'       21 
 Allan Smith            16 Roy Barlow'A'          21 
-Alan Broscombe         21 Colin Richardson'A'    12 
+Alan Broscombe         21 Colin Richardson       12 
 Malcolm Hamilton        6 Pamela Barlow          21 
 Tom Sayer              14 Michael Barrett        21 
 Derek Parker            9 Bryn Jones'A'          21 
@@ -280,22 +292,22 @@ Mary Hemsley           21 Yvonne Coppin          10
        Division 2                Tue 8th Apr        
         Ilkley B                Greenbottom A       
 Stewart Sunman         21 Janice Waite           16 
-Sue Emerson            15 Mike Whitelaw          21 
+Sue Emerson            15 Mike Whitelaw 'A'      21 
 Debbie Shuttleworth    17 Anita Kingham          21 
 Bernie Connor          21 Edgar Ryley            12 
 Gordon Dick            21 Alan Jukes             10 
-John Brennan           21 Ann Ryley              10 
-Tony Foster            21 Karen Whitelaw         14 
+John Brennan           21 Ann Ryley 'A'          10 
+Tony Foster            21 Karen Whitelaw 'A'     14 
 David Emerson          21 Dave Whelan            17 
               Points:  36               Points:  24 
 
        Division 3                Tue 8th Apr        
          Pudsey                   Tarnfield         
-Janice Connaleigh      21 *A.N.Other*             5 
+Janice Connaleigh      21 Bryan Armit             5 
 Martin Bethell         17 George McClaren 'A'    21 
 Elenor Graves           5 David Kirk             21 
 John Atkinson          21 Harry Utley            15 
-Bryan Bonnington       21 *A.N.Other*            13 
+Bryan Bonnington       21 Graham Howden          13 
 Linda Barrand          21 Dorcas Kirk            10 
 Paul Scurrah           20 Anita Howard           21 
 David Elliott          21 Bob Williams            9 
@@ -380,9 +392,9 @@ Myra Humpleby          17 Stephen Turner         21
 Cindy Rapinczuk        14 Irene Bird             21 
 Pam Nellist            19 Miles Berry'A'         21 
 Wendy Spivey            9 Richard Berry          21 
-Graham Baggley         21 Maureen Wood 'A'        8 
+Graham Baggley         21 Maureen Wood            8 
 John Sample            21 Keith Hilton           17 
-Bernard Criddle        21 Pete Hepworth           5 
+Bernard Criddle        21 Pete Hepworth 'A'       5 
               Points:  29               Points:  30 
 
        Division 1               Tue 15th Apr        
@@ -400,24 +412,24 @@ Derek Pickering        21 Kath Crompton          14
        Division 1               Tue 15th Apr        
          Wibsey                   Rufford A         
 Paul Gill              21 Ken Lee                 8 
-Tasawir Hussain         6 Debbie Kirkbright      21 
+Tasawir Hussain         6 Debbie Kirkbright 'A'  21 
 Andy Denton            21 Carolyn Matthewman     18 
 John May               12 Allan Caine'A'         21 
 John Exley             15 Val Grace              21 
-Paula Graham           21 Colin Matthewman 'A'   11 
+Paula Graham           21 Colin Matthewman       11 
 Vinny Cleary           18 Glynn Goodyear         21 
-Peter Oliver           14 David Kirkbright       21 
+Peter Oliver           14 David Kirkbright 'A'   21 
               Points:  27               Points:  32 
 
        Division 1               Tue 15th Apr        
         Calverley                  Salts A          
 Martin McGowan          5 Martin Sherred 'A'     21 
-Margaret Whitaker      13 Chris Womersley        21 
+Margaret Whitaker      13 Chris Womersley 'A'    21 
 Michael Bennett         5 Stephen Crossley       21 
 Derek Whitaker         18 Richard Lonsdale       21 
 Margaret Wood          19 Brian Tempest          21 
 Brian Hodgson          21 John Greenwood'A'      17 
-Steve Spurr            18 David Bottomley 'A'    21 
+Steve Spurr            18 David Bottomley        21 
 Roger French           13 Dennis Thorpe          21 
               Points:  23               Points:  38 
 
@@ -425,12 +437,12 @@ Roger French           13 Dennis Thorpe          21
         Ilkley A                   Rawdon           
 Martin Bailey          21 Ian Scott              14 
 Allan Hughes           15 Gordon Longfellow      21 
-Rod Bastow 'A'         21 Bernard Harrison       14 
+Rod Bastow             21 Bernard Harrison       14 
 Paul Hillam            21 Christine Robson       12 
 Terry Almond           21 Paul Haigh              8 
 Brian Wheeler'A'       21 Steve Calvert           9 
 Steve Cooper           21 Ken Garbett             9 
-Mick Bastow            21 David Johnson          14 
+Mick Bastow 'A'        21 David Johnson          14 
               Points:  38               Points:  16 
 
        Division 2               Tue 15th Apr        
@@ -447,38 +459,50 @@ Dennis Tetley          19 Eddie Prince           21
 
        Division 2               Tue 15th Apr        
          Menston                Greenbottom A       
-Raymond Dalton         21 Mike Whitelaw          17 
+Raymond Dalton         21 Mike Whitelaw 'A'      17 
 Laurie Robinson        21 Bill Lovedale          16 
 Amrik Singh            21 Janice Waite            8 
 Jeremy Gill            21 Alan Jukes             18 
 Simon Cowley           21 Edgar Ryley             5 
-Gwen Smith             21 Ann Ryley              13 
+Gwen Smith             21 Ann Ryley 'A'          13 
 Les Schofield          20 Dave Whelan            21 
-Nigel Buckley          16 Karen Whitelaw         21 
+Nigel Buckley          16 Karen Whitelaw 'A'     21 
               Points:  37               Points:  24 
 
        Division 2               Tue 15th Apr        
          Idle A             Burley in Wharfedale    
 Michael Leach          21 Michael Littlejohn     15 
-Colin Richardson'A'    21 Maureen Poucher        20 
+Colin Richardson       21 Maureen Poucher        20 
 Michael Barrett        21 Michael Mitchell       16 
 Roy Barlow'A'          21 Bob Hartley            13 
 Yvonne Coppin          21 John McCabe             5 
-Dave Duckett           21 Patricia Sedman        16 
+Dave Duckett 'A'       21 Patricia Sedman        16 
 Pamela Barlow          21 Phil Argyle            20 
 Bryn Jones'A'          16 Andrew Shaw            21 
               Points:  38               Points:  25 
 
        Division 2               Tue 15th Apr        
+      Wharfemeadows               Ilkley B          
+John Chippindale       21 Debbie Shuttleworth    16 
+Jean Harrison          21 Elaine Sloman           3 
+Brenda Appleyard       16 Sally Brennan          21 
+Belinda Mitchell       21 Gordon Dick             8 
+Michael Taylor         21 John Brennan           18 
+Margaret Marwood       14 Tony Foster            21 
+Graham Tansley         21 Bernie Connor          13 
+John Chippindale       21 Stewart Sunman         13 
+              Points:  35               Points:  22 
+
+       Division 2               Tue 15th Apr        
       Yeadon Park A            New Greengates       
 David Poole            21 Pauline Wilkinson       8 
-Frank Baker            21 Alan Broscombe         19 
+Frank Baker 'A'        21 Alan Broscombe         19 
 Allen Hardcastle       21 Tom Sayer              11 
 Tim Nicholson          21 Christine Hillas        4 
 Patrick Campbell       16 Robert Denby           21 
-Richard Gosnay         18 Allan Smith            21 
+Richard Gosnay 'A'     18 Allan Smith            21 
 Reid Haddow            18 Mary Hemsley           21 
-Ian Robertson'A'       17 Keith Goodall          21 
+Ian Robertson          17 Keith Goodall          21 
               Points:  34               Points:  27 
 
        Division 3               Tue 15th Apr        
@@ -555,13 +579,13 @@ Lek Fletcher           21 Kate Morris             8
 
        Division 1               Tue 29th Apr        
         Rufford A                 Calverley         
-David Kirkbright       21 Martin McGowan         14 
+David Kirkbright 'A'   21 Martin McGowan         14 
 Val Grace              21 Michael Bennett         5 
-Colin Matthewman 'A'   21 Margaret Whitaker      12 
+Colin Matthewman       21 Margaret Whitaker      12 
 Glynn Goodyear         21 Derek Whitaker         20 
 Allan Caine'A'         21 Colin Whitley          20 
 Carolyn Matthewman     21 Margaret Wood           7 
-Debbie Kirkbright      21 Roger French           20 
+Debbie Kirkbright 'A'  21 Roger French           20 
 Ken Lee                21 Steve Spurr            11 
               Points:  40               Points:  20 
 
@@ -581,9 +605,9 @@ Geoff Hanson           20 Paul Gill              21
       Myrtle Park A          Horsforth Hall Park    
 Christine Pollard      21 Keith Farrell           8 
 Ken Pollard            21 Kath Crompton          19 
-Pete Hepworth          21 Nigel Stockdale        12 
+Pete Hepworth 'A'      21 Nigel Stockdale        12 
 Richard Berry          21 Keith Barran           15 
-Maureen Wood 'A'        6 Phil Clayton           21 
+Maureen Wood            6 Phil Clayton           21 
 Irene Bird             21 Anne Mackman           12 
 Keith Hilton           21 Paul Stoyles           11 
 Miles Berry'A'         21 Ruth Sutcliffe         12 
@@ -604,32 +628,44 @@ Paul Haigh              8 John Sample            21
        Division 1               Tue 29th Apr        
          Salts A                   Farsley          
 Dennis Thorpe           7 Kevin Rankin           21 
-David Bottomley 'A'    13 Colin Rhodes           21 
-*A.N.Other*            21 Peter Crowther         16 
+David Bottomley        13 Colin Rhodes           21 
+Lek Fletcher           21 Peter Crowther         16 
 Stephen Crossley       14 Graham Petty           21 
 Richard Lonsdale       21 Stuart Brook            5 
 Brian Tempest           8 Bob Jeffrey            21 
-Chris Womersley        21 Ron Witham              2 
+Chris Womersley 'A'    21 Ron Witham              2 
 Martin Sherred 'A'     21 Derek Pickering         7 
               Points:  26               Points:  25 
 
        Division 2               Tue 29th Apr        
+  Burley in Wharfedale          Wharfemeadows       
+Maureen Poucher        21 Graham Tansley         19 
+Brian Clark            13 Malcolm Levi           21 
+Michael Mitchell       21 Brenda Appleyard       14 
+John McCabe            18 Jean Harrison          21 
+Bob Hartley            21 Margaret Marwood        9 
+Patricia Sedman        21 Belinda Mitchell        6 
+Sue Knowles            21 Michael Taylor         15 
+Brian Wardle           21 Graham Tansley         16 
+              Points:  36               Points:  24 
+
+       Division 2               Tue 29th Apr        
       Greenbottom A             Yeadon Park A       
-Dave Whelan            21 Robert North'A'        19 
-Anita Kingham          21 Richard Gosnay         11 
-Mike Whitelaw          11 Tim Nicholson          21 
-Alan Jukes              8 Frank Baker            21 
+Dave Whelan            21 Robert North           19 
+Anita Kingham          21 Richard Gosnay 'A'     11 
+Mike Whitelaw 'A'      11 Tim Nicholson          21 
+Alan Jukes              8 Frank Baker 'A'        21 
 Barry Teasdale          8 Reid Haddow            21 
-Karen Whitelaw         21 Ian Robertson'A'       15 
-Fiona Haxby            21 John Hutton'A'         17 
-Ann Ryley              21 David Poole            19 
+Karen Whitelaw 'A'     21 Ian Robertson          15 
+Fiona Haxby            21 John Hutton            17 
+Ann Ryley 'A'          21 David Poole            19 
               Points:  29               Points:  31 
 
        Division 2               Tue 29th Apr        
          Menston                   Idle A           
 Laurie Robinson        21 Roy Barlow'A'          14 
 Amrik Singh            18 Alan Sinfield          21 
-Raymond Dalton         21 Dave Duckett            3 
+Raymond Dalton         21 Dave Duckett 'A'        3 
 Simon Cowley           21 Michael Barrett         6 
 Gwen Smith             19 Yvonne Coppin          21 
 Nigel Buckley          21 Bryn Jones'A'          11 
@@ -644,9 +680,9 @@ Derek Simpson          21 Maureen Kitson         11
 Pamela Robinson        20 Les Ward               21 
 Alan Clements          14 Linda Bakes            21 
 Flo Johnston           21 Sue Adamthwaite        16 
-*A.N.Other*            21 John Tyson             17 
+Dennis Collett         21 John Tyson             17 
 Jeffrey Townend        16 Celia Throup           21 
-Phil Robinson          21 *A.N.Other*            11 
+Phil Robinson          21 Malcolm Watts          11 
               Points:  34               Points:  29 
 
        Division 2               Tue 29th Apr        
@@ -737,19 +773,19 @@ Maureen Slater         21 Gary Poucher           11
       Shipley Club                 Salts A          
 James Welsh            21 Stephen Crossley       16 
 Tony Spivey            20 Patricia Allison       21 
-Barry Fenton           15 Chris Womersley        21 
+Barry Fenton           15 Chris Womersley 'A'    21 
 John Sample            21 Martin Sherred 'A'     10 
 Myra Humpleby          21 Lek Fletcher           17 
 Bernard Criddle        21 Brian Tempest          20 
-Wendy Spivey            8 David Bottomley 'A'    21 
+Wendy Spivey            8 David Bottomley        21 
 Cindy Rapinczuk        21 Dennis Thorpe           7 
               Points:  33               Points:  28 
 
        Division 1                Tue 6th May        
          Farsley                Myrtle Park A       
-Dave Rankin            18 Pete Hepworth          21 
+Dave Rankin            18 Pete Hepworth 'A'      21 
 Colin Rhodes           21 Miles Berry'A'         14 
-Peter Crowther         21 Maureen Wood 'A'       16 
+Peter Crowther         21 Maureen Wood           16 
 Ron Witham             21 Christine Pollard      18 
 Graham Petty           21 Irene Bird              7 
 Stuart Brook           21 Stephen Turner         13 
@@ -784,12 +820,12 @@ Brian Hodgson          20 Keith Haigh            21
        Division 1                Tue 6th May        
         Ilkley A                  Rufford A         
 Brian Wheeler'A'       21 Allan Caine'A'         10 
-Allan Hughes           21 David Norris 'A'       14 
-Rod Bastow 'A'         21 Debbie Kirkbright       5 
+Allan Hughes           21 David Norris           14 
+Rod Bastow             21 Debbie Kirkbright 'A'   5 
 Terry Almond           21 Ken Lee                14 
-Mick Bastow            21 Colin Matthewman 'A'    9 
+Mick Bastow 'A'        21 Colin Matthewman        9 
 Steve Cooper           21 Val Grace              13 
-Paul Hillam            19 David Kirkbright       21 
+Paul Hillam            19 David Kirkbright 'A'   21 
 Andy Thornton'A'       21 Glynn Goodyear          8 
               Points:  39               Points:  16 
 
@@ -809,7 +845,7 @@ John Barrett           21 David Emerson          19
         Baildon B              New Greengates       
 Ron Wilkinson          21 Mary Hemsley           15 
 Maureen Kitson          9 Pauline Wilkinson      21 
-*A.N.Other*            21 Allan Smith            16 
+Malcolm Watts          21 Allan Smith            16 
 Les Ward               15 Christine Hillas       21 
 Celia Throup           21 Chris Burnett          10 
 John Tyson             21 Tom Sayer              10 
@@ -823,9 +859,9 @@ Michael Barrett        21 Bill Lovedale          13
 Roy Barlow'A'          21 Margaret Adamson        3 
 Michael Leach           8 Dave Whelan            21 
 Pamela Barlow          21 Kate Jukes             12 
-Dave Duckett           21 Edgar Ryley             6 
+Dave Duckett 'A'       21 Edgar Ryley             6 
 Yvonne Coppin          21 Anita Kingham          19 
-Bryn Jones'A'          21 Ann Ryley               7 
+Bryn Jones'A'          21 Ann Ryley 'A'           7 
 Alan Sinfield          21 Fiona Haxby             3 
               Points:  36               Points:  15 
 
@@ -843,14 +879,14 @@ John Chippindale       11 Shaun Johnson          21
 
        Division 2                Tue 6th May        
       Yeadon Park A         Burley in Wharfedale    
-John Hutton'A'         17 John Hardisty          21 
+John Hutton            17 John Hardisty          21 
 David Poole            21 Brian Clark            10 
-Robert North'A'        21 John McCabe             7 
+Robert North           21 John McCabe             7 
 Allen Hardcastle       17 Maureen Poucher        21 
-Ian Robertson'A'       21 Alwyn Robertson        15 
+Ian Robertson          21 Alwyn Robertson        15 
 Tim Nicholson          20 Brian Wardle           21 
-Frank Baker            14 Sue Knowles            21 
-Richard Gosnay          9 Andrew Shaw            21 
+Frank Baker 'A'        14 Sue Knowles            21 
+Richard Gosnay 'A'      9 Andrew Shaw            21 
               Points:  28               Points:  31 
 
        Division 3                Tue 6th May        
@@ -927,25 +963,25 @@ Sandra Womersley       16 Paul Scurrah           21
 
        Division 1               Tue 13th May        
         Rufford A                  Farsley          
-Colin Matthewman 'A'    6 Stewart Watson         21 
-David Kirkbright       21 Colin Rhodes           14 
+Colin Matthewman        6 Stewart Watson         21 
+David Kirkbright 'A'   21 Colin Rhodes           14 
 Allan Caine'A'         13 Peter Crowther         21 
 Glynn Goodyear         21 Graham Petty           20 
 Carolyn Matthewman     19 Stuart Brook           21 
-Debbie Kirkbright      19 Bob Jeffrey            21 
-David Norris 'A'       17 Derek Pickering        21 
+Debbie Kirkbright 'A'  19 Bob Jeffrey            21 
+David Norris           17 Derek Pickering        21 
 Ken Lee                21 Dave Rankin            14 
               Points:  29               Points:  33 
 
        Division 1               Tue 13th May        
         Baildon A                 Ilkley A          
-Keith Haigh             7 Rod Bastow 'A'         21 
+Keith Haigh             7 Rod Bastow             21 
 Richard Briggs 'A'     21 Martin Bailey           6 
 Christine Ratcliffe    21 Hedley Chapman         19 
-*A.N.Other*            10 Terry Almond           21 
+Malcolm Watts          10 Terry Almond           21 
 Christine Ramsden A'   14 Andy Thornton'A'       21 
 Geoff Hanson            9 Brian Wheeler'A'       21 
-Bob Ramsden'A'         14 Mick Bastow            21 
+Bob Ramsden'A'         14 Mick Bastow 'A'        21 
 Derek Bridge            5 Steve Cooper           21 
               Points:  19               Points:  35 
 
@@ -954,22 +990,22 @@ Derek Bridge            5 Steve Cooper           21
 Martin Sherred 'A'     21 Ruth Sutcliffe          5 
 Lek Fletcher           15 Paul Stoyles           21 
 Brian Tempest          21 Peter Powell           15 
-David Bottomley 'A'    21 Keith Farrell           6 
+David Bottomley        21 Keith Farrell           6 
 Patricia Allison       13 Phil Clayton           21 
 Richard Lonsdale       21 Nigel Stockdale        11 
 Stephen Crossley       16 Kath Crompton          21 
-Chris Womersley        21 Frank Sutcliffe        11 
+Chris Womersley 'A'    21 Frank Sutcliffe        11 
               Points:  33               Points:  24 
 
        Division 1               Tue 13th May        
          Rawdon                 Myrtle Park A       
 David Johnson          18 Michael Upton 'A'      21 
 Paul Haigh             21 Miles Berry'A'         15 
-Steve Calvert          21 Maureen Wood 'A'        4 
+Steve Calvert          21 Maureen Wood            4 
 Ken Garbett            10 Malcolm Waite          21 
 Ian Scott              21 Irene Bird              4 
 Gordon Longfellow      15 Keith Hilton           21 
-Bernard Harrison        9 Pete Hepworth          21 
+Bernard Harrison        9 Pete Hepworth 'A'      21 
 John Collins           12 Richard Berry          21 
               Points:  27               Points:  28 
 
@@ -994,24 +1030,24 @@ Margaret Adamson       16 Mick Head              21
 Barry Teasdale         10 Joyce Wall             21 
 Edgar Ryley            21 Anne Kelly             16 
 Fiona Haxby            21 Peter Kitching         13 
-Ann Ryley              21 Dennis Tetley          14 
+Ann Ryley 'A'          21 Dennis Tetley          14 
               Points:  28               Points:  29 
 
        Division 2               Tue 13th May        
          Menston                Yeadon Park A       
-Raymond Dalton         18 Ian Robertson'A'       21 
+Raymond Dalton         18 Ian Robertson          21 
 Monty Navias           14 Reid Haddow            21 
-Peter Hammond          19 John Hutton'A'         21 
-Jim Hughes             21 Robert North'A'        10 
+Peter Hammond          19 John Hutton            21 
+Jim Hughes             21 Robert North           10 
 Laurie Robinson        10 Tim Nicholson          21 
-Simon Cowley           21 Richard Gosnay          9 
+Simon Cowley           21 Richard Gosnay 'A'      9 
 Gwen Smith             21 Allen Hardcastle       14 
 Nigel Buckley          21 David Poole            20 
               Points:  32               Points:  29 
 
        Division 2               Tue 13th May        
          Idle A                 Wharfemeadows       
-Dave Duckett           21 Alan Broadwell         16 
+Dave Duckett 'A'       21 Alan Broadwell         16 
 Alan Sinfield          21 Malcolm Levi            5 
 Valerie Riley          21 Jean Harrison          19 
 Michael Leach          21 Linda Yates             5 
@@ -1056,6 +1092,18 @@ Frank Harwood          21 Irwin Houldsworth      18
 David Elliott          21 Alan Bishop            15 
 Bryan Bonnington       21 Gary Poucher           14 
               Points:  40               Points:  18 
+
+       Division 3               Tue 13th May        
+       Grove Hill                 Rufford B         
+Billy Hartley           9 Guy Barrie             21 
+Judith Collins         14 Pauline Ingleson       21 
+Janet Warburton        21 Carol Wright           15 
+David Locke            21 Janet Uttley            4 
+John Farquhar          14 Peter O'Brien          21 
+Andrew Wilson           7 Graham Ingleson        21 
+David Samuel           21 Pauline Gilroy         19 
+Neil Jameson           21 John Arundel            5 
+              Points:  26               Points:  28 
 
        Division 3               Tue 13th May        
         Tarnfield                  Salts B          
@@ -1108,12 +1156,12 @@ Gordon Baines          15 Paul Gaines            21
        Division 1               Tue 20th May        
       Shipley Club                Rufford A         
 Garry Nellist          21 Ken Lee                15 
-Myra Humpleby          16 David Norris 'A'       21 
-Cindy Rapinczuk        18 Debbie Kirkbright      21 
+Myra Humpleby          16 David Norris           21 
+Cindy Rapinczuk        18 Debbie Kirkbright 'A'  21 
 Barry Fenton           21 Allan Caine'A'         19 
-Pam Nellist            20 Colin Matthewman 'A'   21 
+Pam Nellist            20 Colin Matthewman       21 
 Bernard Criddle        16 Andy Newell            21 
-John Sample            21 David Kirkbright       19 
+John Sample            21 David Kirkbright 'A'   19 
 James Welsh             7 Glynn Goodyear         21 
               Points:  30               Points:  36 
 
@@ -1132,7 +1180,7 @@ Derek Pickering        20 David Johnson          21
        Division 1               Tue 20th May        
    Horsforth Hall Park            Baildon A         
 Helen Mylan            11 Bob Ramsden'A'         21 
-Paul Stoyles           19 *A.N.Other*            21 
+Paul Stoyles           19 Malcolm Watts          21 
 Kath Crompton          15 Derek Bridge           21 
 Phil Clayton           21 Christine Ratcliffe    12 
 Peter Powell           19 Geoff Hanson           21 
@@ -1147,22 +1195,22 @@ Michael Upton 'A'      21 Richard Lonsdale        9
 Richard Berry          21 Brian Tempest          18 
 Irene Bird             21 Patricia Allison       19 
 Stephen Turner         15 John Greenwood'A'      21 
-Miles Berry'A'         21 Chris Womersley        16 
+Miles Berry'A'         21 Chris Womersley 'A'    16 
 Christine Pollard      21 Philip Peel            16 
-Pete Hepworth          17 Lek Fletcher           21 
-Keith Hilton           21 David Bottomley 'A'    19 
+Pete Hepworth 'A'      17 Lek Fletcher           21 
+Keith Hilton           21 David Bottomley        19 
               Points:  36               Points:  29 
 
        Division 1               Tue 20th May        
         Ilkley A                   Wibsey           
-Rod Bastow 'A'          9 John Stevenson         21 
+Rod Bastow              9 John Stevenson         21 
 Andy Thornton'A'       21 Andy Denton            12 
 Terry Almond           21 Vinny Cleary           17 
 Allan Hughes           21 John May               11 
 Steve Cooper           21 John Exley             14 
 Martin Bailey          21 Paula Graham           19 
 Brian Wheeler'A'       21 Peter Oliver           11 
-Mick Bastow            21 David Southwell         6 
+Mick Bastow 'A'        21 David Southwell         6 
               Points:  36               Points:  21 
 
        Division 2               Tue 20th May        
@@ -1209,19 +1257,19 @@ Graham Tansley         21 Kate Jukes             17
 Margaret Marwood       21 Anita Kingham           3 
 Pauline Barnett        21 Alan Bishop            12 
 Belinda Mitchell       11 Fiona Haxby            21 
-Michael Taylor         21 Ann Ryley              17 
+Michael Taylor         21 Ann Ryley 'A'          17 
 John Chippindale       21 Alan Jukes             10 
               Points:  37               Points:  20 
 
        Division 2               Tue 20th May        
       Yeadon Park A                Idle A           
-Richard Gosnay         18 Alan Sinfield          21 
-John Hutton'A'         21 Valerie Riley          13 
-Frank Baker            21 Michael Barrett        13 
+Richard Gosnay 'A'     18 Alan Sinfield          21 
+John Hutton            21 Valerie Riley          13 
+Frank Baker 'A'        21 Michael Barrett        13 
 Reid Haddow            13 Roy Barlow'A'          21 
 David Poole            21 Yvonne Coppin          13 
-Robert North'A'        15 Dave Duckett           21 
-Ian Robertson'A'       16 Bryn Jones'A'          21 
+Robert North           15 Dave Duckett 'A'       21 
+Ian Robertson          16 Bryn Jones'A'          21 
 Tim Nicholson          21 Pamela Barlow          17 
               Points:  32               Points:  29 
 
@@ -1234,7 +1282,7 @@ John McHale            21 Bryan Bonnington       12
 John Arundel           21 Peter Bainbridge        3 
 Peter O'Brien          21 Paul Scurrah           16 
 Mick Snowden           21 David Elliott          20 
-*A.N.Other*            21 Janice Connaleigh      15 
+Pauline Gilroy         21 Janice Connaleigh      15 
               Points:  40               Points:  16 
 
        Division 3               Tue 20th May        
@@ -1285,16 +1333,28 @@ Nuala Pritchard        20 Andrew Lancaster       21
 Peter Holland          21 Keith Powell           11 
               Points:  35               Points:  28 
 
+       Division 3               Tue 20th May        
+        Guiseley                  Tarnfield         
+Lynn Ogden             21 Pam Ratcliffe           9 
+Caroline Corbett       18 David Kirk             21 
+Lynette Hall           21 Linda Utley            12 
+Christine Boyd          9 Stan Southern          21 
+Anne Brown             14 Bob Williams           21 
+Norman Lickley         21 Harry Utley            14 
+Jack Boyd              21 Bryan Armit             7 
+Jeremy Jones           21 *No Player*             0 
+              Points:  32               Points:  21 
+
        Division 1               Tue 27th May        
         Rufford A               Myrtle Park A       
 Glynn Goodyear         13 Michael Upton 'A'      21 
-David Kirkbright       19 Miles Berry'A'         21 
-Colin Matthewman 'A'   21 Irene Bird              8 
-David Norris 'A'       21 Malcolm Waite          17 
+David Kirkbright 'A'   19 Miles Berry'A'         21 
+Colin Matthewman       21 Irene Bird              8 
+David Norris           21 Malcolm Waite          17 
 Carolyn Matthewman     21 Stephen Turner          5 
-Allan Caine'A'         21 Maureen Wood 'A'       15 
-Debbie Kirkbright      18 Keith Hilton           21 
-Ken Lee                13 Pete Hepworth          21 
+Allan Caine'A'         21 Maureen Wood           15 
+Debbie Kirkbright 'A'  18 Keith Hilton           21 
+Ken Lee                13 Pete Hepworth 'A'      21 
               Points:  32               Points:  28 
 
        Division 1               Tue 27th May        
@@ -1302,7 +1362,7 @@ Ken Lee                13 Pete Hepworth          21
 Richard Briggs 'A'     21 Kevin Rankin           17 
 Keith Haigh            14 Peter Crowther         21 
 Christine Ramsden A'   21 Colin Rhodes           20 
-*A.N.Other*             7 Dave Rankin            21 
+Malcolm Watts           7 Dave Rankin            21 
 Sue Farrell            21 Stuart Brook            7 
 Derek Bridge           10 Stewart Watson         21 
 Bob Ramsden'A'          9 Bob Jeffrey            21 
@@ -1323,21 +1383,21 @@ John Exley             12 John Sample            21
 
        Division 1               Tue 27th May        
         Calverley                 Ilkley A          
-Brenda Chaffer         16 Rod Bastow 'A'         21 
+Brenda Chaffer         16 Rod Bastow             21 
 Roger French           16 Brian Wheeler'A'       21 
 Brian Hodgson          14 Andy Thornton'A'       21 
 Martin McGowan         17 Dennis Henderson       21 
 Derek Whitaker         15 Allan Hughes           21 
 Margaret Whitaker      15 Terry Almond           21 
 Colin Whitley          15 Steve Cooper           21 
-Carol Matthews         14 Mick Bastow            21 
+Carol Matthews         14 Mick Bastow 'A'        21 
               Points:  22               Points:  40 
 
        Division 1               Tue 27th May        
          Salts A                   Rawdon           
-Chris Womersley        21 Ian Scott              17 
+Chris Womersley 'A'    21 Ian Scott              17 
 Lek Fletcher           14 David Johnson          21 
-David Bottomley 'A'    10 Steve Calvert          21 
+David Bottomley        10 Steve Calvert          21 
 Patricia Allison       13 Ken Garbett            21 
 Brian Tempest          21 Bernard Harrison       10 
 Stephen Crossley       18 Christine Robson       21 
@@ -1346,38 +1406,50 @@ John Greenwood'A'      21 John Collins           14
               Points:  28               Points:  32 
 
        Division 2               Tue 27th May        
+  Burley in Wharfedale         Crowghyll Park       
+Michael Mitchell       21 Derek Carroll          11 
+Sue Knowles            21 Pamela Robinson         6 
+Patricia Sedman        13 Derek Simpson          21 
+Phil Argyle            21 Tony Southern          13 
+Brian Wardle           21 Phil Robinson          15 
+John McCabe            21 Flo Johnston            7 
+John Hardisty          16 Jeffrey Townend        21 
+Andrew Shaw            21 Peter Mitchell          4 
+              Points:  35               Points:  19 
+
+       Division 2               Tue 27th May        
       Greenbottom A               Baildon B         
 Alan Jukes             21 Celia Throup           10 
-Mike Whitelaw          19 Sue Adamthwaite        21 
+Mike Whitelaw 'A'      19 Sue Adamthwaite        21 
 Stan Marsden           21 Linda Bakes            13 
 Dave Whelan            21 Maureen Kitson         11 
 Alan Bishop            21 Malcolm Throup          9 
-Ann Ryley              21 Ken Terry              16 
+Ann Ryley 'A'          21 Ken Terry              16 
 Fiona Haxby            21 Rae Heddle              6 
-Karen Whitelaw         21 Les Ward                7 
+Karen Whitelaw 'A'     21 Les Ward                7 
               Points:  39               Points:  17 
 
        Division 2               Tue 27th May        
          Idle A              Bingley Sleningford    
-Dave Duckett           21 Malcolm Pitt           16 
+Dave Duckett 'A'       21 Malcolm Pitt           16 
 Pamela Barlow          21 Peter Kitching         11 
 Michael Leach          21 David Whitwham         16 
 Alan Sinfield          21 Barbara Brook           8 
 Bryn Jones'A'          21 John Barrett            4 
 Michael Barrett        21 Dennis Tetley          14 
 Yvonne Coppin          10 Barbara Hayhurst       21 
-Roy Barlow'A'          21 *A.N.Other*            12 
+Roy Barlow'A'          21 Anne Kelly             12 
               Points:  37               Points:  18 
 
        Division 2               Tue 27th May        
       Wharfemeadows             Yeadon Park A       
 Alan Broadwell         21 Allen Hardcastle        3 
 Linda Yates            21 Tim Nicholson          15 
-Jean Harrison          14 Richard Gosnay         21 
-John Chippindale       21 Ian Robertson'A'       16 
-Margaret Marwood       21 Robert North'A'        18 
-Belinda Mitchell       13 Frank Baker            21 
-Graham Tansley          5 John Hutton'A'         21 
+Jean Harrison          14 Richard Gosnay 'A'     21 
+John Chippindale       21 Ian Robertson          16 
+Margaret Marwood       21 Robert North           18 
+Belinda Mitchell       13 Frank Baker 'A'        21 
+Graham Tansley          5 John Hutton            21 
 Michael Taylor         17 David Poole            21 
               Points:  28               Points:  30 
 
@@ -1491,9 +1563,9 @@ Keith Farrell           4 Roger French           21
 
        Division 1                Tue 3rd Jun        
       Myrtle Park A               Ilkley A          
-Pete Hepworth          21 Mick Bastow             8 
-Richard Berry          21 Rod Bastow 'A'         18 
-Maureen Wood 'A'       14 Allan Hughes           21 
+Pete Hepworth 'A'      21 Mick Bastow 'A'         8 
+Richard Berry          21 Rod Bastow             18 
+Maureen Wood           14 Allan Hughes           21 
 Christine Pollard      21 Hedley Chapman         10 
 Miles Berry'A'         21 Dennis Henderson       18 
 Irene Bird             11 Terry Almond           21 
@@ -1503,11 +1575,11 @@ Michael Upton 'A'      21 Andy Thornton'A'       16
 
        Division 1                Tue 3rd Jun        
          Rawdon                   Rufford A         
-Ken Garbett            21 David Kirkbright       16 
+Ken Garbett            21 David Kirkbright 'A'   16 
 Ian Scott              21 Ken Lee                14 
 Bernard Harrison       14 Carolyn Matthewman     21 
 Gordon Longfellow      14 Andy Newell            21 
-David Johnson          21 David Norris 'A'        3 
+David Johnson          21 David Norris            3 
 Christine Robson       21 Allan Caine'A'         16 
 Paul Haigh             21 Val Grace              14 
 Steve Calvert          21 Glynn Goodyear         14 
@@ -1522,7 +1594,7 @@ Brian Tempest          21 Tasawir Hussain        13
 Martin Sherred 'A'     21 John May                3 
 Richard Lonsdale       21 Vinny Cleary           15 
 Lek Fletcher           11 Paula Graham           21 
-Chris Womersley        17 Paul Gill              21 
+Chris Womersley 'A'    17 Paul Gill              21 
               Points:  27               Points:  30 
 
        Division 2                Tue 3rd Jun        
@@ -1544,7 +1616,7 @@ Pam Terry              17 Belinda Mitchell       21
 Malcolm Throup          7 Graham Tansley         21 
 Rae Heddle             12 Alan Broadwell         21 
 Les Ward               10 Linda Yates            21 
-*A.N.Other*            21 Michael Taylor         15 
+Malcolm Watts          21 Michael Taylor         15 
 Ken Terry              21 Margaret Marwood       19 
 John Tyson             14 John Chippindale       21 
               Points:  21               Points:  37 
@@ -1552,13 +1624,13 @@ John Tyson             14 John Chippindale       21
        Division 2                Tue 3rd Jun        
      Crowghyll Park             Yeadon Park A       
 Peter Mitchell         15 Reid Haddow            21 
-Pamela Robinson        21 Robert North'A'        16 
+Pamela Robinson        21 Robert North           16 
 Derek Simpson          20 Allen Hardcastle       21 
-Dennis Collett          6 John Hutton'A'         21 
-Flo Johnston           10 Richard Gosnay         21 
+Dennis Collett          6 John Hutton            21 
+Flo Johnston           10 Richard Gosnay 'A'     21 
 Phil Robinson          12 Tim Nicholson          21 
-Derek Carroll          21 Frank Baker            17 
-Eddie Prince           11 Ian Robertson'A'       21 
+Derek Carroll          21 Frank Baker 'A'        17 
+Eddie Prince           11 Ian Robertson          21 
               Points:  24               Points:  36 
 
        Division 2                Tue 3rd Jun        
@@ -1582,8 +1654,20 @@ Bernie Connor          21 Valerie Riley          11
 Sally Brennan          10 Yvonne Coppin          21 
 John Brennan           13 David Burrows          21 
 Tony Foster            21 Pamela Barlow          13 
-David Emerson          21 Dave Duckett            9 
+David Emerson          21 Dave Duckett 'A'        9 
               Points:  31               Points:  24 
+
+       Division 3                Tue 3rd Jun        
+        Rufford B                 Tarnfield         
+Angela Carter          21 Bryan Armit            11 
+Janet Uttley            6 Stan Southern          21 
+Carol Wright           21 Graham Howden           8 
+John McHale            21 Harry Utley             9 
+Mick Snowden           20 Anita Howard           21 
+John Arundel           21 Bob Williams           16 
+Pauline Gilroy         21 Pam Ratcliffe          15 
+Peter O'Brien           3 George McClaren 'A'    21 
+              Points:  30               Points:  25 
 
        Division 3                Tue 3rd Jun        
       Greenbottom B              Grove Hill         
@@ -1661,23 +1745,23 @@ Peter Oliver           21 Derek Pickering         3
    TUESDAY VETS DIV 1           Tue 10th Jun        
                                   On Ilkley         
       Myrtle Park A                Salts A          
-Pete Hepworth          21 Stephen Crossley        9 
+Pete Hepworth 'A'      21 Stephen Crossley        9 
 Richard Berry          12 Richard Lonsdale       21 
 Irene Bird             10 Dennis Thorpe          21 
-Maureen Wood 'A'       21 Chris Womersley        19 
+Maureen Wood           21 Chris Womersley 'A'    19 
 Miles Berry'A'         13 Lek Fletcher           21 
 Stephen Turner         18 John Greenwood'A'      21 
-Keith Hilton           12 David Bottomley 'A'    21 
+Keith Hilton           12 David Bottomley        21 
 Michael Upton 'A'      21 Martin Sherred 'A'     13 
                Games:   3                Games:   5 
 
    TUESDAY VETS DIV 1           Tue 10th Jun        
                                 On Tarnfield        
         Ilkley A                  Calverley         
-Rod Bastow 'A'         21 Derek Whitaker         14 
+Rod Bastow             21 Derek Whitaker         14 
 Steve Cooper           21 Colin Whitley           2 
 Allan Hughes           21 Brenda Chaffer          7 
-Mick Bastow            21 Martin McGowan         15 
+Mick Bastow 'A'        21 Martin McGowan         15 
 Martin Bailey          21 Ricky Kearns           19 
 Dennis Henderson       21 Margaret Wood           4 
 Andy Thornton'A'       16 Roger French           21 
@@ -1688,10 +1772,10 @@ Hedley Chapman         21 Brian Hodgson          17
                            On Horsforth Hall Park   
         Rufford A                 Baildon A         
 Carolyn Matthewman      8 Richard Briggs 'A'     21 
-David Norris 'A'       18 Christine Ramsden A'   21 
+David Norris           18 Christine Ramsden A'   21 
 Allan Caine'A'         21 Joan Dean              10 
 Glynn Goodyear         16 Bob Ramsden'A'         21 
-Colin Matthewman 'A'   21 Keith Haigh             7 
+Colin Matthewman       21 Keith Haigh             7 
 Val Grace              21 Derek Bridge           13 
 Guy Barrie             18 Sue Farrell            21 
 Ken Lee                20 Geoff Hanson           21 
@@ -1702,7 +1786,7 @@ Ken Lee                20 Geoff Hanson           21
       Wharfemeadows                Idle A           
 Malcolm Levi            9 Michael Barrett        21 
 Alan Broadwell         21 John Rawnsley          15 
-Jean Harrison           5 Dave Duckett           21 
+Jean Harrison           5 Dave Duckett 'A'       21 
 Belinda Mitchell       21 Pamela Barlow          16 
 Michael Taylor         21 Roy Barlow'A'          12 
 Graham Tansley         19 Michael Leach          21 
@@ -1715,12 +1799,12 @@ John Chippindale       21 Bryn Jones'A'          11
          Menston                Greenbottom A       
 Gail Singh             15 Stan Marsden           21 
 Laurie Robinson        19 Fiona Haxby            21 
-Simon Cowley           21 Mike Whitelaw          13 
+Simon Cowley           21 Mike Whitelaw 'A'      13 
 Amrik Singh             8 Dave Whelan            21 
 Gwen Smith             21 Alan Bishop            11 
 Nigel Buckley          21 Alan Jukes              7 
-Les Schofield          21 Karen Whitelaw         15 
-Shaun Johnson          21 Ann Ryley              16 
+Les Schofield          21 Karen Whitelaw 'A'     15 
+Shaun Johnson          21 Ann Ryley 'A'          16 
                Games:   5                Games:   3 
 
    TUESDAY VETS DIV 2           Tue 10th Jun        
@@ -1815,22 +1899,22 @@ Roger French           21 Graham Baggley         18
 
        Division 1               Tue 17th Jun        
         Rufford A            Horsforth Hall Park    
-Colin Matthewman 'A'   21 Paul Stoyles           15 
+Colin Matthewman       21 Paul Stoyles           15 
 Guy Barrie             21 Frank Sutcliffe         5 
 Allan Caine'A'         21 Helen Mylan             2 
 Ken Lee                21 Keith Barran            8 
 Carolyn Matthewman     21 Anne Mackman           13 
 John Benson            21 Kath Crompton           7 
-David Norris 'A'       18 Phil Clayton           21 
+David Norris           18 Phil Clayton           21 
 Glynn Goodyear         20 Nigel Stockdale        21 
               Points:  38               Points:  18 
 
        Division 1               Tue 17th Jun        
         Baildon A               Myrtle Park A       
-Christine Ratcliffe     7 Pete Hepworth          21 
+Christine Ratcliffe     7 Pete Hepworth 'A'      21 
 Geoff Hanson           10 Keith Hilton           21 
 Joan Dean              10 Richard Berry          21 
-Keith Haigh            10 Maureen Wood 'A'       21 
+Keith Haigh            10 Maureen Wood           21 
 Derek Bridge           17 Irene Bird             21 
 Christine Ramsden A'   19 Miles Berry'A'         21 
 Sue Farrell            21 Stephen Turner         16 
@@ -1839,8 +1923,8 @@ Bob Ramsden'A'         15 Michael Upton 'A'      21
 
        Division 1               Tue 17th Jun        
         Ilkley A                   Salts A          
-Rod Bastow 'A'         21 Patricia Allison       19 
-Mick Bastow             5 John Greenwood'A'      21 
+Rod Bastow             21 Patricia Allison       19 
+Mick Bastow 'A'         5 John Greenwood'A'      21 
 Allan Hughes           21 Martin Sherred 'A'     16 
 Terry Almond           21 Peter Holland          15 
 Martin Bailey          21 Philip Peel             9 
@@ -1864,13 +1948,13 @@ Stewart Watson         19 Vinny Cleary           21
        Division 2               Tue 17th Jun        
       Yeadon Park A               Ilkley B          
 Tim Nicholson          21 Sally Brennan           7 
-Ian Robertson'A'       21 Sue Emerson             2 
+Ian Robertson          21 Sue Emerson             2 
 Reid Haddow            21 Elaine Sloman          11 
-Robert North'A'        21 Gordon Dick            17 
+Robert North           21 Gordon Dick            17 
 David Arundale         12 Bernie Connor          21 
 Allen Hardcastle       21 Debbie Shuttleworth    15 
-Richard Gosnay         19 John Brennan           21 
-John Hutton'A'         21 David Emerson          20 
+Richard Gosnay 'A'     19 John Brennan           21 
+John Hutton            21 David Emerson          20 
               Points:  36               Points:  23 
 
        Division 2               Tue 17th Jun        
@@ -1878,11 +1962,11 @@ John Hutton'A'         21 David Emerson          20
 Alan Jukes              4 Mary Hemsley           21 
 Dave Whelan            21 Pauline Wilkinson      18 
 Stan Marsden           21 Christine Hillas       11 
-Mike Whitelaw          21 Allan Smith            17 
+Mike Whitelaw 'A'      21 Allan Smith            17 
 Fiona Haxby             7 Tom Sayer              21 
-Ann Ryley              21 Chris Burnett          18 
+Ann Ryley 'A'          21 Chris Burnett          18 
 Alan Bishop            17 Robert Denby           21 
-Karen Whitelaw         21 Keith Goodall          16 
+Karen Whitelaw 'A'     21 Keith Goodall          16 
               Points:  29               Points:  31 
 
        Division 2               Tue 17th Jun        
@@ -1891,11 +1975,11 @@ Nigel Steels           21 Ron Wilkinson          13
 Maureen Poucher        21 Maureen Kitson         17 
 Brian Clark            15 Sue Adamthwaite        21 
 Alwyn Robertson        21 Linda Bakes            18 
-Nigel Steels           15 Celia Throup           21 
-Patricia Sedman        21 *A.N.Other*            14 
+*No Player*             0 Celia Throup           21 
+Patricia Sedman        21 Malcolm Watts          14 
 Sue Knowles            21 Rae Heddle             20 
 Brian Wardle           21 Les Ward                9 
-              Points:  36               Points:  26 
+              Points:  33               Points:  26 
 
        Division 2               Tue 17th Jun        
       Wharfemeadows          Bingley Sleningford    
