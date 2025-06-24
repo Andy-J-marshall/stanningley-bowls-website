@@ -1,4 +1,4 @@
-=== Leeds & District (Mon. Combined) 2025 (as of Mon 23rd Jun)
+=== Leeds & District (Mon. Combined) 2025 (as of Tue 24th Jun)
 === League Match Cards
 
         Div 1             Mon 21st Apr      
@@ -816,7 +816,7 @@ Mark Taylor           Peter Colley
 Grant Bartle       21 Joanna Rochester    2 
 Will Bartle           Hazel Goodall         
         Handicap: Scr         Handicap: +10 
-       Aggregate: 126        Aggregate:  54 
+       Aggregate: 126        Aggregate:  64 
 
      Qtr-Finals           Mon 23rd Jun      
                         On Crossgates BC    
@@ -830,7 +830,7 @@ Steve Barltrop        Ian Macfarlane
 Neil Robinson      15 Wendy Skyes        21 
 Andrew Grunwell       Jenny Holiday         
         Handicap: Scr         Handicap: +10 
-       Aggregate:  86        Aggregate: 110 
+       Aggregate:  86        Aggregate: 120 
 
      Qtr-Finals           Mon 23rd Jun      
                          On New Wortley     

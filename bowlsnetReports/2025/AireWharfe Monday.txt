@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Mon 23rd Jun)
+=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Tue 24th Jun)
 === League Match Cards
 
        Division 1                Mon 7th Apr        
@@ -236,7 +236,7 @@ Tom Barnes             21 Gail Singh             16
 Barbara Brook          11 Nigel Buckley          21 
 Alan Wood              18 Les Schofield          21 
 Stephen Turner         21 Ian Smith              14 
-Chris Dickerson        12 Shaun Johnson          21 
+Chris Dickerson        12 Shaun Johnson 'A'      21 
            Aggregate: 168            Aggregate: 172 
                Games:   5                Games:   5 
               Points:  14               Points:  16 
@@ -790,7 +790,7 @@ Brian Teale            21 Duncan Reeves          15
 Marie Drysdale         16 Simon Cowley 'A'       21 
 Michael Littlejohn     21 Keith Bond              9 
 Robert Hartley         21 Mike Ripley            16 
-Patricia Sedman        19 Shaun Johnson          21 
+Patricia Sedman        19 Shaun Johnson 'A'      21 
 David Poucher          12 Gwen Smith 'A'         21 
 Michael Mitchell       21 Gail Singh             11 
 Maureen Poucher        21 Gary Skeet             14 
@@ -1115,7 +1115,7 @@ Ian Smith               9 Tim Nicholson 'A'      21
 Gail Singh             21 Allen Hardcastle        8 
 Gwen Smith 'A'         13 Paul Bullock           21 
 Simon Cowley 'A'       21 Ian Robertson'A'        5 
-Shaun Johnson          21 James Greenwood        19 
+Shaun Johnson 'A'      21 James Greenwood        19 
 Amrik Singh            21 Robert North           10 
            Aggregate: 171            Aggregate: 148 
                Games:   6                Games:   4 
@@ -1771,7 +1771,7 @@ Jonathan Duke          21 Keith Bond              7
 Richard Lonsdale       21 Gary Skeet              9 
 Patricia Allison       21 Simon Cowley 'A'       18 
 Brian Tempest          21 Nigel Buckley          18 
-Chris Womersley        21 Shaun Johnson          15 
+Chris Womersley        21 Shaun Johnson 'A'      15 
 John Greenwood         21 Amrik Singh            19 
            Aggregate: 194            Aggregate: 131 
                Games:   9                Games:   1 
@@ -2042,7 +2042,7 @@ Nigel Buckley          21 Ruth Sutcliffe         18
 Laurie Robinson 'A'    21 Keith Barran           17 
 Ian Smith              21 Frank Sutcliffe        12 
 Jim Hughes             14 Kath Crompton          21 
-Shaun Johnson          20 Paul Stoyles           21 
+Shaun Johnson 'A'      20 Paul Stoyles           21 
 Gail Singh             21 Phillip Clayton        17 
 Amrik Singh            12 Nigel Stockdale 'A'    21 
            Aggregate: 188            Aggregate: 184 
@@ -2364,7 +2364,7 @@ Cliff Brogie           21 Keith Bond              6
 Andy Waller            21 Gail Singh             13 
 Joey Broadbent         21 Laurie Robinson 'A'     5 
 Malvin Miller           9 Amrik Singh            21 
-Paul Bowes             21 Shaun Johnson          19 
+Paul Bowes             21 Shaun Johnson 'A'      19 
            Aggregate: 198            Aggregate: 125 
                Games:   9                Games:   1 
               Points:  27               Points:   3 
@@ -2633,7 +2633,7 @@ Raymond Dalton          7 Philip Jackson         21
 Keith Bond             11 Marlene Waite-Pullan   21 
 Nigel Buckley          21 Philip Leadbeater       9 
 Laurie Robinson 'A'    21 Ray Weldrand            4 
-Shaun Johnson          21 George McLaren         10 
+Shaun Johnson 'A'      21 George McLaren         10 
 Simon Cowley 'A'       21 Terry Waite-Pullan     10 
 Gail Singh             19 Allan Sample           21 
 Amrik Singh            21 John Collins           10 
@@ -2814,17 +2814,17 @@ Brian Teale             2 Jamie Cunningham 'A'   21
      WHEATLEY TROPHY            Mon 23rd Jun        
         Ilkley B                 Guiseley B         
 Allan Hughes           10 Graham Oliver          21 
-Andrew Cook             7 James Teale            21 
+Andrew Cook            21 James Teale             0 
 Alison Wailes          18 Andy Baxter            21 
 Denise Almond          17 Jeremy Jones           21 
 Clive Swan             21 Carolyn Matthewman     11 
 Alex Watson            13 Andrew Durkin          21 
-Steve Birch            20 Billy Cater            21 
+Steve Birch            21 Billy Cater             0 
 Terry Almond           21 Roger Waite            18 
 Steven Senior          21 Colin Matthewman       14 
 Robert Garth           14 Bob Jeffrey            21 
             Handicap: +30             Handicap: +32 
-           Aggregate: 192            Aggregate: 222 
+           Aggregate: 207            Aggregate: 180 
 
      WHEATLEY TROPHY            Mon 23rd Jun        
        Grove Hill                 Pudsey A          
@@ -2897,9 +2897,9 @@ Bruce Callard           8 Christopher Wheeler    21
 David Ascough          11 Richard Kellett        21 
 Kath Crompton          21 Pete Thornton          20 
 Phillip Clayton        20 John Hardisty          21 
-Nigel Stockdale 'A'    13 Robert Wheeler         21 
+Nigel Stockdale 'A'    21 Robert Wheeler          0 
             Handicap:  +2             Handicap: +16 
-           Aggregate: 140            Aggregate: 211 
+           Aggregate: 148            Aggregate: 190 
 
      CARLISLE SHIELD            Mon 23rd Jun        
         Menston A                   Salts           
@@ -2908,7 +2908,7 @@ Keith Bond              4 Lek Fletcher           21
 Raymond Dalton         21 John French            12 
 Gwen Smith 'A'         13 John Greenwood         21 
 Gail Singh             21 Patricia Allison       20 
-Shaun Johnson          21 Thomas Kilerminster     9 
+Shaun Johnson 'A'      21 Thomas Kilerminster     9 
 Laurie Robinson 'A'     6 Chris Womersley        21 
 Ian Smith              21 Stephen Crossley        8 
 Nigel Buckley          21 Jonathan Duke           9 
@@ -2930,6 +2930,36 @@ Andy Waller            21 Geoff Winter           14
 Neil Porter            21 Christine Asquith       4 
             Handicap: +10             Handicap: +36 
            Aggregate: 220            Aggregate: 130 
+
+     CARLISLE SHIELD            Mon 23rd Jun        
+         Baildon                Greenbottom B       
+Malcolm Watts          21 Michael Peel           15 
+Rae Heddle             14 Linda Summers          21 
+Maureen Kitson         14 Allan Jukes            21 
+Linda Bakes            19 Anne Raw               21 
+Joan Dean              21 Sandy Watson           17 
+John Tyson             13 Margaret Adamson       21 
+Dorothy Walker         21 Kate Jukes             12 
+Celia Throup           21 Bill Lovedale          13 
+Geoff Hanson           21 Elinor Newhouse        14 
+Jim Whittle            16 Trevor Dawson          21 
+            Handicap: +20             Handicap: +32 
+           Aggregate: 201            Aggregate: 208 
+
+     CARLISLE SHIELD            Mon 23rd Jun        
+       Myrtle Park             Wharfemeadows B      
+Barbara Brook          21 Lynne Harper           17 
+Maureen Wood           21 Gill Godden            17 
+Mike Wilson             7 Janet Warburton        21 
+Darren Armitage        21 Lorna Crabtree         13 
+Tom Barnes             21 Brenda Appleyard       11 
+Keith Brown            13 Jane Bowden            21 
+Martin Slater          14 Ray Smith Snr          21 
+Alan Wood              16 John Farquhar          21 
+Stephen Turner         20 Billy Hartley          21 
+Chris Dickerson        21 Malolm Levi             7 
+            Handicap: +18             Handicap: +24 
+           Aggregate: 193            Aggregate: 194 
 
 
 
