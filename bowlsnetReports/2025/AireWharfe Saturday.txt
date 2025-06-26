@@ -159,6 +159,20 @@ John Egan                   17 Annie Kearns                21
                 Aggregate: 149                 Aggregate: 118 
                    Points:  19                    Points:   9 
 
+          Division 4                    Sat 5th Apr           
+           Salts B                     Yeadon Park B          
+Jim Philipson                7 Shirley Nicholson           21 
+Brian Denning               21 Lynne Myers                 18 
+Ben Parker                  21 Sandra Taylor               14 
+Jeffrey Driver              21 Catherine Smalley           15 
+Patricia Allison            21 Joan Baker                  18 
+Lee Matthews                11 Christine Scott             21 
+Amanda Driver                3 Julie Watson                21 
+Maureen Adams               21 Allen Hardcastle            15 
+                    Games:   5                     Games:   3 
+                Aggregate: 126                 Aggregate: 143 
+                   Points:  13                    Points:  15 
+
            Premier                      Sat 12th Apr          
          Sutton Park                Skipton Broughton A       
 Tony Beeden                 21 Tracy Harrison 'A'           5 
@@ -676,6 +690,22 @@ Andy Matthews               21 Michael Upton 'A'           10
                    Points:  20                    Points:  10 
 
           Division 1                    Sat 17th May          
+           Salts A                     Shipley Club A         
+Philip Peel                 20 Andrew Walker               21 
+Dennis Thorpe               15 Myra Humpleby               21 
+John Greenwood'A'           21 Kevin Cullerton             13 
+David Bottomley 'A'         21 Bernard Criddle             18 
+Thomas Kilerminster         21 Scott Ker                   19 
+Cindy Rapinczuk             21 James Welsh                  9 
+Chris Womersley 'A'         21 Paul Colman                  9 
+Lek Fletcher                21 Sylvia Halliday              5 
+Brian Tempest               13 Peter Mountain 'A'          21 
+Richard Lonsdale 'A'        21 David Dorman                11 
+                    Games:   7                     Games:   3 
+                Aggregate: 195                 Aggregate: 147 
+                   Points:  22                    Points:   8 
+
+          Division 1                    Sat 17th May          
             Idle A                        Ilkley B            
 Valerie Riley               21 Eddie Wray 'Ab'             20 
 Alan Sinfield 'A'           21 Sue Emerson                  9 
@@ -956,6 +986,22 @@ Paul Stoyles                15 Alex Watson'Ab'             21
                     Games:   3                     Games:   7 
                 Aggregate: 147                 Aggregate: 171 
                    Points:  10                    Points:  20 
+
+          Division 1                    Sat 7th Jun           
+           Salts A                     Low Harrogate          
+Chris Womersley 'A'         21 Chris Robson                10 
+Cindy Rapinczuk             21 Geoff Jones                 16 
+Steve Crossley              21 Cath Patrick                11 
+Richard Lonsdale 'A'        21 Alan Scorfield              10 
+Lek Fletcher                17 Chris Olding                21 
+Thomas Kilerminster         21 David Hughan                 7 
+John Greenwood'A'           21 Graham Patrick              15 
+David Bottomley 'A'         21 Ian Jarratt                 11 
+Philip Peel                 21 Marion Frayne                9 
+Martin Sherred              11 Peter Syson                 21 
+                    Games:   8                     Games:   2 
+                Aggregate: 196                 Aggregate: 131 
+                   Points:  25                    Points:   5 
 
           Division 1                    Sat 7th Jun           
         Myrtle Park A                  Shipley Club A         

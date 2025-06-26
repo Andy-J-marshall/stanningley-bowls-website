@@ -31,10 +31,10 @@ export const leagues = [
     day: "Mirfield",
     url: "/Mirfield",
   },
-  // {
-  //   day: "Spen Valley",
-  //   url: "/WestRiding",
-  // },
+  {
+    day: "Spen Valley",
+    url: "/WestRiding",
+  },
   {
     day: "Ossett and Horbury",
     url: "/Ossett",
