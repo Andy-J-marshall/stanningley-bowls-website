@@ -7,6 +7,10 @@ files_to_update = [
         "input_file": "bowlsnetReports/2025/AireWharfe Wednesday Pairs Cup.txt",
         "output_file": "bowlsnetReports/2025/AireWharfe Wednesday Pairs.txt",
     },
+    {
+        "input_file": "bowlsnetReports/2025/West Riding Cup.txt",
+        "output_file": "bowlsnetReports/2025/Spen Valley.txt",
+    },
 ]
 
 for file_pair in files_to_update:

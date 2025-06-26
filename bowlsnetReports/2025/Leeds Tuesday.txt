@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday) 2025 (as of Tue 24th Jun)
+=== Leeds & District (Tuesday) 2025 (as of Thu 26th Jun)
 === League Match Cards
 
       Division 1            Tue 8th Apr       
@@ -1669,9 +1669,9 @@ Paul Shackleton     21 Darran Baker        20
   Chapel Allerton A       Sth Leeds Cons A    
 Matthew Watson      21 Gavin Johns         20 
 David Burke         14 Mark Raistrick      21 
-Dave Hill           21 Julie Cavalli       16 
-Steve Bird           8 Monica Adams        21 
-Colin Wilson        16 Reece Pratt         21 
+Dave Hill           21 Monica Adams        16 
+Steve Bird           8 Reece Pratt         21 
+Colin Wilson        16 Julie Cavalli       21 
 Mandy Wilson        21 Chloe Grant         18 
 Royce Jackson       16 Joe Adams           21 
 Steven Bottomley    21 Tim Newton          10 
