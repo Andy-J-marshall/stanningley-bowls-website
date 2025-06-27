@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Thu 26th Jun)
+=== Ossett & Horbury 2025 (as of Fri 27th Jun)
 === League Match Cards
 
          Division 3                   Tue 8th Apr          
@@ -2824,6 +2824,42 @@ Richard Crowther          21 Andy Mitchell               6
               Aggregate: 141                Aggregate: 108 
 
       Premier Division               Thu 26th Jun          
+      Skelmanthorpe A                Smirthwaite A         
+Chris Kelly               21 Martin Shepherd             5 
+Jack Dyson                21 David Robson                4 
+Ashley Daykin             21 Leigh Measham               2 
+Graham Hickey             21 G Gidman                   14 
+Josh Brown                21 Colin Bradley               8 
+Nick White                21 Peter Farrar               10 
+Harry Lumb                16 Craig Newton               21 
+Mark Booth                21 Marc Armitage              19 
+              Aggregate: 163                Aggregate:  83 
+
+      Premier Division               Thu 26th Jun          
+          Sandal A                 Hanging Heaton A        
+James Davison             21 Chris Mordue                8 
+James Hanson              21 Pam Lindley                 8 
+Craig Hopwood             19 David Armitage             21 
+Darren Pitchforth         21 Roger Birdsall             13 
+Ian Shuttleworth          21 Mason Lindley              13 
+Kristian Shuttleworth     21 Jonathan Orbell            17 
+Leighton Shuttleworth     21 Malcolm Preston             7 
+Ben Sweeney               21 Simon Metcalfe             11 
+              Aggregate: 166                Aggregate:  98 
+
+      Premier Division               Thu 26th Jun          
+      Castleford Town               Ossett C & AC A        
+Calum Fennell             21 Nigel Miller               16 
+Daniel Revell             21 Chris Nuttall              11 
+Dean Hopwood              21 Robert Dunford             20 
+Mark Brain                21 Noel Whitaker              20 
+Robert McGuire            19 Oscar Scott-Parker         21 
+S Williams                21 Sam Beresford              16 
+K Siddle                  21 Joshua Dunford             18 
+Robert Lloyd              19 Mick Scott                 21 
+              Aggregate: 164                Aggregate: 143 
+
+      Premier Division               Thu 26th Jun          
           Rothwell                     Sandal B            
 Thomas Scorah             21 Andrew Evison              15 
 Gareth Lally              21 Martin Eley                15 
@@ -2860,6 +2896,18 @@ Mark Bramall              21 R Clarkson                 20
               Aggregate: 167                Aggregate: 114 
 
          Division 1                  Thu 26th Jun          
+      Ossett C & AC B               Denby Grange A         
+Peter Lamb                21 Paul Mottram               10 
+Andrew Callaghan          21 Charlie Fisher             17 
+Martin Cross              20 Danny Walker               21 
+Laurie Woodlock            7 David Fisher               21 
+Chris Goodwin             21 Neil Broadhead              9 
+Graeme Eyre               12 Scott Fisher               21 
+Mel Whitaker              19 Danny Towning - Smith      21 
+Stuart Daniel             14 Mortimer Ray               21 
+              Aggregate: 135                Aggregate: 141 
+
+         Division 1                  Thu 26th Jun          
         Morton House                West Bretton A         
 John Leach                21 Ian Fisher                 12 
 Wayne Kemp                21 Richard Stead              10 
@@ -2882,6 +2930,18 @@ Lee Barrett               21 Roy Carter                 13
 Zak Bond                  17 Jon Edmondson              21 
 Andy Hoult                21 Darren Goodall              6 
               Aggregate: 147                Aggregate: 136 
+
+         Division 2                  Thu 26th Jun          
+        Horbury WMC                Pudsey Littlemoor       
+Phillip Dunnill           21 Nathan Dobson              18 
+John Stokes                7 Alex Wolfenden             21 
+John Shaw                 21 Nichole Farrar             12 
+Adrian Smart              21 Lee Wider                  19 
+A Clarkson                18 Mark Dobson                21 
+S Crummack                19 Fern Beaumont              21 
+David Purssell            21 Mark Allman                10 
+David Horan               12 Matthew Leaf               21 
+              Aggregate: 140                Aggregate: 143 
 
          Division 2                  Thu 26th Jun          
        Wakefield BC A                Outwood WMC A         
@@ -2954,6 +3014,18 @@ Brian Beddow              21 Dave Gordon                14
 Jim Liversidge             9 Philip Berry               21 
 Rob Taylor                13 Jenny Berry                21 
               Aggregate: 130                Aggregate: 135 
+
+         Division 3                  Thu 26th Jun          
+       Denby Grange B               Ossett C & AC C        
+Graham Blythe             21 Connor Dunford             12 
+Malcolm Brown             21 Karen Kellett              19 
+Ian Davis                 21 Bryan Collier              13 
+Keeling Ben               14 Svajunas Kapitan           21 
+Chris Nicholson           21 Alison Sykes                7 
+Chris Shires              21 Stephen Briggs              9 
+Bryan Thomas              12 John Kellett               21 
+David Wright              21 Linda Callaghan            15 
+              Aggregate: 152                Aggregate: 117 
 
          Division 4                  Thu 26th Jun          
        Clayton West B                  Stanley A           
@@ -3050,5 +3122,17 @@ Khalid Mahmood            18 Derek Hawes                21
 James Holland             14 Sam Ascough                21 
 R Stables                  9 Phillip Dunnill            21 
               Aggregate: 112                Aggregate: 145 
+
+         Division 5                  Thu 26th Jun          
+      Ossett C & AC D               Skelmanthorpe C        
+Nora Collier              21 Elaine Long                19 
+Alan Nash                 21 Cerise Booth                6 
+John Kennelly             21 Pamela Roys                10 
+Sharon Scholey            21 Julie Hardy                13 
+Stewart Widdrington        2 Kevin Booth                21 
+David Clarkson            21 Keith Jagger               14 
+Pauline Clarkson          20 Trevor Brook               21 
+Terence Fletcher          21 John Kitching              18 
+              Aggregate: 148                Aggregate: 122 
 
 
