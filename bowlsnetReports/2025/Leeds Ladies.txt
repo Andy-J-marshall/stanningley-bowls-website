@@ -1,4 +1,4 @@
-=== Leeds & District Ladies Bowling League 2025 (as of Thu 26th Jun)
+=== Leeds & District Ladies Bowling League 2025 (as of Fri 27th Jun)
 === League Match Cards
 
         League               Thu 17th Apr       
@@ -965,6 +965,19 @@ Kay Lodge            21 Carolyn Matthewman   15
 
         League               Thu 26th Jun       
       Division 1                                
+      Eccleshill              Greenbottom       
+Debbi Davies         21 Fiona Haxby          13 
+Diane Emery          21 Jean Lees             7 
+Paula Graham         21 Anne Raw              7 
+Jan Smith            12 Gwen Smith           21 
+Sarah Harrison       21 Kate Jukes           10 
+Pauline Gilroy       21 Barbara Harrison     13 
+Sue Butler           21 Sandy Watson         13 
+Shirley Rooks        10 Karen Whitelaw       21 
+         Aggregate: 148          Aggregate: 105 
+
+        League               Thu 26th Jun       
+      Division 1                                
      Shipley Club              Calverley        
 Vanessa Telford       4 Margaret Wood        21 
 Dianne Halliday      21 Pamela Barlow        13 
@@ -1001,5 +1014,44 @@ Sophie Worrall       21 Christine Scott      10
 Emma Dixon           21 *A.N.Other*           9 
 Barbara Taylor       21 Susan Whelan          7 
          Aggregate: 148          Aggregate: 120 
+
+        League               Thu 26th Jun       
+      Division 2                                
+       Rufford B               West Royd        
+Lynsey Gregson       21 Caroline Coop        12 
+Aileen Waite         21 Joan Coop            14 
+Gabby Parker         21 Anne Gothard         13 
+Tracey Whitaker      17 Jan Mguiness         21 
+Cora Dove            16 Sandra Knell         21 
+Sally Clarke         21 Pam Wilson           11 
+Sheila Hudson        21 Hazel Stancliffe     11 
+Kirsten Clapham      21 Elizabeth Farrar     13 
+         Aggregate: 159          Aggregate: 116 
+
+        League               Thu 26th Jun       
+      Division 2                                
+       Guiseley                Hall Park        
+Doreen Lawson        13 Joyce Banks          21 
+Jean Perry           21 Ann Hibbit           16 
+Lynne Ogden          21 Sheila Stevenson      2 
+Julie Stead          13 Ruth Owen            21 
+Lynette Hall         15 Suzanne Henshall     21 
+Anne Brown           14 Kath Crompton        21 
+Christine Fountain    4 Sabrina Piggot       21 
+Caroline Corbett     21 Ruth Sutcliffe       17 
+         Aggregate: 122          Aggregate: 140 
+
+        League               Fri 27th Jun       
+      Division 2                                
+      Stanningley             New Farnley       
+Linda Barrand        21 Lynda Ward            4 
+Louise Roberts       21 Cath Maury           15 
+Laila Packer          6 Catherine Crane      21 
+Mary Spears          11 Linda Taylor         21 
+Nicola Bona           8 Barbara Taylor       21 
+Alyssa Randell       21 Pat Skelton          11 
+Tracey Marshall      19 Emma Dixon           21 
+Karen Uttley          5 Sophie Worrall       21 
+         Aggregate: 112          Aggregate: 135 
 
 
