@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Fri 27th Jun)
+=== Bradford (Saturday) 2025 (as of Sat 28th Jun)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -2832,5 +2832,21 @@ Steven Bussingham           6 Alan Farrow 'A'           21
                    Games:   5                   Games:   3 
                Aggregate: 140               Aggregate: 129 
                   Points:  17                  Points:  11 
+
+ Division 1 (Naylor Premier)          Fri 27th Jun         
+        Shipley Club                   Guiseley A          
+Neil Simpson               17 Andy Wood                 21 
+Graeme Dytiche 'A'         21 James Teale               17 
+Craig Fenton               11 Thomas Cater              21 
+John Sample                 6 Luke Teale                21 
+Matthew Jacques 'A'        21 Bob Jeffrey               17 
+Scott Bloodworth           21 Joe Stockdale              9 
+Chris Jacques              21 Graham Oliver 'A'         14 
+Daniel Metcalfe            21 Ben Stockdale              4 
+David Bland                10 Daniel Teale              21 
+Andrew Walker              21 Kevin Siddle              19 
+                   Games:   6                   Games:   4 
+               Aggregate: 170               Aggregate: 164 
+                  Points:  17                  Points:  13 
 
 
