@@ -268,16 +268,16 @@
             }
         },
         "richard hodgson": {
-            "totalAgg": 399,
-            "totalAggAgainst": 310,
-            "availableAgg": 420,
-            "availablePairsAgg": 0,
+            "totalAgg": 419,
+            "totalAggAgainst": 331,
+            "availableAgg": 441,
+            "availablePairsAgg": 21,
             "availableHomeAgg": 210,
             "availableAwayAgg": 168,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
-            "totalPairsAgg": 0,
-            "totalPairsAggAgainst": 0,
+            "totalPairsAgg": 20,
+            "totalPairsAggAgainst": 21,
             "totalHomeAgg": 210,
             "totalHomeAggAgainst": 122,
             "totalPairsHomeAgg": 0,
@@ -291,17 +291,18 @@
             "awayWins": 3,
             "awayLosses": 5,
             "cupWins": 2,
-            "cupLosses": 0,
+            "cupLosses": 1,
             "pairWins": 0,
-            "pairLosses": 0,
+            "pairLosses": 1,
             "pairHomeWins": 0,
             "pairHomeLosses": 0,
             "pairAwayWins": 0,
             "pairAwayLosses": 0,
             "pairCupWins": 0,
-            "pairCupLosses": 0,
-            "totalGamesPlayed": 20,
+            "pairCupLosses": 1,
+            "totalGamesPlayed": 21,
             "results": [
+                "richard hodgson & thomas hanson 20 - 21 kevin siddle & nick bastow",
                 "richard hodgson 21 - 12 david pike",
                 "richard hodgson 21 - 16 catherine new",
                 "richard hodgson 21 - 13 linda yates",
@@ -324,9 +325,9 @@
                 "richard hodgson 21 - 12 graham gaunt"
             ],
             "airewharfe monday": {
-                "games": 0,
+                "games": 1,
                 "wins": 0,
-                "aggDiff": 0
+                "aggDiff": -1
             },
             "airewharfe monday (b)": {
                 "games": 9,
@@ -405,16 +406,16 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 439,
-            "totalAggAgainst": 438,
-            "availableAgg": 546,
-            "availablePairsAgg": 0,
+            "totalAgg": 460,
+            "totalAggAgainst": 457,
+            "availableAgg": 567,
+            "availablePairsAgg": 21,
             "availableHomeAgg": 273,
             "availableAwayAgg": 252,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
-            "totalPairsAgg": 0,
-            "totalPairsAggAgainst": 0,
+            "totalPairsAgg": 21,
+            "totalPairsAggAgainst": 19,
             "totalHomeAgg": 240,
             "totalHomeAggAgainst": 201,
             "totalPairsHomeAgg": 0,
@@ -427,18 +428,19 @@
             "homeLosses": 3,
             "awayWins": 5,
             "awayLosses": 7,
-            "cupWins": 0,
+            "cupWins": 1,
             "cupLosses": 1,
-            "pairWins": 0,
+            "pairWins": 1,
             "pairLosses": 0,
             "pairHomeWins": 0,
             "pairHomeLosses": 0,
             "pairAwayWins": 0,
             "pairAwayLosses": 0,
-            "pairCupWins": 0,
+            "pairCupWins": 1,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 26,
+            "totalGamesPlayed": 27,
             "results": [
+                "stewart watson & ian shaw 21 - 19 james teale & graham oliver",
                 "stewart watson 21 - 12 terri durrans",
                 "stewart watson 21 - 15 philip sykes",
                 "stewart watson 21 - 13 melissa gilroy",
@@ -467,9 +469,9 @@
                 "stewart watson 21 - 18 mick angus"
             ],
             "airewharfe monday": {
-                "games": 0,
-                "wins": 0,
-                "aggDiff": 0
+                "games": 1,
+                "wins": 1,
+                "aggDiff": 2
             },
             "airewharfe monday (b)": {
                 "games": 8,
@@ -549,6 +551,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "28/06/2025",
+    "lastUpdated": "29/06/2025",
     "statsYear": "2025"
 }

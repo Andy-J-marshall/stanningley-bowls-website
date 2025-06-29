@@ -1,4 +1,4 @@
-=== Leeds & District (Saturday) 2025 (as of Sat 28th Jun)
+=== Leeds & District (Saturday) 2025 (as of Sun 29th Jun)
 === League Match Cards
 
    Saturday League          Sat 5th Apr       
@@ -1515,5 +1515,19 @@ Sandra Deegan       19 Philip Rowe         21
 Daphne Scott        12 Ian Dickinson       21 
         Aggregate: 157         Aggregate:  89 
            Points:  36            Points:  17 
+
+   Saturday League          Sat 28th Jun      
+     League Div 2                             
+     New Armley B           Gildersome B      
+Josie Burdon        21 Rachel Barnard      20 
+Maureen Morris      21 Michael Ross        12 
+Anne Gothard        10 Helen Thomas        21 
+Alan Taylor          9 John Ackroyd        21 
+David Gregory       13 Neil Schofield      21 
+Jonathan Kaye       21 David Holmes        15 
+Howard Gothard       6 Alan Procter        21 
+David Hurd          11 Tony Morris         21 
+        Aggregate: 112         Aggregate: 152 
+           Points:  23            Points:  34 
 
 

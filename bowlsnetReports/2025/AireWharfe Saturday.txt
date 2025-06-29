@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Saturday) 2025 (as of Sat 28th Jun)
+=== AireDale & Wharfedale (Saturday) 2025 (as of Sun 29th Jun)
 === League Match Cards
 
            Premier                      Sat 5th Apr           
@@ -112,6 +112,22 @@ John Patrick 'A'            14 Chris Sims 'A'              21
                     Games:   6                     Games:   4 
                 Aggregate: 194                 Aggregate: 170 
                    Points:  19                    Points:  11 
+
+          Division 2                    Sat 5th Apr           
+        Greenbottom A               Skipton Broughton B       
+Jack Beck                    7 Peter Finnie                21 
+Elinor Newhouse             13 Robert Ellis                21 
+Mike Whitelaw               18 David Precious              21 
+Dave Whelan                  8 Keith Moore                 21 
+Janice Waite                21 Peter Peacock               10 
+Stan Marsden                17 Brian Gore                  21 
+Anita Kingham               21 David Gordon                13 
+Brian Hall 'A'               6 Sue Finnie                  21 
+Ann Ryley 'A'               19 Joanne Ellis                21 
+Karen Whitelaw              12 Richard Baker               21 
+                    Games:   2                     Games:   8 
+                Aggregate: 142                 Aggregate: 191 
+                   Points:   7                    Points:  23 
 
           Division 2                    Sat 5th Apr           
          Bingley Glen                    Wayside B            
@@ -1020,6 +1036,20 @@ Brian Denning               21 Alan Jukes                   9
                    Points:  23                    Points:   5 
 
           Division 4                    Sat 19th Apr          
+       Wharfemeadows C                  Grove Hill B          
+Janet Warburton              9 Andrew Wilson               21 
+Lorna Crabtree              17 Billy Hartley               21 
+Jeff Appleyard              21 Margaret Atkinson            9 
+Barbara Taylor              21 Dot Dixon                   15 
+Noreen Jordan               11 Nancy Marston               21 
+Sandra Tiffany              21 John Farquhar               11 
+Susan Ward                  21 Alan Driffield              16 
+Gerry Harper                21 Peter Brearley              17 
+                    Games:   5                     Games:   3 
+                Aggregate: 142                 Aggregate: 131 
+                   Points:  17                    Points:  11 
+
+          Division 4                    Sat 19th Apr          
             Adel B                         Idle C             
 Phil Hayward                14 Sylvia Davies               21 
 Gordon Robinson             21 Ann Miles Turner            18 
@@ -1032,6 +1062,20 @@ Graham Clough               21 Ken Walker                  19
                     Games:   4                     Games:   4 
                 Aggregate: 134                 Aggregate: 154 
                    Points:  12                    Points:  16 
+
+          Division 4                    Sat 19th Apr          
+    Burley in Wharfedale C               Menston B            
+Ian Stansfield              16 Geoff Winter                21 
+Gavin Blessington           21 Joyce Bishop                15 
+Stephen Holliday             8 Barbara Harrison            21 
+Marjorie Sergeant            7 Monty Navias                21 
+Jayne O'Connor               9 Margaret Ripley             21 
+Michael Littlejohn          21 Peter Gaston                16 
+Heather Littlejohn          16 Stuart Davies               21 
+Michael Turp                16 Mike Ripley                 21 
+                    Games:   2                     Games:   6 
+                Aggregate: 114                 Aggregate: 157 
+                   Points:   7                    Points:  21 
 
           Division 4                    Sat 19th Apr          
         Yeadon Park B                  Myrtle Park C          
@@ -1142,6 +1186,22 @@ Brian Tempest               21 Derek Bridge                11
                    Points:  24                    Points:   6 
 
           Division 2                    Sat 26th Apr          
+     Skipton Broughton B                Bingley Glen          
+Joanne Ellis                21 Malcolm Pitt                 9 
+Keith Moore                 21 Margaret Tetley              6 
+Peter Finnie                21 John Kershaw                 5 
+Peter Peacock               16 Andrew Wilson               21 
+David Precious              21 Dennis Tetley               16 
+Michael Cox                 21 Anthony Leach               13 
+Sue Finnie                  21 Julie Craft                  4 
+Brian Gore                  21 Philip Kay                  12 
+David Gordon                21 Graham Summers              12 
+Robert Ellis                21 Steven Porritt               7 
+                    Games:   9                     Games:   1 
+                Aggregate: 205                 Aggregate: 105 
+                   Points:  29                    Points:   1 
+
+          Division 2                    Sat 26th Apr          
           Wayside B                    Bilton Dragon          
 Stuart Whitehouse           21 Nick Bahado                  4 
 Hayden Whitehouse           21 Janet Mudd                  16 
@@ -1220,6 +1280,22 @@ Jim Whittle                 14 Clifford Wheatley           21
                     Games:   5                     Games:   5 
                 Aggregate: 183                 Aggregate: 175 
                    Points:  16                    Points:  14 
+
+          Division 3                    Sat 26th Apr          
+         Holt Park B                       Idle B             
+Colin Chadwick              21 Judith Turner'Ab'           20 
+Lois Horsfall               21 David Priestley             15 
+Mark Swindlehurst           21 Tekla England               15 
+Michelle Norcliffe           7 David Turner 'Ab'           21 
+Pat Penman                  18 Ann Muggeridge              21 
+Jeff Taylor                 12 Mark Paxton 'Ab'            21 
+Kathleen Haley              15 Jacqueline Spencer          21 
+Terry Cook                  16 John Coppin                 21 
+Trevor Haley                16 Linda Brandon               21 
+Raymond Boast               13 Trevor Turner'Ab'           21 
+                    Games:   3                     Games:   7 
+                Aggregate: 160                 Aggregate: 197 
+                   Points:   9                    Points:  21 
 
           Division 3                    Sat 26th Apr          
         Shipley Club B                Wharfemeadows B         
@@ -1352,6 +1428,22 @@ Andrew Lancaster            21 Terry Williams              11
                     Games:   7                     Games:   1 
                 Aggregate: 158                 Aggregate:  77 
                    Points:  26                    Points:   2 
+
+           Premier                      Sat 3rd May           
+     Skipton Broughton A                 Black Swan           
+Stuart Wrigley              21 Suzane Mitchell             11 
+Mick Duke                    8 Tom Beecroft                21 
+Tracy Harrison 'A'          21 Martin Hemingway            16 
+Daniel Moore 'A'            21 Dave Kinder                  6 
+Darrell Gore                21 Alan Whittaker              14 
+Paul Kaye                   21 *No Player*                  0 
+Viv Abell                   20 Richard Hebblewhite         21 
+James Cokell                21 Roy Flynn                   13 
+Richard Baker               21 Keith Agars                 12 
+David Leeming'A'            19 Tony Derrick                21 
+                    Games:   7                     Games:   3 
+                Aggregate: 194                 Aggregate: 135 
+                   Points:  23                    Points:   7 
 
            Premier                      Sat 3rd May           
            Rawdon A                     Sutton Park           
@@ -2098,6 +2190,22 @@ Roger French                21 Keith Agars                  4
                    Points:  12                    Points:  18 
 
            Premier                      Sat 24th May          
+     Skipton Broughton A           Burley in Wharfedale A     
+Paul Kaye                   21 Richard Kellett             11 
+Matt Carter                 21 Roy Knowles 'A'             17 
+Tracy Harrison 'A'          15 Ben Ullock                  21 
+Daniel Moore 'A'            21 Mark Ullock 'A'             16 
+Mick Duke                   21 Anthony Postlethwaite 'Ab'  12 
+David Leeming'A'            21 Brian Wheeler'A'            11 
+Darrell Gore                17 Pete Thornton               21 
+Cath Rushton                 9 Joe Ullock                  21 
+Stuart Wrigley              21 Alan Goodenough              8 
+Kevin Burnett               21 Andrew Shaw'A'               7 
+                    Games:   7                     Games:   3 
+                Aggregate: 188                 Aggregate: 145 
+                   Points:  22                    Points:   8 
+
+           Premier                      Sat 24th May          
          Sutton Park                   Meanwood Park          
 Kevin Mackie                21 Tina Howard                  8 
 Tony Beeden                 10 Simon Walder                21 
@@ -2424,6 +2532,20 @@ Susan Ward                  18 Roger Morgan-Williams       21
                     Games:   4                     Games:   4 
                 Aggregate: 128                 Aggregate: 134 
                    Points:  13                    Points:  15 
+
+          Division 4                    Sat 24th May          
+        Myrtle Park C                    Menston B            
+Barbara Smith               21 Mike Ripley                 20 
+Cathy Hillam                21 Joyce Bishop                20 
+Keith Hillam                20 Jean Shepherd               21 
+Malcolm Smith               17 Peter Gaston                21 
+Susan Atherton              16 Geoff Winter                21 
+Nick Gilleard               21 Margaret Ripley              9 
+Keith Powell                10 Monty Navias                21 
+Monica Powell               21 Stuart Davies               10 
+                    Games:   4                     Games:   4 
+                Aggregate: 147                 Aggregate: 143 
+                   Points:  15                    Points:  13 
 
           Division 4                    Sat 24th May          
            Salts B                         Adel B             
@@ -2907,6 +3029,22 @@ Derek Pollard               21 Steve Cochrane               9
                 Aggregate: 156                 Aggregate: 162 
                    Points:  14                    Points:  16 
 
+           Premier                      Sat 14th Jun          
+           Rawdon A                 Skipton Broughton A       
+Dave Hill                   21 *No Player*                  0 
+Steven Spurr                21 Daniel Moore 'A'            20 
+Brian Hodgson                8 Mick Duke                   21 
+*No Player*                  0 Cath Rushton                21 
+Steve Bottomley             21 Stuart Wrigley              20 
+Ken Garbett'A'              21 Darrell Gore                13 
+Paul Haigh'A'               20 Tracy Harrison 'A'          21 
+*No Player*                  0 David Leeming'A'            21 
+David Johnson 'A'           21 James Cokell                13 
+Roger French                21 Matt Carter                 14 
+                    Games:   6                     Games:   4 
+                Aggregate: 154                 Aggregate: 164 
+                   Points:  15                    Points:  15 
+
           Division 1                    Sat 14th Jun          
          Holt Park A                   Myrtle Park A          
 Debbie Sandles              21 Michael Upton 'A'           18 
@@ -3234,6 +3372,22 @@ Michael Burnett             21 Robert Crowther              5
                    Points:  20                    Points:   8 
 
            Premier                      Sat 21st Jun          
+     Skipton Broughton A                 Menston A            
+Tracy Harrison 'A'          21 Nigel Buckley               17 
+Matt Carter                 21 David Jefferson             20 
+Stuart Wrigley              21 Ian Smith                   19 
+Paul Kaye                   21 Peter Hammond                6 
+Cath Rushton                21 Simon Cowley'A'              9 
+Mick Duke                   21 Amrik Singh                 13 
+Darrell Gore                21 Laurie Robinson'A'          16 
+Viv Abell                   21 Gail Singh                   6 
+James Cokell                21 Gwen Smith                   9 
+David Leeming'A'            15 Shaun Johnson 'A'           21 
+                    Games:   9                     Games:   1 
+                Aggregate: 204                 Aggregate: 136 
+                   Points:  26                    Points:   4 
+
+           Premier                      Sat 21st Jun          
            Ilkley A                    Meanwood Park          
 Andy Thornton'A'            21 Steve Longley               10 
 Steve Birch                 21 Neil Porter                  7 
@@ -3360,6 +3514,22 @@ Michael Upton 'A'           21 David Hughan                 9
                     Games:   5                     Games:   5 
                 Aggregate: 172                 Aggregate: 161 
                    Points:  17                    Points:  13 
+
+          Division 2                    Sat 21st Jun          
+           Starbeck                 Skipton Broughton B       
+Debbie Stockdale            12 Joanne Ellis                21 
+Brian Baldry                 3 Robert Ellis                21 
+Gerald Widnall               4 David Precious              21 
+John Somerville             14 Peter Finnie                21 
+Debbie Kilvington           13 Brian Gore                  21 
+Stephen Hastings             9 Sam Cotterill               21 
+Terry Mitton                14 David Gordon                21 
+Richard Armstrong           16 Keith Moore                 21 
+Simon Hoare                 21 Michael Cox                  6 
+Tony Hawkes                 21 Peter Peacock               16 
+                    Games:   2                     Games:   8 
+                Aggregate: 127                 Aggregate: 190 
+                   Points:   5                    Points:  25 
 
           Division 2                    Sat 21st Jun          
         Yeadon Park A                    Wayside B            

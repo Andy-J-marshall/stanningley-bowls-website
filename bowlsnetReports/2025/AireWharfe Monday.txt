@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Sat 28th Jun)
+=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Sun 29th Jun)
 === League Match Cards
 
        Division 1                Mon 7th Apr        
@@ -244,7 +244,7 @@ Chris Dickerson        12 Shaun Johnson 'A'      21
        Division 4                Mon 7th Apr        
         Calverley               Greenbottom B       
 Alan Horsfield         19 Trevor Dawson          21 
-Ann Townsley           19 Linda Summers          21 
+Anne Townsley          19 Linda Summers          21 
 Barry Briggs           16 Michael Peel           21 
 Clifford Wheatley      11 Anne Raw               21 
 Colin Whitley          21 Peter Raw              11 
@@ -1815,7 +1815,7 @@ Margaret Ripley        21 Barry Briggs           18
 Stuart Davies          21 Alan Horsfield         19 
 Christine Asquith       6 Norma Whiteley         21 
 Jim Hughes             21 Malcolm Pratt          11 
-Barbara Harrison       14 Ann Townsley           21 
+Barbara Harrison       14 Anne Townsley          21 
 Mike Ripley            20 Clifford Wheatley      21 
 Peter Gaston           21 Kenneth Paley          18 
 Monty Navias           21 Raymond Gambles        12 
@@ -2476,10 +2476,10 @@ John Armitage          21 Craig Wilkins          18
 Phil Vayro             21 Les Foster              8 
 Mark Allman            15 Ryan Tiler             21 
 Simon Wider            10 Richard Dunhill        21 
-Alexander Wolfenden    21 Richard Hargreaves      8 
-           Aggregate: 188            Aggregate: 141 
-               Games:   7                Games:   3 
-              Points:  22               Points:   8 
+*No Player*             0 Richard Hargreaves     21 
+           Aggregate: 167            Aggregate: 154 
+               Games:   6                Games:   4 
+              Points:  18               Points:  12 
 
        Division 1               Mon 16th Jun        
      Skipton Craven        Burley in Wharfedale A   
@@ -2534,7 +2534,7 @@ David Pike 'A'         21 Paul Crawford 'A'      10
 Ian Scott              21 Kath Mazurke            2 
 Lindsay Rosendale      21 Adam Wider              7 
 Ken Garbett            21 James Moorin           14 
-Gordon Longfellow       7 Alex Wolfendon         21 
+Gordon Longfellow       7 Alexander Wolfenden    21 
 Ian Tindal             21 Glen Merrick           16 
 Paul Haigh             21 Angela Carter          13 
 Dave Hill 'A'          10 Billy Swailes          21 
@@ -2976,6 +2976,51 @@ Stephen Turner         20 Billy Hartley          21
 Chris Dickerson        21 Malolm Levi             7 
             Handicap: +18             Handicap: +24 
            Aggregate: 193            Aggregate: 194 
+
+       Qtr-Finals               Sun 29th Jun        
+                           On Burley in Wharfedale  
+       Guiseley A                 Pudsey A          
+Nick Bastow            21 Thomas Hanson          20 
+Kevin Siddle              Richard Hodgson           
+James Teale            19 Stewart Watson         21 
+Graham Oliver             Ian Shaw 'A'              
+Carolyn Matthewman     17 Hannah Leaf            21 
+Colin Matthewman          Matthew Leaf              
+Billy Cater            21 Sam Hunak               7 
+Thomas Cater              David McDonald            
+Andrew Durkin          21 John Atkinson          12 
+Luke Teale 'A'            Janice Connaleigh         
+               Games:   3                Games:   2 
+
+       Qtr-Finals               Sun 29th Jun        
+                               On Yeadon Park       
+         Farsley                Eccleshill A        
+Ken Gilroy             21 Mick Angus 'A'         17 
+Bob Jeffrey               Sue Butler                
+Derek Pickering        21 Vincent Bussingham     13 
+Peter Crowther            Andrew Magoolagan         
+Peter Scott            21 Sarah Harrison          6 
+Neil Nicholson            Keith Harrison            
+Chris Hight            21 Pauline Gilroy         14 
+Duncan McPhail            Melissa Gilroy            
+David Smalley          11 Diane Emery            21 
+Stuart Brook              Ken Wilson                
+               Games:   4                Games:   1 
+
+       Qtr-Finals               Sun 29th Jun        
+                                 On Farsley         
+        Rufford A                  Baildon          
+Helen Gilroy           21 Richard Briggs          5 
+Val Grace                 Philip Clifton            
+Pauline Ingleson       21 Sue Farrell             9 
+Alex Waite                Jason Bridge              
+Tim Bennett 'A'        21 Andy Matthews           8 
+Catherine New             Alan Clements             
+Christopher Sims       21 Rae Heddle             18 
+Daniel Teale              Trevor Worsman            
+Ken Lee                21 Christine Ratcliffe    11 
+Glynn Goodyear            Jim Whittle               
+               Games:   5                Games:   0 
 
 
 
