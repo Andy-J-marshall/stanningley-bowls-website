@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Sun 29th Jun)
+=== Bradford (Saturday) 2025 (as of Mon 30th Jun)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -2585,8 +2585,8 @@ Steve Clamp                12 Gareth Metcalf            21
 
  Division 1 (Naylor Premier)          Sat 21st Jun         
           Whitkirk                    Littlemoor A         
-Phil Hill                   3 Alex Wolfenden            21 
-Bob Whitfield              21 Nathan Dobson 'A'         18 
+Phil Hill                  21 *No Player*                0 
+Bob Whitfield              21 *No Player*                0 
 Stan Elwell                19 Zinedine Ayub             21 
 Warren Wilson               5 Lewis Cooper              21 
 Tom Johnson                21 Lee Wider                 16 
@@ -2595,9 +2595,9 @@ Simon Cahill               15 Ben Falkingham            21
 Tony Green                 21 Mark Dobson               10 
 Andy Martinho              21 Will Bedford              17 
 Kris Walder                 7 Marc Armitage 'A'         21 
-                   Games:   4                   Games:   6 
-               Aggregate: 151               Aggregate: 187 
-                  Points:  10                  Points:  20 
+                   Games:   5                   Games:   5 
+               Aggregate: 169               Aggregate: 148 
+                  Points:  18                  Points:  12 
 
      Division 2 (Godwin)              Sat 21st Jun         
            Farsley                      Pudsey B           

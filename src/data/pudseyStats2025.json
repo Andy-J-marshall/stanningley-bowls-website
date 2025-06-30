@@ -406,25 +406,25 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 460,
-            "totalAggAgainst": 457,
-            "availableAgg": 567,
+            "totalAgg": 481,
+            "totalAggAgainst": 472,
+            "availableAgg": 588,
             "availablePairsAgg": 21,
-            "availableHomeAgg": 273,
+            "availableHomeAgg": 294,
             "availableAwayAgg": 252,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 21,
             "totalPairsAggAgainst": 19,
-            "totalHomeAgg": 240,
-            "totalHomeAggAgainst": 201,
+            "totalHomeAgg": 261,
+            "totalHomeAggAgainst": 216,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 193,
             "totalAwayAggAgainst": 216,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 10,
+            "homeWins": 11,
             "homeLosses": 3,
             "awayWins": 5,
             "awayLosses": 7,
@@ -438,7 +438,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 27,
+            "totalGamesPlayed": 28,
             "results": [
                 "stewart watson & ian shaw 21 - 19 james teale & graham oliver",
                 "stewart watson 21 - 12 terri durrans",
@@ -449,6 +449,7 @@
                 "stewart watson 10 - 21 carolyn matthewman",
                 "stewart watson 21 - 3 charles holden",
                 "stewart watson 6 - 21 duncan mcphail",
+                "stewart watson 21 - 15 philip thornton",
                 "stewart watson 10 - 21 andy swain",
                 "stewart watson 21 - 14 john lewis",
                 "stewart watson 6 - 21 dave fox",
@@ -474,9 +475,9 @@
                 "aggDiff": 2
             },
             "airewharfe monday (b)": {
-                "games": 8,
-                "wins": 6,
-                "aggDiff": 23
+                "games": 9,
+                "wins": 7,
+                "aggDiff": 29
             },
             "airewharfe vets": {
                 "games": 0,
@@ -551,6 +552,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "29/06/2025",
+    "lastUpdated": "30/06/2025",
     "statsYear": "2025"
 }

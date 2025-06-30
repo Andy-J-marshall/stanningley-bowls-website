@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Saturday) 2025 (as of Sun 29th Jun)
+=== AireDale & Wharfedale (Saturday) 2025 (as of Mon 30th Jun)
 === League Match Cards
 
            Premier                      Sat 5th Apr           
@@ -330,6 +330,20 @@ Ken Walker                  13 Mike Ripley                 21
                     Games:   4                     Games:   4 
                 Aggregate: 138                 Aggregate: 140 
                    Points:  13                    Points:  15 
+
+          Division 4                    Sat 5th Apr           
+            Adel B                     Myrtle Park C          
+Sue Pagdin                  21 Michael Czuba               13 
+Steve Richardson            12 Monica Powell               21 
+Christina Levy              21 Sylvia Jackson               6 
+Graham Clough               17 Ken Pollard                 21 
+Barbara Varley              11 Keith Powell                21 
+Philip Sykes                15 Barbara Smith               21 
+John Auty                   17 Nick Gilleard               21 
+Les Tugwell                 21 Malcolm Smith                9 
+                    Games:   3                     Games:   5 
+                Aggregate: 135                 Aggregate: 133 
+                   Points:  14                    Points:  14 
 
           Division 4                    Sat 5th Apr           
            Salts B                     Yeadon Park B          
@@ -703,6 +717,20 @@ Barry Slater                21 Meryl Auty                   8
                 Aggregate: 155                 Aggregate: 105 
                    Points:  21                    Points:   7 
 
+          Division 4                    Sat 12th Apr          
+        Myrtle Park C                     Salts B             
+Nick Gilleard               19 John Tillotson              21 
+Carol Royston               14 Patricia Allison            21 
+Malcolm Smith               12 Jonathan Duke               21 
+Michael Czuba               21 Brian Denning               14 
+Sylvia Jackson               7 Jeffrey Driver              21 
+Monica Powell               21 Vanda Greenwood             16 
+Susan Atherton               2 Maureen Adams               21 
+Barbara Smith               12 Thomas Kilerminster         21 
+                    Games:   2                     Games:   6 
+                Aggregate: 108                 Aggregate: 156 
+                   Points:   7                    Points:  21 
+
            Premier                      Sat 19th Apr          
           Menston A                     Sutton Park           
 Keith Bond                  11 David Cadwallader           21 
@@ -938,7 +966,7 @@ John Coppin                 16 David Brockhill             21
 David Turner 'Ab'           21 Stewart Goosey'A'            5 
 Ann Muggeridge              17 Eric Brabin                 21 
 Judith Turner'Ab'            9 Anne Brabin                 21 
-David Priestley              9 Peter Houseman              21 
+David Priestley              9 Kevin Sheard'A'             21 
                     Games:   5                     Games:   5 
                 Aggregate: 176                 Aggregate: 158 
                    Points:  17                    Points:  13 
@@ -3342,6 +3370,20 @@ Trevor Dawson               16 Philip Sykes                21
                     Games:   5                     Games:   3 
                 Aggregate: 148                 Aggregate: 115 
                    Points:  19                    Points:   9 
+
+          Division 4                    Sat 14th Jun          
+        Myrtle Park C                   Grove Hill B          
+Keith Hillam                21 Andrew Wilson               11 
+Cathy Hillam                21 Margaret Atkinson           17 
+David Atherton              21 John Farquhar               18 
+Sylvia Jackson              18 Peter Brearley              21 
+Keith Powell                21 Nancy Marston               11 
+Susan Atherton              16 Judith Collins              21 
+Nick Gilleard               17 Steve Liles                 21 
+Ken Pollard                 16 Billy Hartley               21 
+                    Games:   4                     Games:   4 
+                Aggregate: 151                 Aggregate: 141 
+                   Points:  15                    Points:  13 
 
           Division 4                    Sat 14th Jun          
            Salts B                         Idle C             
