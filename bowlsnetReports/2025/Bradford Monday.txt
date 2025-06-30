@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Sun 29th Jun)
+=== Bradford (Mon. Evening) 2025 (as of Mon 30th Jun)
 === Comp. Match Cards
 
   Division 1 - Thurston           Mon 7th Apr         
@@ -1344,5 +1344,125 @@ Peter Cockcroft          7 Jan McGuiness           21
             Aggregate: 111             Aggregate:  91 
                 Games:   4                 Games:   2 
                Points:  17                Points:   9 
+
+  Division 1 - Thurston           Mon 30th Jun        
+      Heckmondwike A                Farsley           
+Roy Carter              14 Derek Pickering         21 
+Norman Booth            21 Richard Whittaker        4 
+Gerald Bromley 'A'      21 Peter Crowther          18 
+Gareth Harwood          17 Graham Petty            21 
+Ash Harker              17 Peter Scott             21 
+Kathleen Field          12 Ian Swinfield           21 
+            Aggregate: 102             Aggregate: 106 
+                Games:   2                 Games:   4 
+               Points:  11                Points:  15 
+
+  Division 1 - Thurston           Mon 30th Jun        
+     Spen Victoria A             Shipley Club A       
+Mark Ellis              14 Ian Jacques             21 
+Debi Davis               5 Matthew Jacques         21 
+Peter Ellis             18 John Sample             21 
+Kevin Wood              15 Richard Bloodworth      21 
+Mark Goodall            21 Chris Jacques            8 
+Mark Worrall            21 Stuart Wilson            8 
+            Aggregate:  94             Aggregate: 100 
+                Games:   2                 Games:   4 
+               Points:  11                Points:  15 
+
+  Division 1 - Thurston           Mon 30th Jun        
+      Crowghyll Park                Hightown          
+Tony Southern           10 Logan Preston           21 
+Eddie Prince            21 Hayley Wood             10 
+Sue Farrell             16 Dave Rayner             21 
+Trevor Hodgson          18 Peter Simpson           21 
+Richard Briggs          21 Darren Goodall          18 
+Andy Matthews           21 Tom Gilbert             12 
+            Aggregate: 107             Aggregate: 103 
+                Games:   3                 Games:   3 
+               Points:  14                Points:  12 
+
+Division 2 - Robert Bland         Mon 30th Jun        
+     Spen Victoria B             New Greengates       
+John Smith              16 Alan Broscombe          21 
+Justine Wood            15 David Newton            21 
+Laura Wood              21 Chris J Burnett         19 
+Archie Wood             15 Chris Burnett           21 
+Steve Kemp              15 James Burnett           21 
+Lucas Wood              21 Allan Smith             18 
+            Aggregate: 103             Aggregate: 121 
+                Games:   2                 Games:   4 
+               Points:   9                Points:  17 
+
+Division 2 - Robert Bland         Mon 30th Jun        
+          Idle A                     Idle B           
+Michael Leach           21 John Mellan              9 
+Yvonne Coppin           21 Jane Paxton             19 
+Pam Barlow              14 Jackie Spencer          21 
+Alan Sinfield           21 Roger Morgan-Williams   18 
+Roy Barlow              21 Mark Paxton             10 
+Dave Duckett            17 John Rawnsley           21 
+            Aggregate: 115             Aggregate:  98 
+                Games:   4                 Games:   2 
+               Points:  17                Points:   9 
+
+Division 2 - Robert Bland         Mon 30th Jun        
+      Shipley Club B             Heckmondwike B       
+Andrew Walker           21 Roger Jackson            9 
+Graham Baggley          21 Steve Sugden            16 
+Scott Kerr              21 Eric Franks             19 
+Wendy Spivey            21 Peter Buchan             9 
+Jason Bridge            21 Marie Franks            17 
+David Dorman            21 Daniel Logan            12 
+            Aggregate: 126             Aggregate:  82 
+                Games:   6                 Games:   0 
+               Points:  23                Points:   3 
+
+ Division 3 - City Sports         Mon 30th Jun        
+        Tyersal B                  Queensbury         
+Brenda Hudson           21 Lorraine Birch           7 
+Byron Whalley           10 Michael Clare           21 
+Terry King              17 David Jarvis            21 
+Jeffrey Smith           21 John Moore              13 
+John Smith              21 Brian Raistrick         18 
+Russell Hudson          15 Muriel Keighley         21 
+            Aggregate: 105             Aggregate: 101 
+                Games:   3                 Games:   3 
+               Points:  14                Points:  12 
+
+ Division 3 - City Sports         Mon 30th Jun        
+        Clayton B                 Brackenhill         
+Paul Emery              18 John Howarth            21 
+Sue Findlay             21 Jackie Wilkinson        14 
+Ian Findlay             21 Bob Armitage            14 
+Trevor Bateman          10 Kathy Wilford           21 
+Peter Barker            17 Madeline Gamble         21 
+Steve Edgley            21 Graham Wilkinson 'A'    19 
+            Aggregate: 108             Aggregate: 110 
+                Games:   3                 Games:   3 
+               Points:  12                Points:  14 
+
+ Division 3 - City Sports         Mon 30th Jun        
+        West Royd               Bradford Moor B       
+Anne Gothard            21 Margaret East           17 
+Jan McGuiness           21 Marjorie Leeming         4 
+Pam Wilson              21 Diane Barraclough        7 
+Howard Gothard          21 Edward East             12 
+Sandra Knell            21 Martin Barraclough      14 
+Elizabeth Farrar        21 Geoff Woodfine           5 
+            Aggregate: 126             Aggregate:  59 
+                Games:   6                 Games:   0 
+               Points:  26                Points:   0 
+
+ Division 3 - City Sports         Mon 30th Jun        
+         Thornton                Drighlington B       
+Dawn Rigget              5 Steve Wrigglesworth     21 
+June Harrison           21 Pat Brooke              11 
+Alan Galloway           21 Graham Fuller            1 
+Karen Brame             21 Judy Atkinson           10 
+Barry Austin            11 Andrew Brooke           21 
+Anthony Lockwood        14 Mick Tolson             21 
+            Aggregate:  93             Aggregate:  85 
+                Games:   3                 Games:   3 
+               Points:  15                Points:  11 
 
 
