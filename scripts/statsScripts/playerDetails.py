@@ -42,6 +42,8 @@ def deduplicateNames(name):
         name = "eleanor graves"
     if name == "malcolm crowsman":
         name = "malcolm crowson"
+    if name == "andrew hodgson":
+        name = "andy hodgson"
     return name
 
 

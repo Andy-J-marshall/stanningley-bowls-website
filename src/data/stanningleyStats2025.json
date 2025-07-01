@@ -330,6 +330,89 @@
                 "aggDiff": 0
             }
         },
+        "andy hodgson": {
+            "totalAgg": 21,
+            "totalAggAgainst": 12,
+            "availableAgg": 21,
+            "availablePairsAgg": 0,
+            "availableHomeAgg": 0,
+            "availableAwayAgg": 21,
+            "availablePairsHomeAgg": 0,
+            "availablePairsAwayAgg": 0,
+            "totalPairsAgg": 0,
+            "totalPairsAggAgainst": 0,
+            "totalHomeAgg": 0,
+            "totalHomeAggAgainst": 0,
+            "totalPairsHomeAgg": 0,
+            "totalPairsHomeAggAgainst": 0,
+            "totalAwayAgg": 21,
+            "totalAwayAggAgainst": 12,
+            "totalPairsAwayAgg": 0,
+            "totalPairsAwayAggAgainst": 0,
+            "homeWins": 0,
+            "homeLosses": 0,
+            "awayWins": 1,
+            "awayLosses": 0,
+            "cupWins": 0,
+            "cupLosses": 0,
+            "pairWins": 0,
+            "pairLosses": 0,
+            "pairHomeWins": 0,
+            "pairHomeLosses": 0,
+            "pairAwayWins": 0,
+            "pairAwayLosses": 0,
+            "pairCupWins": 0,
+            "pairCupLosses": 0,
+            "totalGamesPlayed": 1,
+            "results": [
+                "andy hodgson 21 - 12 gavin johns"
+            ],
+            "airewharfe monday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds tuesday": {
+                "games": 1,
+                "wins": 1,
+                "aggDiff": 9
+            },
+            "leeds half holiday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "airewharfe wednesday pairs": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds thursday vets": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds ladies": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            },
+            "leeds saturday (b)": {
+                "games": 0,
+                "wins": 0,
+                "aggDiff": 0
+            }
+        },
         "andy waller": {
             "totalAgg": 514,
             "totalAggAgainst": 409,
