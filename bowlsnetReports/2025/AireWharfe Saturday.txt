@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Saturday) 2025 (as of Mon 30th Jun)
+=== AireDale & Wharfedale (Saturday) 2025 (as of Tue 1st Jul)
 === League Match Cards
 
            Premier                      Sat 5th Apr           
@@ -33,6 +33,22 @@ Brian Wheeler'A'            21 Tony Derrick                18
                 Aggregate: 185                 Aggregate: 150 
                    Points:  21                    Points:   9 
 
+           Premier                      Sat 5th Apr           
+           Ilkley A                       Rawdon A            
+Steve Senior                21 Steven Spurr                 6 
+Cliff Taylor                21 Brian Hodgson               13 
+Terry Aldmond               21 Dave Hill                   10 
+Andy Thornton'A'            21 Stephen Bottomley            5 
+Steve Birch                 21 Ian Scott                   11 
+Mick Bastow                 16 Ken Garbett'A'              21 
+Robert Garth                12 David Johnson 'A'           21 
+Martin Bailey 'A'           21 Paul Haigh'A'               13 
+Darren Thompson             21 Roger French                19 
+Richard Garth 'A'           21 Steve Calvert 'A'           12 
+                    Games:   8                     Games:   2 
+                Aggregate: 196                 Aggregate: 131 
+                   Points:  25                    Points:   5 
+
           Division 1                    Sat 5th Apr           
           Baildon A                       Ilkley B            
 Christine Ratcliffe         21 Sue Emerson                  9 
@@ -55,7 +71,7 @@ Bruce Callard               21 David Bottomley 'A'         18
 Dave Ascough                14 Lek Fletcher                21 
 Granvillw Stevenson         10 Brian Tempest               21 
 Keith Farrell               21 Philip Peel                 10 
-Ruth Sutcliffe              21 Thomas Kilerminster         17 
+Ruth Sutcliffe              21 Thomas Kilminster           17 
 Linda Stoyles               12 Martin Sherred              21 
 Kath Crompton               12 Cindy Rapinczuk             21 
 Nigel Stockdale             21 John Greenwood'A'            6 
@@ -360,6 +376,22 @@ Maureen Adams               21 Allen Hardcastle            15
                    Points:  13                    Points:  15 
 
            Premier                      Sat 12th Apr          
+           Oxenhope                       Ilkley A            
+Trevor Douglas              19 Terry Aldmond               21 
+Mary Hemsley                16 Cliff Taylor                21 
+David Milnes                10 Mick Bastow                 21 
+Debbie Hosty                21 Andy Thornton'A'            14 
+Colin Bilney                21 Hedley Chapman               8 
+Stephen Peers               20 Robert Garth                21 
+Charlie Heaton               8 Steve Birch                 21 
+Fred Rothwell               15 Steve Ackroyd 'A'           21 
+Sue Cook                    21 Darren Thompson             18 
+Derek Pollard               16 Richard Garth 'A'           21 
+                    Games:   3                     Games:   7 
+                Aggregate: 167                 Aggregate: 187 
+                   Points:  11                    Points:  19 
+
+           Premier                      Sat 12th Apr          
            Rawdon A                      Menston A            
 Steven Spurr                21 Ray Dalton                   1 
 Brian Hodgson               21 Gary Skeet                   5 
@@ -374,6 +406,22 @@ David Johnson 'A'           18 Shaun Johnson 'A'           21
                     Games:   7                     Games:   3 
                 Aggregate: 196                 Aggregate: 123 
                    Points:  25                    Points:   5 
+
+           Premier                      Sat 12th Apr          
+        Meanwood Park                    Wayside A            
+Simon Walder                21 Alan Rothery                13 
+Matthew Turner              21 Adam Walker                 20 
+Peter Whipp                 21 Thomas Bielby               16 
+Douglas Blair               19 Jason Worsnop 'A'           21 
+Chris Daysh                 14 David Singleton'A'          21 
+Steven Jones                 6 Steve Cochrane              21 
+Karen Portman               16 Colin Rigby                 21 
+Steve Longley               16 Greggan Johnstone 'A'       21 
+Ian Howard                  21 Vic Scaiffe-Clarke           9 
+Andy Swain                  21 Barry Sugden                15 
+                    Games:   5                     Games:   5 
+                Aggregate: 176                 Aggregate: 178 
+                   Points:  14                    Points:  16 
 
            Premier                      Sat 12th Apr          
          Sutton Park                Skipton Broughton A       
@@ -726,7 +774,7 @@ Michael Czuba               21 Brian Denning               14
 Sylvia Jackson               7 Jeffrey Driver              21 
 Monica Powell               21 Vanda Greenwood             16 
 Susan Atherton               2 Maureen Adams               21 
-Barbara Smith               12 Thomas Kilerminster         21 
+Barbara Smith               12 Thomas Kilminster           21 
                     Games:   2                     Games:   6 
                 Aggregate: 108                 Aggregate: 156 
                    Points:   7                    Points:  21 
@@ -814,7 +862,7 @@ Chris Olding                21 Bernard Connor 'Ab'          9
           Division 1                    Sat 19th Apr          
         Knaresborough                     Salts A             
 Andrew Ison                 21 Steve Crossley               4 
-Paul Passman                21 Thomas Kilerminster          9 
+Paul Passman                21 Thomas Kilminster            9 
 David Findlayson            21 Philip Peel                 15 
 Phil Berry                  21 Cindy Rapinczuk              4 
 Geoff Ricketts              13 Martin Sherred              21 
@@ -1204,7 +1252,7 @@ David Bottomley 'A'         21 Keith Haigh                 13
 Richard Lonsdale 'A'        21 Trev Worsman                 6 
 Cindy Rapinczuk             21 Jason Bridge                15 
 Lek Fletcher                 9 Andy Matthews               21 
-Thomas Kilerminster         21 Dorothy Walker               9 
+Thomas Kilminster           21 Dorothy Walker               9 
 Philip Peel                 21 Philip Clifton               4 
 Martin Sherred              20 Sue Farrell 'A'             21 
 Chris Womersley 'A'         21 Robert Ramsden 'A'          11 
@@ -1474,6 +1522,22 @@ David Leeming'A'            19 Tony Derrick                21
                    Points:  23                    Points:   7 
 
            Premier                      Sat 3rd May           
+           Oxenhope                    Meanwood Park          
+Debbie Hosty                11 Chris Daysh                 21 
+David Milnes                 7 Jonathan Orbell             21 
+Derek Pollard                7 Simon Walder                21 
+Charlie Heaton               7 Andy Swain                  21 
+Mary Hemsley                19 Darren Cookson              21 
+Stephen Peers               14 Ian Howard                  21 
+Steve Griffiths             18 Steve Longley               21 
+Trevor Douglas              21 Matthew Turner              15 
+Fred Rothwell               21 Joanne Speight              18 
+Richard Hemsley             21 Micky Rennison               6 
+                    Games:   3                     Games:   7 
+                Aggregate: 146                 Aggregate: 186 
+                   Points:   9                    Points:  21 
+
+           Premier                      Sat 3rd May           
            Rawdon A                     Sutton Park           
 Ken Garbett'A'              13 Guy Greene                  21 
 Steven Spurr                11 Bryan Harrison              21 
@@ -1527,7 +1591,7 @@ Ernest Johnson              15 Philip Peel                 21
 Mark Swindlehurst           12 Brian Tempest               21 
 David Lyons                 20 Lee Matthews                21 
 Peter Sandles               20 Martin Sherred              21 
-Debbie Sandles              21 Thomas Kilerminster         13 
+Debbie Sandles              21 Thomas Kilminster           13 
 Sylvia Petty 'A'            15 David Bottomley 'A'         21 
 Tony Watson 'A'             20 Lek Fletcher                21 
 John Patrick 'A'            21 Dennis Thorpe                4 
@@ -1600,6 +1664,22 @@ Keith Ellse                 12 Rich Gundich                21
                     Games:   6                     Games:   4 
                 Aggregate: 178                 Aggregate: 167 
                    Points:  18                    Points:  12 
+
+          Division 2                    Sat 3rd May           
+        Greenbottom A                     Rawdon B            
+Janice Waite                21 David Bell                   1 
+Anita Kingham               21 Philip Leadbeater           20 
+Jack Beck                   14 Ray Weldrand                21 
+Karen Whitelaw              21 Graham Hogg                  7 
+Barry Teasdale              21 Stan Parker                 19 
+Fiona Haxby'A'              21 Bernard Harrison            12 
+Ann Ryley 'A'               18 Marlene Waite-Pullan        21 
+Mike Whitelaw               21 George McLaren              17 
+Dave Whelan                 21 Terry Waite-Pullan          13 
+Brian Hall 'A'              21 Philip Jackson               7 
+                    Games:   8                     Games:   2 
+                Aggregate: 200                 Aggregate: 138 
+                   Points:  25                    Points:   5 
 
           Division 2                    Sat 3rd May           
          Grove Hill A                     Starbeck            
@@ -1846,6 +1926,22 @@ Brian Wheeler'A'            21 Fred Rothwell               16
                    Points:  28                    Points:   2 
 
            Premier                      Sat 17th May          
+        Meanwood Park                     Rawdon A            
+Oliver Devaney              21 Steven Spurr                14 
+Douglas Blair               21 Lindsay Rosendale           18 
+Andy Webster                21 Brian Hodgson                9 
+Matthew Turner              21 Paul Haigh'A'               11 
+Jonathan Orbell             21 Stephen Bottomley           19 
+Neil Porter                 21 Dave Hill                    5 
+Peter Whipp                  7 David Johnson 'A'           21 
+Simon Walder                21 Ken Garbett'A'              15 
+Ian Howard                  21 Ian Scott                    4 
+Andy Swain                  21 Roger French                10 
+                    Games:   9                     Games:   1 
+                Aggregate: 196                 Aggregate: 126 
+                   Points:  26                    Points:   4 
+
+           Premier                      Sat 17th May          
           Wayside A                 Skipton Broughton A       
 Alan Rothery                21 Tracy Harrison 'A'          11 
 Mark Reynolds               21 Mick Duke                   18 
@@ -1915,7 +2011,7 @@ Philip Peel                 20 Andrew Walker               21
 Dennis Thorpe               15 Myra Humpleby               21 
 John Greenwood'A'           21 Kevin Cullerton             13 
 David Bottomley 'A'         21 Bernard Criddle             18 
-Thomas Kilerminster         21 Scott Ker                   19 
+Thomas Kilminster           21 Scott Ker                   19 
 Cindy Rapinczuk             21 James Welsh                  9 
 Chris Womersley 'A'         21 Paul Colman                  9 
 Lek Fletcher                21 Sylvia Halliday              5 
@@ -2290,7 +2386,7 @@ Deborah Swann               19 Brian Tempest               21
 Clive Swan 'Ab'             21 Lek Fletcher                 2 
 John Warburton              21 David Bottomley 'A'         19 
 Allan Hughes                21 Cindy Rapinczuk              8 
-Alex Watson'Ab'             21 Thomas Kilerminster          7 
+Alex Watson'Ab'             21 Thomas Kilminster            7 
 Tony Foster                 21 Philip Peel                 15 
 David Emerson               21 Chris Womersley 'A'         12 
                     Games:   7                     Games:   3 
@@ -2653,6 +2749,22 @@ Adam Walker                 13 Pete Hepworth               21
                 Aggregate: 174                 Aggregate: 180 
                    Points:  13                    Points:  17 
 
+           Premier                      Sat 7th Jun           
+        Meanwood Park                    Menston A            
+Jonathan Orbell             21 Gary Skeet                  12 
+Steve Longley               21 *No Player*                  0 
+Andy Swain                  21 Amrik Singh                 10 
+Ian Howard                  21 Peter Hammond                9 
+Joanne Speight              21 Ian Smith                   18 
+Micky Rennison              21 Gwen Smith                   7 
+Neil Porter                 21 Ray Dalton                   6 
+Darren Cookson              21 Laurie Robinson'A'          14 
+Chris Daysh                 21 Nigel Buckley               13 
+Matthew Turner              21 Shaun Johnson 'A'            3 
+                    Games:  10                     Games:   0 
+                Aggregate: 210                 Aggregate:  92 
+                   Points:  30                    Points:   0 
+
           Division 1                    Sat 7th Jun           
           Baildon A                     Holt Park A           
 Dorothy Walker               7 Tony Watson 'A'             21 
@@ -2692,7 +2804,7 @@ Cindy Rapinczuk             21 Geoff Jones                 16
 Steve Crossley              21 Cath Patrick                11 
 Richard Lonsdale 'A'        21 Alan Scorfield              10 
 Lek Fletcher                17 Chris Olding                21 
-Thomas Kilerminster         21 David Hughan                 7 
+Thomas Kilminster           21 David Hughan                 7 
 John Greenwood'A'           21 Graham Patrick              15 
 David Bottomley 'A'         21 Ian Jarratt                 11 
 Philip Peel                 21 Marion Frayne                9 
@@ -3107,7 +3219,7 @@ Marion Frayne                6 David Findlayson            21
 
           Division 1                    Sat 14th Jun          
             Idle A                        Salts A             
-Dave Duckett                21 Thomas Kilerminster         17 
+Dave Duckett                21 Thomas Kilminster           17 
 Pam Barlow                  21 John Greenwood'A'           12 
 Ian Watson                  15 Dennis Thorpe               21 
 Mark Paxton 'Ab'            21 Philip Peel                 19 
@@ -3722,14 +3834,14 @@ Celia Throup 'Ab'           16 Linda Yates 'Ab'            21
             Adel B                       Baildon C            
 Christina Levy               1 Ron Wilkinson               21 
 Phil Hayward                21 June Catterall               4 
-Gordon Robinson             19 Sheila Ashton               21 
+Gordon Robinson             10 Sheila Ashton               21 
 Steve Richardson            21 Sylvia Binns                11 
 Barbara Varley              21 Val Pawson                  19 
 Pat Ellse                   21 Elaine Higham                4 
 Sheena Parker               21 Ann Morrison                 9 
 Graham Clough               15 Jim Whittle                 21 
                     Games:   5                     Games:   3 
-                Aggregate: 140                 Aggregate: 110 
+                Aggregate: 131                 Aggregate: 110 
                    Points:  18                    Points:  10 
 
           Division 4                    Sat 21st Jun          
@@ -3810,7 +3922,7 @@ Cindy Rapinczuk             21 Mark Silvester 'A'           9
 David Bottomley 'A'         21 Paul Crawford 'A'            4 
 Richard Lonsdale 'A'        21 Margaret Marwood             7 
 Lek Fletcher                21 Linda Yates 'Ab'            16 
-Thomas Kilerminster         21 Graham Tansley               7 
+Thomas Kilminster           21 Graham Tansley               7 
 Dennis Thorpe               21 Jean Harrison               15 
 John Greenwood'A'           12 John Chippindale 'A'        21 
 Chris Womersley 'A'         21 Michael Smith               12 

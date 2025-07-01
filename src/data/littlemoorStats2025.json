@@ -488,25 +488,25 @@
             }
         },
         "martin fulton": {
-            "totalAgg": 261,
-            "totalAggAgainst": 306,
-            "availableAgg": 357,
+            "totalAgg": 282,
+            "totalAggAgainst": 318,
+            "availableAgg": 378,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 147,
+            "availableHomeAgg": 168,
             "availableAwayAgg": 210,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 138,
-            "totalHomeAggAgainst": 97,
+            "totalHomeAgg": 159,
+            "totalHomeAggAgainst": 109,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 123,
             "totalAwayAggAgainst": 209,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 5,
+            "homeWins": 6,
             "homeLosses": 2,
             "awayWins": 1,
             "awayLosses": 9,
@@ -520,7 +520,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 17,
+            "totalGamesPlayed": 18,
             "results": [
                 "martin fulton 21 - 5 mark barker",
                 "martin fulton 21 - 6 vincent bussingham",
@@ -531,6 +531,7 @@
                 "martin fulton 21 - 20 ian wilson",
                 "martin fulton 21 - 17 graham blenkinsop",
                 "martin fulton 8 - 21 ryan pendlebury",
+                "martin fulton 21 - 12 nigel miller",
                 "martin fulton 19 - 21 ian jacques",
                 "martin fulton 21 - 19 nicky rooks",
                 "martin fulton 3 - 21 charlie ripley",
@@ -556,9 +557,9 @@
                 "aggDiff": -8
             },
             "mirfield (b)": {
-                "games": 5,
-                "wins": 2,
-                "aggDiff": -16
+                "games": 6,
+                "wins": 3,
+                "aggDiff": -7
             },
             "bradford half holiday": {
                 "games": 0,
@@ -823,6 +824,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "30/06/2025",
+    "lastUpdated": "01/07/2025",
     "statsYear": "2025"
 }
