@@ -105,15 +105,15 @@ test.describe('Player detailed stats - wins and losses', () => {
         await playerStatOptionsPage.selectAllClubsFromDropdown();
         await yearSelectPage.selectAllYears();
 
-        await playerSearchPage.searchForPlayer('Richard Hodgson');
+        await playerSearchPage.searchForPlayer('Craig Clarkson');
         await detailedPlayerStatsPage.clickWinsAndLossesAccordion();
 
         await detailedPlayerStatsPage.clickPairsButton();
-        await expect(playerStatsWLPage.cupGamesPlayed).toContainText('2');
-        await expect(playerStatsWLPage.cupAverage).toContainText('-2.00');
-        await expect(playerStatsWLPage.cupWins).toContainText('1');
+        await expect(playerStatsWLPage.cupGamesPlayed).toContainText('1');
+        await expect(playerStatsWLPage.cupAverage).toContainText('-6.00');
+        await expect(playerStatsWLPage.cupWins).toContainText('0');
         await expect(playerStatsWLPage.cupLosses).toContainText('1');
-        await expect(playerStatsWLPage.cupWinPerc).toContainText('50%');
+        await expect(playerStatsWLPage.cupWinPerc).toContainText('0%');
     });
 
     test('Detailed player stats show the wins & losses stats - all years, all clubs', async ({

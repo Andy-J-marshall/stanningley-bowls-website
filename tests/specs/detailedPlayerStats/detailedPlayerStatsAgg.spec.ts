@@ -57,12 +57,12 @@ test.describe('Player detailed stats - aggregate', () => {
         await playerStatOptionsPage.selectAllClubsFromDropdown();
         await yearSelectPage.selectAllYears();
 
-        await playerSearchPage.searchForPlayer('Richard Hodgson');
+        await playerSearchPage.searchForPlayer('Craig Clarkson');
         await detailedPlayerStatsPage.clickAggAccordion();
 
         await detailedPlayerStatsPage.clickPairsButton();
-        await expect(playerStatsAggPage.cupAggFor).toContainText('27 / 42');
-        await expect(playerStatsAggPage.cupAggAgainst).toContainText('31 / 42');
+        await expect(playerStatsAggPage.cupAggFor).toContainText('15 / 21');
+        await expect(playerStatsAggPage.cupAggAgainst).toContainText('21 / 21');
     });
 
     test('Detailed player stats overview show the aggregate stats - all year, all clubs', async ({
