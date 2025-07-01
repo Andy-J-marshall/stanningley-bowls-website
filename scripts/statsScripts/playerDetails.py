@@ -77,4 +77,5 @@ allClubs = [
     "new wortley",
     "meanwood",
     "garforth",
+    "spen victoria",
 ]
