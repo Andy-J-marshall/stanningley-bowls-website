@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Mon 30th Jun)
+=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Tue 1st Jul)
 === League Match Cards
 
        Division 1                Mon 7th Apr        
@@ -198,7 +198,7 @@ Brian Hall             21 Richard Sunley          3
 Graham Hogg            10 John Greenwood         21 
 Philip Leadbeater      21 John French            13 
 Ken Chapman            21 Ben Parker             10 
-Terry Waite-Pullan      8 Thomas Kilerminster    21 
+Terry Waite-Pullan      8 Thomas Kilminster      21 
 Bernard Harrison        2 Lek Fletcher           21 
 Marlene Waite-Pullan   10 Patricia Allison       21 
 Allan Sample           21 Vanda Greenwood        19 
@@ -548,7 +548,7 @@ Ernest Johnson         11 Allan Sample           21
        Division 3               Mon 21st Apr        
           Salts            Burley in Wharfedale B   
 Ben Parker             21 Michael Mitchell       15 
-Thomas Kilerminster    21 Alwyn Robertson        14 
+Thomas Kilminster      21 Alwyn Robertson        14 
 Maureen Adams          18 Maureen Poucher        21 
 Patricia Allison       21 Phil Argyle            15 
 Stephen Crossley        9 Christopher Wheeler    21 
@@ -852,7 +852,7 @@ Andrew Marshall        21 Brian Hall             18
        Division 3               Mon 28th Apr        
        Myrtle Park                  Salts           
 Christine Pollard      21 David Bottomley        19 
-Maureen Wood           21 Thomas Kilerminster    18 
+Maureen Wood           21 Thomas Kilminster      18 
 Alan Wood              21 Vanda Greenwood        11 
 Nick Gilleard          21 Patricia Allison       19 
 Harrison Charles        7 Lek Fletcher           21 
@@ -1145,7 +1145,7 @@ Brian Tempest          13 Paul Leonard           21
 Stephen Crossley       20 Cliff Brogie           21 
 Patricia Allison       21 Craig Clarkson          8 
 John Tillotson         21 Stuart Potter          20 
-Thomas Kilerminster    15 Joey Broadbent         21 
+Thomas Kilminster      15 Joey Broadbent         21 
 David Bottomley        21 Andy Waller            20 
 Lek Fletcher           16 Paul Bowes             21 
 Chris Womersley        21 Steve Gardner           7 
@@ -1766,7 +1766,7 @@ Paul Leonard           21 Andrew Lancaster       15
 John French            21 Gwen Smith 'A'         12 
 David Bottomley        21 Laurie Robinson 'A'     9 
 Vanda Greenwood         5 Gail Singh             21 
-Thomas Kilerminster    21 Jeremy Gill             3 
+Thomas Kilminster      21 Jeremy Gill             3 
 Jonathan Duke          21 Keith Bond              7 
 Richard Lonsdale       21 Gary Skeet              9 
 Patricia Allison       21 Simon Cowley 'A'       18 
@@ -2056,7 +2056,7 @@ David Lyons            21 Stephen Crossley       20
 Ernest Johnson         21 John Tillotson          5 
 Mike Cox 'A'           10 Lek Fletcher           21 
 Peter Byford 'A'       20 John Greenwood         21 
-Colin Chadwick         21 Thomas Kilerminster    14 
+Colin Chadwick         21 Thomas Kilminster      14 
 Carol Matthews         21 Maureen Adams          13 
 Sylvia Petty           21 John French            15 
 John Gilroy            16 Chris Womersley        21 
@@ -2359,7 +2359,7 @@ John Sutton            21 Vanda Greenwood        14
 Paul Stoyles            8 Richard Lonsdale       21 
 Ruth Sutcliffe         21 Maureen Adams          14 
 Keith Barran           10 Stephen Crossley       21 
-Nigel Stockdale 'A'    21 Thomas Kilerminster     4 
+Nigel Stockdale 'A'    21 Thomas Kilminster       4 
 Kath Crompton          21 Lek Fletcher           12 
 Phillip Clayton        21 John French             7 
 Bruce Callard           5 Chris Womersley        21 
@@ -2924,7 +2924,7 @@ Keith Bond              4 Lek Fletcher           21
 Raymond Dalton         21 John French            12 
 Gwen Smith 'A'         13 John Greenwood         21 
 Gail Singh             21 Patricia Allison       20 
-Shaun Johnson 'A'      21 Thomas Kilerminster     9 
+Shaun Johnson 'A'      21 Thomas Kilminster       9 
 Laurie Robinson 'A'     6 Chris Womersley        21 
 Ian Smith              21 Stephen Crossley        8 
 Nigel Buckley          21 Jonathan Duke           9 
@@ -3052,6 +3052,22 @@ Robbie Ellis           15 Luke Teale 'A'         21
            Aggregate: 144            Aggregate: 184 
                Games:   3                Games:   7 
               Points:   9               Points:  21 
+
+       Division 1               Mon 30th Jun        
+ Burley in Wharfedale A         Eccleshill A        
+Steven Fender 'A'      21 Pauline Gilroy          8 
+Robert Wheeler         21 Andy Howie             20 
+Susan Knowles          20 Paul Rooks 'A'         21 
+Alan Goodenough        19 Neil Mylan 'A'         21 
+Roy Knowles             4 Will Gilroy            21 
+Andrew Shaw            21 Mick Angus 'A'          8 
+Ben Ullock 'A'         21 Ian Matthews           20 
+Joe Ullock'A'          21 Stephen Bastow          8 
+Brian Wheeler 'A'      21 Steve Bowes            17 
+Mark Ullock            21 Graham Chaffer'A'       8 
+           Aggregate: 190            Aggregate: 152 
+               Games:   7                Games:   3 
+              Points:  21               Points:   9 
 
        Division 1               Mon 30th Jun        
         Rufford A                Cross Roads        
@@ -3219,7 +3235,7 @@ Jonathan Duke           5 George McLaren         21
 Richard Lonsdale       16 Marlene Waite-Pullan   21 
 Vanda Greenwood        21 Graham Hogg            14 
 Maureen Adams          11 Christine Scott        21 
-Thomas Kilerminster    14 Philip Leadbeater      21 
+Thomas Kilminster      14 Philip Leadbeater      21 
 Patricia Allison        9 Terry Waite-Pullan     21 
 David Bottomley        21 Bernard Harrison       14 
 Stephen Crossley       21 Philip Jackson          1 
@@ -3228,6 +3244,70 @@ Chris Womersley        21 George McLaren          9
            Aggregate: 158            Aggregate: 164 
                Games:   4                Games:   6 
               Points:  13               Points:  17 
+
+       Division 3               Mon 30th Jun        
+       Holt Park A               Stanningley        
+Ernest Johnson         13 Harvey Leonard         21 
+John Patrick 'A'       16 Paul Bowes             21 
+Colin Chadwick         21 Neil Porter            14 
+Tony Watson 'A'        21 Phil Sutcliffe          8 
+John Gilroy            19 Bob Marshall           21 
+Peter Byford 'A'       21 Colin Haque             9 
+Sylvia Petty           18 Stuart Potter          21 
+Carol Matthews         21 Paul Leonard           14 
+Mike Cox 'A'           21 Craig Clarkson          9 
+David Lyons             7 Andy Waller            21 
+           Aggregate: 178            Aggregate: 159 
+               Games:   5                Games:   5 
+              Points:  17               Points:  13 
+
+       Division 3               Mon 30th Jun        
+        Menston A                Myrtle Park        
+Raymond Dalton         21 Maureen Wood           11 
+Peter Hammond          16 Chris Dickerson        21 
+Steve Walford          20 Nick Gilleard          21 
+Les Schofield          21 Martin Slater          11 
+Jeremy Gill            21 Mike Wilson            20 
+Gary Skeet             14 Alan Wood              21 
+Ian Smith              21 Tom Barnes             19 
+Laurie Robinson 'A'     6 Harrison Charles       21 
+Gwen Smith 'A'         21 Darren Armitage        13 
+Nigel Buckley          21 Stephen Turner         14 
+           Aggregate: 182            Aggregate: 172 
+               Games:   6                Games:   4 
+              Points:  17               Points:  13 
+
+       Division 4               Mon 30th Jun        
+      Greenbottom B               Calverley         
+Kate Jukes             19 Raymond Gambles        21 
+Bill Lovedale          21 Norma Whiteley         17 
+Nicky Jeffrey          17 Susie Jarosz           21 
+Michael Peel            9 Barry Briggs           21 
+Sandy Watson            6 Roy Whiteley           21 
+Chris Warson            6 Richard Nudd           21 
+Anne Raw               21 Malcolm Pratt          14 
+Margaret Adamson       21 Alan Horsfield         15 
+Allan Jukes            17 Clifford Wheatley      21 
+Trevor Dawson          21 Kenneth Paley          11 
+           Aggregate: 158            Aggregate: 183 
+               Games:   4                Games:   6 
+              Points:  11               Points:  19 
+
+       Division 4               Mon 30th Jun        
+         Adel B                 Yeadon Park B       
+Steve Richardson       21 Sandra Taylor          14 
+Gordon Robinson        21 Tracy Wilson           16 
+Lesley Williams        21 Marian Poole           10 
+Paul Williams          21 Barry Slater           20 
+Alan Wittrick          21 Mark Wilson            18 
+Sheena Parker          14 Joan Baker             21 
+Meryl Auty             21 Maureen Slater          6 
+Kath Hynes             20 Adam Sample            21 
+Tony Haddrill          14 Shirley Nicholson      21 
+John Auty               5 Stan Parker            21 
+           Aggregate: 179            Aggregate: 168 
+               Games:   6                Games:   4 
+              Points:  18               Points:  12 
 
        Division 4               Mon 30th Jun        
          Baildon                  Menston B         
@@ -3242,6 +3322,22 @@ Geoff Hanson           21 Rosemary Cowley        13
 Celia Throup           21 Mike Ripley            10 
 Dorothy Walker         21 Jim Hughes              5 
            Aggregate: 176            Aggregate: 157 
+               Games:   6                Games:   4 
+              Points:  18               Points:  12 
+
+       Division 4               Mon 30th Jun        
+     Wharfemeadows B             Holt Park B        
+David Warburton        21 Terry Cook             12 
+Jeffrey Crabtree       20 Brendan Clarke         21 
+Malolm Levi            21 Ray Boast              19 
+Billy Hartley          18 Lois Horsfall          21 
+Lynne Harper           21 Michelle Norcliffe     14 
+Jane Bowden            21 John Tate               8 
+John Farquhar          21 Mark Swindlehurst      19 
+Gerry Harper            7 Debbie Sandles         21 
+Janet Warburton        11 David Sadler           21 
+Ray Smith Snr          21 Andy Barclay           15 
+           Aggregate: 182            Aggregate: 171 
                Games:   6                Games:   4 
               Points:  18               Points:  12 
 

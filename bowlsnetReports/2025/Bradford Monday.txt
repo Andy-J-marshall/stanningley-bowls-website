@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Mon 30th Jun)
+=== Bradford (Mon. Evening) 2025 (as of Tue 1st Jul)
 === Comp. Match Cards
 
   Division 1 - Thurston           Mon 7th Apr         
@@ -1380,6 +1380,30 @@ Andy Matthews           21 Tom Gilbert             12
             Aggregate: 107             Aggregate: 103 
                 Games:   3                 Games:   3 
                Points:  14                Points:  12 
+
+  Division 1 - Thurston           Mon 30th Jun        
+      West Bradford                Tyersal A          
+Mark Woolner             6 Chris Mordue            21 
+Jason Greenwood         20 Wendy Shimbles          21 
+Paul Wood               18 Pam Lindley             21 
+Mark Chambers           11 Mason Lindley           21 
+Stuart Graham            5 Gary Wike               21 
+Gregg Fairhead          21 Simon Metcalfe          16 
+            Aggregate:  81             Aggregate: 121 
+                Games:   1                 Games:   5 
+               Points:   5                Points:  21 
+
+Division 2 - Robert Bland         Mon 30th Jun        
+      Drighlington A               Clayton A          
+Phil Keating            21 Bev Shutt                7 
+Richard Jones           21 Pauline Macgregor        4 
+Ian Fairhurst           19 Ray Atkinson            21 
+Graham Priestley        17 Lee Greenwood           21 
+Mick Warren             21 Kevin Flanagan          12 
+John Roberts            21 Gaynor Shutt            20 
+            Aggregate: 120             Aggregate:  85 
+                Games:   4                 Games:   2 
+               Points:  19                Points:   7 
 
 Division 2 - Robert Bland         Mon 30th Jun        
      Spen Victoria B             New Greengates       

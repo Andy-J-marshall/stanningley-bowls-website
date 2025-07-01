@@ -1,4 +1,4 @@
-=== Mirfield District Bowling Association 2025 (as of Mon 30th Jun)
+=== Mirfield District Bowling Association 2025 (as of Tue 1st Jul)
 === Comp. Match Cards
 
         Division 1                Tue 15th Apr        
@@ -3376,7 +3376,7 @@ Duncan Swift            20 Adam Mellor             21
         Division 3                Tue 3rd Jun         
     Crosland Moor 'B'             Morton House        
 Andy Rose               21 Wayne Kemp              16 
-Wayne Dews              21 Adrian Leach            18 
+Wayne Dews              18 Adrian Leach            21 
 Richard Chomiak         17 Charlie Ripley          21 
 Tom Fowler              17 Harrison Messinger      21 
 Jordan Fernyhough       19 Darren Ripley           21 
@@ -3385,8 +3385,8 @@ Ross Mallinson          21 Daniel Balmforth        15
 Danny Radcliffe         21 Marcus Leach            17 
 Trevor Boothroyd        21 Michael Sweeney         15 
 Ray Whitwam             21 Tom Gilbert              5 
-               Points:   9                Points:   3 
-            Aggregate: 200             Aggregate: 168 
+               Points:   8                Points:   4 
+            Aggregate: 197             Aggregate: 171 
 
         Division 3                Tue 3rd Jun         
     Spen Victoria 'A'           Thornhill C & BC      
@@ -4104,5 +4104,317 @@ Tim Rann                21 Richard Oldroyd         19
 Mark Seed               14 Dave Marshall           21 
                Points:   6                Points:   4 
             Aggregate: 140             Aggregate: 129 
+
+        Division 1                Tue 1st Jul         
+    Crosland Moor 'A'            Pudsey BC 'A'        
+Mark Atkinson           15 Fin Hickey              21 
+Terry Brook             19 Josh Mordue             21 
+Josh Brown               7 Stuart King             21 
+Liam Fallas             21 Gary Wike                7 
+John Greenhalgh         10 Jack Bowes              21 
+Wayne Moseley           21 James Cosgrave          18 
+Matthew Richardson      20 Chris Mordue            21 
+Gary Siswick            21 Tom Lawrence            13 
+Billy Shaw              21 James Hanson            14 
+Ray Whitwam             14 Tom Hanson              21 
+               Points:   4                Points:   8 
+            Aggregate: 169             Aggregate: 178 
+
+        Division 1                Tue 1st Jul         
+        Eccleshill             Kirkheaton Con 'A'     
+Paul Rooks              15 Dave Fox                21 
+Chris Daysh             14 D Jones                 21 
+Nicky Bastow             4 Mark Regan              21 
+John Benson             21 Tom Gledhill            18 
+Ryan Benson             17 Chris Davies            21 
+Joe Stockdale           21 Daniel Kilburn          19 
+Chris Hight             21 Shaun Fox               17 
+Will Gilroy             21 Courtney Allert         19 
+Danny Teale             20 Oliver Fox              21 
+Luke Teale              13 Daniel Teale            21 
+               Points:   4                Points:   8 
+            Aggregate: 167             Aggregate: 199 
+
+        Division 1                Tue 1st Jul         
+ Thongsbridge C & BC 'A'      Lower Hopton WMC 'A'    
+Jack Dyson              21 Ryan Clark               4 
+Chris Kelly             18 Mark Bramall            21 
+Ashley Daykin           21 Ashley Tattersley       10 
+Andy Sorsby             21 Ben Halliday             8 
+Nick White              15 Sam Millward            21 
+James Davison           21 Jack Hargreaves         14 
+Craig Gant              21 Rob Wiltshire           19 
+Ross Meese              21 Ben Stapleton           12 
+Harry Lumb              19 Harley Tattersley       21 
+Grant Herrington        19 Robert Hitchen          21 
+               Points:   8                Points:   4 
+            Aggregate: 197             Aggregate: 151 
+
+        Division 1                Tue 1st Jul         
+       Dodworth MW             Crossgates BC 'A'      
+Carl Whitham            18 Jonathan Wood           21 
+Adam Jones              18 Simon Walder            21 
+Barry Holland           20 Gareth Lally            21 
+Tom Marsland            14 Mark Taylor             21 
+Dillon Christopherson   13 Kez Smith               21 
+Josh Talbot             21 Joseph Cranston         18 
+Jack Wareing            21 Mark Hughes             18 
+James Thomas            21 Jonathan Wilcox          4 
+Micky Hague             21 Craig Hopwood           16 
+Jack Hill               21 James Wilcox            20 
+               Points:   7                Points:   5 
+            Aggregate: 188             Aggregate: 181 
+
+        Division 2                Tue 1st Jul         
+    Almondbury Lib 'A'            Whitkirk BC         
+Kyle Spencer            18 A Martinho              21 
+Jordan Ramsden          21 Kristian Walder         16 
+Daniel Beeby            21 Adam Varley             12 
+Conor McGowan           21 Phil Hill                8 
+Andrew Heaume           21 Simon Cahill            12 
+Cameron Ghaffer         21 A Sharpe                19 
+Aidan Hick              21 Rob Whitfield           13 
+Gary Ashwell            21 Paul Tobin              12 
+Bradley Ramsden         19 Scott Bailey            21 
+Matt Hollingworth       21 Warren Wilson           14 
+               Points:  10                Points:   2 
+            Aggregate: 205             Aggregate: 148 
+
+        Division 3                Tue 1st Jul         
+       Morton House              Thurgoland BC        
+Adrian Leach            21 Ryan Pendlebury         13 
+Tom Gilbert             21 Carl Crossley           13 
+Charlie Ripley          21 Jeff Moreland            8 
+Darren Ripley           17 Brian Sharrock          21 
+Michael Sweeney         21 Anthony Makin            5 
+Wayne Kemp              13 Richard Moore           21 
+Daniel Balmforth        21 Duncan Swift            19 
+Harrison Messinger      21 Tom Wiltshire           18 
+Marcus Leach            21 David Knights           10 
+Michael Robinson        21 Isaac Cook              19 
+               Points:  10                Points:   2 
+            Aggregate: 198             Aggregate: 147 
+
+        Division 3                Tue 1st Jul         
+ Ossett Flying Horse 'A'       Crosland Moor 'B'      
+Roger Lunn               4 Elliott Heap            21 
+David Armitage           9 Louis Barker            21 
+Paul Wildgoose          21 Ross Mallinson          10 
+Graham Higgins          21 Trevor Boothroyd         4 
+Danny Hallas            21 Richard Chomiak         10 
+Adam Ward               21 Jordan Fernyhough       18 
+Mark McGuire            14 Tom Fowler              21 
+Calum Fennell           21 Andy Rose               14 
+Graham Blenkinsop       21 Justin Harris           16 
+Kevin Burns             21 Danny Radcliffe         11 
+               Points:   9                Points:   3 
+            Aggregate: 174             Aggregate: 146 
+
+        Division 3                Tue 1st Jul         
+     Thornhill C & BC           Alverthorpe WMC       
+Steve Davis             21 David Clarke            16 
+Andy Mitchell           14 Andrew Webb             21 
+Graham Sheard           11 David Cowsill           21 
+Gary Smith              18 Darren Smith            21 
+Stephen Wainwright       8 Tom Kaye                21 
+Gary Mountain           15 Richard Lonnia          21 
+Ryan Mitchell           21 Jeff Normanton          17 
+Phil Gamble             18 Gareth Gidman           21 
+Johny Smith             21 Karl Dutton             18 
+James McNeill           13 James Tiler             21 
+               Points:   3                Points:   9 
+            Aggregate: 160             Aggregate: 198 
+
+        Division 3                Tue 1st Jul         
+   The Harold Club 'A'         Spen Victoria 'A'      
+Neil Tordoff            21 Mark Goodall            10 
+Tom Jagger               9 Phil Bryant             21 
+Nicky Jagger            21 Peter Ellis              7 
+Gareth Metcalf           9 Andrew Gallagher        21 
+Trevor Benn             21 Kevin Wood              16 
+Frank Cullen            21 Chris Ellis             19 
+Eddie Hill              21 Mally Fowler            19 
+Chris Sowden             6 Neil Wood Jnr           21 
+Ian Wilson              21 Lewis Pember            10 
+Shaun Godfrey           13 Neil Wood Snr           21 
+               Points:   6                Points:   6 
+            Aggregate: 163             Aggregate: 165 
+
+        Division 3                Tue 1st Jul         
+      Littlemoor 'B'             Ossett C & AC        
+Steve Bowes             18 Mick Scott              21 
+Nicky Dewhirst          21 Chris Goodwin           10 
+Martin Fulton           21 Nigel Miller            12 
+Andy Morris             21 Noel Whitaker            5 
+Scott Normington        21 Mel Whitaker            15 
+Johnny Orbell           15 Robert Dunford          21 
+Phil Vayro              21 Chris Nuttall           13 
+Lee Wider               20 Graeme Eyre             21 
+Simon Wider             21 Oscar Scott-Parker      15 
+Will Bedford            21 Stuart Daniel           14 
+               Points:   9                Points:   3 
+            Aggregate: 200             Aggregate: 147 
+
+        Division 4                Tue 1st Jul         
+   Brighouse Sports 'B'      Cleckheaton Sports 'A'   
+Jamie Horsley           21 Bradley Throup          19 
+Richard Hobson          18 Joe Bray                21 
+Jon Gamble              21 Chris Blakeley          20 
+Jason Horsley           17 Paul Gill               21 
+Stuart Fletcher         19 Michael Rhodes          21 
+Michael Wood            21 Gary Walker             14 
+John Horsley            21 Roger Birdsall           5 
+Dale Dyson              20 Andy Walker             21 
+Ian Moxon               20 Richard Toulson         21 
+Corey Fountain          21 Tony Throup             14 
+               Points:   7                Points:   5 
+            Aggregate: 199             Aggregate: 177 
+
+        Division 4                Tue 1st Jul         
+      Pudsey BC 'C'                Farsley BC         
+Dave McDonald           13 David Smalley           21 
+Stewart Watson          16 Graham Petty            21 
+Logan Preston           17 Ken Gilroy              21 
+Sam Hunak               21 Derek Pickering         19 
+Duncan Reeves            8 Stuart Brook            21 
+Oliver Mordue           10 Andy Swain              21 
+Jake Daggett            21 Daniel Beardsworth      11 
+Sebastian Mordue         9 Neil Nicholson          21 
+Simon Metcalfe          21 Peter Crowther          13 
+Peter Simpson           19 Peter Scott             21 
+               Points:   3                Points:   9 
+            Aggregate: 155             Aggregate: 190 
+
+        Division 4                Tue 1st Jul         
+      Moldgreen Con                 Meltham           
+Callum Wadsworth        21 Grant Eckersley          5 
+Andrew Harper           21 Phil Russell            10 
+Aidan Crawley           21 Jack Howarth            13 
+Graham Sigsworth        21 Scott Dearden           13 
+Matthew Armitage        21 John Lewis              13 
+David Haigh             21 Steven Mellor           20 
+Guy Beaumont            21 Alan Peacock            20 
+Wayne Jenkinson         19 Colin Hulme             21 
+Mark Wood               16 Richard Wyatt           21 
+Andrew Wike              7 Jake Dearden            21 
+               Points:   9                Points:   3 
+            Aggregate: 189             Aggregate: 157 
+
+        Division 5                Tue 1st Jul         
+    Slaithwaite C & BC         Mirfield Old Bank      
+Shaun Goldthorpe        21 Roy Jepson              14 
+Trevor Eckersley        13 Terry Sykes             21 
+Robert Morgan           21 Matthew Mongon          10 
+Keith Bissell           16 Gary Morton             21 
+Mick Mozley             21 Paul Moon               16 
+Colin Haywood           20 Mark Morton             21 
+Oliver Barstow          21 Mick Addy               13 
+Robert Gartside         21 Bryan Ibbetson          16 
+               Points:   7                Points:   3 
+            Aggregate: 154             Aggregate: 132 
+
+        Division 5                Tue 1st Jul         
+       Broad Oak BC               Waterloo BC         
+Richard Mozley          14 Kris Lunn               21 
+Carl Taylor             21 Ian Lunn                 5 
+Michael Armitage        21 David Lunn              19 
+Dean Shaw               15 Robert Mudd             21 
+Brendan Gilbert         15 Paul Toon               21 
+Russel Beaumont         19 Nick Rothery            21 
+Martin Burgess          21 John Shackcloth         20 
+Connor Beaumont         21 Craig Beachill           4 
+               Points:   6                Points:   4 
+            Aggregate: 147             Aggregate: 132 
+
+        Division 5                Tue 1st Jul         
+        Shepley BC             Almondbury Lib 'B'     
+Andrew Astbury          21 Andy Broughton          10 
+Geoffrey Ryder           7 Graham Haigh            21 
+Keith Hague             12 Ethan Hick              21 
+Adrian Frain            21 Blake Hick              14 
+Nick Johnston           21 Peter Liversidge        20 
+Graham Clegg             9 Jamie Shaw              21 
+Norman Raper            21 Peter McWilliams         6 
+John Hodgson            11 Michael Hick            21 
+               Points:   4                Points:   6 
+            Aggregate: 123             Aggregate: 134 
+
+        Division 6                Tue 1st Jul         
+  Cleckheaton Sports 'B'      Denby Grange BC 'B'     
+Norman Swift            21 Bryan Thomas             5 
+Andy Walker             21 Michael Knowles          8 
+Chris Bray              10 Josh Broadhead          21 
+Gary Sharp              21 Chris Nicholson         19 
+Shaun Suthers           21 Steve Bugge              1 
+Jason Townend           21 Ben Keeling              9 
+Josh Walker             21 Daniel Dewhirst          4 
+Tim Hall                21 Phil Mack                0 
+               Points:   9                Points:   1 
+            Aggregate: 157             Aggregate:  67 
+
+        Division 6                Tue 1st Jul         
+     Thorpe Green BC               Slazengers         
+Andrew Nicholson        21 Andy Hoult              17 
+Chris Jepson            21 J Szabo                 12 
+Graham Woodruff         13 J Wilkinson             21 
+John Rushworth          11 Wayne Bond              21 
+Charlie Littlewood      15 Zak Bond                21 
+David Frost             18 Dean Berry              21 
+M Skuse                 21 Liam Redican            19 
+Graham Rawlinson        12 Gary Eastwood           21 
+               Points:   3                Points:   7 
+            Aggregate: 132             Aggregate: 153 
+
+        Division 6                Tue 1st Jul         
+       Horbury WMC               Almondbury BC        
+Adrian Smart            21 Chris Armitage          11 
+Darren Crummack         21 Richard Halliwell        9 
+David Horan             21 Chris Wenzel             8 
+Arthur Clarkson         21 Simon Mark              19 
+David Pursell           21 Daniel Berry            13 
+Steven Cummack          16 Mark Berry              21 
+Graham Kirkaldy         21 John Madden             16 
+Paul Hawes              12 Rob Tracey              21 
+               Points:   8                Points:   2 
+            Aggregate: 154             Aggregate: 118 
+
+        Division 7                Tue 1st Jul         
+    Springwood BC 'B'            Grange Moor BC       
+John Stevenson          21 Martin Longley          20 
+David Warren            21 Dale Longley            16 
+John Pix                21 David Bolger            19 
+Richard Lambert         11 Darren Hardcastle       21 
+Michael Brammah         10 Simon Shaw              21 
+Alan Henderson          19 Craig Caygill           21 
+Jeremy Chomeczko         8 Graham Shaw             21 
+Michael Wilby           12 Dale Winterbottom       21 
+               Points:   3                Points:   7 
+            Aggregate: 123             Aggregate: 160 
+
+        Division 7                Tue 1st Jul         
+       Rastrick BC             Springwood BC 'A'      
+Dean Swift              17 Colin Hampshaw          21 
+Jim Warne               21 Chris Windle            15 
+Robert Laycock          12 David Morgan            21 
+Brian Thurlow           21 Mick Price              18 
+Graham Rimmer           21 Jeff Mellor             12 
+Derek Hanner            21 Trevor Balderson        16 
+Geoff Normanton         21 M S Wilde               18 
+Chris Stanley           21 David Cooper            11 
+               Points:   8                Points:   2 
+            Aggregate: 155             Aggregate: 132 
+
+        Division 7                Tue 1st Jul         
+  Cleckheaton Sports 'C'         Dalton C & BC        
+John Dyson              21 David Hill               9 
+Richard Bentley         21 Keith Clarkson           7 
+Dave Marshall           21 Peter Clay              13 
+John Bradley            21 Philip Battye           11 
+Stephen Archer          21 Trevor Boothroyd        19 
+Gary Blackburn          21 Percy Harrison          15 
+Richard Oldroyd         17 Richard Taylor          21 
+Alex Green              21 Colin Walder             4 
+               Points:   9                Points:   1 
+            Aggregate: 164             Aggregate:  99 
 
 
