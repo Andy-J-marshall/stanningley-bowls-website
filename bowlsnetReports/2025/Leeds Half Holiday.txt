@@ -1,4 +1,4 @@
-=== Leeds & District (Half Holiday) 2025 (as of Tue 1st Jul)
+=== Leeds & District (Half Holiday) 2025 (as of Wed 2nd Jul)
 === League Match Cards
 
         Div 1               Wed 2nd Apr       
@@ -1900,5 +1900,101 @@ Ken Stockhill       21 Roy Mitchell         3
 Dave Hurd           21 Roy Kellet          10 
         Aggregate: 109         Aggregate:  88 
            Points:  24            Points:  18 
+
+     Round of 16            Wed 2nd Jul       
+                          On Moor Allerton    
+     Grove Road A          Rothwell BC B      
+John West            7 Mark Hopps          21 
+Peter Allanson       9 Peter Burrows       21 
+Lynne Mattison      21 Lyn Best            13 
+Tony Boyes          21 Lyn Owen            11 
+Peter Sully         10 Ron Owen            21 
+Martin Murdoch      21 Mick Goodhall       17 
+         Handicap: +10          Handicap: Scr 
+        Aggregate:  99         Aggregate: 104 
+
+     Round of 16            Wed 2nd Jul       
+                           On Grove Road      
+    Whitkirk BC A         Scatcherd Park B    
+Tony Green          21 Jack Morley          8 
+Graham Hodder       21 Roy Mitchell         6 
+Phil Hill           21 Wendy Leybourne      5 
+Paul Hardy          21 Chris Roy Stuart    16 
+Graham Scholes      21 Roy Kellet          15 
+Philip Hatch        21 Ken McRae            7 
+         Handicap: Scr          Handicap: +30 
+        Aggregate: 126         Aggregate:  87 
+
+     Round of 16            Wed 2nd Jul       
+                         On Scatcherd Park    
+    Rothwell Park         Moor Allerton A     
+Martin Atkinson     14 Richard Mansell     21 
+Malcolm Cameron     11 Keith Harbage       21 
+David Wilson        21 Martin Kaitcer      10 
+Michael Mason        4 Paul Shafar         21 
+Tim Wilson          21 Geoff West          14 
+Karl Dutton         17 John Alper          21 
+         Handicap: +20          Handicap: Scr 
+        Aggregate: 108         Aggregate: 108 
+
+     Round of 16            Wed 2nd Jul       
+                          On Rothwell Park    
+     Potternewton         Meanwood Park B     
+Alan Smith          21 John Hindle         19 
+David Miller        12 Julie Keightley     21 
+Frank Powell         6 Oliver Devaney      21 
+Gail Schofield      21 John King           20 
+David Curland        7 Ian Macfarlaine     21 
+Phillip Schofield   13 Paul Dishman        21 
+         Handicap: +10          Handicap: Scr 
+        Aggregate:  90         Aggregate: 123 
+
+     Round of 16            Wed 2nd Jul       
+                             On Methley       
+        Colton             Rothwell BC A      
+Martin Dowling       3 Thomas Kaye         21 
+Andrea Ryder         8 Phil Wilsher        21 
+David Clarkson       9 Alan Box            21 
+Michael Noble       11 Gareth Gidman       21 
+Tony Ward           16 David Kaye          21 
+Peter Griffin       21 John Whiteley        8 
+         Handicap: +10          Handicap: Scr 
+        Aggregate:  78         Aggregate: 113 
+
+     Round of 16            Wed 2nd Jul       
+                          On Potternewton     
+     Holbeck Moor         Middleton Comm A    
+Brian Thompson      21 Neil Hudson          3 
+Carl Mahon          20 Malcolm Hallas      21 
+John Binns          21 Barbara Ragan       12 
+Steve Brown         14 Christine Glynn     21 
+Julie Mathews       21 Gordon Monk         17 
+Michael Stott       21 Karl Chapman        10 
+         Handicap: Scr          Handicap: +20 
+        Aggregate: 118         Aggregate: 104 
+
+     Round of 16            Wed 2nd Jul       
+                            On Whitkirk       
+    Churwell Park         Stanningley Park    
+Graham Goodhall     19 Steve Gardner       21 
+Ann Lucas           18 Stuart Reardon      21 
+Mick Harrison       21 Andy Waller          7 
+Stewart Wardlaw     18 David Eaton         21 
+Sue Harrison        21 Alyssa Randell      10 
+Stephen Briggs      11 Malcolm Crowsman    21 
+         Handicap: +10          Handicap: Scr 
+        Aggregate: 118         Aggregate: 101 
+
+     Round of 16            Wed 2nd Jul       
+                           On New Wortley     
+   Meanwood Park A         Pudsey Park A      
+Chris Daysh         21 Janet Pearson        3 
+Ian Howard          21 Dennis Walters       9 
+Peter Whipp         21 Brian Stevens       10 
+Rory Bligh          10 Frank Lindsay       21 
+Karen Portman       16 James Drury         21 
+Jeff Blackburn      10 Carl Birkin         21 
+         Handicap: Scr          Handicap: +10 
+        Aggregate:  99         Aggregate:  95 
 
 
