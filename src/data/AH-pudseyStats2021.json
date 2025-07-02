@@ -1,28 +1,28 @@
 {
     "playerResults": {
         "andy hodgson": {
-            "totalAgg": 855,
-            "totalAggAgainst": 945,
-            "availableAgg": 1113,
+            "totalAgg": 1112,
+            "totalAggAgainst": 1121,
+            "availableAgg": 1386,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 504,
-            "availableAwayAgg": 609,
+            "availableHomeAgg": 609,
+            "availableAwayAgg": 777,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 436,
-            "totalHomeAggAgainst": 363,
+            "totalHomeAgg": 538,
+            "totalHomeAggAgainst": 423,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 419,
-            "totalAwayAggAgainst": 582,
+            "totalAwayAgg": 574,
+            "totalAwayAggAgainst": 698,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 15,
-            "homeLosses": 9,
-            "awayWins": 7,
-            "awayLosses": 22,
+            "homeWins": 19,
+            "homeLosses": 10,
+            "awayWins": 13,
+            "awayLosses": 24,
             "cupWins": 0,
             "cupLosses": 0,
             "pairWins": 0,
@@ -33,8 +33,21 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 53,
+            "totalGamesPlayed": 66,
             "results": [
+                "andy hodgson 13 - 21 chris ellis",
+                "andy hodgson 21 - 9 david moore",
+                "andy hodgson 21 - 15 gary woodhead",
+                "andy hodgson 21 - 1 kath mazurke",
+                "andy hodgson 21 - 12 dennis brown",
+                "andy hodgson 21 - 0 lucas wood",
+                "andy hodgson 21 - 13 mark ellis",
+                "andy hodgson 16 - 21 graham baggley",
+                "andy hodgson 18 - 21 wendy shimbles",
+                "andy hodgson 21 - 14 chris wilson",
+                "andy hodgson 21 - 15 jason watters",
+                "andy hodgson 21 - 16 michael frost",
+                "andy hodgson 21 - 18 billy thorpe",
                 "andy hodgson 7 - 21 liam fallas",
                 "andy hodgson 9 - 21 wayne hirst",
                 "andy hodgson 9 - 21 ross meese",
@@ -99,6 +112,11 @@
                 "wins": 0,
                 "aggDiff": 0
             },
+            "bradford monday": {
+                "games": 13,
+                "wins": 10,
+                "aggDiff": 81
+            },
             "mirfield": {
                 "games": 3,
                 "wins": 0,
@@ -128,16 +146,6 @@
                 "games": 10,
                 "wins": 7,
                 "aggDiff": 21
-            },
-            "bradford vets": {
-                "games": 0,
-                "wins": 0,
-                "aggDiff": 0
-            },
-            "bradford vets (b)": {
-                "games": 0,
-                "wins": 0,
-                "aggDiff": 0
             },
             "bradford saturday": {
                 "games": 14,

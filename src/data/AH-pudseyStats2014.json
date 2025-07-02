@@ -1,28 +1,28 @@
 {
     "playerResults": {
         "andy hodgson": {
-            "totalAgg": 1029,
-            "totalAggAgainst": 741,
-            "availableAgg": 1134,
+            "totalAgg": 1218,
+            "totalAggAgainst": 952,
+            "availableAgg": 1365,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 546,
-            "availableAwayAgg": 504,
+            "availableHomeAgg": 630,
+            "availableAwayAgg": 651,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 498,
-            "totalHomeAggAgainst": 351,
+            "totalHomeAgg": 578,
+            "totalHomeAggAgainst": 423,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 447,
-            "totalAwayAggAgainst": 353,
+            "totalAwayAgg": 556,
+            "totalAwayAggAgainst": 492,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 19,
-            "homeLosses": 7,
-            "awayWins": 17,
-            "awayLosses": 7,
+            "homeWins": 21,
+            "homeLosses": 9,
+            "awayWins": 18,
+            "awayLosses": 13,
             "cupWins": 4,
             "cupLosses": 0,
             "pairWins": 0,
@@ -33,7 +33,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 54,
+            "totalGamesPlayed": 65,
             "results": [
                 "andy hodgson 21 - 12 jim swailes",
                 "andy hodgson 3 - 21 stuart wilson",
@@ -88,7 +88,18 @@
                 "andy hodgson 21 - 18 steve bowes",
                 "andy hodgson 13 - 21 lisa (lad) rice",
                 "andy hodgson 21 - 19 scott tattersley",
-                "andy hodgson 21 - 11 andy woodhead"
+                "andy hodgson 21 - 11 andy woodhead",
+                "andy hodgson 13 - 21 steve wood (a)",
+                "andy hodgson 16 - 21 dale holdsworth",
+                "andy hodgson 18 - 21 tony green",
+                "andy hodgson 21 - 13 jeff goodall",
+                "andy hodgson 11 - 21 graham roberts (a)",
+                "andy hodgson 16 - 21 dave whelan",
+                "andy hodgson 21 - 20 michael goodall",
+                "andy hodgson 13 - 21 chris wood (a)",
+                "andy hodgson 20 - 21 andy wood (a)",
+                "andy hodgson 19 - 21 jeff bolton (a)",
+                "andy hodgson 21 - 10 mike mitchell"
             ],
             "airewharfe monday": {
                 "games": 21,
@@ -121,14 +132,14 @@
                 "aggDiff": 0
             },
             "bradford saturday": {
-                "games": 0,
-                "wins": 0,
-                "aggDiff": 0
+                "games": 5,
+                "wins": 1,
+                "aggDiff": -18
             },
             "bradford saturday (b)": {
-                "games": 0,
-                "wins": 0,
-                "aggDiff": 0
+                "games": 6,
+                "wins": 2,
+                "aggDiff": -4
             }
         }
     },

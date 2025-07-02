@@ -469,7 +469,7 @@ Michael Rennison        21 Mark Ellis              12
 
    Division 2 (Godwin)            Sat 12th Apr        
         Rufford A                   Pudsey B          
-Dave Whelan             21 Andy Hodgson (b)        16 
+Dave Whelan             21 Andy Hodgson            16 
 Dave Kirkbright         14 David Hilliam (b)       21 
 Debbie Kirkbright       21 Ian Kemp                19 
 Martyn Benson (a)       21 Stewart Watson          13 
@@ -1054,7 +1054,7 @@ Danny Towning           21 Allan Caine (a)          9
 
    Division 2 (Godwin)            Sat 19th Apr        
          Pudsey B                   Cranmore          
-Andy Hodgson (b)        21 Michael Goodall         20 
+Andy Hodgson            21 Michael Goodall         20 
 Neil Nicholson          21 Mark King               12 
 Stewart Watson          21 Les Oddy                12 
 Paul Bowes              21 Robert King             16 
@@ -1626,7 +1626,7 @@ Mark Smith (a)           7 Stuart Wilson (a)       21
    Horsforth Woodside A             Pudsey B          
 David Hill               1 Stewart Watson          21 
 Graham Chaffer (a)      21 David Hilliam (b)       20 
-Chris Wood (a)          21 Andy Hodgson (b)        13 
+Chris Wood (a)          21 Andy Hodgson            13 
 Brian Dowling           21 Jeff Ramsden            18 
 Stephen Bottomley       14 Stuart Hanson (b)       21 
 James Crosland (a)      11 Darren Crawley          21 
@@ -4582,7 +4582,7 @@ Danny Towning           18 Mark Reynolds           21
 Dan Beardsworth (b)     21 Chris Wood (a)          10 
 Stewart Watson          21 Graham Chaffer (a)      10 
 Joe Bray                21 Brian Dowling           17 
-Andy Hodgson (b)        20 Andy Wood (a)           21 
+Andy Hodgson            20 Andy Wood (a)           21 
 Darren Crawley          18 Craig Fenton            21 
 Jack Bowes              21 Simon Chaffer (a)       14 
 Connor Davis            17 Stephen Bottomley       21 
@@ -7401,7 +7401,7 @@ Graham Raey (a)         13 Neil Simpson (a)        21
 Division 1 (Naylor Premier        Sat 2nd Aug         
       Shipley Club A                Pudsey A          
 David Jacques (a)       21 Thomas Hanson (a)       14 
-Steve Wood (a)          21 Andy Hodgson (b)        13 
+Steve Wood (a)          21 Andy Hodgson            13 
 Kieran Bannister        16 Gary Wike               21 
 Robbie Ellis            21 Mick Smith              16 
 Danny Carter            16 John Spinks (a)         21 
@@ -8030,7 +8030,7 @@ Peter Senior (a)        21 Tony Green               9
 
    Division 2 (Godwin)            Sat 9th Aug         
         Guiseley A                  Pudsey B          
-Jeff Bolton (a)         21 Andy Hodgson (b)        19 
+Jeff Bolton (a)         21 Andy Hodgson            19 
 David Leather (a)       15 Gary Wike               21 
 Kenneth Bull            13 Stewart Watson          21 
 Ralph Sissons           21 Tom Morris              11 
@@ -8577,7 +8577,7 @@ Alan Bray               16 Mick Smith              21
 Kevin Wood              20 Thomas Hanson (a)       21 
 Mark Regan (a)          21 Chris Mordue (a)        19 
 Josh Mordue (a)         21 James Hanson (a)        16 
-Dale Holdsworth         21 Andy Hodgson (b)        16 
+Dale Holdsworth         21 Andy Hodgson            16 
 Tony Riley              21 Connor Davis            16 
 Hedley Kettlewell       21 Liam Griffin            14 
             Aggregate: 170             Aggregate: 186 
@@ -9230,7 +9230,7 @@ Glen Smith              21 Kevin Wood              13
 
    Division 2 (Godwin)            Sat 23rd Aug        
          Pudsey B                  Rufford A          
-Andy Hodgson (b)        21 Mike Mitchell           10 
+Andy Hodgson            21 Mike Mitchell           10 
 David Hilliam (b)       21 Dave Whelan             19 
 Richard Hodgson         21 Steve Ainley (a)        17 
 Stewart Watson          21 John Fletcher           15 
@@ -9749,7 +9749,7 @@ Mick Smith              21 Stan Elwell              5
 John Spinks (a)         21 David McGourty          11 
 Jon Edmondson           21 Phil Vayro              17 
 Connor Davis            21 Shaun Kelly              7 
-Andy Hodgson (b)        18 Tony Green              21 
+Andy Hodgson            18 Tony Green              21 
             Aggregate: 198             Aggregate: 128 
                Points:  25                Points:   5 
 
@@ -10304,7 +10304,7 @@ Paul Rooks              21 Jon Edmondson           20
 John Benson              8 John Spinks (a)         21 
 Steve Bowes             15 Mick Smith              21 
 Paul Arthurs            21 Ian Shaw (b)            18 
-Jeff Goodall            13 Andy Hodgson (b)        21 
+Jeff Goodall            13 Andy Hodgson            21 
             Aggregate: 159             Aggregate: 187 
                Points:  11                Points:  19 
 
@@ -10930,7 +10930,7 @@ Paul Kaye                9 Ian Shaw (b)            21
 Paul Gill               10 Mick Smith              21 
 Graham Raey (a)          9 Thomas Hanson (a)       21 
 Phillip Dowgill (a)     21 John Spinks (a)         12 
-Graham Roberts (a)      21 Andy Hodgson (b)        11 
+Graham Roberts (a)      21 Andy Hodgson            11 
 Andy Fowler              6 Jon Edmondson           21 
 Bryan Harrison          15 Stuart Hanson (b)       21 
 Andrew Tate             21 David Hilliam (b)       19 
