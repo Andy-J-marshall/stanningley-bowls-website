@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday) 2025 (as of Tue 1st Jul)
+=== Leeds & District (Tuesday) 2025 (as of Wed 2nd Jul)
 === League Match Cards
 
       Division 1            Tue 8th Apr       
@@ -1770,6 +1770,19 @@ Ian Smith           21 Steve Briggs        11
            Points:  32            Points:  21 
 
       Division 1            Tue 1st Jul       
+    Holbeck Ltd A           Calverley YP      
+Paul Hainsworth     11 Roger French        21 
+Kian Hendry         21 Ricky Kearns         3 
+Alex Perry          21 Clifford Wheatley   12 
+Lance Greenwood     14 Brian Hodgson       21 
+Jason Ream          21 Rory Bligh          20 
+Lisa Hogan          17 Colin Whitley       21 
+Ian Wardle          21 Lindsey Rosendale   12 
+James Cuffe         15 Stephen Spurr       21 
+        Aggregate: 141         Aggregate: 131 
+           Points:  30            Points:  28 
+
+      Division 1            Tue 1st Jul       
      Saville Park            Meanwood A       
 David Steel         21 Michael Gregory     18 
 Karen Portman       17 Craig Goodall       21 
@@ -1837,7 +1850,7 @@ Simon Hampshaw      21 John Durkan          5
       Division 3            Tue 1st Jul       
      Holbeck Moor          Middleton Comm     
 Hilary Campbell      8 Malcolm Hallas      21 
-Steve Milton        19 Richard Aspin       21 
+Steve Milton        19 Mark Aspin          21 
 Russell Porter      11 Gordon Monk         21 
 Geoff Warbuton      14 Shirley Biancardo   21 
 Steve Brown         21 Christine Glyn       7 
@@ -1846,6 +1859,32 @@ John Binns          21 Neil Hudson         17
 Brian Thompson       9 Mario Biancardo     21 
         Aggregate: 124         Aggregate: 149 
            Points:  25            Points:  33 
+
+      Division 3            Tue 1st Jul       
+      Meanwood B           Moor Allerton      
+Pat Prosser         21 Linda Greenland     18 
+Kathy Hey           21 Ian Lee             13 
+David L Miller      21 Rodney Cundle       15 
+Oliver Devaney      21 Etta Cohen           7 
+Pat Blackburn       14 George Ramsden      21 
+Ian Macfarlane      21 Ian Franllin        15 
+Jeff Blackburn      17 John Alper          21 
+Graham Hey          14 Geoff West          21 
+        Aggregate: 150         Aggregate: 131 
+           Points:  32            Points:  28 
+
+      Division 3            Tue 1st Jul       
+    New Farnley B          Pudsey Park A      
+Pat Skelton         17 Brian Stevens       21 
+Bob Taylor          21 Darren Lowe         19 
+Ron Lavan           21 Elaine Hill         12 
+Hazel Goodall       18 Frank Lindsay       21 
+Jean Milner         21 Carl Birkin         18 
+John Ingham         21 Dennis Walters      17 
+Roger Milner        18 James Drury         21 
+Keith Skelton       21 Barry Wild          17 
+        Aggregate: 158         Aggregate: 146 
+           Points:  36            Points:  31 
 
       Division 3            Tue 1st Jul       
     Pudsey Park B              Colton         

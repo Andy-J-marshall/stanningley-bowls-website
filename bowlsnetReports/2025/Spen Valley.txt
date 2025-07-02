@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Tue 1st Jul)
+=== West Riding & Spen Valley 2025 (as of Wed 2nd Jul)
 === Comp. Match Cards
 
          Premier                  Wed 16th Apr        
@@ -1823,15 +1823,15 @@ Roger Milner            10 Peter Scott             21
 
         Division 3                Wed 21st May        
    Brighouse Sports - C          Scatcherd Park       
-Simon Cresswell          9 Raymond Ball            21 
-Sarha Horsley           19 Kevin Chadwick          21 
-Neal Hopper             21 Steve Briggs            15 
-Ann Horsley             21 N Mark Ellis            12 
-David Marsh             21 Graham Goodall          13 
-Peter McGowan           21 Martin Huxley           18 
-Max Delarrosa           21 Dawn Peters             10 
-Jodie Barraclough       21 Stuart Wardlaw          12 
-            Aggregate: 154             Aggregate: 122 
+Georgia Lane            19 Kevin Chadwick          21 
+Simon Cresswell         21 Graham Goodall          10 
+Andy Mitchell           10 Raymond Ball            21 
+Sarha Horsley           21 Michael Geary           17 
+Jodie Barraclough       21 *A.N.Other*             15 
+Ryan Collins            21 Stuart Wardlaw          11 
+Jamie Horsley           21 Martin Huxley           19 
+Neal Hopper             21 N Mark Ellis            10 
+            Aggregate: 155             Aggregate: 124 
                Points:   8                Points:   2 
 
         Division 3                Wed 21st May        
@@ -2925,6 +2925,253 @@ Joe Brook               19 Mark Gummery            21
 Rowena Oakey            21 Martin Watson           13 
             Aggregate: 152             Aggregate: 135 
                Points:   7                Points:   3 
+
+         Premier                  Wed 2nd Jul         
+     Heckmondwike - A            Eccleshill - A       
+Sean Carter             21 Steve Bowes             17 
+Jude Hatfield-Goodall   19 Nicky Rooks             21 
+Jacob Hatfield-Goodall  21 Paul Rooks              10 
+Alex Wolfenden          19 Nick Bastow             21 
+Charlie Ripley          21 Stephen Bastow          14 
+Graham Higgins          21 Daniel Teale             4 
+Sam Beresford           21 Graham Chaffer          10 
+Tom Gilbert             21 Andy Haran              19 
+            Aggregate: 164             Aggregate: 116 
+               Points:   8                Points:   2 
+
+         Premier                  Wed 2nd Jul         
+      Pudsey BC - A            Spen Victoria - A      
+Alex Edmondson          14 Andrew Wood             21 
+Craig Farquharson       13 Mark Ellis              21 
+Tom Lawrence            12 Mark Goodall            21 
+Matthew Leaf            14 Debi Davis              21 
+Pam Lindley             21 Peter Ellis             13 
+Peter Simpson           14 Garry Walker            21 
+Dave Smith              21 Philip Bryant           16 
+Jamie Winterburn        21 John Blackburn          19 
+            Aggregate: 130             Aggregate: 153 
+               Points:   3                Points:   8 
+
+         Premier                  Wed 2nd Jul         
+        Crossgates                  Whitkirk          
+Kez Smith               21 Adam Varley              9 
+Garreth Lally           21 Thomas Johnson           9 
+Nigel Cranston          21 Amy Tobin               18 
+Liam Griffin            21 Adam Sharpe              6 
+Harry Seehra            21 Emma Tobin              18 
+Simon Walder            21 Simon Cahill             9 
+Craig Hopwood           21 Nichole Farrar          11 
+Jonathan Wood           21 Stan Elwell             13 
+            Aggregate: 168             Aggregate:  93 
+               Points:  10                Points:   0 
+
+         Premier                  Wed 2nd Jul         
+   Brighouse Sports - A             Guiseley          
+John Bloomer            21 Bob Jeffrey              6 
+Robert Hopper           21 Chris Hight              7 
+Mark Connolly           21 Andy Wood               15 
+Dale Dyson              21 Joe Stockdale           19 
+Richard Hobson          18 Tommy Cater             21 
+Gordon Johnson          16 Ben Stockdale           21 
+Stuart Fletcher         16 Dennis Henderson        21 
+Daniel Dunkerley        12 James Teale             21 
+            Aggregate: 146             Aggregate: 131 
+               Points:   6                Points:   4 
+
+        Division 1                Wed 2nd Jul         
+       Swillington              Harold Club - A       
+Adam Conlon             21 David Halligan           9 
+Sam Donnelly            21 Chris Sowden             7 
+Andrew Morris           21 Andy Bairstow           12 
+Scott Normington        21 Eddie Hill               9 
+Guy Stewart              9 Thomas Jagger           21 
+Chris Firth             21 Paul Garside            13 
+David Waldron           17 Ian Wilson              21 
+Thomas Scorah           21 Stuart Firth            15 
+            Aggregate: 152             Aggregate: 107 
+               Points:   8                Points:   2 
+
+        Division 1                Wed 2nd Jul         
+  Mirfield Old Bank - A       Brighouse Sports - B    
+John Hopkinson          21 Tony Naylor             11 
+Andrew Sykes            21 Jon Gamble               8 
+Neil Shaw                9 Jason Horsley           21 
+Keith Bissell           12 John Horsley            21 
+Mandy Mitchell          21 Neal Hopper             17 
+Andrew Mitchell         21 Simon Cresswell         19 
+Andrew Foggo            21 Jamie Horsley           10 
+Bryan Ibbetson          19 Helen Simpson           21 
+            Aggregate: 145             Aggregate: 128 
+               Points:   7                Points:   3 
+
+        Division 1                Wed 2nd Jul         
+       Shipley - B               Littlemoor - B       
+John Sample             15 Stuart Watson           21 
+Richard Bloodworth      21 Jim Moorin              10 
+Cindy Rapinczuk         21 Alyssa Randell          10 
+Andrew Walker           19 Nicky Dewhirst          21 
+Bernie Criddle           8 Andy Marshall           21 
+Michael Kane             8 Philip Thornton         21 
+Scott Kerr              14 John Stocks             21 
+Jason Bridge            17 Alan Mazurke            21 
+            Aggregate: 123             Aggregate: 146 
+               Points:   2                Points:   9 
+
+        Division 1                Wed 2nd Jul         
+  Cleckheaton Sports - A        New Farnley - A       
+Michael Rhodes          21 Simon Lavan             20 
+Andy Robinson           21 Andrew Thompson          5 
+Richard Toulson         21 Paul Wood                7 
+Bradley Throup          21 Sophie Worrall          12 
+Jason Townend            3 Paul Jagger             21 
+Tim Hall                20 Ian Worrall             21 
+Stephen Archer           6 Ryan Lynch              21 
+Tony Throup             13 Ian Lynch               21 
+            Aggregate: 126             Aggregate: 128 
+               Points:   4                Points:   7 
+
+        Division 2                Wed 2nd Jul         
+   Cleckheaton Moorend       Mirfield Old Bank - B    
+Tyler James             21 Ron Jepson              12 
+Robert Spink            21 Terry Sykes             17 
+Philip Long             21 Shaun Berry             19 
+Lee Collinson           21 Charlie Sykes           10 
+Mick Stewart            21 Paul Moon               14 
+David Lloyd             21 Mark Morton             18 
+Frank Turnbull          21 Graham Sheard           20 
+Richard Firth           21 Norman Booth            14 
+            Aggregate: 168             Aggregate: 124 
+               Points:  10                Points:   0 
+
+        Division 2                Wed 2nd Jul         
+     Harold Club - B         Cleckheaton Sports - B   
+Nick Jagger             21 Shaun Suthers           16 
+Andrew Stocks           18 Reuben Taylor           21 
+Tony Godfrey             3 John Bradley            21 
+Matthew Hicks           21 Norman Swift            17 
+Dave Hill               11 Josh Walker             21 
+Nigel Wormald           14 Andy Walker             21 
+Vince Cleary            21 Gary Sharp              17 
+Shaun Godfrey           20 Chris Bray              21 
+            Aggregate: 129             Aggregate: 155 
+               Points:   3                Points:   8 
+
+        Division 2                Wed 2nd Jul         
+         Holbeck                  Rastrick - A        
+Kian Hendry             21 Graeme Rimmer           18 
+Ian Wardle              21 David Stuart             7 
+Lance Greenwood         21 Joshua Smith             6 
+Kyle Hainsworth         21 David Wood              19 
+Alex Perry              21 Robert Laycock          11 
+James Cuffe             21 Gaye Wood               11 
+Andrew Dewhirst         12 Michael Wood            21 
+Paul Hainsworth         21 Derek Hanner            16 
+            Aggregate: 159             Aggregate: 109 
+               Points:   9                Points:   1 
+
+        Division 2                Wed 2nd Jul         
+         Farsley                 Pudsey BC - B        
+Stuart Brook            18 Sue Chadwick            21 
+Peter Crowther          12 Duncan Reeves           21 
+Duncan McPhail          16 Logan Preston           21 
+Graham Petty             7 David Hilliam           21 
+Derek Pickering         21 Wendy Shimbles           9 
+Peter Scott             19 Simon Metcalfe          21 
+Ian Swinfield           14 Sebastian Mordue        21 
+Daniel Beardsworth      21 Steve Harwood           19 
+            Aggregate: 128             Aggregate: 154 
+               Points:   2                Points:   9 
+
+        Division 3                Wed 2nd Jul         
+      Royds Park - A          Brighouse Sports - C    
+Tim Rann                14 Ian Moxon               21 
+Barbara Johnstone       21 Ryan Collins             5 
+Harry Parsan            21 Ann Horsley             12 
+Gareth Harwood          21 Andy Mitchell           18 
+Susan Bentley           21 Ben English              8 
+David Broadhead         21 Jodie Barraclough       20 
+Steve Busz              21 Melissa Dunkerley       11 
+Philip Rann             14 Ruby Whalley            21 
+            Aggregate: 154             Aggregate: 116 
+               Points:   8                Points:   2 
+
+        Division 3                Wed 2nd Jul         
+       Rastrick - B          Cleckheaton Sports - C   
+Brian Thurlow           16 David Marshall          21 
+Michael Hollingdrake    21 Ian Gatenby             10 
+Dean Swift              21 Jane Bradley            18 
+Paul Rimmer             19 Andrew Page             21 
+Chris Stanley           17 Janice Walton           21 
+Graham Hall             21 David Griffiths         12 
+Chris Jenkinson         19 Alex Green              21 
+Jim Warne               21 Matthew Terry           17 
+            Aggregate: 155             Aggregate: 141 
+               Points:   6                Points:   4 
+
+        Division 3                Wed 2nd Jul         
+      Gildersome - A             Royds Park - B       
+Harvey Lockwood         21 Karl Denville            5 
+Graham Gaunt            19 Ray Downes              21 
+Gary Hudson             21 James Senior            14 
+David Taylor            11 David Renshaw           21 
+Ian Stocks              21 Darren Burton           12 
+Linda Gaunt             21 Chris Kennedy           15 
+Kevin Smales            21 Rachel Gowan            19 
+Alan Procter            21 Paul Murphy             10 
+            Aggregate: 156             Aggregate: 117 
+               Points:   8                Points:   2 
+
+        Division 4                Wed 2nd Jul         
+    Spen Victoria - D        Cleckheaton Sports - E   
+Brian Smith             21 Graham Ward              8 
+Ken Spencer             16 Mark Bailey             21 
+Laura Wood              21 Chris Bentley            5 
+Justine Wood            17 Rowena Oakey            21 
+Archie Wood              8 Joe Brook               21 
+Lexie Gould             21 Callum Brook            13 
+Trevor Austin           21 Helen Seed              17 
+Derek Warriner          21 Lynn Seddon             19 
+            Aggregate: 146             Aggregate: 125 
+               Points:   7                Points:   3 
+
+        Division 4                Wed 2nd Jul         
+       Drighlington             Heckmondwike - B      
+Ian Fairhurst           21 Daren Goodall           16 
+Andy Brooke             16 Ash Harker              21 
+Graham Fuller            9 Marie Franks            21 
+Philip Keating          21 Danny Logan             10 
+Pat Brooke              10 Roy Carter              21 
+Andrew Haigh             7 Eric Franks             21 
+Ken Oates                7 Gerald Bromley          21 
+Peter Thompson          21 Peter Buchan            16 
+            Aggregate: 112             Aggregate: 147 
+               Points:   3                Points:   8 
+
+        Division 4                Wed 2nd Jul         
+      Eccleshill - B             Gildersome - B       
+Sue Steward             21 David Rawson             6 
+Brian Barker             8 Frank Hales             21 
+Jenson Gilroy           19 Michael Ross            21 
+Dot Shaw                 8 Glenda Holmes           21 
+Vincent Gelder          21 John Ackroyd            10 
+Andrew Smith            15 Neil Schofield          21 
+Tom Spensley            21 David Holmes             7 
+Jack Steward            16 Tony Morris             21 
+            Aggregate: 129             Aggregate: 128 
+               Points:   5                Points:   5 
+
+        Division 4                Wed 2nd Jul         
+        Firth Park              Harold Club - C       
+Ian Fitton              21 Lee Boocock             17 
+Susan Kennerdale         8 Stuart Davis            21 
+Alan Parkin             15 Mark Gummery            21 
+Mark Prideaux           21 Andrew Jacobs           15 
+Alison Hodgson          21 Bryan Firth              9 
+Gary Morton             21 Kelly Gummery           16 
+Matty Mongan            21 Stephen Council         19 
+Graham Pearce            3 Carl Maguire            21 
+            Aggregate: 131             Aggregate: 139 
+               Points:   5                Points:   6 
 
 
        Round of 32                   Sat 5th Apr           

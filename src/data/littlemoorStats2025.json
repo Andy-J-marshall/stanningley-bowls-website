@@ -1,12 +1,12 @@
 {
     "playerResults": {
         "alyssa randell": {
-            "totalAgg": 64,
-            "totalAggAgainst": 102,
-            "availableAgg": 105,
+            "totalAgg": 74,
+            "totalAggAgainst": 123,
+            "availableAgg": 126,
             "availablePairsAgg": 0,
             "availableHomeAgg": 42,
-            "availableAwayAgg": 63,
+            "availableAwayAgg": 84,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -15,14 +15,14 @@
             "totalHomeAggAgainst": 39,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 33,
-            "totalAwayAggAgainst": 63,
+            "totalAwayAgg": 43,
+            "totalAwayAggAgainst": 84,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 1,
             "homeLosses": 1,
             "awayWins": 0,
-            "awayLosses": 3,
+            "awayLosses": 4,
             "cupWins": 0,
             "cupLosses": 0,
             "pairWins": 0,
@@ -33,13 +33,14 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 5,
+            "totalGamesPlayed": 6,
             "results": [
                 "alyssa randell 10 - 21 phil rayner",
                 "alyssa randell 10 - 21 john horsley",
                 "alyssa randell 8 - 21 paul wood",
                 "alyssa randell 21 - 18 eddie hill",
-                "alyssa randell 15 - 21 tim hall"
+                "alyssa randell 15 - 21 tim hall",
+                "alyssa randell 10 - 21 cindy rapinczuk"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -77,9 +78,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 5,
+                "games": 6,
                 "wins": 1,
-                "aggDiff": -38
+                "aggDiff": -49
             },
             "bradford vets": {
                 "games": 0,
@@ -103,12 +104,12 @@
             }
         },
         "andrew marshall": {
-            "totalAgg": 130,
-            "totalAggAgainst": 138,
-            "availableAgg": 168,
+            "totalAgg": 151,
+            "totalAggAgainst": 146,
+            "availableAgg": 189,
             "availablePairsAgg": 0,
             "availableHomeAgg": 105,
-            "availableAwayAgg": 63,
+            "availableAwayAgg": 84,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -117,13 +118,13 @@
             "totalHomeAggAgainst": 75,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 28,
-            "totalAwayAggAgainst": 63,
+            "totalAwayAgg": 49,
+            "totalAwayAggAgainst": 71,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 4,
             "homeLosses": 1,
-            "awayWins": 0,
+            "awayWins": 1,
             "awayLosses": 3,
             "cupWins": 0,
             "cupLosses": 0,
@@ -135,7 +136,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 8,
+            "totalGamesPlayed": 9,
             "results": [
                 "andrew marshall 18 - 21 stuart wilson",
                 "andrew marshall 21 - 14 bryan ibbetson",
@@ -144,7 +145,8 @@
                 "andrew marshall 21 - 10 andrew morris",
                 "andrew marshall 7 - 21 paul jagger",
                 "andrew marshall 21 - 12 nigel wormald",
-                "andrew marshall 8 - 21 tony throup"
+                "andrew marshall 8 - 21 tony throup",
+                "andrew marshall 21 - 8 bernie criddle"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -182,9 +184,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 8,
-                "wins": 4,
-                "aggDiff": -8
+                "games": 9,
+                "wins": 5,
+                "aggDiff": 5
             },
             "bradford vets": {
                 "games": 0,
@@ -208,28 +210,28 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 755,
-            "totalAggAgainst": 673,
-            "availableAgg": 882,
+            "totalAgg": 773,
+            "totalAggAgainst": 715,
+            "availableAgg": 924,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 399,
-            "availableAwayAgg": 420,
+            "availableHomeAgg": 420,
+            "availableAwayAgg": 441,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 376,
-            "totalHomeAggAgainst": 280,
+            "totalHomeAgg": 384,
+            "totalHomeAggAgainst": 301,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 330,
-            "totalAwayAggAgainst": 335,
+            "totalAwayAgg": 340,
+            "totalAwayAggAgainst": 356,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 13,
-            "homeLosses": 6,
+            "homeLosses": 7,
             "awayWins": 10,
-            "awayLosses": 10,
+            "awayLosses": 11,
             "cupWins": 1,
             "cupLosses": 2,
             "pairWins": 0,
@@ -240,7 +242,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 42,
+            "totalGamesPlayed": 44,
             "results": [
                 "jim moorin 21 - 2 janice connaleigh",
                 "jim moorin 10 - 21 deborah swann",
@@ -262,12 +264,14 @@
                 "jim moorin 8 - 21 dean scarth",
                 "jim moorin 17 - 21 peter crowther",
                 "jim moorin 17 - 21 eddie prince",
+                "jim moorin 8 - 21 alan standing",
                 "jim moorin 21 - 8 andrew walker",
                 "jim moorin 21 - 16 david smith",
                 "jim moorin 17 - 21 neil shaw",
                 "jim moorin 10 - 21 harry brooke",
                 "jim moorin 7 - 21 simon lavan",
                 "jim moorin 21 - 18 andy bairstow",
+                "jim moorin 10 - 21 richard bloodworth",
                 "jim moorin 9 - 21 chris bedford",
                 "jim moorin 21 - 14 steve spurr",
                 "jim moorin 6 - 21 kevin wood",
@@ -306,9 +310,9 @@
                 "aggDiff": 0
             },
             "bradford half holiday": {
-                "games": 8,
+                "games": 9,
                 "wins": 3,
-                "aggDiff": -17
+                "aggDiff": -30
             },
             "bradford half holiday (b)": {
                 "games": 0,
@@ -321,9 +325,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 7,
+                "games": 8,
                 "wins": 3,
-                "aggDiff": -20
+                "aggDiff": -31
             },
             "bradford vets": {
                 "games": 8,
@@ -347,12 +351,12 @@
             }
         },
         "john armitage": {
-            "totalAgg": 848,
-            "totalAggAgainst": 652,
-            "availableAgg": 924,
+            "totalAgg": 882,
+            "totalAggAgainst": 692,
+            "availableAgg": 966,
             "availablePairsAgg": 21,
             "availableHomeAgg": 399,
-            "availableAwayAgg": 399,
+            "availableAwayAgg": 441,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 21,
@@ -361,14 +365,14 @@
             "totalHomeAggAgainst": 268,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 357,
-            "totalAwayAggAgainst": 309,
+            "totalAwayAgg": 391,
+            "totalAwayAggAgainst": 349,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 14,
             "homeLosses": 5,
-            "awayWins": 11,
-            "awayLosses": 8,
+            "awayWins": 12,
+            "awayLosses": 9,
             "cupWins": 5,
             "cupLosses": 1,
             "pairWins": 1,
@@ -379,7 +383,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 44,
+            "totalGamesPlayed": 46,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
@@ -401,10 +405,12 @@
                 "john armitage 21 - 9 chris mordue",
                 "john armitage 14 - 21 paul rooks",
                 "john armitage 21 - 15 mark booth",
+                "john armitage 13 - 21 dale spragg",
                 "john armitage 21 - 12 malcolm crotty",
                 "john armitage 21 - 14 peter barstow",
                 "john armitage 21 - 13 chris wilson",
                 "john armitage 21 - 7 vince bussingham",
+                "john armitage 21 - 19 peter crowther",
                 "john armitage 21 - 8 david bland",
                 "john armitage 21 - 8 stephen bastow",
                 "john armitage 18 - 21 graham higgins",
@@ -437,9 +443,9 @@
                 "aggDiff": 14
             },
             "mirfield": {
-                "games": 9,
+                "games": 10,
                 "wins": 7,
-                "aggDiff": 52
+                "aggDiff": 44
             },
             "mirfield (b)": {
                 "games": 0,
@@ -452,9 +458,9 @@
                 "aggDiff": 9
             },
             "bradford half holiday (b)": {
-                "games": 3,
-                "wins": 3,
-                "aggDiff": 29
+                "games": 4,
+                "wins": 4,
+                "aggDiff": 31
             },
             "spen valley": {
                 "games": 14,
@@ -707,12 +713,12 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 326,
-            "totalAggAgainst": 333,
-            "availableAgg": 399,
+            "totalAgg": 347,
+            "totalAggAgainst": 348,
+            "availableAgg": 420,
             "availablePairsAgg": 0,
             "availableHomeAgg": 168,
-            "availableAwayAgg": 189,
+            "availableAwayAgg": 210,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -721,13 +727,13 @@
             "totalHomeAggAgainst": 126,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 122,
-            "totalAwayAggAgainst": 177,
+            "totalAwayAgg": 143,
+            "totalAwayAggAgainst": 192,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 7,
             "homeLosses": 1,
-            "awayWins": 2,
+            "awayWins": 3,
             "awayLosses": 7,
             "cupWins": 1,
             "cupLosses": 1,
@@ -739,7 +745,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 19,
+            "totalGamesPlayed": 20,
             "results": [
                 "stewart watson 7 - 21 steve rothwell",
                 "stewart watson 15 - 21 chris wilson",
@@ -752,6 +758,7 @@
                 "stewart watson 7 - 21 sophie worrall",
                 "stewart watson 21 - 18 ian wilson",
                 "stewart watson 21 - 20 andy robinson",
+                "stewart watson 21 - 15 john sample",
                 "stewart watson 21 - 9 stephen kenworthy",
                 "stewart watson 16 - 21 matthew jacques",
                 "stewart watson 21 - 17 james klenk",
@@ -797,9 +804,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 9,
-                "wins": 5,
-                "aggDiff": -1
+                "games": 10,
+                "wins": 6,
+                "aggDiff": 5
             },
             "bradford vets": {
                 "games": 0,
@@ -824,6 +831,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "01/07/2025",
+    "lastUpdated": "02/07/2025",
     "statsYear": "2025"
 }
