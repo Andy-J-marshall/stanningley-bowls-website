@@ -1,4 +1,4 @@
-=== Tadcaster Evening League 2025 (as of Wed 2nd Jul)
+=== Tadcaster Evening League 2025 (as of Thu 3rd Jul)
 === League Match Cards
 
     Richardson Trophy           Thu 3rd Apr        
@@ -2742,5 +2742,185 @@ Nick Moulding          21 Peter Rawcliffe       12
               Points:   9              Points:   1 
            Aggregate: 162           Aggregate: 114 
                Games:   7               Games:   1 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 1                                    
+        SCHOLES A             WHITKIRK KNIGHTS     
+Grant Bartle           21 Scott Bailey          15 
+Chris Broughton        21 Amy Tobin             15 
+Adam Conlon            21 A Martinho            13 
+David Walker           21 Stan Elwell           16 
+Ian Vickers            21 Kristian Walder       19 
+Jon Schofield          21 P Hill                 4 
+Joe Ruddlesden         21 Emma Tobin            10 
+Duncan Ruddlesden      18 Adam Varley           21 
+              Points:   9              Points:   1 
+           Aggregate: 165           Aggregate: 113 
+               Games:   7               Games:   1 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 1                                    
+      GARFORTH CC A             DRAGON FLIES       
+Michael Firth          21 Janet Mudd             3 
+Rob Carroll            21 Steve Mudd             5 
+Andrew Marshall        21 Barry Woodward         8 
+Ian Doughty            21 Chris Sunter          11 
+Nigel Turner           21 Paul Gill             16 
+Scott Normington       21 Carol Sunter          20 
+Lewis Cooper           16 Steve Webster         21 
+Les Hudson             17 Graham Hesling        21 
+              Points:   8              Points:   2 
+           Aggregate: 159           Aggregate: 105 
+               Games:   6               Games:   2 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 1                                    
+      BLACK SWAN A               MAGNET OLD        
+Dave Rowson            10 Andrew Green          21 
+Tom Beecroft           21 P Greenwood            9 
+Chaz Charleton         10 M Whittaker           21 
+Martin Hemingway       21 Graham Beck            5 
+Tony Derrick           11 D Bedford             21 
+David Hodgson          21 Andrew Wood            5 
+Andy Lloyd             11 Jon Lucas             21 
+Roy Flynn              21 Adam Hawkins           5 
+              Points:   6              Points:   4 
+           Aggregate: 126           Aggregate: 108 
+               Games:   4               Games:   4 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 1                                    
+       CROSSGATES            TADCASTER FALCONS     
+Mick Wood              19 Frank Cook            21 
+Phil Vayro             21 John Dykes            17 
+Lynn Wilcox             6 Andrew Dodsworth      21 
+Peter Wilcox           15 Steven Dykes          21 
+Chris Firth            19 Neil Taylor           21 
+Racheal Wilcox         21 David Lightfoot       14 
+James Wilcox           21 Aimee Tootell          7 
+Thomas Cranston         6 Graeme Franklin       21 
+              Points:   3              Points:   7 
+           Aggregate: 128           Aggregate: 143 
+               Games:   3               Games:   5 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 2                                    
+    KNARESBOROUGH OAK            SCHOLES B         
+Paul Passman           21 Steven Proberts       20 
+Paul Herrington        14 Philip Elliott        21 
+Nicholas Lofthouse     21 John Pennock           7 
+Phil Berry             21 Paul Ellis             6 
+David Finlayson        11 Jennifer Elliott      21 
+Mark Herrington        21 G Dickinson           17 
+Rob Barker             17 J Frisby              21 
+Andy Ison              13 S Wright              21 
+              Points:   6              Points:   4 
+           Aggregate: 139           Aggregate: 134 
+               Games:   4               Games:   4 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 3                                    
+        STARBECK               SHERBURN BEES       
+Sue Green              21 Ruth Nicholson        14 
+Evan Challis           10 Albert Mouser         21 
+Tony Hawkes            21 Margaret Saunders      6 
+John Somerville        21 Russell Porter        19 
+Richard Armstrong      21 Paul Williamson       13 
+Simon Hoare            18 Peter Kendall         21 
+Steve Holmes           21 Geoff Saunders        17 
+Jane Johnston          11 Steven Porter         21 
+              Points:   7              Points:   3 
+           Aggregate: 144           Aggregate: 132 
+               Games:   5               Games:   3 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 3                                    
+      GARFORTH REC           BOSTON SPARTANS A     
+Lee Watson             21 Graham Biggs          11 
+Tony Boyes             21 William Shaw          18 
+B Kyle                 20 David Richardson      21 
+Joy Slater             21 Alan Best             12 
+Bill Robinson          21 Barry Ibbetson        20 
+Julie Matthews         21 John Potter           20 
+Doug Fraser            21 Susan Farnsworth       5 
+Mary Black             14 Richard Widnall       21 
+              Points:   8              Points:   2 
+           Aggregate: 160           Aggregate: 128 
+               Games:   6               Games:   2 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 3                                    
+    ALMSCLIFFE KITES             COLLINGHAM        
+Alan Broadwell         21 Nick Danby             3 
+Margaret Atkinson      21 Ian Jones             12 
+Linda Brown            12 Helen Danby           21 
+Bob Williams           12 Angela Scorfield      21 
+Sonya Garfit            7 Tim Wilson            21 
+Paul Egdar             10 John Scruton          21 
+Tony Brown             10 Jonathan Kinroy       21 
+John Atkinson          19 Alan Scorfield        21 
+              Points:   2              Points:   8 
+           Aggregate: 112           Aggregate: 141 
+               Games:   2               Games:   6 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 3                                    
+    COLTON CRUSADERS           GARFORTH CC B       
+David Ryder            21 Nigel Ware            14 
+Stuart Birch           21 Neil Robinson         14 
+A Rushfirth            21 Trevor Curtis          6 
+M Wright               21 Trevor Kell            9 
+Robert Horner          21 Steve Millar          16 
+Nick Ryder             17 Joe Doughty           21 
+Andy Wright            21 Alison Roberts        19 
+P Lawson               21 Ian Thornhill         20 
+              Points:   9              Points:   1 
+           Aggregate: 164           Aggregate: 119 
+               Games:   7               Games:   1 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 4                                    
+       SWILLINGTON              BLACK SWAN B       
+Guy Stewart            21 Dave Kinder            0 
+Steve Clough           20 Sue Mitchell          21 
+Matthew Lindley        21 Stephen Westoby       19 
+Lee Stewart            18 Lee Chandler          21 
+Michelle Scorah        16 Conor McCarthy        21 
+Kieran Thurston        21 Val Rowson             6 
+John Walker            21 Mark Raynard          13 
+David Waldron          21 Richard Hebblewhite    8 
+              Points:   7              Points:   3 
+           Aggregate: 159           Aggregate: 109 
+               Games:   5               Games:   3 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 4                                    
+     DRAGON HOPPERS           LOW HARROGATE B      
+Colin Rudd             21 Audrey Sneddon        10 
+Nick Bahado            17 Glenys Old            21 
+Sally Holland          13 Adele Zagorski        21 
+Philip Boreham          8 Dave Moon             21 
+Hazel Parker           21 Peter Rawcliffe       20 
+Paul Seaward           21 David Hughan          11 
+White Peter            21 Alan Old              13 
+Richard Bullough       14 Jo Bonsels            21 
+              Points:   4              Points:   6 
+           Aggregate: 136           Aggregate: 138 
+               Games:   4               Games:   4 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 4                                    
+      THORNER WANDS          KNARESBOROUGH ASH     
+Claire Wilkinson       21 Bill Harrison         20 
+Thelma Lancaster       21 Eric Taylor           11 
+Christine Holmes       10 Paul Addle            21 
+Nick Koslowsky         21 Sue Massey             9 
+Richard Eshelby        21 R Bushell             19 
+John Lofthouse         10 Phil Blaymire         21 
+Richard Smoothy         8 Tony Pedel            21 
+Granville Deighton     21 Alf Osburn            16 
+              Points:   5              Points:   5 
+           Aggregate: 133           Aggregate: 138 
+               Games:   5               Games:   3 
 
 
