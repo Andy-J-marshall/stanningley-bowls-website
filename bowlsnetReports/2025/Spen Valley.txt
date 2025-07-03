@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Wed 2nd Jul)
+=== West Riding & Spen Valley 2025 (as of Thu 3rd Jul)
 === Comp. Match Cards
 
          Premier                  Wed 16th Apr        
@@ -2966,6 +2966,19 @@ Jonathan Wood           21 Stan Elwell             13
                Points:  10                Points:   0 
 
          Premier                  Wed 2nd Jul         
+      Littlemoor - A              Shipley - A         
+Will Bedford            21 Chris Bedford           20 
+Paul Bowes              21 Graeme Dytiche           9 
+John Armitage           21 Ian Jacques              6 
+Glen Pratt              21 Matthew Jacques         16 
+Simon Wider             21 Chris Jacques           16 
+Kevin Siddle            19 Craig Fenton            21 
+Mark Allman             11 Stuart Wilson           21 
+Martin Fulton            9 David Bland             21 
+            Aggregate: 144             Aggregate: 130 
+               Points:   7                Points:   3 
+
+         Premier                  Wed 2nd Jul         
    Brighouse Sports - A             Guiseley          
 John Bloomer            21 Bob Jeffrey              6 
 Robert Hopper           21 Chris Hight              7 
@@ -2990,6 +3003,19 @@ David Waldron           17 Ian Wilson              21
 Thomas Scorah           21 Stuart Firth            15 
             Aggregate: 152             Aggregate: 107 
                Points:   8                Points:   2 
+
+        Division 1                Wed 2nd Jul         
+      Chapel Street            Spen Victoria - B      
+Scott Bailey            21 Richard Brooke           7 
+David Walker            21 Mark Worrall             4 
+Steve Hartley           21 Phil Rayner             18 
+David Smith             21 Paul Blackburn          20 
+Joe Ruddlesden          21 David Billington        18 
+Duncan Ruddlesden       21 Paul Warwick             9 
+Neil Wood Snr           21 Lewis Pember            13 
+Michael Wood            14 Harry Brooke            21 
+            Aggregate: 161             Aggregate: 110 
+               Points:   9                Points:   1 
 
         Division 1                Wed 2nd Jul         
   Mirfield Old Bank - A       Brighouse Sports - B    
@@ -3044,6 +3070,19 @@ Richard Firth           21 Norman Booth            14
                Points:  10                Points:   0 
 
         Division 2                Wed 2nd Jul         
+     New Farnley - B             Hanging Heaton       
+John Ingham             20 David Armitage          21 
+Roger Milner            19 Kath Robinson           21 
+David J Taylor           4 Gary Amatt              21 
+James Skelton           17 Malcolm Preston         21 
+Keith Skelton           18 Mark McGuire            21 
+Andy Gardener           21 Alwyn Beedel            20 
+Dave Taylor             21 Jacob Amatt             14 
+Jake Skelton            21 Christopher Smith        5 
+            Aggregate: 141             Aggregate: 144 
+               Points:   3                Points:   8 
+
+        Division 2                Wed 2nd Jul         
      Harold Club - B         Cleckheaton Sports - B   
 Nick Jagger             21 Shaun Suthers           16 
 Andrew Stocks           18 Reuben Taylor           21 
@@ -3081,6 +3120,19 @@ Ian Swinfield           14 Sebastian Mordue        21
 Daniel Beardsworth      21 Steve Harwood           19 
             Aggregate: 128             Aggregate: 154 
                Points:   2                Points:   9 
+
+        Division 3                Wed 2nd Jul         
+    Spen Victoria - C            Scatcherd Park       
+John Shackleton         21 Martin Huxley           19 
+John Smith              18 Billy Ward              21 
+Terry Varney            14 Steve Briggs            21 
+Lucas Wood              21 Kevin Chadwick           6 
+Mel Blackburn           19 Graham Goodall          21 
+Steve Kemp              21 Roy Kellett             19 
+Paul Walker             21 Stuart Wardlaw          19 
+Michael Potter          21 N Mark Ellis             9 
+            Aggregate: 156             Aggregate: 135 
+               Points:   7                Points:   3 
 
         Division 3                Wed 2nd Jul         
       Royds Park - A          Brighouse Sports - C    
@@ -3159,6 +3211,19 @@ Tom Spensley            21 David Holmes             7
 Jack Steward            16 Tony Morris             21 
             Aggregate: 129             Aggregate: 128 
                Points:   5                Points:   5 
+
+        Division 4                Wed 2nd Jul         
+  Cleckheaton Sports - D        Heckmondwike - C      
+Michael Binns           10 Kath Field              21 
+Janet Inness            21 Susan McMananamin       16 
+Chris Watson            21 Roger Jackson            6 
+Chris Piercy            18 Steve Kidd              21 
+Elaine Binns            21 George Tozer             7 
+Gillian Shore           21 *A.N.Other*             11 
+Neil Blackburn          12 Paul Cooper             21 
+Geoff Akerman            8 Janet Firth             21 
+            Aggregate: 132             Aggregate: 124 
+               Points:   6                Points:   4 
 
         Division 4                Wed 2nd Jul         
         Firth Park              Harold Club - C       

@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Saturday) 2025 (as of Wed 2nd Jul)
+=== AireDale & Wharfedale (Saturday) 2025 (as of Thu 3rd Jul)
 === League Match Cards
 
            Premier                      Sat 5th Apr           
@@ -263,7 +263,7 @@ Paul Harrison               21 Peter O'Brien               19
 Maxine Welsh                13 Mick Snowden                21 
 Steve West                  21 Andy Newell                 15 
 Jordan Preston              13 Sheila Hudson               21 
-Scott Ker                   21 Kerstin Clapham             20 
+Scott Kerr                  21 Kerstin Clapham             20 
 Tony Greenwood               9 Sally Clarke                21 
 Pam Nellist                 21 Stuart Parker               13 
 Ian Greenwood               21 Adele Hart-Woods            17 
@@ -879,7 +879,7 @@ Rob Barker                  21 Lek Fletcher                14
         Shipley Club A                Wharfemeadows A         
 Michael Kane 'A'            21 Linda Yates 'Ab'            10 
 James Welsh                 21 Sheila Mayor                13 
-Scott Ker                   18 Michael Smith               21 
+Scott Kerr                  18 Michael Smith               21 
 Bernard Criddle             21 Pauline Barnett              9 
 Lynne Shaw                  21 Jean Harrison               18 
 Rachel Telford 'A'          21 John Chippindale 'A'         6 
@@ -2011,7 +2011,7 @@ Philip Peel                 20 Andrew Walker               21
 Dennis Thorpe               15 Myra Humpleby               21 
 John Greenwood'A'           21 Kevin Cullerton             13 
 David Bottomley 'A'         21 Bernard Criddle             18 
-Thomas Kilminster           21 Scott Ker                   19 
+Thomas Kilminster           21 Scott Kerr                  19 
 Cindy Rapinczuk             21 James Welsh                  9 
 Chris Womersley 'A'         21 Paul Colman                  9 
 Lek Fletcher                21 Sylvia Halliday              5 
@@ -2414,7 +2414,7 @@ Paul Crawford 'A'           21 Valerie Riley               16
 James Welsh                 11 Sue Farrell 'A'             21 
 Paul Harrison               20 Philip Clifton              21 
 Bernard Criddle             21 Christine Ratcliffe          8 
-Scott Ker                   21 Robert Ramsden 'A'          10 
+Scott Kerr                  21 Robert Ramsden 'A'          10 
 Paul Colman                 21 Dorothy Walker              15 
 Lynne Shaw                  12 Andy Matthews               21 
 Peter Mountain 'A'          21 Derek Bridge                16 
@@ -3191,15 +3191,15 @@ Dave Hill                   21 *No Player*                  0
 Steven Spurr                21 Daniel Moore 'A'            20 
 Brian Hodgson                8 Mick Duke                   21 
 *No Player*                  0 Cath Rushton                21 
-Steve Bottomley             21 Stuart Wrigley              20 
+*No Player*                  0 Stuart Wrigley              21 
 Ken Garbett'A'              21 Darrell Gore                13 
 Paul Haigh'A'               20 Tracy Harrison 'A'          21 
 *No Player*                  0 David Leeming'A'            21 
 David Johnson 'A'           21 James Cokell                13 
 Roger French                21 Matt Carter                 14 
-                    Games:   6                     Games:   4 
-                Aggregate: 154                 Aggregate: 164 
-                   Points:  15                    Points:  15 
+                    Games:   5                     Games:   5 
+                Aggregate: 133                 Aggregate: 165 
+                   Points:  11                    Points:  19 
 
           Division 1                    Sat 14th Jun          
          Holt Park A                   Myrtle Park A          
@@ -3255,7 +3255,7 @@ James Welsh                 20 Ruth Sutcliffe              21
 Bernard Criddle             21 John Sutton                  8 
 Sylvia Halliday             18 Dave Ascough                21 
 Lynne Shaw                  21 Granvillw Stevenson          8 
-Scott Ker                   15 Kath Crompton               21 
+Scott Kerr                  15 Kath Crompton               21 
 Paul Colman                 21 Linda Stoyles               11 
 Rachel Telford 'A'          21 Nigel Stockdale             10 
 David Dorman                18 Phil Clayton                21 
@@ -3659,7 +3659,7 @@ Peter Sandles                5 Graham Baggley              21
 David Lyons                 21 James Welsh                 15 
 Peter Byford 'A'            10 Peter Mountain 'A'          21 
 John Patrick 'A'            21 Paul Harrison                2 
-Debbie Sandles              17 Scott Ker                   21 
+Debbie Sandles              17 Scott Kerr                  21 
 Sylvia Petty 'A'            21 Sylvia Halliday              6 
 Terry Cook                  21 Bernard Criddle             16 
 Ernest Johnson              21 Paul Colman                  2 

@@ -351,25 +351,25 @@
             }
         },
         "john armitage": {
-            "totalAgg": 882,
-            "totalAggAgainst": 692,
-            "availableAgg": 966,
+            "totalAgg": 903,
+            "totalAggAgainst": 698,
+            "availableAgg": 987,
             "availablePairsAgg": 21,
-            "availableHomeAgg": 399,
+            "availableHomeAgg": 420,
             "availableAwayAgg": 441,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 21,
             "totalPairsAggAgainst": 9,
-            "totalHomeAgg": 373,
-            "totalHomeAggAgainst": 268,
+            "totalHomeAgg": 394,
+            "totalHomeAggAgainst": 274,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 391,
             "totalAwayAggAgainst": 349,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 14,
+            "homeWins": 15,
             "homeLosses": 5,
             "awayWins": 12,
             "awayLosses": 9,
@@ -383,7 +383,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 46,
+            "totalGamesPlayed": 47,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
@@ -420,6 +420,7 @@
                 "john armitage 21 - 5 peter simpson",
                 "john armitage 21 - 8 andy wood",
                 "john armitage 21 - 18 debi davis",
+                "john armitage 21 - 6 ian jacques",
                 "john armitage 21 - 9 myles summers",
                 "john armitage 21 - 7 bailey dawson",
                 "john armitage 21 - 13 dale hardcastle",
@@ -463,9 +464,9 @@
                 "aggDiff": 31
             },
             "spen valley": {
-                "games": 14,
-                "wins": 9,
-                "aggDiff": 72
+                "games": 15,
+                "wins": 10,
+                "aggDiff": 87
             },
             "spen valley (b)": {
                 "games": 0,
@@ -494,18 +495,18 @@
             }
         },
         "martin fulton": {
-            "totalAgg": 282,
-            "totalAggAgainst": 318,
-            "availableAgg": 378,
+            "totalAgg": 291,
+            "totalAggAgainst": 339,
+            "availableAgg": 399,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 168,
+            "availableHomeAgg": 189,
             "availableAwayAgg": 210,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 159,
-            "totalHomeAggAgainst": 109,
+            "totalHomeAgg": 168,
+            "totalHomeAggAgainst": 130,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 123,
@@ -513,7 +514,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 6,
-            "homeLosses": 2,
+            "homeLosses": 3,
             "awayWins": 1,
             "awayLosses": 9,
             "cupWins": 0,
@@ -526,7 +527,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 18,
+            "totalGamesPlayed": 19,
             "results": [
                 "martin fulton 21 - 5 mark barker",
                 "martin fulton 21 - 6 vincent bussingham",
@@ -545,7 +546,8 @@
                 "martin fulton 10 - 21 robert hopper",
                 "martin fulton 13 - 21 kez smith",
                 "martin fulton 17 - 21 alex edmondson",
-                "martin fulton 8 - 21 joe stockdale"
+                "martin fulton 8 - 21 joe stockdale",
+                "martin fulton 9 - 21 david bland"
             ],
             "airewharfe monday": {
                 "games": 1,
@@ -578,9 +580,9 @@
                 "aggDiff": 0
             },
             "spen valley": {
-                "games": 8,
+                "games": 9,
                 "wins": 2,
-                "aggDiff": -41
+                "aggDiff": -53
             },
             "spen valley (b)": {
                 "games": 0,
@@ -609,25 +611,25 @@
             }
         },
         "paul bowes": {
-            "totalAgg": 127,
-            "totalAggAgainst": 117,
-            "availableAgg": 147,
+            "totalAgg": 148,
+            "totalAggAgainst": 126,
+            "availableAgg": 168,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 63,
+            "availableHomeAgg": 84,
             "availableAwayAgg": 84,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 59,
-            "totalHomeAggAgainst": 57,
+            "totalHomeAgg": 80,
+            "totalHomeAggAgainst": 66,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 68,
             "totalAwayAggAgainst": 60,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 1,
+            "homeWins": 2,
             "homeLosses": 2,
             "awayWins": 2,
             "awayLosses": 2,
@@ -641,7 +643,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 7,
+            "totalGamesPlayed": 8,
             "results": [
                 "paul bowes 11 - 21 neil simpson",
                 "paul bowes 20 - 21 nick bastow",
@@ -649,6 +651,7 @@
                 "paul bowes 21 - 15 pam lindley",
                 "paul bowes 21 - 14 graham oliver",
                 "paul bowes 18 - 21 conor davies",
+                "paul bowes 21 - 9 graeme dytiche",
                 "paul bowes 21 - 4 kevin wood"
             ],
             "airewharfe monday": {
@@ -682,9 +685,9 @@
                 "aggDiff": 0
             },
             "spen valley": {
-                "games": 6,
-                "wins": 2,
-                "aggDiff": -7
+                "games": 7,
+                "wins": 3,
+                "aggDiff": 5
             },
             "spen valley (b)": {
                 "games": 1,
@@ -831,6 +834,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "02/07/2025",
+    "lastUpdated": "03/07/2025",
     "statsYear": "2025"
 }
