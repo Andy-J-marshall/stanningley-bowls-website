@@ -1,4 +1,4 @@
-=== Bradford (Vets) 2025 (as of Thu 3rd Jul)
+=== Bradford (Vets) 2025 (as of Fri 4th Jul)
 === Comp. Match Cards
 
 Division Four ( 6 Players)       Thu 10th Apr       
@@ -2990,6 +2990,20 @@ Carol Royston            21 Mark Durrans         16
              Aggregate: 142          Aggregate: 117 
                  Games:   6              Games:   2 
                 Points:  20             Points:   8 
+
+      Division Three              Thu 3rd Jul       
+          Wyke B                  Brackenhill       
+Val Wilson               21 John Howarth         13 
+Richard Kerr             21 Gordon McLennon      10 
+Ian Addy                 21 Jackie Wilkinson     10 
+Pam Wall                 21 Steve Hillam         12 
+Robert Foalks            21 Michael Feeley        6 
+Malcolm Park             21 Kathy Wilford        12 
+Colin White              21 Bob Armitage          9 
+Vincent Kerr              9 Madeline Gamble      21 
+             Aggregate: 156          Aggregate:  93 
+                 Games:   7              Games:   1 
+                Points:  26             Points:   2 
 
 Division Four ( 6 Players)        Thu 3rd Jul       
           Salts B                Queensbury B       

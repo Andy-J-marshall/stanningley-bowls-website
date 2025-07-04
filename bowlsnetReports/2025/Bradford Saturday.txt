@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Thu 3rd Jul)
+=== Bradford (Saturday) 2025 (as of Fri 4th Jul)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -2848,5 +2848,21 @@ Andrew Walker              21 Kevin Siddle              19
                    Games:   6                   Games:   4 
                Aggregate: 170               Aggregate: 164 
                   Points:  17                  Points:  13 
+
+     Division 3 (Mellor)              Fri 4th Jul          
+         Guiseley B                   Asa Briggs B         
+Ralph Sissons              21 Steve Peers               16 
+Peter Storey               21 Debra Pearson              8 
+Lynne Ogden                21 Carl Smith                 9 
+Maureen Javis              16 Kevin Burrage             21 
+Jeremy Jones               21 Bob Hiley                 16 
+Carolyn Matthewman         19 Curtis Brown              21 
+Colin Matthewman           14 Peter Wilkinson           21 
+Caroline Corbett           21 Mathew Pearson            12 
+John French                21 Paula Graham              20 
+Roger Waite                21 Gary Woodhead              8 
+                   Games:   7                   Games:   3 
+               Aggregate: 196               Aggregate: 152 
+                  Points:  22                  Points:   8 
 
 
