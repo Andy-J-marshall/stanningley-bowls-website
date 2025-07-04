@@ -1,4 +1,4 @@
-=== Leeds & District Ladies Bowling League 2025 (as of Thu 3rd Jul)
+=== Leeds & District Ladies Bowling League 2025 (as of Fri 4th Jul)
 === League Match Cards
 
         League               Thu 17th Apr       
@@ -1082,6 +1082,19 @@ Karen Whitelaw       21 Hazel Goodall        15
 
         League                Thu 3rd Jul       
       Division 1                                
+   Rufford Park 'A'          Shipley Club       
+Eileen Beck          21 Val Riley             9 
+Pauline Ingleson     20 Dianne Halliday      21 
+Angela Carter        19 Pam Nellist          21 
+Carole Wright        21 Rachael Slater       18 
+Angela Bennett       21 Sylvia Halliday      18 
+Carolyn Matthewman   21 Wendy Spivey         17 
+Angela Burnham       17 Ioana Nistor         21 
+Val Grace             9 Rachel Telford       21 
+         Aggregate: 149          Aggregate: 146 
+
+        League                Thu 3rd Jul       
+      Division 1                                
        Calverley              Grove Hill        
 Margaret Whitaker    21 Linda Smith           9 
 Lindsey Rosendale    21 Judith Collins        9 
@@ -1092,6 +1105,19 @@ Carol Matthews       21 Gill Godden           5
 Mandy Wilson         17 Belinda Mitchell     21 
 Gail Schofield       11 Kay Lodge            21 
          Aggregate: 154          Aggregate:  96 
+
+        League                Thu 3rd Jul       
+      Division 1                                
+      Gildersome              Eccleshill        
+Linda Gaunt           8 Pauline Gilroy       21 
+Bev Hampshaw         21 Jan Smith            18 
+Alison Lockwood      21 Sue Butler           16 
+Daphne Scott         21 Sarah Harrison       17 
+Rachel Barnard        9 Paula Graham         21 
+Helen Thomas         10 Diane Emery          21 
+Diane Hales          13 Melissa Gilroy       21 
+Tracey Norton         8 Debbi Davies         21 
+         Aggregate: 111          Aggregate: 156 
 
         League                Thu 3rd Jul       
       Division 2                                
@@ -1127,9 +1153,22 @@ Kath Crompton        21 Janet Sykes           2
 Joyce Banks          21 Betty Sparkes        12 
 Ruth Owen            21 Carol Dunn            6 
 Suzanne Henshall     12 Kathleen Haley       21 
-Anne Mackman         21 Maureen Sheriden     15 
+Anne Mackman         21 Maureen Sheriden      5 
 Linda Stoyles        21 Pat Penman            8 
 Ruth Sutcliffe       19 Michelle Norcliffe   21 
-         Aggregate: 144          Aggregate: 106 
+         Aggregate: 144          Aggregate:  96 
+
+        League                Thu 3rd Jul       
+      Division 2                                
+       West Royd              New Farnley       
+Pam Wilson           13 Jean Milner          21 
+Jan Mguiness         21 Susan Jones          16 
+Joan Coop            21 Pat Skelton          19 
+Sandra Knell         21 Cath Maury            8 
+Caroline Coop        10 Emma Dixon           21 
+Anne Gothard          8 Linda Taylor         21 
+Elizabeth Farrar     15 Barbara Taylor       21 
+Hazel Stancliffe      5 Catherine Crane      21 
+         Aggregate: 114          Aggregate: 148 
 
 

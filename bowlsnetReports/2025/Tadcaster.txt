@@ -1,4 +1,4 @@
-=== Tadcaster Evening League 2025 (as of Thu 3rd Jul)
+=== Tadcaster Evening League 2025 (as of Fri 4th Jul)
 === League Match Cards
 
     Richardson Trophy           Thu 3rd Apr        
@@ -2790,6 +2790,21 @@ Roy Flynn              21 Adam Hawkins           5
 
     Main League 2025            Thu 3rd Jul        
           Div 1                                    
+        WAYSIDE A              THORNER JOKERS      
+Jason Worsnop          21 Toni Laurie            9 
+Barry Sugden           18 Owen Laurie           21 
+M Reynolds             21 Peter Holmes           6 
+Alan Rothery           21 John Mais             20 
+Chris Rigby            21 Mick Cooper           13 
+Paul Worsnop           21 Suzie Lawson          15 
+Peter Darbyshire       21 Isabel Laurie          8 
+Adam Walker            21 Darren Evans          10 
+              Points:   9              Points:   1 
+           Aggregate: 165           Aggregate: 102 
+               Games:   7               Games:   1 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 1                                    
        CROSSGATES            TADCASTER FALCONS     
 Mick Wood              19 Frank Cook            21 
 Phil Vayro             21 John Dykes            17 
@@ -2805,6 +2820,21 @@ Thomas Cranston         6 Graeme Franklin       21
 
     Main League 2025            Thu 3rd Jul        
           Div 2                                    
+     LOW HARROGATE A          BARWICK BADGERS      
+David Clarke           20 David Wright          21 
+Nick Binns             21 Jeff Binns            13 
+Chris Olding           21 Antoaneta Bainbridge  20 
+Ian Jarratt            21 Ian Wallbank           5 
+Cath Patrick           21 Pam Binns             16 
+Graham Patrick         21 Dennis Bainbridge      6 
+David Spilsbury        21 Derek Dobson           6 
+Angela Spilsbury       17 Jane Boyd             21 
+              Points:   8              Points:   2 
+           Aggregate: 163           Aggregate: 108 
+               Games:   6               Games:   2 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 2                                    
     KNARESBOROUGH OAK            SCHOLES B         
 Paul Passman           21 Steven Proberts       20 
 Paul Herrington        14 Philip Elliott        21 
@@ -2817,6 +2847,36 @@ Andy Ison              13 S Wright              21
               Points:   6              Points:   4 
            Aggregate: 139           Aggregate: 134 
                Games:   4               Games:   4 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 2                                    
+     WHITKIRK KNAVES             WAYSIDE B         
+G Hodder               21 Lee Singleton         11 
+Phil Cox               21 David Small            5 
+Paul Hardy             21 J Forbes               6 
+T Johnson              21 Chris Wood            17 
+Jim Smith              21 David Singleton       13 
+S Cahill               21 Greggan Johnstone     12 
+Michael Sheerin        21 Jenny Asker            3 
+Jason Richards         21 Colin Rigby           19 
+              Points:  10              Points:   0 
+           Aggregate: 168           Aggregate:  86 
+               Games:   8               Games:   0 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 2                                    
+       MAGNET PALE             EAST END PARK       
+P Wetherhill           21 Paul Simms             7 
+M Shah                 16 Helen Simms           21 
+Nick Heaton            21 Nigel Rawlings         7 
+M Greenwood            18 Dave Smith            21 
+Tony Wood              21 Peter Simmons         12 
+T Hardy                18 Joesy Olivant         21 
+Melanie Collins        11 Paul Reynard          21 
+Jordan Riley           10 Sophie Olivant        21 
+              Points:   5              Points:   5 
+           Aggregate: 136           Aggregate: 131 
+               Games:   3               Games:   5 
 
     Main League 2025            Thu 3rd Jul        
           Div 3                                    
@@ -2838,7 +2898,7 @@ Jane Johnston          11 Steven Porter         21
       GARFORTH REC           BOSTON SPARTANS A     
 Lee Watson             21 Graham Biggs          11 
 Tony Boyes             21 William Shaw          18 
-B Kyle                 20 David Richardson      21 
+B Kyle                 20 Dave Robinson         21 
 Joy Slater             21 Alan Best             12 
 Bill Robinson          21 Barry Ibbetson        20 
 Julie Matthews         21 John Potter           20 
@@ -2891,6 +2951,21 @@ John Walker            21 Mark Raynard          13
 David Waldron          21 Richard Hebblewhite    8 
               Points:   7              Points:   3 
            Aggregate: 159           Aggregate: 109 
+               Games:   5               Games:   3 
+
+    Main League 2025            Thu 3rd Jul        
+          Div 4                                    
+     BARWICK BEAVERS           COLTON SPORTS       
+Anthony Marsden        21 Deborah Orrell         9 
+Derek Harding          21 Allan Millington       1 
+Jennifer Dodgson       17 Richard Naylor        21 
+Sue Wilkinson          14 Elizabeth Loveday     21 
+Margaret Finister      21 Sue Barker             8 
+Keith Dodgson          21 Brian Scholes         10 
+Jack Finister          14 Mick Barker           21 
+Peter Elliot           21 Anthony Fawcett        7 
+              Points:   7              Points:   3 
+           Aggregate: 150           Aggregate:  98 
                Games:   5               Games:   3 
 
     Main League 2025            Thu 3rd Jul        

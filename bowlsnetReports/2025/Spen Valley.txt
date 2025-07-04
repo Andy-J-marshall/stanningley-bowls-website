@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Thu 3rd Jul)
+=== West Riding & Spen Valley 2025 (as of Fri 4th Jul)
 === Comp. Match Cards
 
          Premier                  Wed 16th Apr        
@@ -478,7 +478,7 @@ Lawrie Bairstow         21 Logan Preston           11
 Frank Turnbull          21 Sebastian Mordue         8 
 David Lloyd             21 Craig Farquharson       19 
 Mick Stewart             9 Peter Simpson           21 
-Robert Spink            21 Granville Thornton      14 
+Robert Spink            21 Gary Thornton           14 
             Aggregate: 154             Aggregate: 117 
                Points:   8                Points:   2 
 
@@ -2142,7 +2142,7 @@ Janice Connaleigh        8 Graeme Rimmer           21
 Sue Chadwick            21 Robert Laycock           9 
 Sebastian Mordue        21 Chris Smith              6 
 Simon Metcalfe          21 David Stuart            17 
-Granville Thornton       7 Michael Wood            21 
+Gary Thornton            7 Michael Wood            21 
             Aggregate: 141             Aggregate: 107 
                Points:   8                Points:   2 
 
@@ -3237,6 +3237,19 @@ Matty Mongan            21 Stephen Council         19
 Graham Pearce            3 Carl Maguire            21 
             Aggregate: 131             Aggregate: 139 
                Points:   5                Points:   6 
+
+        Division 3                Thu 3rd Jul         
+  Cleckheaton Sports - F         Pudsey BC - C        
+Ian Webb                17 Steve Clayton           21 
+Mick Collins            20 Janice Connaleigh       21 
+Mark Wright             18 Angie Morris            21 
+Richard Simpson         10 Martin Bethell          21 
+Richard Oldroyd         19 David McDonald          21 
+Ryan Piercy              4 Richard Hodgson         21 
+Andy Porritt            21 Rick Pearson            12 
+Mark Waite              14 Andy Barnatt            21 
+            Aggregate: 123             Aggregate: 159 
+               Points:   1                Points:  10 
 
 
        Round of 32                   Sat 5th Apr           

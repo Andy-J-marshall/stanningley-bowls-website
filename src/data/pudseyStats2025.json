@@ -270,12 +270,12 @@
             }
         },
         "richard hodgson": {
-            "totalAgg": 431,
-            "totalAggAgainst": 352,
-            "availableAgg": 462,
+            "totalAgg": 452,
+            "totalAggAgainst": 356,
+            "availableAgg": 483,
             "availablePairsAgg": 21,
             "availableHomeAgg": 231,
-            "availableAwayAgg": 168,
+            "availableAwayAgg": 189,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 20,
@@ -284,13 +284,13 @@
             "totalHomeAggAgainst": 143,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 147,
-            "totalAwayAggAgainst": 156,
+            "totalAwayAgg": 168,
+            "totalAwayAggAgainst": 160,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 10,
             "homeLosses": 1,
-            "awayWins": 3,
+            "awayWins": 4,
             "awayLosses": 5,
             "cupWins": 2,
             "cupLosses": 1,
@@ -302,7 +302,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 22,
+            "totalGamesPlayed": 23,
             "results": [
                 "richard hodgson & thomas hanson 20 - 21 kevin siddle & nick bastow",
                 "richard hodgson 21 - 12 david pike",
@@ -325,6 +325,7 @@
                 "richard hodgson 21 - 19 kath robinson",
                 "richard hodgson 19 - 21 shaun suthers",
                 "richard hodgson 21 - 9 jason ream",
+                "richard hodgson 21 - 4 ryan piercy",
                 "richard hodgson 21 - 12 graham gaunt"
             ],
             "airewharfe monday": {
@@ -378,9 +379,9 @@
                 "aggDiff": 28
             },
             "spen valley (c)": {
-                "games": 1,
-                "wins": 1,
-                "aggDiff": 9
+                "games": 2,
+                "wins": 2,
+                "aggDiff": 26
             },
             "bradford vets": {
                 "games": 0,
@@ -557,6 +558,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "03/07/2025",
+    "lastUpdated": "04/07/2025",
     "statsYear": "2025"
 }
