@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday) 2025 (as of Fri 4th Jul)
+=== Leeds & District (Tuesday) 2025 (as of Sun 6th Jul)
 === League Match Cards
 
       Division 1            Tue 8th Apr       
@@ -1200,8 +1200,9 @@ Andrew Marshall     11 Steve Brown         21
 Paul Leonard        20 Brian Thompson      21 
 Colin Haque         20 Hilary Campbell     21 
 Phil Sutcliffe      21 Jim Barker          15 
-         Handicap: +20          Handicap: +30 
-        Aggregate: 174         Aggregate: 170 
+         Handicap: Scr          Handicap: +20 
+        Aggregate: 154         Aggregate: 160 
+  Result Overridden                           
 
      Round of 16            Tue 3rd Jun       
                          On Chapel Allerton   
@@ -1284,8 +1285,9 @@ Maureen Bradshaw    21 Julie Cavalli       15
 Derek Howell        19 Michael Gore        21 
 Barbara Nellis      19 Reece Pratt         21 
 Maveen Tomlinson    19 Joe Adams           21 
-         Handicap: +30          Handicap: +20 
-        Aggregate: 169         Aggregate: 172 
+         Handicap: +20          Handicap: Scr 
+        Aggregate: 159         Aggregate: 152 
+  Result Overridden                           
 
      Round of 16            Tue 3rd Jun       
                             On Holt Park      
