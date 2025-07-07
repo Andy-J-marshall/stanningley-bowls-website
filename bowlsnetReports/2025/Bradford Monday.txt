@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Sun 6th Jul)
+=== Bradford (Mon. Evening) 2025 (as of Mon 7th Jul)
 === Comp. Match Cards
 
   Division 1 - Thurston           Mon 7th Apr         
@@ -1488,5 +1488,125 @@ Anthony Lockwood        14 Mick Tolson             21
             Aggregate:  93             Aggregate:  85 
                 Games:   3                 Games:   3 
                Points:  15                Points:  11 
+
+  Division 1 - Thurston           Mon 7th Jul         
+         Farsley                 West Bradford        
+Jim Swailes             21 Gregg Fairhead          15 
+Richard Whittaker       18 Kevin Buckley           21 
+Derek Pickering         21 Paul Wood               10 
+Peter Crowther          21 Jason Greenwood         11 
+Colin Rhodes            18 Colin Isles             21 
+Graham Petty            21 Mark Chambers           18 
+            Aggregate: 120             Aggregate:  96 
+                Games:   4                 Games:   2 
+               Points:  18                Points:   8 
+
+  Division 1 - Thurston           Mon 7th Jul         
+         Hightown               Spen Victoria A       
+Daren Munt              21 Debi Davis              16 
+Alex Edmondson          21 Mark Ellis              16 
+Logan Preston           21 Kevin Wood              17 
+Peter Simpson           21 Mark Goodall            19 
+Darren Goodall          21 Mark Worrall            19 
+Jude Hatfield-Goodall    9 Peter Ellis             21 
+            Aggregate: 114             Aggregate: 108 
+                Games:   5                 Games:   1 
+               Points:  16                Points:  10 
+
+  Division 1 - Thurston           Mon 7th Jul         
+      Shipley Club A             Crowghyll Park       
+Andrew Walker           11 Richard Briggs          21 
+Richard Bloodworth      21 Derek Bridge            14 
+Stuart Wilson           21 Andy Matthews           16 
+David Bland             21 Sue Farrell              9 
+Matthew Jacques         21 Eddie Prince            12 
+Ian Jacques             21 Trevor Hodgson          13 
+            Aggregate: 116             Aggregate:  85 
+                Games:   5                 Games:   1 
+               Points:  20                Points:   6 
+
+Division 2 - Robert Bland         Mon 7th Jul         
+        Clayton A                Shipley Club B       
+Bev Shutt               21 Michael Kane            13 
+Pauline Macgregor       17 Graham Baggley          21 
+Lee Greenwood           21 Scott Kerr              14 
+Gaynor Shutt            21 Garry Nellist           19 
+Ray Atkinson            21 Jason Bridge            14 
+Kevin Flanagan          21 David Dorman            16 
+            Aggregate: 122             Aggregate:  97 
+                Games:   5                 Games:   1 
+               Points:  19                Points:   7 
+
+Division 2 - Robert Bland         Mon 7th Jul         
+          Idle B                Spen Victoria B       
+Robin Haydock            9 Lexie Gould             21 
+Elizabeth Rawnsley       5 Laura Wood              21 
+Jackie Spencer          19 Archie Wood             21 
+David Priestley         21 Justine Wood            16 
+Roger Morgan-Williams   19 Lucas Wood              21 
+John Mellan             21 Steve Kemp              15 
+            Aggregate:  94             Aggregate: 115 
+                Games:   2                 Games:   4 
+               Points:   9                Points:  17 
+
+Division 2 - Robert Bland         Mon 7th Jul         
+      New Greengates             Drighlington A       
+David Newton            21 Phil Keating            14 
+Alan Broscombe          21 Dianne Hoole            18 
+James Burnett           17 Richard Jones           21 
+Chris Burnett           19 Mick Warren             21 
+James Dennison          21 John Roberts            12 
+Allan Smith             21 Ken Oates               12 
+            Aggregate: 120             Aggregate:  98 
+                Games:   4                 Games:   2 
+               Points:  18                Points:   8 
+
+ Division 3 - City Sports         Mon 7th Jul         
+        Queensbury                  Thornton          
+Lorraine Birch          21 Karen Brame             14 
+Michael Clare           21 Mervyn Gration           8 
+David Jarvis            21 Dawn Rigget             14 
+John Moore              14 June Harrison           21 
+Brian Raistrick         21 Kenny McCafferty        14 
+Muriel Keighley         21 Anthony Lockwood        20 
+            Aggregate: 119             Aggregate:  91 
+                Games:   5                 Games:   1 
+               Points:  19                Points:   7 
+
+ Division 3 - City Sports         Mon 7th Jul         
+      Drighlington B            Bradford Moor A       
+Mick Tolson             19 Alan Naylor 'A'         21 
+Peter Thompson          13 Neil Duxbury            21 
+Andrew Brooke           18 Michael Jarvis          21 
+David Dowse             11 Sharon Queripel         21 
+Andrew Haigh            18 Tracy Duxbury           21 
+Karl Denville            6 Mark Durrans 'A'        21 
+            Aggregate:  85             Aggregate: 126 
+                Games:   0                 Games:   6 
+               Points:   4                Points:  22 
+
+ Division 3 - City Sports         Mon 7th Jul         
+     Bradford Moor B               Clayton B          
+John Appleyard          21 Joe Midgley             20 
+Geoff Woodfine           9 Sue Findlay             21 
+Edward East             15 Steve Edgley            21 
+Margaret East           10 Malcolm Riggs           21 
+Diane Barraclough       18 Trevor Bateman          21 
+Martin Barraclough      21 Ian Findlay             12 
+            Aggregate:  94             Aggregate: 116 
+                Games:   2                 Games:   4 
+               Points:   8                Points:  18 
+
+ Division 3 - City Sports         Mon 7th Jul         
+       Brackenhill                 West Royd          
+Ellie Campbell          16 Howard Gothard          21 
+Gordon McLennon         21 Anne Gothard            15 
+Bob Armitage            21 Elizabeth Farrar         7 
+Kathy Wilford           18 Hazel Stanclif          21 
+Madeline Gamble         21 Sandra Knell             8 
+Graham Wilkinson 'A'    21 Jan McGuiness           14 
+            Aggregate: 118             Aggregate:  86 
+                Games:   4                 Games:   2 
+               Points:  19                Points:   7 
 
 

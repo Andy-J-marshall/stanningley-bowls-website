@@ -1,4 +1,4 @@
-=== Leeds & District (Saturday) 2025 (as of Sun 6th Jul)
+=== Leeds & District (Saturday) 2025 (as of Mon 7th Jul)
 === League Match Cards
 
    Saturday League          Sat 5th Apr       
@@ -1669,5 +1669,19 @@ David Hurd          21 Christine Glynn     19
 Matthew Rollinson    5 Mario Biancardo     21 
         Aggregate:  98         Aggregate: 137 
            Points:  21            Points:  31 
+
+   Saturday League          Sun 6th Jul       
+     League Div 1                             
+     Holbeck Ltd              Meanwood        
+Andrew Dewhirst     13 Simon Walder        21 
+Ryan Birch          13 David L Miller      21 
+Joanne Unwin        17 Ian Macfarlane      21 
+Lisa Hogan          13 Andy Webster        21 
+James Cuffe         19 Jenny Holliday      21 
+Jason Ream          21 Jeff Dumbrell       18 
+Alex Perry          21 Mick Gregory        15 
+Paul Hainsworth     21 Jeff Blackburn      16 
+        Aggregate: 138         Aggregate: 154 
+           Points:  28            Points:  35 
 
 
