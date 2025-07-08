@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Mon 7th Jul)
+=== Bradford (Mon. Evening) 2025 (as of Tue 8th Jul)
 === Comp. Match Cards
 
   Division 1 - Thurston           Mon 7th Apr         
@@ -1502,6 +1502,18 @@ Graham Petty            21 Mark Chambers           18
                Points:  18                Points:   8 
 
   Division 1 - Thurston           Mon 7th Jul         
+        Tyersal A                  Asa Briggs         
+Mason Lindley           14 Michael Frost           21 
+Pam Lindley             21 Carl Smith               8 
+Simon Metcalfe          21 Clive Foord             16 
+Chris Mordue            21 Curtis Brown             1 
+Wendy Shimbles          21 Gary Woodhead           13 
+Gary Wike               21 Paula Graham             5 
+            Aggregate: 119             Aggregate:  64 
+                Games:   5                 Games:   1 
+               Points:  23                Points:   3 
+
+  Division 1 - Thurston           Mon 7th Jul         
          Hightown               Spen Victoria A       
 Daren Munt              21 Debi Davis              16 
 Alex Edmondson          21 Mark Ellis              16 
@@ -1536,6 +1548,18 @@ Kevin Flanagan          21 David Dorman            16
             Aggregate: 122             Aggregate:  97 
                 Games:   5                 Games:   1 
                Points:  19                Points:   7 
+
+Division 2 - Robert Bland         Mon 7th Jul         
+      Heckmondwike B                 Idle A           
+Marie Franks            17 Roy Barlow              21 
+Peter Buchan            14 Dave Duckett            21 
+Daniel Logan            21 Michael Leach           13 
+Eric Franks             10 Alan Sinfield           21 
+Sue Macmanamin           9 Pam Barlow              21 
+Roger Jackson           16 Yvonne Coppin           21 
+            Aggregate:  87             Aggregate: 118 
+                Games:   1                 Games:   5 
+               Points:   6                Points:  20 
 
 Division 2 - Robert Bland         Mon 7th Jul         
           Idle B                Spen Victoria B       

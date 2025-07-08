@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Mon 7th Jul)
+=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Tue 8th Jul)
 === League Match Cards
 
        Division 1                Mon 7th Apr        
@@ -3437,6 +3437,22 @@ Nicky Rooks            21 Simon Wider             9
               Points:  24               Points:   6 
 
        Division 2                Mon 7th Jul        
+     Wharfemeadows A             Guiseley B         
+Linda Yates            12 Graham Oliver          21 
+Corrine Thuilliez      21 Jeremy Jones           20 
+Pauline Barnett 'A'    19 Ralph Sissons          21 
+Howard Gardiner        19 Bob Jeffrey            21 
+John Chippindale 'A'   21 Lynn Ogden             14 
+Garrie Bolton          21 Caroline Corbett       10 
+Michael Smith          14 Carolyn Matthewman     21 
+Paul Crawford 'A'      21 Andy Baxter            14 
+Ben Smith              14 Colin Matthewman       21 
+Graham Tansley         12 Billy Cater            21 
+           Aggregate: 174            Aggregate: 184 
+               Games:   4                Games:   6 
+              Points:  13               Points:  17 
+
+       Division 2                Mon 7th Jul        
         Rufford B               Eccleshill B        
 Val Grace              21 Roger Binks            16 
 Stuart Parker          21 Andrew Magoolagan      18 
@@ -3597,6 +3613,22 @@ Julie Watson            5 Anne Mackman           21
               Points:  11               Points:  19 
 
        Division 4                Mon 7th Jul        
+        Menston B              Wharfemeadows B      
+Christine Asquith      11 Jane Bowden            21 
+Stuart Davies          14 Lynne Harper           21 
+Peter Gaston           21 David Warburton        17 
+Christine Hughes       21 John Farquhar          14 
+Jean Shepherd          21 Dot Dixon              17 
+Barbara Harrison       21 Lorna Crabtree         17 
+Geoff Winter           21 Brenda Appleyard        4 
+Monty Navias           21 Jeffrey Crabtree       19 
+Rosemary Cowley        21 Billy Hartley          15 
+Jim Hughes             19 Ray Smith Snr          21 
+           Aggregate: 191            Aggregate: 166 
+               Games:   7                Games:   3 
+              Points:  20               Points:  10 
+
+       Division 4                Mon 7th Jul        
         Calverley                  Baildon          
 Kenneth Paley           9 Christine Ratcliffe    21 
 Russell Porter         21 Rae Heddle              3 
@@ -3607,10 +3639,26 @@ Roy Whiteley           21 Celia Throup           13
 Lynne Porter           18 John Tyson             21 
 Malcolm Pratt          18 Dorothy Walker         21 
 Alan Horsfield         20 Jim Whittle            21 
-Colin Whitley          21 Geoff Hanson           19 
+Clifford Wheatley      21 Geoff Hanson           19 
            Aggregate: 178            Aggregate: 174 
                Games:   5                Games:   5 
               Points:  16               Points:  14 
+
+       Division 4                Mon 7th Jul        
+       Holt Park B                 Adel B           
+Terry Cook             21 Alan Nicholson          7 
+Ray Boast              21 Gordon Robinson        17 
+Mark Swindlehurst      21 Christina Levy          5 
+Colin Kilner           21 Sue Pagdin              7 
+David Sadler           21 Phil Hayward            6 
+Brendan Clarke         21 Steve Richardson       16 
+Debbie Sandles         21 Pat Ellse              18 
+Lois Horsfall          21 Tony Haddrill          16 
+Bruce Hetherington     15 Kath Hynes             21 
+John Tate              18 Alan Wittrick          21 
+           Aggregate: 201            Aggregate: 134 
+               Games:   8                Games:   2 
+              Points:  25               Points:   5 
 
 
 
