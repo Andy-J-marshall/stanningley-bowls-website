@@ -104,25 +104,25 @@
             }
         },
         "andrew marshall": {
-            "totalAgg": 151,
-            "totalAggAgainst": 146,
-            "availableAgg": 189,
+            "totalAgg": 172,
+            "totalAggAgainst": 155,
+            "availableAgg": 210,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 105,
+            "availableHomeAgg": 126,
             "availableAwayAgg": 84,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 102,
-            "totalHomeAggAgainst": 75,
+            "totalHomeAgg": 123,
+            "totalHomeAggAgainst": 84,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 49,
             "totalAwayAggAgainst": 71,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 4,
+            "homeWins": 5,
             "homeLosses": 1,
             "awayWins": 1,
             "awayLosses": 3,
@@ -136,7 +136,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 9,
+            "totalGamesPlayed": 10,
             "results": [
                 "andrew marshall 18 - 21 stuart wilson",
                 "andrew marshall 21 - 14 bryan ibbetson",
@@ -146,7 +146,8 @@
                 "andrew marshall 7 - 21 paul jagger",
                 "andrew marshall 21 - 12 nigel wormald",
                 "andrew marshall 8 - 21 tony throup",
-                "andrew marshall 21 - 8 bernie criddle"
+                "andrew marshall 21 - 8 bernie criddle",
+                "andrew marshall 21 - 9 david smith"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -184,9 +185,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 9,
-                "wins": 5,
-                "aggDiff": 5
+                "games": 10,
+                "wins": 6,
+                "aggDiff": 17
             },
             "bradford vets": {
                 "games": 0,
@@ -351,12 +352,12 @@
             }
         },
         "john armitage": {
-            "totalAgg": 935,
-            "totalAggAgainst": 730,
-            "availableAgg": 1029,
+            "totalAgg": 956,
+            "totalAggAgainst": 741,
+            "availableAgg": 1050,
             "availablePairsAgg": 21,
             "availableHomeAgg": 441,
-            "availableAwayAgg": 462,
+            "availableAwayAgg": 483,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 21,
@@ -365,13 +366,13 @@
             "totalHomeAggAgainst": 285,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 402,
-            "totalAwayAggAgainst": 370,
+            "totalAwayAgg": 423,
+            "totalAwayAggAgainst": 381,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 16,
             "homeLosses": 5,
-            "awayWins": 12,
+            "awayWins": 13,
             "awayLosses": 10,
             "cupWins": 5,
             "cupLosses": 1,
@@ -383,7 +384,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 49,
+            "totalGamesPlayed": 50,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
@@ -423,6 +424,7 @@
                 "john armitage 21 - 8 andy wood",
                 "john armitage 21 - 18 debi davis",
                 "john armitage 21 - 6 ian jacques",
+                "john armitage 21 - 11 nick bastow",
                 "john armitage 21 - 9 myles summers",
                 "john armitage 21 - 7 bailey dawson",
                 "john armitage 21 - 13 dale hardcastle",
@@ -466,9 +468,9 @@
                 "aggDiff": 31
             },
             "spen valley": {
-                "games": 15,
-                "wins": 10,
-                "aggDiff": 87
+                "games": 16,
+                "wins": 11,
+                "aggDiff": 97
             },
             "spen valley (b)": {
                 "games": 0,
@@ -497,12 +499,12 @@
             }
         },
         "martin fulton": {
-            "totalAgg": 291,
-            "totalAggAgainst": 339,
-            "availableAgg": 399,
+            "totalAgg": 306,
+            "totalAggAgainst": 360,
+            "availableAgg": 420,
             "availablePairsAgg": 0,
             "availableHomeAgg": 189,
-            "availableAwayAgg": 210,
+            "availableAwayAgg": 231,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -511,14 +513,14 @@
             "totalHomeAggAgainst": 130,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 123,
-            "totalAwayAggAgainst": 209,
+            "totalAwayAgg": 138,
+            "totalAwayAggAgainst": 230,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 6,
             "homeLosses": 3,
             "awayWins": 1,
-            "awayLosses": 9,
+            "awayLosses": 10,
             "cupWins": 0,
             "cupLosses": 0,
             "pairWins": 0,
@@ -529,7 +531,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 19,
+            "totalGamesPlayed": 20,
             "results": [
                 "martin fulton 21 - 5 mark barker",
                 "martin fulton 21 - 6 vincent bussingham",
@@ -541,6 +543,7 @@
                 "martin fulton 21 - 17 graham blenkinsop",
                 "martin fulton 8 - 21 ryan pendlebury",
                 "martin fulton 21 - 12 nigel miller",
+                "martin fulton 15 - 21 andrew gallagher",
                 "martin fulton 19 - 21 ian jacques",
                 "martin fulton 21 - 19 nicky rooks",
                 "martin fulton 3 - 21 charlie ripley",
@@ -567,9 +570,9 @@
                 "aggDiff": -8
             },
             "mirfield (b)": {
-                "games": 6,
+                "games": 7,
                 "wins": 3,
-                "aggDiff": -7
+                "aggDiff": -13
             },
             "bradford half holiday": {
                 "games": 0,
@@ -613,12 +616,12 @@
             }
         },
         "paul bowes": {
-            "totalAgg": 148,
-            "totalAggAgainst": 126,
-            "availableAgg": 168,
+            "totalAgg": 169,
+            "totalAggAgainst": 142,
+            "availableAgg": 189,
             "availablePairsAgg": 0,
             "availableHomeAgg": 84,
-            "availableAwayAgg": 84,
+            "availableAwayAgg": 105,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -627,13 +630,13 @@
             "totalHomeAggAgainst": 66,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 68,
-            "totalAwayAggAgainst": 60,
+            "totalAwayAgg": 89,
+            "totalAwayAggAgainst": 76,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 2,
             "homeLosses": 2,
-            "awayWins": 2,
+            "awayWins": 3,
             "awayLosses": 2,
             "cupWins": 0,
             "cupLosses": 0,
@@ -645,7 +648,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 8,
+            "totalGamesPlayed": 9,
             "results": [
                 "paul bowes 11 - 21 neil simpson",
                 "paul bowes 20 - 21 nick bastow",
@@ -654,6 +657,7 @@
                 "paul bowes 21 - 14 graham oliver",
                 "paul bowes 18 - 21 conor davies",
                 "paul bowes 21 - 9 graeme dytiche",
+                "paul bowes 21 - 16 tim bennett",
                 "paul bowes 21 - 4 kevin wood"
             ],
             "airewharfe monday": {
@@ -687,9 +691,9 @@
                 "aggDiff": 0
             },
             "spen valley": {
-                "games": 7,
-                "wins": 3,
-                "aggDiff": 5
+                "games": 8,
+                "wins": 4,
+                "aggDiff": 10
             },
             "spen valley (b)": {
                 "games": 1,
@@ -718,25 +722,25 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 347,
-            "totalAggAgainst": 348,
-            "availableAgg": 420,
+            "totalAgg": 368,
+            "totalAggAgainst": 362,
+            "availableAgg": 441,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 168,
+            "availableHomeAgg": 189,
             "availableAwayAgg": 210,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 167,
-            "totalHomeAggAgainst": 126,
+            "totalHomeAgg": 188,
+            "totalHomeAggAgainst": 140,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 143,
             "totalAwayAggAgainst": 192,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 7,
+            "homeWins": 8,
             "homeLosses": 1,
             "awayWins": 3,
             "awayLosses": 7,
@@ -750,7 +754,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 20,
+            "totalGamesPlayed": 21,
             "results": [
                 "stewart watson 7 - 21 steve rothwell",
                 "stewart watson 15 - 21 chris wilson",
@@ -764,6 +768,7 @@
                 "stewart watson 21 - 18 ian wilson",
                 "stewart watson 21 - 20 andy robinson",
                 "stewart watson 21 - 15 john sample",
+                "stewart watson 21 - 14 duncan ruddlesden",
                 "stewart watson 21 - 9 stephen kenworthy",
                 "stewart watson 16 - 21 matthew jacques",
                 "stewart watson 21 - 17 james klenk",
@@ -809,9 +814,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 10,
-                "wins": 6,
-                "aggDiff": 5
+                "games": 11,
+                "wins": 7,
+                "aggDiff": 12
             },
             "bradford vets": {
                 "games": 0,
@@ -836,6 +841,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "08/07/2025",
+    "lastUpdated": "09/07/2025",
     "statsYear": "2025"
 }
