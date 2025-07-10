@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Wed 9th Jul)
+=== West Riding & Spen Valley 2025 (as of Thu 10th Jul)
 === Comp. Match Cards
 
          Premier                  Wed 16th Apr        
@@ -3219,7 +3219,7 @@ Janet Inness            21 Susan McMananamin       16
 Chris Watson            21 Roger Jackson            6 
 Chris Piercy            18 Steve Kidd              21 
 Elaine Binns            21 George Tozer             7 
-Gillian Shore           21 *A.N.Other*             11 
+Gillian Shore           21 Ateeque Mirza           11 
 Neil Blackburn          12 Paul Cooper             21 
 Geoff Akerman            8 Janet Firth             21 
             Aggregate: 132             Aggregate: 124 
@@ -3510,6 +3510,71 @@ Tony Godfrey            20 Lexie Gould             21
 Mark Gummery            21 Derek Warriner          17 
             Aggregate: 147             Aggregate: 137 
                Points:   6                Points:   4 
+
+        Division 4                Wed 9th Jul         
+      Gildersome - B               Firth Park         
+Barbara Hall            21 Alison Hodgson          14 
+Kay Stewart              6 Matty Mongan            21 
+Glenda Holmes           21 Kevin Crowe             18 
+Frank Hales             13 Susan Kennerdale        21 
+Michael Ross            13 Gary Morton             21 
+John Ackroyd            21 Alan Parkin             19 
+David Holmes            19 Ian Fitton              21 
+Tony Morris             21 Mark Prideaux            9 
+            Aggregate: 135             Aggregate: 144 
+               Points:   4                Points:   7 
+
+        Division 4                Wed 9th Jul         
+     Heckmondwike - C             Drighlington        
+Kath Field              21 Philip Keating          18 
+Steve Kidd              21 Andrew Haigh             8 
+Roger Jackson           21 Graham Fuller            8 
+Susan McMananamin       18 Vicky Haigh             21 
+Paul Cooper             21 Ian Fairhurst           13 
+Ateeque Mirza            6 Ken Oates               21 
+Darren Schofield        21 Peter Thompson           4 
+*No Player*              0 Andy Brooke             21 
+            Aggregate: 129             Aggregate: 114 
+               Points:   7                Points:   3 
+
+        Division 3                Thu 10th Jul        
+      Pudsey BC - C              Gildersome - A       
+Angie Morris            21 Harvey Lockwood          4 
+Steve Clayton            1 David Norton            21 
+Melissa Morris          21 David Taylor            11 
+Janice Connaleigh       21 Graham Gaunt            15 
+Paul Myers              21 Kevin Smales            15 
+David McDonald          21 Gary Hudson              9 
+Hannah Leaf             17 Ian Stocks              21 
+Rick Pearson            21 Alan Procter            17 
+            Aggregate: 144             Aggregate: 113 
+               Points:   8                Points:   2 
+
+        Division 3                Thu 10th Jul        
+   Brighouse Sports - C      Cleckheaton Sports - F   
+Jodie Barraclough       15 Andy Porritt            21 
+Ben English             14 Mary Johnson            21 
+Sarha Horsley           21 Steve Smith             12 
+David Marsh             21 *No Player*              0 
+Lewis Whalley           21 Ian Webb                20 
+James Wood              21 Mick Collins            11 
+David Wood              21 Mark Waite               8 
+Simon Cresswell         21 Ryan Piercy             10 
+            Aggregate: 155             Aggregate: 103 
+               Points:   8                Points:   2 
+
+        Division 4                Thu 10th Jul        
+  Cleckheaton Sports - E     Cleckheaton Sports - D   
+Helen Seed              21 Gillian Shore           11 
+Chris Bentley           11 Michael Binns           21 
+Lynn Seddon             21 Chris Watson            19 
+Callum Brook            21 Linda Potter             4 
+Graham Ward             21 Neil Blackburn          16 
+Rowena Oakey            21 Chris Piercy             8 
+David Griffiths         20 Geoff Akerman           21 
+Joe Brook               21 Alan Potter             18 
+            Aggregate: 157             Aggregate: 118 
+               Points:   8                Points:   2 
 
 
        Round of 32                   Sat 5th Apr           

@@ -1,4 +1,4 @@
-=== Bradford (Half Holiday) 2025 (as of Wed 9th Jul)
+=== Bradford (Half Holiday) 2025 (as of Thu 10th Jul)
 === Comp. Match Cards
 
    Division 1 - Ed Foster          Wed 16th Apr        
@@ -1862,6 +1862,18 @@ Darryl McCormack          21 William Watson          8
                  Points:  11               Points:  15 
 
    Division 1 - Ed Foster           Wed 9th Jul        
+          Pudsey A                 Littlemoor B        
+Steve Emmett              21 Jeff Goodhall          13 
+Pam Lindley               18 John Armitage          21 
+Melissa Morris            10 Steve Longley          21 
+Duncan Reeves             21 Glen Merrick            4 
+Ian Shaw                  21 Steve Bowes            13 
+Gary Wike                 21 Kevin Siddle           16 
+              Aggregate: 112            Aggregate:  88 
+                  Games:   4                Games:   2 
+                 Points:  18               Points:   8 
+
+   Division 1 - Ed Foster           Wed 9th Jul        
         Heckmondwike              Crowghyll Park       
 Russell Harker            18 Pam Robinson           21 
 Logan Preston             20 Andy Matthews          21 
@@ -1937,9 +1949,9 @@ Division 2 - Sheila Johnson         Wed 9th Jul
          Clayton B                   Wibsey B          
 Bob Armitage              21 John Simpson           15 
 Kevin Flanagan            21 Charles Fell            3 
-Linda Goodman             21 Steve Thornton         17 
-Ian Findlay               21 Alan Marsden           19 
-Ray Atkinson              21 John Walsh             14 
+Ian Findlay               21 Steve Thornton         17 
+Ray Atkinson              21 Alan Marsden           19 
+Gaynor Shutt              21 John Walsh             14 
 Malcolm Riggs             21 Micheal Pickerdon       9 
               Aggregate: 126            Aggregate:  77 
                   Games:   6                Games:   0 
@@ -2004,5 +2016,17 @@ Mark Durrans              21 Amy Walsh               3
               Aggregate: 122            Aggregate:  79 
                   Games:   5                Games:   1 
                  Points:  22               Points:   4 
+
+ Division 3 - Peter Gilroy          Wed 9th Jul        
+        Bowling Park                 Thornton          
+Paul McNulty               5 Barry Austin           21 
+Brian Metcalfe            21 Dawn Riggett            9 
+Darryl McCormack          21 June Harrison           4 
+Trevor Yeadon             13 Sheila Farr            21 
+Jackie Swindell           21 Karen Brame             3 
+Christine Kilner          21 Anthony Lockwood       17 
+              Aggregate: 102            Aggregate:  75 
+                  Games:   4                Games:   2 
+                 Points:  18               Points:   8 
 
 
