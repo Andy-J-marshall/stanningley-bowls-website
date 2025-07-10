@@ -1,4 +1,4 @@
-=== Leeds & District (Half Holiday) 2025 (as of Wed 9th Jul)
+=== Leeds & District (Half Holiday) 2025 (as of Thu 10th Jul)
 === League Match Cards
 
         Div 1               Wed 2nd Apr       
@@ -2139,5 +2139,16 @@ Peter Richie        21 Barbara Nellis      17
 Jeff Allman         21 Maveen Tomlinson    20 
         Aggregate: 114         Aggregate:  94 
            Points:  26            Points:  18 
+
+        Div 4               Wed 9th Jul       
+     Gildersome B           Grove Road B      
+Bev Farrar          13 Lyn Carr            21 
+Daphne Scott        10 Sylvia Bartlett     21 
+Frank Hales         21 Pat Harrison        11 
+John Ackroyd        15 Bev Shillito        21 
+Tony Morris         21 John Carr           10 
+Simon Hampshaw      21 Carol Biscombe       9 
+        Aggregate: 101         Aggregate:  93 
+           Points:  22            Points:  20 
 
 

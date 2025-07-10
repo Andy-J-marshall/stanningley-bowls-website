@@ -1,4 +1,4 @@
-=== Leeds & District (Thursday Over 55s) 2025 (as of Wed 9th Jul)
+=== Leeds & District (Thursday Over 55s) 2025 (as of Thu 10th Jul)
 === League Match Cards
 
      Division 1            Thu 17th Apr       
@@ -811,5 +811,70 @@ David Anker        17 Stewart Wardlow      21
 Fred Hargreaves    21 Shirley Barker        6 
 Ken Stockhill      17 Mary Horrocks        21 
        Aggregate: 133          Aggregate: 147 
+
+     Division 1            Thu 10th Jul       
+     New Wortley            Cranmore BC       
+Malcolm Crowson    21 Paul Griffiths       12 
+Paul Shackleton    21 Deborah Stafford      4 
+Stephen Morley     21 Monica Buckroyd       7 
+Angela Morley      21 Marvin Stafford      14 
+Valerie Dawson      9 Peter Griffin        21 
+Beryl Wainman      19 Peter Nicholson      21 
+Keith Sellars      21 Barry Baldwin        12 
+Trevor Dawson      21 Don Chadwick         16 
+       Aggregate: 154          Aggregate: 107 
+          Points:  35             Points:  20 
+
+     Division 1            Thu 10th Jul       
+  Stanningley Park      Middleton Community   
+Donald Shaw        19 Terry Maher          21 
+Steve Sheldon       0 Mick Harrison        21 
+Tracey Marshall    19 Brian Ragan          21 
+Colin Haque        12 Shirley Biancardo    21 
+Bob Marshall       21 Christine Glynne     19 
+Cliff Brogie       14 Neil Hudson          21 
+Malvin Miller      21 Sue Harrison         15 
+Phil Sutcliffe     12 Mario Biancardo      21 
+       Aggregate: 118          Aggregate: 160 
+          Points:  24             Points:  37 
+
+     Division 1            Thu 10th Jul       
+     Burley Prk             Gildersome        
+Joan Crampton       9 David Norton         21 
+Malcolm Dacre      21 Harvey Lockwood      17 
+Pat Dacre          21 Tony Morris           3 
+Pauline Stockdale  21 Frank Hales          11 
+Jeff Fryer          9 Kevin Smales         21 
+John Gilroy        16 David Holmes         21 
+Barry Palmer       10 Graham Gaunt         21 
+Steve Pickersgill  21 Linda Gaunt          15 
+       Aggregate: 128          Aggregate: 130 
+          Points:  27             Points:  28 
+
+     Division 2            Thu 10th Jul       
+    Bramley Park            New Armley        
+Keith Davison      21 Carol Robinson       20 
+Terry Astley       21 David Anker           3 
+Duncan Raper       21 Carol Butters        13 
+Bob Davison        16 David Hurd           21 
+Malcolm Woodcock   21 Josie M Burdon       11 
+Shirley Allman     21 Fred Hargreaves       8 
+Jeff Allman        16 Ken Stockhill        21 
+Brian Fish         21 Richard Aspin        18 
+       Aggregate: 158          Aggregate: 115 
+          Points:  36             Points:  23 
+
+     Division 2            Thu 10th Jul       
+   Western Flatts         Middleton Park      
+Glynis Ash         21 Ian Dickinson        16 
+Granville Stoyles  21 Dawn Robinson        20 
+Margaret McPhail   21 Janice Dickinson      5 
+Ron Lavan          21 Trevor Sackett        9 
+Hazel Goodall      21 Allan Blue            6 
+Anne Lucas         21 Philip Rowe          15 
+Stewart Wardlow    21 *No Player*           0 
+Geoff Clark        21 Matt Ramsey          15 
+       Aggregate: 168          Aggregate:  86 
+          Points:  40             Points:  16 
 
 

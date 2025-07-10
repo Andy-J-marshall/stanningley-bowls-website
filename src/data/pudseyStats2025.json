@@ -127,12 +127,12 @@
             }
         },
         "linda barrand": {
-            "totalAgg": 361,
-            "totalAggAgainst": 524,
-            "availableAgg": 588,
+            "totalAgg": 382,
+            "totalAggAgainst": 543,
+            "availableAgg": 609,
             "availablePairsAgg": 0,
             "availableHomeAgg": 294,
-            "availableAwayAgg": 273,
+            "availableAwayAgg": 294,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -141,13 +141,13 @@
             "totalHomeAggAgainst": 256,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 136,
-            "totalAwayAggAgainst": 256,
+            "totalAwayAgg": 157,
+            "totalAwayAggAgainst": 275,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 4,
             "homeLosses": 10,
-            "awayWins": 1,
+            "awayWins": 2,
             "awayLosses": 12,
             "cupWins": 1,
             "cupLosses": 0,
@@ -159,7 +159,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 28,
+            "totalGamesPlayed": 29,
             "results": [
                 "linda barrand 4 - 21 alan byers",
                 "linda barrand 21 - 10 dorcas kirk",
@@ -188,7 +188,8 @@
                 "linda barrand 13 - 21 ray atkinson",
                 "linda barrand 20 - 21 tom sayer",
                 "linda barrand 9 - 21 steve fleming",
-                "linda barrand 9 - 21 dave roberts"
+                "linda barrand 9 - 21 dave roberts",
+                "linda barrand 21 - 19 audrey healey"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -251,9 +252,9 @@
                 "aggDiff": 0
             },
             "bradford vets (b)": {
-                "games": 11,
-                "wins": 1,
-                "aggDiff": -104
+                "games": 12,
+                "wins": 2,
+                "aggDiff": -102
             },
             "bradford saturday": {
                 "games": 0,
@@ -413,25 +414,25 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 541,
-            "totalAggAgainst": 549,
-            "availableAgg": 672,
+            "totalAgg": 562,
+            "totalAggAgainst": 558,
+            "availableAgg": 693,
             "availablePairsAgg": 21,
-            "availableHomeAgg": 315,
+            "availableHomeAgg": 336,
             "availableAwayAgg": 315,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 21,
             "totalPairsAggAgainst": 19,
-            "totalHomeAgg": 277,
-            "totalHomeAggAgainst": 237,
+            "totalHomeAgg": 298,
+            "totalHomeAggAgainst": 246,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 237,
             "totalAwayAggAgainst": 272,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 11,
+            "homeWins": 12,
             "homeLosses": 4,
             "awayWins": 6,
             "awayLosses": 9,
@@ -445,7 +446,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 32,
+            "totalGamesPlayed": 33,
             "results": [
                 "stewart watson & ian shaw 21 - 19 james teale & graham oliver",
                 "stewart watson 21 - 12 terri durrans",
@@ -478,7 +479,8 @@
                 "stewart watson 10 - 21 ian johnson",
                 "stewart watson 21 - 17 john stocks",
                 "stewart watson 21 - 18 mick angus",
-                "stewart watson 7 - 21 clive foord"
+                "stewart watson 7 - 21 clive foord",
+                "stewart watson 21 - 9 alan mazurke"
             ],
             "airewharfe monday": {
                 "games": 1,
@@ -536,9 +538,9 @@
                 "aggDiff": 0
             },
             "bradford vets": {
-                "games": 11,
-                "wins": 6,
-                "aggDiff": 9
+                "games": 12,
+                "wins": 7,
+                "aggDiff": 21
             },
             "bradford vets (b)": {
                 "games": 0,
@@ -563,6 +565,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "09/07/2025",
+    "lastUpdated": "10/07/2025",
     "statsYear": "2025"
 }
