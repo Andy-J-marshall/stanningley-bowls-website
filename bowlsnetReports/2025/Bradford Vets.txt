@@ -1,4 +1,4 @@
-=== Bradford (Vets) 2025 (as of Thu 10th Jul)
+=== Bradford (Vets) 2025 (as of Fri 11th Jul)
 === Comp. Match Cards
 
 Division Four ( 6 Players)       Thu 10th Apr       
@@ -3286,6 +3286,18 @@ David Waggett            20 Brian Denning        21
              Aggregate:  98          Aggregate:  98 
                  Games:   2              Games:   4 
                 Points:  12             Points:  14 
+
+Division Four ( 6 Players)       Thu 10th Jul       
+          Wyke C                    Idle C          
+Colin Fallows            21 David Priestley      17 
+John Illingworth         21 Sylvia Davies        13 
+Ken Bairstow             21 Valerie Leach        13 
+John Winstanley          21 Tekla England        17 
+David Ramsden            16 John Mellan          21 
+Keith Stephenson         20 Linda Brandon        21 
+             Aggregate: 120          Aggregate: 102 
+                 Games:   4              Games:   2 
+                Points:  17             Points:   9 
 
 Division Four ( 6 Players)       Thu 10th Jul       
           Tyersal                Queensbury B       

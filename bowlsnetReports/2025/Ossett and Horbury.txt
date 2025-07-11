@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Thu 10th Jul)
+=== Ossett & Horbury 2025 (as of Fri 11th Jul)
 === League Match Cards
 
          Division 3                   Tue 8th Apr          
@@ -3184,6 +3184,18 @@ Kristian Shuttleworth     21 Graham Hirst                1
               Aggregate: 150                Aggregate: 103 
 
       Premier Division               Thu 10th Jul          
+      Skelmanthorpe A               Ossett C & AC A        
+Chris Kelly               21 Graeme Eyre                14 
+Ashley Daykin             21 Chris Nuttall              16 
+Harry Lumb                21 Peter Lamb                 15 
+Josh Brown                12 Robert Dunford             21 
+Jack Dyson                21 Mick Scott                  6 
+Nick White                21 Joshua Dunford              7 
+Andy Sorsby               15 Nigel Miller               21 
+Mark Booth                21 Stuart Daniel               7 
+              Aggregate: 153                Aggregate: 107 
+
+      Premier Division               Thu 10th Jul          
       Castleford Town                Smirthwaite A         
 Mark Brain                21 Marc Armitage              15 
 Calum Fennell             21 Colin Bradley               5 
@@ -3194,6 +3206,18 @@ Daniel Revell             20 Peter Farrar               21
 David Watson              18 Martin Shepherd            21 
 S Williams                21 Craig Newton               13 
               Aggregate: 164                Aggregate: 125 
+
+      Premier Division               Thu 10th Jul          
+          Rothwell                 Hanging Heaton A        
+Mark Hughes               21 Chris Mordue               14 
+Gareth Lally              19 Roger Birdsall             21 
+Josh Thomas               21 Malcolm Preston            18 
+David Thomas              21 Pam Lindley                 6 
+Charlotte Holmes          21 Jonathan Orbell            15 
+Garry Dennison            21 Mason Lindley              10 
+Katie Turner              13 David Armitage             21 
+Thomas Scorah             21 Simon Metcalfe              9 
+              Aggregate: 158                Aggregate: 114 
 
       Premier Division               Thu 10th Jul          
        Spen Victoria                   Sandal A            
@@ -3232,6 +3256,30 @@ Michael Sweeney           21 Mark Bramall               10
               Aggregate: 158                Aggregate: 119 
 
          Division 1                  Thu 10th Jul          
+      Ossett C & AC B               Clayton West A         
+Chris Goodwin             21 Stuart Simmons              4 
+Martin Cross              21 Bob Dalby                   8 
+Andrew Callaghan          20 T Poulter                  21 
+Svajunas Kapitan          21 Neale Wallace              14 
+Linda Callaghan           10 G Richardson               21 
+Mel Whitaker              19 M Gilbert                  21 
+Bryan Collier             14 M Greenall                 21 
+Laurie Woodlock           21 D Richardson               14 
+              Aggregate: 147                Aggregate: 124 
+
+         Division 1                  Thu 10th Jul          
+       Denby Grange A               West Bretton A         
+Josh Broadhead            21 Joe Peckett                 8 
+Mortimer Ray              21 Kim Fisher                  8 
+David Fisher              21 James Szabo                13 
+Charlie Fisher            21 Ian Fisher                 11 
+Scott Fisher              21 Richard Stead               5 
+Danny Walker              18 John Wright                21 
+Paul Mottram              13 Steven Sykes               21 
+Danny Towning - Smith     21 Andy Stead                 10 
+              Aggregate: 157                Aggregate:  97 
+
+         Division 1                  Thu 10th Jul          
         Slazenger A               Ossett Flying Horse      
 Luke Gant                 21 Graham Higgins             19 
 Gary Larner               10 Roger Lunn                 21 
@@ -3244,6 +3292,30 @@ John Wilkinson            11 Danny Hallas               21
               Aggregate: 121                Aggregate: 143 
 
          Division 2                  Thu 10th Jul          
+       Wakefield BC A              Pudsey Littlemoor       
+Mark Young                21 Matthew Leaf               11 
+Nigel Brook                3 Nathan Dobson              21 
+Trevor Dey                21 Steve Bowes                16 
+Kaz Habib                 18 Nichole Farrar             21 
+Trevor Newey              21 Lee Wider                  15 
+Robyn Walters             21 Mark Allman                11 
+John Dudding              12 Tom Morris                 21 
+Peter Claven              21 Mark Dobson                16 
+              Aggregate: 138                Aggregate: 132 
+
+         Division 2                  Thu 10th Jul          
+        Savile Park                Alverthorpe WMC B       
+Karen Portman             21 Richard Quarmby            11 
+Jade Johnson              21 Anita Dack                 11 
+Ellis Owen                21 William Grayley            11 
+Carolyn Duckett           18 Rebecca Finnegan-Stewart   21 
+Gary Haley                11 Colin Quarmby              21 
+P Whipp                   21 Abigail Tiler              12 
+Liam Massey               18 James Tiler                21 
+Richard Johnson           16 Phillip Schofield          21 
+              Aggregate: 147                Aggregate: 129 
+
+         Division 2                  Thu 10th Jul          
       Hanging Heaton B                Horbury WMC          
 Tony Howland               8 A Clarkson                 21 
 Peter Byrne               19 S Crummack                 21 
@@ -3254,6 +3326,18 @@ Jacob Amatt               21 John Stokes                18
 Gary Amatt                21 Adrian Smart               11 
 Derek North               20 Phillip Dunnill            21 
               Aggregate: 133                Aggregate: 139 
+
+         Division 2                  Thu 10th Jul          
+       Outwood WMC A                  Slazenger B          
+Stuart Race               17 Maureen Jennings           21 
+David Wright              21 Carol Boyer                18 
+Neil Parkin               21 Stephen Boyer              19 
+Steve Goddard             12 Jack Teal                  21 
+Howard Rose               21 Mick Redican               15 
+David Nichol              21 Angela Pursglove            8 
+Peter Varley              11 Gary Eastwood              21 
+Mick Booth                12 Steve Powell               21 
+              Aggregate: 136                Aggregate: 144 
 
          Division 3                  Thu 10th Jul          
         Thornhill B                 Skelmanthorpe B        
@@ -3398,5 +3482,17 @@ Sam Ascough               21 Elaine Long                17
 Martin Barlow             21 Joanne McLaughlan          12 
 Darren Addison            21 Julie Hardy                14 
               Aggregate: 168                Aggregate: 111 
+
+         Division 5                  Thu 10th Jul          
+      Ossett C & AC D                Outwood WMC B         
+Sharon Scholey             8 Carl Bland                 21 
+Pauline Clarkson          18 John Birkett               21 
+Terence Fletcher          21 John Wood                  16 
+Diane Pitchford           16 Peter Davis                21 
+Michael Scholey           21 Frank Atkinson             11 
+Kevin Smith                6 Robert Race                21 
+Rena Hirstle              21 Alison Birkett              3 
+Stewart Widdrington       11 Graham Bluff               21 
+              Aggregate: 122                Aggregate: 135 
 
 
