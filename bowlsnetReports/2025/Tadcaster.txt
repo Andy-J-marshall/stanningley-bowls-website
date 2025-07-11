@@ -1,4 +1,4 @@
-=== Tadcaster Evening League 2025 (as of Thu 10th Jul)
+=== Tadcaster Evening League 2025 (as of Fri 11th Jul)
 === League Match Cards
 
     Richardson Trophy           Thu 3rd Apr        
@@ -3030,6 +3030,21 @@ Andrew Green           21 Les Hudson             2
 
     Main League 2025            Thu 10th Jul       
           Div 1                                    
+     THORNER JOKERS             BLACK SWAN A       
+Owen Laurie            21 Martin Hemingway      17 
+Darren Evans           17 Chaz Charleton        21 
+Toni Laurie            17 Tony Derrick          21 
+John Mais               3 David Hodgson         21 
+Peter Holmes           21 Roy Flynn              9 
+Mick Cooper            15 Richard Hebblewhite   21 
+Suzie Lawson           21 Andy Lloyd             4 
+Gareth Coates          21 Mark Raynard          10 
+              Points:   6              Points:   4 
+           Aggregate: 136           Aggregate: 124 
+               Games:   4               Games:   4 
+
+    Main League 2025            Thu 10th Jul       
+          Div 1                                    
     TADCASTER FALCONS            WAYSIDE A         
 David Lightfoot        12 Vic Skaife Clarke     21 
 Andrew Dodsworth       10 Barry Sugden          21 
@@ -3075,6 +3090,21 @@ G Dickinson            19 P Wetherhill          21
 
     Main League 2025            Thu 10th Jul       
           Div 2                                    
+        WAYSIDE B              BARDSEY EAGLES      
+David Singleton        21 Alan Baldwin          20 
+Hayden Whitehouse      21 Martin Cocker         18 
+Chris Wood             11 Ray Hill              21 
+Greggan Johnstone      21 Phil Bouic            14 
+Rich Gundich           21 Geoff Hall             9 
+Colin Rigby            21 John Conyers          11 
+Stuart Whitehouse      21 Mark Green             6 
+Martin Knights         21 Nick Barker           13 
+              Points:   9              Points:   1 
+           Aggregate: 158           Aggregate: 112 
+               Games:   7               Games:   1 
+
+    Main League 2025            Thu 10th Jul       
+          Div 2                                    
      BARWICK BADGERS         KNARESBOROUGH OAK     
 Derek Dobson           21 Andy Ison             10 
 Nick Moulding          12 David Finlayson       21 
@@ -3087,6 +3117,21 @@ Ian Wallbank           21 Phil Berry            12
               Points:   8              Points:   2 
            Aggregate: 156           Aggregate: 125 
                Games:   6               Games:   2 
+
+    Main League 2025            Thu 10th Jul       
+          Div 2                                    
+      EAST END PARK           WHITKIRK KNAVES      
+Dave Smith             21 Dave McGourty         12 
+Nigel Rawlings          0 S Cahill              21 
+Peter Simmons           7 Paul Hardy            21 
+Helen Simms            21 T Johnson             20 
+Joesy Olivant          18 Jim Smith             21 
+Paul Reynard           21 Hannah Risley          7 
+Sophie Olivant         21 Phil Hatch            16 
+Darran Baker           15 Michael Sheerin       21 
+              Points:   4              Points:   6 
+           Aggregate: 124           Aggregate: 139 
+               Games:   4               Games:   4 
 
     Main League 2025            Thu 10th Jul       
           Div 3                                    
@@ -3162,6 +3207,36 @@ Phil Blaymire          13 John Walker           21
               Points:   7              Points:   3 
            Aggregate: 147           Aggregate: 108 
                Games:   5               Games:   3 
+
+    Main League 2025            Thu 10th Jul       
+          Div 4                                    
+      COLTON SPORTS            THORNER WANDS       
+Richard Naylor         15 Joyce Broadbent       21 
+Allan Millington       15 Thelma Lancaster      21 
+Anthony Fawcett        21 Richard Smoothy       15 
+Sue Barker             21 Sally Dixon            8 
+Elizabeth Loveday       3 Christine Holmes      21 
+Mick Barker            12 Richard Eshelby       21 
+Brian Scholes           6 Claire Wilkinson      21 
+Gary Mahoney           15 Granville Deighton    21 
+              Points:   2              Points:   8 
+           Aggregate: 108           Aggregate: 149 
+               Games:   2               Games:   6 
+
+    Main League 2025            Thu 10th Jul       
+          Div 4                                    
+      BLACK SWAN B             DRAGON HOPPERS      
+Jake Coker             21 Sally Holland         20 
+Dave Kinder            21 Richard Bullough       9 
+Sue Mitchell           21 White Peter            4 
+Dave Rowson            21 Barry Woodward        16 
+Val Rowson             21 Paul Seaward           5 
+Barry Turnbull         21 Nick Bahado           11 
+Stephen Westoby         9 Philip Boreham        21 
+Conor McCarthy         21 Colin Rudd             9 
+              Points:   9              Points:   1 
+           Aggregate: 156           Aggregate:  95 
+               Games:   7               Games:   1 
 
     Main League 2025            Thu 10th Jul       
           Div 4                                    

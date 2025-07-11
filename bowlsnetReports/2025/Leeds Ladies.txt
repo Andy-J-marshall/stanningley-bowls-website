@@ -1,4 +1,4 @@
-=== Leeds & District Ladies Bowling League 2025 (as of Thu 10th Jul)
+=== Leeds & District Ladies Bowling League 2025 (as of Fri 11th Jul)
 === League Match Cards
 
         League               Thu 17th Apr       
@@ -1235,5 +1235,31 @@ Sabrina Piggot       21 Karen Uttley          0
 Ruth Sutcliffe       21 Sarah Connolly        2 
 Anne Mackman         21 Louise Roberts       13 
          Aggregate: 164          Aggregate:  73 
+
+        League               Thu 10th Jul       
+      Division 2                                
+       Holt Park               Tarnfield        
+Rita Bennett         21 Nikki Swithenbabank  11 
+Kathleen Haley       12 Susan Whelan         21 
+Sylvia Petty         21 Maureen Poucher      12 
+Geraldine Lyons      18 Catherine Marshall   21 
+Maureen Sheriden     21 Pam Ratcliffe        19 
+Carol Dunn            9 Linda Utley          21 
+Janet Sykes          21 Carol Nettleton       1 
+Betty Sparkes        13 Anita Howard         21 
+         Aggregate: 136          Aggregate: 127 
+
+        League               Thu 10th Jul       
+      Division 2                                
+       Rufford B              New Farnley       
+Adele Hart-Woods     21 Anita Birks          18 
+Tracey Whitaker      17 Cath Maury           21 
+Cora Dove            21 Susan Jones          16 
+Sheila Hudson        21 Pat Skelton           7 
+Gabby Parker         15 Barbara Taylor       21 
+Lynsey Gregson        5 Emma Dixon           21 
+Aileen Waite          7 Linda Taylor         21 
+Sally Clarke         21 Catherine Crane       8 
+         Aggregate: 128          Aggregate: 133 
 
 
