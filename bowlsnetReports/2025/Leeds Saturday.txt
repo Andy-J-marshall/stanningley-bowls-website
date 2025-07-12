@@ -1,4 +1,4 @@
-=== Leeds & District (Saturday) 2025 (as of Fri 11th Jul)
+=== Leeds & District (Saturday) 2025 (as of Sat 12th Jul)
 === League Match Cards
 
    Saturday League          Sat 5th Apr       
@@ -1420,6 +1420,20 @@ Dave Taylor         21 Paul Hainsworth     16
 
    Saturday League          Sat 28th Jun      
      League Div 1                             
+   Sth Leeds Cons A         Cross Flatts      
+Reece Pratt         20 Ian Wood            21 
+Janet Stockdale     21 John Lister          4 
+David Brooke        21 Stacey Turner       10 
+Tony Auty           15 Paul Hatch          21 
+Mark Rastrick       21 Stephanie Wood       0 
+Simon Hemmingway    21 Jim Bootland        18 
+Tim Newton          21 Mel Lister           5 
+Derek McCormack     21 Jason Potter         8 
+        Aggregate: 161         Aggregate:  87 
+           Points:  37            Points:  18 
+
+   Saturday League          Sat 28th Jun      
+     League Div 1                             
   Stanningley Park A        New Wortley       
 Paul Bowes          21 Malcolm Crowson      2 
 Joey Broadbent      21 Angela Morley       10 
@@ -1683,5 +1697,46 @@ Alex Perry          21 Mick Gregory        15
 Paul Hainsworth     21 Jeff Blackburn      16 
         Aggregate: 138         Aggregate: 154 
            Points:  28            Points:  35 
+
+   Saturday League          Sat 12th Jul      
+     League Div 1                             
+     Pudsey Park            Holbeck Ltd       
+Cliff Brogie        10 Joanne Unwin        21 
+Stephen Morris      18 Lisa Hogan          21 
+Jane Hirst          17 Andrew Dewhirst     21 
+Maveen Tomlinson    14 James Cuffe         21 
+Peter Colley         9 Jason Ream          21 
+Frank Lindsay        9 Alex Perry          21 
+Dennis Walters      21 Kian Hendry         18 
+James Drury         21 Michaela Wardle     15 
+        Aggregate: 119         Aggregate: 159 
+           Points:  23            Points:  37 
+
+   Saturday League          Sat 12th Jul      
+     League Div 2                             
+   Sth Leeds Cons B        Middleton Comm     
+Barbara Wherret     11 Neil Hudson         21 
+Bob Emerson         21 Terry Maher         14 
+Damien Wright       15 Barbara Ragan       21 
+Dave Kellet          5 Mick Harrison       21 
+Brenda Moscrop      21 Christine Glynn      4 
+Alan Goodall        21 Gordon Monk         18 
+Ambrose Farrel      17 Malcolm Cameron     21 
+Neville Salmon      16 Sue Harrison        21 
+        Aggregate: 127         Aggregate: 141 
+           Points:  27            Points:  31 
+
+   YEN Cup (Div 1)          Sat 12th Jul      
+                         On Western Flatts    
+  Stanningley Park A        Holbeck Moor      
+Steve Gardner       21 Geoff Warburton     16 
+David Eaton         11 John Binns          21 
+Paul Bowes          21 George Ellener       5 
+Jim Swailes         21 Brian Thompson      14 
+Richard Hodgson     18 Steve Milton        21 
+Alyssa Randell      21 Mick Stott          17 
+Andrew Marshall     21 Wayne Warburton     16 
+Martin Fulton       21 Steve Brown         13 
+        Aggregate: 155         Aggregate: 123 
 
 
