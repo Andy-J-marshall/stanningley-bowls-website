@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Saturday) 2025 (as of Sat 12th Jul)
+=== AireDale & Wharfedale (Saturday) 2025 (as of Sun 13th Jul)
 === League Match Cards
 
            Premier                      Sat 5th Apr           
@@ -4309,7 +4309,7 @@ Rachael Slater              21 Tim Nicholson               16
      Skipton Broughton B                  Rawdon B            
 Tim Bucke                   21 Isabel Douglas               4 
 Peter Peacock               21 Joy Izzard                   3 
-Brian Gore                  21 Steve Bottomley             20 
+Brian Gore                  21 Stephen Bottomley           20 
 Keith Moore                 21 Philip Jackson              14 
 Graham Mitchell             21 Graham Hogg                 16 
 Michael Cox                 21 Bernard Harrison             7 
@@ -4534,6 +4534,22 @@ Fred Rothwell               14 Shaun Johnson 'A'           21
                    Points:  18                    Points:  12 
 
            Premier                      Sat 12th Jul          
+          Black Swan               Burley in Wharfedale A     
+David Hodgson               21 Anthony Postlethwaite 'Ab'  16 
+Chaz Charleton              21 Ben Ullock                  20 
+Tom Beecroft                15 Andrew Shaw'A'              21 
+Suzane Mitchell             15 Joe Ullock                  21 
+Andrew Lloyd                12 Chris Wheeler               21 
+Roy Flynn                   21 Mark Ullock 'A'             17 
+Martin Hemingway            13 John Hardisty               21 
+Dave Kinder                 21 Roy Knowles 'A'             20 
+Alan Whittaker              21 Pete Thornton               11 
+Tony Derrick                21 Brian Wheeler'A'            19 
+                    Games:   6                     Games:   4 
+                Aggregate: 181                 Aggregate: 187 
+                   Points:  15                    Points:  15 
+
+           Premier                      Sat 12th Jul          
            Rawdon A                       Ilkley A            
 Lindsay Rosendale           19 Mick Bastow                 21 
 Steven Spurr                21 Dave Smith                  15 
@@ -4542,7 +4558,7 @@ Brian Hodgson               21 Cliff Taylor                10
 Dave Hill                   17 Steve Birch                 21 
 Paul Haigh'A'               21 Robert Garth                16 
 Ken Garbett'A'              12 Darren Thompson             21 
-Steve Bottomley             21 Andy Thornton'A'            19 
+Stephen Bottomley           21 Andy Thornton'A'            19 
 David Johnson 'A'           14 Richard Garth 'A'           21 
 Roger French                21 Steve Ackroyd 'A'           11 
                     Games:   6                     Games:   4 
@@ -4612,6 +4628,22 @@ Michael Smith               18 James Pollard 'A'           21
                     Games:   5                     Games:   5 
                 Aggregate: 180                 Aggregate: 170 
                    Points:  16                    Points:  14 
+
+          Division 1                    Sat 12th Jul          
+        Low Harrogate                  Shipley Club A         
+Marion Frayne               21 Scott Kerr                  17 
+David Hughan                16 Michael Kane 'A'            21 
+Ian Jarratt                 21 Paul Harrison               19 
+Geoff Jones                  8 Paul Colman                 21 
+Chris Olding                21 Sylvia Halliday             20 
+Cath Patrick                21 James Welsh                 19 
+Graham Patrick              20 Peter Mountain 'A'          21 
+Alan Scorfield              21 Rachel Telford 'A'           5 
+Ann Wilson                  13 Bernard Criddle             21 
+Derek Wilson                21 David Dorman                13 
+                    Games:   6                     Games:   4 
+                Aggregate: 183                 Aggregate: 177 
+                   Points:  17                    Points:  13 
 
           Division 1                    Sat 12th Jul          
             Idle A                      Holt Park A           
