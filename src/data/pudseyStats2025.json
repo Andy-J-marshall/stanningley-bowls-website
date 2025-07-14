@@ -273,18 +273,18 @@
             }
         },
         "richard hodgson": {
-            "totalAgg": 473,
-            "totalAggAgainst": 371,
-            "availableAgg": 504,
+            "totalAgg": 486,
+            "totalAggAgainst": 392,
+            "availableAgg": 525,
             "availablePairsAgg": 21,
-            "availableHomeAgg": 231,
+            "availableHomeAgg": 252,
             "availableAwayAgg": 210,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 20,
             "totalPairsAggAgainst": 21,
-            "totalHomeAgg": 222,
-            "totalHomeAggAgainst": 143,
+            "totalHomeAgg": 235,
+            "totalHomeAggAgainst": 164,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 189,
@@ -292,7 +292,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 10,
-            "homeLosses": 1,
+            "homeLosses": 2,
             "awayWins": 5,
             "awayLosses": 5,
             "cupWins": 2,
@@ -305,7 +305,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 24,
+            "totalGamesPlayed": 25,
             "results": [
                 "richard hodgson & thomas hanson 20 - 21 kevin siddle & nick bastow",
                 "richard hodgson 21 - 12 david pike",
@@ -318,6 +318,7 @@
                 "richard hodgson 21 - 7 david samuel",
                 "richard hodgson 21 - 20 colin rhodes",
                 "richard hodgson 21 - 15 phil hynes",
+                "richard hodgson 13 - 21 val grace",
                 "richard hodgson 21 - 15 thomas powell",
                 "richard hodgson 21 - 12 derek carroll",
                 "richard hodgson 21 - 18 martin grace",
@@ -338,9 +339,9 @@
                 "aggDiff": -1
             },
             "airewharfe monday (b)": {
-                "games": 10,
+                "games": 11,
                 "wins": 8,
-                "aggDiff": 40
+                "aggDiff": 32
             },
             "airewharfe vets": {
                 "games": 0,
@@ -414,25 +415,25 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 562,
-            "totalAggAgainst": 558,
-            "availableAgg": 693,
+            "totalAgg": 583,
+            "totalAggAgainst": 574,
+            "availableAgg": 714,
             "availablePairsAgg": 21,
-            "availableHomeAgg": 336,
+            "availableHomeAgg": 357,
             "availableAwayAgg": 315,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 21,
             "totalPairsAggAgainst": 19,
-            "totalHomeAgg": 298,
-            "totalHomeAggAgainst": 246,
+            "totalHomeAgg": 319,
+            "totalHomeAggAgainst": 262,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 237,
             "totalAwayAggAgainst": 272,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 12,
+            "homeWins": 13,
             "homeLosses": 4,
             "awayWins": 6,
             "awayLosses": 9,
@@ -446,7 +447,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 33,
+            "totalGamesPlayed": 34,
             "results": [
                 "stewart watson & ian shaw 21 - 19 james teale & graham oliver",
                 "stewart watson 21 - 12 terri durrans",
@@ -459,6 +460,7 @@
                 "stewart watson 6 - 21 duncan mcphail",
                 "stewart watson 21 - 15 philip thornton",
                 "stewart watson 21 - 14 les tugwell",
+                "stewart watson 21 - 16 ken lee",
                 "stewart watson 10 - 21 andy swain",
                 "stewart watson 21 - 14 john lewis",
                 "stewart watson 6 - 21 dave fox",
@@ -488,9 +490,9 @@
                 "aggDiff": 2
             },
             "airewharfe monday (b)": {
-                "games": 10,
-                "wins": 8,
-                "aggDiff": 36
+                "games": 11,
+                "wins": 9,
+                "aggDiff": 41
             },
             "airewharfe vets": {
                 "games": 0,
@@ -565,6 +567,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "13/07/2025",
+    "lastUpdated": "14/07/2025",
     "statsYear": "2025"
 }
