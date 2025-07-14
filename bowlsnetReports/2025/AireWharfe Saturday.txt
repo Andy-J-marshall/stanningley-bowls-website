@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Saturday) 2025 (as of Sun 13th Jul)
+=== AireDale & Wharfedale (Saturday) 2025 (as of Mon 14th Jul)
 === League Match Cards
 
            Premier                      Sat 5th Apr           
@@ -812,6 +812,13 @@ Derek Pollard               21 Roger French                15
                    Points:  20                    Points:  10 
 
            Premier                      Sat 19th Apr          
+           Ilkley A                Burley in Wharfedale A     
+                    Games:   0                     Games:   0 
+                Aggregate:   0                 Aggregate:   0 
+                   Points:  16                    Points:  14 
+        Manual Result                                         
+
+           Premier                      Sat 19th Apr          
           Wayside A                      Black Swan           
 Barry Sugden                21 Keith Agars                  5 
 David Singleton'A'          15 David Hodgson               21 
@@ -1404,6 +1411,13 @@ Garry Nellist               21 Michael Taylor 'Ab'         10
                     Games:   7                     Games:   3 
                 Aggregate: 186                 Aggregate: 132 
                    Points:  23                    Points:   7 
+
+          Division 3                    Sat 26th Apr          
+           Ilkley C                Burley in Wharfedale B     
+                    Games:   0                     Games:   0 
+                Aggregate:   0                 Aggregate:   0 
+                   Points:  17                    Points:  10 
+        Manual Result                   Rules broken          
 
           Division 3                    Sat 26th Apr          
          Rufford Park                     Bramhope            
