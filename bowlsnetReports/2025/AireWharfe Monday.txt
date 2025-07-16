@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Mon 14th Jul)
+=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Wed 16th Jul)
 === League Match Cards
 
        Division 1                Mon 7th Apr        
@@ -3787,6 +3787,22 @@ Ben Falkingham         21 Nick Bastow            12
               Points:  20               Points:  10 
 
        Division 2               Mon 14th Jul        
+        Rawdon A                   Adel A           
+Paul Haigh             17 Lynda Heath 'A'        21 
+Brian Hodgson          21 Trevor Sargison        17 
+Gordon Longfellow      21 Philip Sykes           13 
+Ken Garbett            21 Les Tugwell            13 
+Stephen Bottomley      10 Bruce Tremlett         21 
+Ian Tindal             21 Dave Brown              6 
+David Johnson 'A'      21 Phil Hynes             13 
+Dave Hill 'A'          14 Russell Cooper         21 
+Steve Calvert 'A'      21 David Pike 'A'         10 
+Roger French'A'        21 John Binns              8 
+           Aggregate: 188            Aggregate: 143 
+               Games:   7                Games:   3 
+              Points:  22               Points:   8 
+
+       Division 2               Mon 14th Jul        
         Ilkley B                Eccleshill B        
 Andrew Cook            21 Derek Relton           11 
 Allan Hughes           21 Andrew Magoolagan       7 
@@ -3851,6 +3867,22 @@ Steve Emmett           21 Catherine New          17
               Points:  20               Points:  10 
 
        Division 3               Mon 14th Jul        
+        Menston A          Burley in Wharfedale B   
+Peter Hammond           1 Robert Hartley         21 
+Raymond Dalton         21 Christopher Wheeler    16 
+Steve Walford          10 Brian Wardle           21 
+Gwen Smith 'A'         21 Marie Drysdale          5 
+Simon Cowley 'A'       15 Andrew Wilson          21 
+Gary Skeet             21 Darren Thompson        20 
+Amrik Singh            21 Richard Kellett        15 
+Shaun Johnson 'A'      21 Pete Thornton          10 
+Ian Smith              21 Anthony Postlethwaite  15 
+Gail Singh              8 John Hardisty          21 
+           Aggregate: 160            Aggregate: 165 
+               Games:   6                Games:   4 
+              Points:  15               Points:  15 
+
+       Division 3               Mon 14th Jul        
        Holt Park A              Yeadon Park A       
 Colin Chadwick          9 Ian Robertson'A'       21 
 Terry Cook             21 Reid Haddow            17 
@@ -3881,6 +3913,22 @@ John Sutton            20 George McLaren         21
            Aggregate: 206            Aggregate: 146 
                Games:   8                Games:   2 
               Points:  24               Points:   6 
+
+       Division 3               Mon 14th Jul        
+      Greenbottom A              Stanningley        
+Jack Beck               9 Paul Bowes             21 
+Dave Whelan 'A'        21 Neil Porter            17 
+Janice Waite           21 Harvey Leonard          8 
+Mike Whitelaw          21 Cliff Brogie           10 
+Fiona Haxby 'A'        21 Phil Sutcliffe         10 
+Ann Ryley 'A'          21 Bob Marshall           16 
+Karen Whitelaw'A'      19 Andy Waller            21 
+Stan Marsden           16 Paul Leonard           21 
+Gary Poucher           14 Joey Broadbent         21 
+Brian Hall             21 Malvin Miller          16 
+           Aggregate: 184            Aggregate: 161 
+               Games:   6                Games:   4 
+              Points:  19               Points:  11 
 
        Division 3               Mon 14th Jul        
           Salts                  Myrtle Park        
@@ -3929,6 +3977,22 @@ Ray Smith Snr          21 Allan Jukes             8
            Aggregate: 180            Aggregate: 151 
                Games:   5                Games:   5 
               Points:  18               Points:  12 
+
+       Division 4               Mon 14th Jul        
+         Adel B                   Menston B         
+Lesley Williams        12 Barbara Harrison       21 
+Christina Levy          4 Margaret Ripley        21 
+John Auty              21 Stuart Davies          14 
+Gordon Robinson        21 Christine Asquith      15 
+Paul Williams           7 Geoff Winter           21 
+Meryl Auty             21 Rosemary Cowley        18 
+Pat Ellse              17 Jeremy Gill            21 
+Alan Wittrick          21 Peter Gaston           19 
+Steve Richardson       21 Monty Navias           17 
+Kath Hynes             17 Jim Hughes             21 
+           Aggregate: 162            Aggregate: 188 
+               Games:   5                Games:   5 
+              Points:  12               Points:  18 
 
        Division 4               Mon 14th Jul        
       Yeadon Park B              Holt Park B        

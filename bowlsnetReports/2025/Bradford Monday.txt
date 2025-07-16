@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Mon 14th Jul)
+=== Bradford (Mon. Evening) 2025 (as of Wed 16th Jul)
 === Comp. Match Cards
 
   Division 1 - Thurston           Mon 7th Apr         
@@ -1632,6 +1632,18 @@ Graham Wilkinson 'A'    21 Jan McGuiness           14
             Aggregate: 118             Aggregate:  86 
                 Games:   4                 Games:   2 
                Points:  19                Points:   7 
+
+  Division 1 - Thurston           Mon 14th Jul        
+      Shipley Club A                Farsley           
+David Bland             21 Richard Whittaker       13 
+Richard Bloodworth      21 Jim Swailes              9 
+Chris Jacques           20 Peter Crowther          21 
+Ian Jacques             21 Colin Rhodes             7 
+Matthew Jacques         21 Graham Petty            13 
+Stuart Wilson           19 Ian Swinfield           21 
+            Aggregate: 123             Aggregate:  84 
+                Games:   4                 Games:   2 
+               Points:  20                Points:   6 
 
   Division 1 - Thurston           Mon 14th Jul        
      Spen Victoria A               Tyersal A          
