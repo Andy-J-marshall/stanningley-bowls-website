@@ -1,4 +1,4 @@
-=== Leeds & District (Thursday Over 55s) 2025 (as of Wed 16th Jul)
+=== Leeds & District (Thursday Over 55s) 2025 (as of Thu 17th Jul)
 === League Match Cards
 
      Division 1            Thu 17th Apr       
@@ -889,5 +889,57 @@ Stewart Wardlow    21 *No Player*           0
 Geoff Clark        21 Matt Ramsey          15 
        Aggregate: 168          Aggregate:  86 
           Points:  40             Points:  16 
+
+     Division 1            Thu 17th Jul       
+     New Wortley           Pudsey Park A      
+Neil Porter        21 Janet Pearson         7 
+Paul Shackleton    21 Elaine Hill          12 
+Stephen Morley     21 David Turner         10 
+Malcolm Crowson    21 Brian Stevens         8 
+Valerie Dawson     15 Maveen Tomlinson     21 
+Beryl Wainman       9 Bill Pyett           21 
+Keith Sellars      21 Frank Lindsay        20 
+Trevor Dawson      21 Dennis Walters       20 
+       Aggregate: 150          Aggregate: 119 
+          Points:  34             Points:  24 
+
+     Division 1            Thu 17th Jul       
+ Middleton Community        Burley Prk        
+Malcolm Hallas     21 Joan Crampton        11 
+Sue Harrison       21 Malcolm Dacre         7 
+Mario Biancardo    21 Pat Dacre             6 
+Neil Hudson        21 Pauline Stockdale    20 
+Terry Maher         4 Barry Palmer         21 
+Brian Ragan        19 Jeff Fryer           21 
+Shirley Biancardo  21 Tommy Parr           15 
+Christine Glynne   18 Steve Pickersgill    21 
+       Aggregate: 146          Aggregate: 122 
+          Points:  33             Points:  26 
+
+     Division 2            Thu 17th Jul       
+    Pudsey Park B          Bramley Park       
+Peter Wild         17 Shirley Allman       21 
+Maureen Bradshaw   17 Terry Astley         21 
+David Milner        4 Kevin Morley         21 
+Barbara Moss       11 Peter Caine          21 
+Derek Howell       21 Bob Davison          19 
+Robert Fountain     2 Glynn Barrett        21 
+Peter Huffinley    21 Jeff Allman          13 
+Barbara Nellis     13 Brian Fish           21 
+       Aggregate: 106          Aggregate: 158 
+          Points:  20             Points:  36 
+
+     Division 2            Thu 17th Jul       
+   West Royd Park           New Armley        
+Jan McGuiness      21 Josie M Burdon       19 
+Pam Wilson         18 Walter Stockhill     21 
+Les Spencer        21 Carol Butters        16 
+Gez Collins        21 Fred Hargreaves       7 
+Richard Tatum      21 David Anker           9 
+Chris Swales       21 Ken Stockhill        11 
+Howard Gothard     21 Richard Stephen      20 
+Colin Pontefract   21 David Hurd           12 
+       Aggregate: 165          Aggregate: 115 
+          Points:  39             Points:  22 
 
 

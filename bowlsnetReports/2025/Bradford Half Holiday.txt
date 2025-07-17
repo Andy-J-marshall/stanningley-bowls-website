@@ -1,4 +1,4 @@
-=== Bradford (Half Holiday) 2025 (as of Wed 16th Jul)
+=== Bradford (Half Holiday) 2025 (as of Thu 17th Jul)
 === Comp. Match Cards
 
    Division 1 - Ed Foster           Wed 16th Apr        
@@ -20,7 +20,7 @@ David Moore                6 Mark Reynolds           21
 Paul Gill                 21 Diane Emery             17 
 Chris Wilson              21 Pauline Gilroy           6 
 Bev Shutt                 21 Peter Howroyd           17 
-Peter Oliver              20 *A.N.Other*             21 
+Peter Oliver              20 Vince Bussingham        21 
               Aggregate:  95             Aggregate: 103 
                   Games:   3                 Games:   3 
                  Points:  11                Points:  15 
@@ -99,7 +99,7 @@ Peter Howell              12 Jason Greenwood         21
 
 Division 2 - Sheila Johnson         Wed 16th Apr        
           Wibsey B                   Clayton B          
-*A.N.Other*               21 Steve Edgley            12 
+Alan Marsden              21 Steve Edgley            12 
 Charles Fell              12 Ray Atkinson            21 
 Katherine Bartle          18 Pauline McGregor        21 
 John Whelan               15 Gaynor Shutt            21 
@@ -209,7 +209,7 @@ Tasawar Hussain           16 Paul Gill               21
          Eccleshill                 Hove Edge A         
 Peter Jefferson           17 Peter Barstow           21 
 Diane Emery               20 Chris Illingworth       21 
-*A.N.Other*               21 Christine Barker        19 
+Vince Bussingham          21 Christine Barker        19 
 Pauline Gilroy            15 Nigel Firth             21 
 Mark Reynolds             21 Kevin Longbottom         2 
 Andrew Howie              21 Steve Rothwell           8 
@@ -268,7 +268,7 @@ David Smalley              5 Tony Carpenter          21
 Division 2 - Sheila Johnson         Wed 23rd Apr        
         Brackenhill                   Wibsey B          
 Jackie Wilkinson          12 John Walsh              21 
-Madeline Gamble           21 *A.N.Other*             13 
+Madeline Gamble           21 Alan Marsden            13 
 Elie Campbell              7 John May                21 
 Gordon McLennon           12 Katherine Bartle        21 
 Steve Hillam              21 Steve Thornton          13 
@@ -291,12 +291,12 @@ Brian Woolner             16 Andrew Lancaster        21
 
  Division 3 - Peter Gilroy          Wed 23rd Apr        
          Clayton C                    Wibsey C          
-*A.N.Other*               13 Ray Clapham             21 
+Ray Wadsworth             13 Ray Clapham             21 
 Sue Findlay               21 Christine Delaney       16 
 Joe Midgley               21 Sid Hartford             9 
 Ian Findlay               21 Raymond Ledbetter        8 
-*A.N.Other*               21 *A.N.Other*              4 
-*A.N.Other*               21 Michael Oliver           8 
+Shaun Toehill             21 *A.N.Other*              4 
+Kenny McCafferty          21 Michael Oliver           8 
               Aggregate: 118             Aggregate:  66 
                   Games:   5                 Games:   1 
                  Points:  23                Points:   3 
@@ -380,7 +380,7 @@ Pauline Gilroy            13 Jim Moorin              21
 Peter Jefferson           21 Angela Carter           17 
 Peter Howroyd             12 Nicky Dewhirst          21 
 Diane Emery                9 Glenn Miller            21 
-*A.N.Other*               21 Alan Mazurke            11 
+Vince Bussingham          21 Alan Mazurke            11 
               Aggregate:  97             Aggregate: 106 
                   Games:   3                 Games:   3 
                  Points:  11                Points:  15 
@@ -472,11 +472,11 @@ Colin Isles               21 *A.N.Other*              4
  Division 3 - Peter Gilroy          Wed 30th Apr        
          Clayton C                    Thornton          
 Sue Findlay               21 Sheila Farr             15 
-*A.N.Other*               13 Dawn Riggett            21 
+Ray Wadsworth             13 Dawn Riggett            21 
 Joe Midgley               21 Barry Austin            10 
 Ian Findlay               15 June Harrison           21 
-*A.N.Other*               21 Philip Ford             19 
-*A.N.Other*               21 Steve Tomkinson          7 
+Shaun Toehill             21 Philip Ford             19 
+Kenny McCafferty          21 Steve Tomkinson          7 
               Aggregate: 112             Aggregate:  93 
                   Games:   4                 Games:   2 
                  Points:  17                Points:   9 
@@ -519,7 +519,7 @@ John Stevenson            13 Mark Goodall            21
 
    Division 1 - Ed Foster           Wed 7th May         
          Eccleshill                   Pudsey A          
-*A.N.Other*               14 Dean Scarth             21 
+Vince Bussingham          14 Dean Scarth             21 
 Peter Jefferson           17 Ian Shaw                21 
 Diane Emery               21 Tom Morris              19 
 Mark Reynolds             21 Melissa Morris          14 
@@ -608,7 +608,7 @@ Gary Thornton             21 Steve Thornton           3
 Brian Bonnington          16 Katherine Bartle        21 
 Geoff Simpson             20 John Walsh              21 
 Linda Barrand             17 Charles Fell            21 
-David Elliott             14 *A.N.Other*             21 
+David Elliott             14 Alan Marsden            21 
               Aggregate: 109             Aggregate: 107 
                   Games:   2                 Games:   4 
                  Points:  13                Points:  13 
@@ -619,8 +619,8 @@ Sue Findlay               21 Sheila Edden            13
 Lee Greenwood             21 Brian Woolner           19 
 Joe Midgley               13 Geraldine Sephton       21 
 Ian Findlay               21 Anne Mullaney           10 
-*A.N.Other*               21 Colin Isles             18 
-*A.N.Other*               18 Malcolm Leeming         21 
+Kenny McCafferty          21 Colin Isles             18 
+Shaun Toehill             18 Malcolm Leeming         21 
               Aggregate: 115             Aggregate: 102 
                   Games:   4                 Games:   2 
                  Points:  16                Points:  10 
@@ -704,7 +704,7 @@ Kath Sansom               21 Peter Howroyd           18
 David Trudgill            21 Pauline Gilroy          10 
 Steve Fleming             20 Mark Reynolds           21 
 Scott Sansom              21 Peter Jefferson          7 
-Paula Graham              21 *A.N.Other*             11 
+Paula Graham              21 Vince Bussingham        11 
               Aggregate: 125             Aggregate:  78 
                   Games:   5                 Games:   1 
                  Points:  22                Points:   4 
@@ -844,7 +844,7 @@ Jai Jai Ekins             21 Darryl McCormack        19
    Division 1 - Ed Foster           Wed 21st May        
          Eccleshill                   Wibsey A          
 Pauline Gilroy            20 Tasawar Hussain         21 
-*A.N.Other*               17 Nicola Stocks           21 
+Vince Bussingham          17 Nicola Stocks           21 
 Diane Emery               18 Peter Crowther          21 
 Peter Jefferson           21 Alison Stocks            9 
 Peter Howroyd             20 Martin Grace            21 
@@ -1023,7 +1023,7 @@ Pam Lindley               21 Kath Mazurke             3
 
    Division 1 - Ed Foster           Wed 28th May        
         Heckmondwike                 Eccleshill         
-Gerald Bromley            21 *A.N.Other*              4 
+Gerald Bromley            21 Vince Bussingham         4 
 Gareth Harwood            21 Peter Howroyd            5 
 Sean Carter               21 Pauline Gilroy           8 
 Jacob Hatfield-Goodall    21 Diane Emery              8 
@@ -1110,7 +1110,7 @@ Division 2 - Sheila Johnson         Wed 28th May
 Katherine Bartle           8 Malcolm Park            21 
 John May                  21 Colin Fallows           12 
 Charles Fell              17 Richard Kerr            21 
-*A.N.Other*                9 Vincent Kerr            21 
+Alan Marsden               9 Vincent Kerr            21 
 John Walsh                21 Colin White             11 
 John Exley                21 Robert Foalks            9 
               Aggregate:  97             Aggregate:  95 
@@ -1167,12 +1167,12 @@ Terry King                12 June Harrison           21
 
  Division 3 - Peter Gilroy          Wed 28th May        
          Clayton C                  Bowling Park        
-*A.N.Other*               18 Sheila Krysik           21 
+Kenny McCafferty          18 Sheila Krysik           21 
 Sue Findlay               21 John Chisholm            5 
 Joe Midgley               21 Keith Robertson          9 
 Peter Barker              21 Jackie Swindell         10 
 Ian Findlay               21 Carol Chisholm           9 
-*A.N.Other*               12 Darryl McCormack        21 
+Ray Wadsworth             12 Darryl McCormack        21 
               Aggregate: 114             Aggregate:  75 
                   Games:   4                 Games:   2 
                  Points:  20                Points:   6 
@@ -1204,7 +1204,7 @@ Martin Grace              21 Kevin Longbottom        13
    Division 1 - Ed Foster           Wed 4th Jun         
          Eccleshill               West Bradford A       
 Peter Jefferson           21 Malcolm Crotty           6 
-*A.N.Other*               19 Eddie Pells             21 
+Vince Bussingham          19 Eddie Pells             21 
 Pauline Gilroy            21 Kevin Buckley           15 
 Diane Emery               21 Stuart Graham           18 
 Mark Reynolds             21 Steven Bussingham        3 
@@ -1242,7 +1242,7 @@ Division 2 - Sheila Johnson         Wed 4th Jun
 Tony Smith                 9 John May                21 
 William Watson             9 John Walsh              21 
 *A.N.Other*               21 Charles Fell            11 
-John Garside              21 *A.N.Other*             20 
+John Garside              21 Alan Marsden            20 
 Richard Stewart           21 Steve Thornton           3 
 Ian Gomersal              21 Katherine Bartle         8 
               Aggregate: 102             Aggregate:  84 

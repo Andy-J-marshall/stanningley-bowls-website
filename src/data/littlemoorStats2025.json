@@ -213,18 +213,18 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 809,
-            "totalAggAgainst": 775,
-            "availableAgg": 987,
+            "totalAgg": 827,
+            "totalAggAgainst": 796,
+            "availableAgg": 1008,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 420,
+            "availableHomeAgg": 441,
             "availableAwayAgg": 504,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 384,
-            "totalHomeAggAgainst": 301,
+            "totalHomeAgg": 402,
+            "totalHomeAggAgainst": 322,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 376,
@@ -232,7 +232,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 13,
-            "homeLosses": 7,
+            "homeLosses": 8,
             "awayWins": 11,
             "awayLosses": 13,
             "cupWins": 1,
@@ -245,7 +245,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 47,
+            "totalGamesPlayed": 48,
             "results": [
                 "jim moorin 21 - 2 janice connaleigh",
                 "jim moorin 10 - 21 deborah swann",
@@ -286,6 +286,7 @@
                 "jim moorin 21 - 17 peter storey",
                 "jim moorin 21 - 12 ricky kearns",
                 "jim moorin 3 - 21 kevin rankin",
+                "jim moorin 18 - 21 peter jefferson",
                 "jim moorin 21 - 10 michael sansom",
                 "jim moorin 14 - 21 jordan edmondson",
                 "jim moorin 21 - 19 peter owen",
@@ -336,9 +337,9 @@
                 "aggDiff": -31
             },
             "bradford vets": {
-                "games": 9,
+                "games": 10,
                 "wins": 5,
-                "aggDiff": 8
+                "aggDiff": 5
             },
             "ossett and horbury": {
                 "games": 0,
@@ -857,6 +858,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "16/07/2025",
+    "lastUpdated": "17/07/2025",
     "statsYear": "2025"
 }
