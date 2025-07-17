@@ -4,6 +4,12 @@ on:
         # Runs every day from April 1st to September 30th at 22:00 UTC
         - cron: '0 21 1-31 4-9 *'
     workflow_dispatch:
+        inputs:
+            BEST_EFFORT:
+                description: 'Process available leagues even if some leagues are down'
+                default: false
+                required: false
+                type: boolean
 
 env:
     EMAIL: stanningleybowlsclub@gmail.com
@@ -34,8 +40,11 @@ jobs:
                   npm ci
                   npx playwright install-deps
                   npx playwright install
-            - name: Update stats and deploy
-              run: npm run get-stats-and-update
+            - name: Get stats from Bowlsnet
+              run: npm run get-stats
+              continue-on-error: ${{ github.event.inputs.BEST_EFFORT == true }}
+            - name: Update stats
+              run: npm run update-stats
             - name: Commit and push
               run: |
                   git add bowlsnetReports/*

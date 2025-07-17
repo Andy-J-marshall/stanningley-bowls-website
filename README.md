@@ -120,6 +120,8 @@ If the step to generate the reports from Bowlsnet fails, you can manually update
 
 The pipeline will run the `update-stats.yml` job on a schedule (see the cron schedule in that file for details). This will update the stats and create a PR. Once the PR is merged it will automatically deploy master to prod.
 
+Note: If any Bowlsnet league is down, the pipeline will fail. There is an optional `BEST_EFFORT` input that can be set to `true` to allow the pipeline to continue processing other leagues even if some leagues are down.
+
 #### Update stats via local Cron job
 
 You can also set up a cron job on your local machine to run the script automatically:
