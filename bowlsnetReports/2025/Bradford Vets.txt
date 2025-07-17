@@ -3364,6 +3364,20 @@ Adrian Newlove           21 John Smith           14
                 Points:   5             Points:  23 
 
        Division One              Thu 17th Jul       
+       Asa Briggs A                 Idle A          
+Kevin Burrage            21 Dave Duckett         20 
+Paula Graham             21 Yvonne Coppin         8 
+Peter Wilkinson          21 Michael Leach         7 
+Bob Hiley                21 Ian Watson            4 
+Mick Gadd                21 Roy Barlow            5 
+Andy Denton              21 Pamela Barlow         8 
+Malcolm Iles             21 Bryn Jones           19 
+Mark Barnett             19 Alan Sinfield        21 
+             Aggregate: 166          Aggregate:  92 
+                 Games:   7              Games:   1 
+                Points:  27             Points:   1 
+
+       Division One              Thu 17th Jul       
         Littlemoor               Eccleshill A       
 James Moorin             18 Peter Jefferson      21 
 Nicholas Dewhirst        21 Peter Howroyd         9 
@@ -3448,6 +3462,34 @@ Peter Bainbridge         10 Ernest Tiffany       21
                 Points:  18             Points:  10 
 
       Division Three             Thu 17th Jul       
+       Shipley Club               Guiseley B        
+Ian Greenwood            21 Andrew Baxter        17 
+Shaun Chamberlain        19 Eric Brocklehurst    21 
+Tony Spivey              21 John Boyd            18 
+Richard Shaw             21 Caroline Corbett     13 
+Wendy Spivey             17 Mo Jarvis            21 
+Alan Outlaw              19 John Stead           21 
+Tony Greenwood           21 Chris Hepworth       20 
+Steve West               21 Ralph Sissons        16 
+             Aggregate: 160          Aggregate: 147 
+                 Games:   5              Games:   3 
+                Points:  17             Points:  11 
+
+      Division Three             Thu 17th Jul       
+       Eccleshill B              Bradford Moor      
+Andrew Smith             21 Janet Gatenby        12 
+Sue Butler               21 Doreen Parkin        12 
+Ken Binder               21 Martin Barraclough    7 
+Keith Cooksey            21 Diane Barraclough    11 
+Shirley Rooks            15 Alan Naylor          21 
+Peter Dawson             16 Michael Jarvis       21 
+Vincent Gelder            9 Alan Farrow          21 
+Kevin Ackroyd            21 Mark Durrans          5 
+             Aggregate: 145          Aggregate: 110 
+                 Games:   5              Games:   3 
+                Points:  20             Points:   8 
+
+      Division Three             Thu 17th Jul       
       Drighlington A              Brackenhill       
 Michael Warren           21 Gordon McLennon      13 
 Rod Fox                  21 Steve Hillam         20 
@@ -3498,6 +3540,18 @@ Steve Horne              14 Karl Denville        21
              Aggregate: 105          Aggregate: 100 
                  Games:   3              Games:   3 
                 Points:  14             Points:  12 
+
+Division Four ( 6 Players)       Thu 17th Jul       
+          Salts B                   Wyke C          
+Maureen Adams             8 Colin Fallows        21 
+Anne Brown               21 Ken Bairstow         16 
+Rosemary Cowley          21 Richard Bell          8 
+Philip Peel              10 John Illingworth     21 
+Vanda Greenwood          21 John Winstanley      14 
+Peter Holland            18 Keith Stephenson     21 
+             Aggregate:  99          Aggregate: 101 
+                 Games:   3              Games:   3 
+                Points:  12             Points:  14 
 
 Division Four ( 6 Players)       Thu 17th Jul       
          Thornton                 Calverley B       
