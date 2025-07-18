@@ -1,4 +1,4 @@
-=== Leeds & District (Half Holiday) 2025 (as of Thu 17th Jul)
+=== Leeds & District (Half Holiday) 2025 (as of Fri 18th Jul)
 === League Match Cards
 
         Div 1               Wed 2nd Apr       
@@ -2183,5 +2183,16 @@ Fred Hargreaves     10 John Ackroyd        21
 Carol Butters       16 Frank Hales         21 
         Aggregate:  86         Aggregate: 104 
            Points:  18            Points:  24 
+
+        Div 1               Fri 18th Jul      
+    Whitkirk BC A         Stanningley Park    
+Phil Hill           21 Alyssa Randell       3 
+Tony Green          21 Jimmy Swailes       10 
+Barry Tobin         11 Malvin Miller       21 
+Graham Scholes      21 David Eaton         15 
+Graham Hodder       21 Malcolm Crowsman    14 
+Philip Hatch        21 Andy Waller         15 
+        Aggregate: 116         Aggregate:  78 
+           Points:  27            Points:  15 
 
 

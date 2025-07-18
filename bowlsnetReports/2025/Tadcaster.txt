@@ -1,4 +1,4 @@
-=== Tadcaster Evening League 2025 (as of Thu 17th Jul)
+=== Tadcaster Evening League 2025 (as of Fri 18th Jul)
 === League Match Cards
 
     Richardson Trophy           Thu 3rd Apr        
@@ -3345,6 +3345,21 @@ Steve Jones            11 G Dickinson           21
 
     Main League 2025            Thu 17th Jul       
           Div 2                                    
+     WHITKIRK KNAVES          BARWICK BADGERS      
+G Hodder               21 Derek Dobson          11 
+Jim Smith              15 David Wright          21 
+Phil Hatch             21 Jane Boyd             14 
+Paul Hardy             21 Pam Binns             12 
+S Cahill               21 Dennis Bainbridge      7 
+Hannah Risley          21 Jeff Binns            12 
+Jason Richards         15 Chris Boyd            21 
+Michael Sheerin        21 Ian Wallbank          12 
+              Points:   8              Points:   2 
+           Aggregate: 156           Aggregate: 110 
+               Games:   6               Games:   2 
+
+    Main League 2025            Thu 17th Jul       
+          Div 2                                    
     KNARESBOROUGH OAK           MAGNET PALE        
 Nicholas Lofthouse     21 Carl (Rob) Preene     20 
 Mark Herrington        21 Graham Collins         9 
@@ -3359,6 +3374,36 @@ David Finlayson        20 Melanie Collins       21
                Games:   6               Games:   2 
 
     Main League 2025            Thu 17th Jul       
+          Div 2                                    
+     LOW HARROGATE A           EAST END PARK       
+Chris Olding            7 Dave Smith            21 
+David Clarke           21 Peter Simmons         11 
+Nick Binns             16 Sophie Olivant        21 
+Cath Patrick           21 Joesy Olivant         16 
+Peter Hicks            21 Nigel Rawlings        17 
+Graham Patrick         21 Helen Simms           13 
+Ian Jarratt            21 Darran Baker          15 
+David Spilsbury        21 Paul Reynard          13 
+              Points:   8              Points:   2 
+           Aggregate: 149           Aggregate: 127 
+               Games:   6               Games:   2 
+
+    Main League 2025            Thu 17th Jul       
+          Div 3                                    
+        STARBECK                 COLLINGHAM        
+Richard Farrar         11 Angela Scorfield      21 
+David Toomey            8 Nick Danby            21 
+Carol Abbott           16 John Scruton          21 
+Phil Turton             8 Ian Jones             21 
+Richard Armstrong      21 Helen Danby           10 
+Steve Holmes           21 Geoff Jones           17 
+Simon Hoare            15 Alan Scorfield        21 
+Tony Hawkes            21 Tim Wilson            17 
+              Points:   3              Points:   7 
+           Aggregate: 121           Aggregate: 149 
+               Games:   3               Games:   5 
+
+    Main League 2025            Thu 17th Jul       
           Div 3                                    
       GARFORTH REC             GARFORTH CC B       
 Joy Slater             21 Alison Roberts        10 
@@ -3366,11 +3411,11 @@ Bill Robinson          21 Trevor Kell           15
 Ray Brown              21 Neil Robinson          2 
 Craig Hobbs            21 Trevor Curtis         13 
 John West              21 Chris Prentice        11 
-B Kyle                 14 Neil Mehta            21 
+B Kyle                 11 Neil Mehta            21 
 Tony Boyes             21 Ian Thornhill         18 
 Julie Matthews         21 Joe Doughty            9 
               Points:   9              Points:   1 
-           Aggregate: 161           Aggregate:  99 
+           Aggregate: 158           Aggregate:  99 
                Games:   7               Games:   1 
 
     Main League 2025            Thu 17th Jul       
@@ -3387,6 +3432,21 @@ Bob Williams           21 David Ryder           11
               Points:   6              Points:   4 
            Aggregate: 155           Aggregate: 137 
                Games:   4               Games:   4 
+
+    Main League 2025            Thu 17th Jul       
+          Div 3                                    
+        HAREHILLS            BOSTON SPARTANS A     
+Alan McConnell         15 William Shaw          21 
+Jade Kerry             21 Dave Robinson         17 
+Sharon Kerry           21 Alan Best              6 
+David Smith            21 Graham Biggs           4 
+Paul Hatch             21 Larry Hoyle            1 
+David Tinker           21 Barry Ibbetson         4 
+Raymond Swallow        13 John Potter           21 
+Laura Love             21 Richard Widnall       10 
+              Points:   8              Points:   2 
+           Aggregate: 154           Aggregate:  84 
+               Games:   6               Games:   2 
 
     Main League 2025            Thu 17th Jul       
           Div 4                                    
@@ -3432,5 +3492,20 @@ Granville Deighton     21 Adele Zagorski         2
               Points:   7              Points:   3 
            Aggregate: 137           Aggregate: 108 
                Games:   5               Games:   3 
+
+    Main League 2025            Thu 17th Jul       
+          Div 4                                    
+     BARWICK BEAVERS            BLACK SWAN B       
+Derek Harding          10 Dave Kinder           21 
+Keith Dodgson          16 Gary Kinder           21 
+Jennifer Dodgson       19 Jake Coker            21 
+Michael Higgins        21 Keith Agars           16 
+Anthony Marsden        21 Barry Turnbull        13 
+Peter Elliot           21 Sue Mitchell          15 
+Paul Foster            20 Stephen Westoby       21 
+Peter Harrison         14 Mark Raynard          21 
+              Points:   3              Points:   7 
+           Aggregate: 142           Aggregate: 149 
+               Games:   3               Games:   5 
 
 

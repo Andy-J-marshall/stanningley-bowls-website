@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Thu 17th Jul)
+=== Ossett & Horbury 2025 (as of Fri 18th Jul)
 === League Match Cards
 
          Division 3                   Tue 8th Apr          
@@ -3652,6 +3652,18 @@ James Tiler               21 Peter Claven               11
               Aggregate: 148                Aggregate: 116 
 
          Division 2                  Thu 17th Jul          
+        Slazenger B                  Smirthwaite B         
+Maureen Jennings          16 Roy Limb                   21 
+Jack Teal                 21 R Dunwell                  17 
+Lucie Harding              5 Dale Evans                 21 
+Angela Pursglove           9 Graham Kirkaldy            21 
+Jeff Shaw                 13 Glen Evans                 21 
+Carol Boyer               21 A France                   16 
+Gary Denton               11 Tom Knapper                21 
+Alwyn Cotton              21 Graham Knowles             13 
+              Aggregate: 117                Aggregate: 151 
+
+         Division 2                  Thu 17th Jul          
         Horbury WMC                   Savile Park          
 A Clarkson                 3 Jade Johnson               21 
 John Stokes               21 Ellis Owen                 16 
@@ -3662,6 +3674,18 @@ S Crummack                13 Karen Portman              21
 David Horan               21 Liam Massey                15 
 Den Law                   21 Gary Haley                 11 
               Aggregate: 135                Aggregate: 146 
+
+         Division 3                  Thu 17th Jul          
+      Ossett C & AC C             West Yorks Sports A      
+John Kellett              21 Geoffrey Skenfield         13 
+Bryan Collier             21 Alan Smith                 10 
+Stephen Briggs            19 David Dixon                21 
+Linda Callaghan            7 John O'Hara                21 
+Alison Sykes              21 Mark Lingard                9 
+Nora Collier              21 Sarah Dixon                11 
+Alan Nash                 12 Allan Poyser               21 
+Karen Kellett             21 David Harvey               12 
+              Aggregate: 143                Aggregate: 118 
 
          Division 3                  Thu 17th Jul          
        Denby Grange B                 Thornhill B          
@@ -3719,7 +3743,7 @@ L Evans                   21 Mark Whittaker              7
 B Daniel                  16 John Best                  21 
 D Watson                  17 Barry Young                21 
 Michael Wood              21 Tony Codner                16 
-*A.N.Other*               21 Declan Brown                5 
+M Nowakowski              21 Declan Brown                5 
 Craig Measham             21 Jeremy Wightman            14 
               Aggregate: 156                Aggregate: 112 
 
@@ -3748,6 +3772,18 @@ Joan Bailey               18 Steve Slawycz              21
               Aggregate: 108                Aggregate: 168 
 
          Division 5                  Thu 17th Jul          
+    West Yorks Sports B             Ossett C & AC D        
+Jean Chaplin              16 John Kennelly              21 
+Penny Bestwick            13 Connor Dunford             21 
+Brian Lister               6 Rena Hirstle               21 
+John Wallis               18 Pauline Clarkson           21 
+Neil Anderson             20 Michael Scholey            21 
+Karen Poyser              21 David Clarkson             19 
+Patricia Ryder            21 Diane Pitchford            16 
+Keith Clayton             21 Stewart Widdrington         2 
+              Aggregate: 136                Aggregate: 142 
+
+         Division 5                  Thu 17th Jul          
        Outwood WMC B                   Stanley B           
 Robert Race               21 Susan Plant                 2 
 Alison Birkett            21 Anne Waring                 5 
@@ -3770,5 +3806,17 @@ Michael Murphy            21 Martin Barlow              11
 Nigel James                1 Derek Hawes                21 
 Tony Moss                 15 Phillip Dunnill            21 
               Aggregate: 130                Aggregate: 150 
+
+         Division 5                  Thu 17th Jul          
+       Holmfield Park               Wake Thornes B         
+Peter Birch               21 Jayne Richardson           13 
+Lucas Manousios            9 R Stables                  21 
+Shirley Griffiths         21 Leo Herrera                14 
+David Smith               21 Wayne Holling               5 
+Frank Ryan                21 Susan Holling              20 
+Mick Lund                 18 Khalid Mahmood             21 
+Nigel Brown               16 Brian Oselton              21 
+Eric France               20 D Warwick                  21 
+              Aggregate: 147                Aggregate: 136 
 
 
