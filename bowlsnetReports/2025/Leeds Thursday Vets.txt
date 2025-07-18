@@ -1,4 +1,4 @@
-=== Leeds & District (Thursday Over 55s) 2025 (as of Thu 17th Jul)
+=== Leeds & District (Thursday Over 55s) 2025 (as of Fri 18th Jul)
 === League Match Cards
 
      Division 1            Thu 17th Apr       
@@ -899,8 +899,8 @@ Malcolm Crowson    21 Brian Stevens         8
 Valerie Dawson     15 Maveen Tomlinson     21 
 Beryl Wainman       9 Bill Pyett           21 
 Keith Sellars      21 Frank Lindsay        20 
-Trevor Dawson      21 Dennis Walters       20 
-       Aggregate: 150          Aggregate: 119 
+Trevor Dawson      21 Dennis Walters       19 
+       Aggregate: 150          Aggregate: 118 
           Points:  34             Points:  24 
 
      Division 1            Thu 17th Jul       
@@ -967,5 +967,18 @@ Howard Gothard     21 Richard Stephen      20
 Colin Pontefract   21 David Hurd           12 
        Aggregate: 165          Aggregate: 115 
           Points:  39             Points:  22 
+
+     Semi-Finals           Fri 18th Jul       
+                         On Western Flatts    
+     Burley Prk             New Wortley       
+Malcolm Dacre      19 Malcolm Crowson      21 
+Pat Dacre          12 Valerie Dawson       21 
+Mark McCann        21 Beryl Wainman         3 
+Pauline Stockdale  21 Keith Sellars         7 
+John Gilroy        21 Trevor Dawson        11 
+Barry Palmer       10 Neil Porter          21 
+Steve Pickersgill   9 Stuart Reardon       21 
+Tommy Parr         14 Paul Shackleton      21 
+       Aggregate: 127          Aggregate: 126 
 
 

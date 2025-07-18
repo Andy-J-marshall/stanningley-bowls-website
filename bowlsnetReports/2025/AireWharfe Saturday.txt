@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Saturday) 2025 (as of Thu 17th Jul)
+=== AireDale & Wharfedale (Saturday) 2025 (as of Fri 18th Jul)
 === League Match Cards
 
            Premier                      Sat 5th Apr           
@@ -4920,5 +4920,19 @@ Stephen Holliday             8 Alan Driffield              21
                     Games:   2                     Games:   6 
                 Aggregate:  91                 Aggregate: 163 
                    Points:   4                    Points:  24 
+
+          Division 4                    Fri 18th Jul          
+          Menston B                        Idle C             
+Ian Thomson                  6 Margaret Austin             21 
+Keith Bond                  21 Christine Walker            17 
+Stuart Davies               20 Sylvia Davies               21 
+Margaret Ripley             21 Ken Walker                   9 
+Mike Ripley                 21 Steve Horne                 17 
+Barbara Harrison            21 Jim Head                    15 
+Monty Navias                16 Elaine Fenton               21 
+Peter Gaston                17 Roger Morgan-Williams       21 
+                    Games:   4                     Games:   4 
+                Aggregate: 143                 Aggregate: 142 
+                   Points:  15                    Points:  13 
 
 

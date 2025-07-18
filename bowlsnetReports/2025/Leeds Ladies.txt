@@ -1,4 +1,4 @@
-=== Leeds & District Ladies Bowling League 2025 (as of Thu 17th Jul)
+=== Leeds & District Ladies Bowling League 2025 (as of Fri 18th Jul)
 === League Match Cards
 
         League               Thu 17th Apr       
@@ -1264,6 +1264,19 @@ Sally Clarke         21 Catherine Crane       8
 
         League               Thu 17th Jul       
       Division 1                                
+   Rufford Park 'A'         Western Flatts      
+Angela Carter        21 Dot Taylor           11 
+Eileen Beck          21 Joanne Rochester     13 
+Janice Waite         21 Barbara Nellis        7 
+Angela Bennett       21 Mary Horrocks        18 
+Angela Burnham       21 Maveen Tomlinson     11 
+Sophie Bennett       21 Hazel Goodall        14 
+Val Grace            21 Glennys Ash           3 
+Pauline Ingleson     21 Dawn Peters           6 
+         Aggregate: 168          Aggregate:  83 
+
+        League               Thu 17th Jul       
+      Division 1                                
       Greenbottom            Shipley Club       
 Fiona Haxby          21 Maxine Welsh         11 
 Karen Whitelaw       18 Dianne Halliday      21 
@@ -1339,5 +1352,31 @@ Barbara Taylor       21 Maureen Sheriden      7
 Linda Taylor         21 Carol Dunn            5 
 Emma Dixon           10 Julie Keightley      21 
          Aggregate: 133          Aggregate: 102 
+
+        League               Thu 17th Jul       
+      Division 2                                
+       West Royd               Hall Park        
+Pam Wilson           21 Helen Mylan          12 
+Jan Mguiness          9 Joyce Banks          21 
+Joan Coop            14 Ruth Owen            21 
+Anne Gothard         12 Linda Stoyles        21 
+Caroline Coop         8 Anne Mackman         21 
+Hazel Stancliffe      8 Sabrina Piggot       21 
+Sandra Knell         14 Kath Crompton        21 
+Elizabeth Farrar     14 Ruth Sutcliffe       21 
+         Aggregate: 100          Aggregate: 159 
+
+        League               Fri 18th Jul       
+      Division 1                                
+   Rufford Park 'A'           Eccleshill        
+Angela Burnham       15 Paula Graham         21 
+Janice Waite         21 Mary Nellist          9 
+Angela Bennett       21 Melissa Gilroy       17 
+Eileen Beck          21 Shirley Rooks        10 
+Sophie Bennett       21 Jan Smith            13 
+Diane Teale          21 Pauline Gilroy        7 
+Pauline Ingleson     21 Debbi Davies         17 
+Val Grace            21 Sue Butler            7 
+         Aggregate: 162          Aggregate: 101 
 
 
