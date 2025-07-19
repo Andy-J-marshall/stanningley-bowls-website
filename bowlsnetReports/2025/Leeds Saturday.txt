@@ -1,4 +1,4 @@
-=== Leeds & District (Saturday) 2025 (as of Fri 18th Jul)
+=== Leeds & District (Saturday) 2025 (as of Sat 19th Jul)
 === League Match Cards
 
    Saturday League          Sat 5th Apr       
@@ -1751,5 +1751,33 @@ Alyssa Randell      21 Mick Stott          17
 Andrew Marshall     21 Wayne Warburton     16 
 Martin Fulton       21 Steve Brown         13 
         Aggregate: 155         Aggregate: 123 
+
+   Saturday League          Sat 19th Jul      
+     League Div 1                             
+       Meanwood             Holbeck Ltd       
+Mick Gregory        21 Jason Ream           3 
+Pat Prosser         10 Ryan Birch          21 
+Jenny Holliday       8 Kevin Siddle        21 
+Maureen Sheridan    21 Joanne Unwin        12 
+Ian Macfarlane       9 James Cuffe         21 
+Jeff Dumbrell       21 Lisa Hogan           6 
+Julie Keightley     21 Richard Perry       14 
+John Hindle         21 Lance Greenwood      5 
+        Aggregate: 132         Aggregate: 103 
+           Points:  29            Points:  21 
+
+   Saturday League          Sat 19th Jul      
+     League Div 1                             
+  Stanningley Park A        Pudsey Park       
+Paul Bowes          21 Maveen Tomlinson     6 
+David Eaton         10 Carl Birkin         21 
+Martin Fulton       21 Dennis Walters       0 
+Paul Leonard        21 Jane Hirst           1 
+Malvin Miller       13 Stephen Morris      21 
+Stuart Potter       21 Cliff Brogie         4 
+Alyssa Randell      20 James Drury         21 
+Jim Swailes         21 Calum Birkin        15 
+        Aggregate: 148         Aggregate:  89 
+           Points:  33            Points:  19 
 
 
