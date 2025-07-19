@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Fri 18th Jul)
+=== Bradford (Saturday) 2025 (as of Sat 19th Jul)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -3560,5 +3560,21 @@ Jackie Swindell            21 Peter Barker               7
                    Games:   3                   Games:   5 
                Aggregate: 115               Aggregate: 129 
                   Points:  11                  Points:  17 
+
+     Division 3 (Mellor)              Sat 19th Jul         
+        Harold Club A                 Burley Park          
+Andy Malone                21 Cheryl Smith               0 
+Tom Jagger                 21 Tommy Parr                16 
+Stewart Firth              21 John Gilroy                9 
+Nicky Jagger               21 James Miller               5 
+Chris Sowden               21 Stephen Pickersgill        4 
+Andy Bairstow               7 Jordan Edmondson          21 
+David Halligan             10 Harry Smith               21 
+Eddie Hill                 21 Pauline Stockdale          5 
+Shaun Godfrey              21 Kevin Gilroy              14 
+Paul Garside               21 Lesley Crowe               2 
+                   Games:   8                   Games:   2 
+               Aggregate: 185               Aggregate:  97 
+                  Points:  27                  Points:   3 
 
 
