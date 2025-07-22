@@ -19,9 +19,10 @@ jobs:
     Update-Stats:
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v4
+            - name: Checkout update_stats_prod branch
+              uses: actions/checkout@v4
               with:
-                  ref: update_stats_prod
+                ref: update_stats_prod
             - name: Set up Python
               uses: actions/setup-python@v2
               with:
@@ -44,6 +45,8 @@ jobs:
             - name: Get stats from BowlsNet
               run: npm run get-stats
               continue-on-error: ${{ github.event.inputs.BEST_EFFORT == 'true' }}
+            - name: Add manually generated stats files
+              run: npm run combine-manual-stats-files
             - name: Update stats
               run: npm run update-stats
             - name: Commit and push
@@ -57,9 +60,10 @@ jobs:
               continue-on-error: true
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            - uses: actions/upload-artifact@v4
+            - name: Upload Playwright Report
+              uses: actions/upload-artifact@v4
               if: ${{ !cancelled() }}
               with:
-                  name: playwright-report
-                  path: playwright-report/
-                  retention-days: 1
+                name: playwright-report
+                path: playwright-report/
+                retention-days: 1

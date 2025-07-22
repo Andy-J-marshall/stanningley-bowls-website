@@ -99,9 +99,7 @@ The JSON file will be created/updated in `src/data/`.
 
 #### Update stats automatically
 
-Run `npm run get-stats-and-update`. This will use Playwright to generate text reports from Bowlsnet, save them locally, and then run the scripts to update the stats JSON files.
-
-Advanced: You can also run `npm run get-stats-update-pr` to get, update and commit the stats, then create a pull request in GitHub. Once the PR is merged it should automatically deploy master to prod.
+Run `npm run get-stats-and-update`. This will use Playwright to generate text reports from Bowlsnet, save them locally, and then run the scripts to update the stats JSON files. Once the updated files are committed and pushed, the changes will be deployed to prod automatically.
 
 #### Update stats manually
 
@@ -131,7 +129,7 @@ You can also set up a cron job on your local machine to run the script automatic
 
 ```
 PATH=[insert path here]
-15 10,22 1-30 4-9 1,2,3,4,6 cd /path/to/repo && npm run get-stats-update-pr
+15 10,22 1-30 4-9 1,2,3,4,6 cd /path/to/repo && npm run get-stats-and-update
 ```
 
 # END OF SEASON MAINTENANCE
@@ -159,7 +157,7 @@ A number of manual changes are required at the end of each calendar year.
 
 3. If entering a new league, make sure the `bowlsClubStats.py` script will still work e.g. different scoring methods, or different number of players in a team might cause issues
 4. Check the scripts still work for the new season. The Bowlsnet website or text reports may have changed which could cause the scripts to fail
-5. Remove the `combineFiles.py` call in `get-stats` in `package.json` file. This is only needed if AireWharfe/West Riding has reset the cup half way through and lost results.
+5. Consider removing the `combineFiles.py` call in `get-stats` in `package.json` file. This is only needed if AireWharfe/West Riding has reset the cup half way through and lost results. Alternatively, just generate an empty text file for the new year in the `bowlsnetReports` directory.
 
 ## Web application
 
