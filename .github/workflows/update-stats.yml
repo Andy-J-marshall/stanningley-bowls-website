@@ -41,9 +41,9 @@ jobs:
                   npm ci
                   npx playwright install-deps
                   npx playwright install
-            - name: Get stats from Bowlsnet
+            - name: Get stats from BowlsNet
               run: npm run get-stats
-              continue-on-error: ${{ github.event.inputs.BEST_EFFORT == true }}
+              continue-on-error: ${{ github.event.inputs.BEST_EFFORT == 'true' }}
             - name: Update stats
               run: npm run update-stats
             - name: Commit and push
