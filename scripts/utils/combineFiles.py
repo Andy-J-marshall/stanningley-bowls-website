@@ -1,15 +1,19 @@
+from datetime import date
+
+year = str(date.today().year)
+
 files_to_update = [
     {
-        "input_file": "bowlsnetReports/2025/AireWharfe Monday Cup.txt",
-        "output_file": "bowlsnetReports/2025/AireWharfe Monday.txt",
+        "input_file": f"bowlsnetReports/{year}/AireWharfe Monday Cup.txt",
+        "output_file": f"bowlsnetReports/{year}/AireWharfe Monday.txt",
     },
     {
-        "input_file": "bowlsnetReports/2025/AireWharfe Wednesday Pairs Cup.txt",
-        "output_file": "bowlsnetReports/2025/AireWharfe Wednesday Pairs.txt",
+        "input_file": f"bowlsnetReports/{year}/AireWharfe Wednesday Pairs Cup.txt",
+        "output_file": f"bowlsnetReports/{year}/AireWharfe Wednesday Pairs.txt",
     },
     {
-        "input_file": "bowlsnetReports/2025/West Riding Cup.txt",
-        "output_file": "bowlsnetReports/2025/Spen Valley.txt",
+        "input_file": f"bowlsnetReports/{year}/West Riding Cup.txt",
+        "output_file": f"bowlsnetReports/{year}/Spen Valley.txt",
     },
 ]
 

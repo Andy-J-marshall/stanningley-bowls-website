@@ -90,7 +90,7 @@ Four JSON files will be generated after running the scripts:
 
 There are two stages to updating the player stats:
 
--   Generate the reports from bowlsnet
+-   Generate the reports from BowlsNet
 -   Update the stats JSON files
 
 The scripts to automate the process can be found in the `package.json` file.
@@ -99,13 +99,13 @@ The JSON file will be created/updated in `src/data/`.
 
 #### Update stats automatically
 
-Run `npm run get-stats-and-update`. This will use Playwright to generate text reports from Bowlsnet, save them locally, and then run the scripts to update the stats JSON files. Once the updated files are committed and pushed, the changes will be deployed to prod automatically.
+Run `npm run get-stats-and-update`. This will use Playwright to generate text reports from BowlsNet, save them locally, and then run the scripts to update the stats JSON files. Once the updated files are committed and pushed, the changes will be deployed to prod automatically.
 
 #### Update stats manually
 
-If the step to generate the reports from Bowlsnet fails, you can manually update the stats:
+If the step to generate the reports from BowlsNet fails, you can manually update the stats:
 
--   Navigate to the Bowlsnet league URLs
+-   Navigate to the BowlsNet league URLs
 -   Go to Fixtures, then click the "..." dropdown and select Export matchcards, then select In text format
 -   Copy the outputted reports to a text file
 -   Save the file in the `/bowlsnetReports/{year}` directory
@@ -118,7 +118,7 @@ If the step to generate the reports from Bowlsnet fails, you can manually update
 
 The pipeline will run the `update-stats.yml` job on a schedule (see the cron schedule in that file for details). This will update the stats and create a PR. Once the PR is merged it will automatically deploy master to prod.
 
-Note: If any Bowlsnet league is down, the pipeline will fail. There is an optional `BEST_EFFORT` input that can be set to `true` to allow the pipeline to continue processing other leagues even if some leagues are down.
+Note: If any BowlsNet league is down, the pipeline will fail. There is an optional `BEST_EFFORT` input that can be set to `true` to allow the pipeline to continue processing other leagues even if some leagues are down.
 
 #### Update stats via local Cron job
 
@@ -156,8 +156,10 @@ A number of manual changes are required at the end of each calendar year.
     - Update `allLeagues` for any other leagues that need tracking
 
 3. If entering a new league, make sure the `bowlsClubStats.py` script will still work e.g. different scoring methods, or different number of players in a team might cause issues
-4. Check the scripts still work for the new season. The Bowlsnet website or text reports may have changed which could cause the scripts to fail
-5. Consider removing the `combineFiles.py` call in `get-stats` in `package.json` file. This is only needed if AireWharfe/West Riding has reset the cup half way through and lost results. Alternatively, just generate an empty text file for the new year in the `bowlsnetReports` directory.
+4. Check the scripts still work for the new season. The BowlsNet website or text reports may have changed which could cause the scripts to fail
+5. Due to quirks of certain leagues on BowlsNet, certain cup games can go missing from the reports half way through the season. This seems to regularly occur in AireWharfe leagues but it may also happen in other leagues too. To get around this, the missing results have been manually added to separate files. The script to update the stats then combines these files with the original league report. There are two options when updating the scripts for the new year:
+    - Remove the `npm run combine-manual-stats-files` call in the `get-stats-and-update` script in `package.json`. Also remove the `Add manually generated stats files` stage in `update-stats.yml`. This is the preferred option if you are confident that the BowlsNet reports will be complete and accurate.
+    - Remove the leagues in `files_to_update` that are not being used for the new year in `scripts/utils/combineFiles.py`. This will cause the script to run but nothing will be processed. This is the preferred option if you are not confident that the BowlsNet reports will be complete and accurate as it will be easier to add back in.
 
 ## Web application
 
@@ -165,7 +167,7 @@ A number of manual changes are required at the end of each calendar year.
 2. Update `statsSelectCallback` in `App.tsx` with the reference to the new year's stats file. Also update the default stats and year to display in the useState hook
 3. Add a dropdown item for the new year in the `yearSelectDropdown.tsx` component
 4. If there are any new teams added, update the `records.tsx` and `teamStats.tsx`. Make sure `returnTabName` in `statsHelper.ts` displays the team name correctly. Check the team stats appear in the dropdown in the `playerStats.tsx` component, and in `playerStatsTeams.tsx`
-5. Update the `teamInfo.tsx` component with any new team and captain information. Also check bowlsnet URLs are correct
+5. Update the `teamInfo.tsx` component with any new team and captain information. Also check BowlsNet URLs are correct
 6. Update `history.tsx` with any trophies won
 7. Configure the `config.ts` file with the new year's data:
 
