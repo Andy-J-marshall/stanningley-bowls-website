@@ -32,6 +32,7 @@ jobs:
                   node-version: lts/*
             - name: Configure Git
               run: |
+                  echo "BEST_EFFORT: ${{ github.event.inputs.BEST_EFFORT }}"
                   git pull
                   git config --global user.email "${{ env.EMAIL }}"
                   git config --global user.name "${{ env.USERNAME }}"
