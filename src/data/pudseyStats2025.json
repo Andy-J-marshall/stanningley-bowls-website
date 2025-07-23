@@ -278,18 +278,18 @@
             }
         },
         "richard hodgson": {
-            "totalAgg": 539,
-            "totalAggAgainst": 433,
-            "availableAgg": 588,
+            "totalAgg": 555,
+            "totalAggAgainst": 454,
+            "availableAgg": 609,
             "availablePairsAgg": 21,
-            "availableHomeAgg": 252,
+            "availableHomeAgg": 273,
             "availableAwayAgg": 273,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 20,
             "totalPairsAggAgainst": 21,
-            "totalHomeAgg": 235,
-            "totalHomeAggAgainst": 164,
+            "totalHomeAgg": 251,
+            "totalHomeAggAgainst": 185,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 242,
@@ -297,7 +297,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 10,
-            "homeLosses": 2,
+            "homeLosses": 3,
             "awayWins": 7,
             "awayLosses": 6,
             "cupWins": 2,
@@ -310,7 +310,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 28,
+            "totalGamesPlayed": 29,
             "results": [
                 "richard hodgson & thomas hanson 20 - 21 kevin siddle & nick bastow",
                 "richard hodgson 21 - 12 david pike",
@@ -338,6 +338,7 @@
                 "richard hodgson 19 - 21 shaun suthers",
                 "richard hodgson 21 - 9 jason ream",
                 "richard hodgson 11 - 21 jean milner",
+                "richard hodgson 16 - 21 dave hill",
                 "richard hodgson 21 - 4 ryan piercy",
                 "richard hodgson 21 - 12 graham gaunt"
             ],
@@ -387,9 +388,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 8,
+                "games": 9,
                 "wins": 4,
-                "aggDiff": 18
+                "aggDiff": 13
             },
             "spen valley (c)": {
                 "games": 2,
@@ -423,12 +424,12 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 625,
-            "totalAggAgainst": 637,
-            "availableAgg": 777,
+            "totalAgg": 646,
+            "totalAggAgainst": 652,
+            "availableAgg": 798,
             "availablePairsAgg": 21,
             "availableHomeAgg": 378,
-            "availableAwayAgg": 357,
+            "availableAwayAgg": 378,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 21,
@@ -437,13 +438,13 @@
             "totalHomeAggAgainst": 283,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 274,
-            "totalAwayAggAgainst": 314,
+            "totalAwayAgg": 295,
+            "totalAwayAggAgainst": 329,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 13,
             "homeLosses": 5,
-            "awayWins": 6,
+            "awayWins": 7,
             "awayLosses": 11,
             "cupWins": 1,
             "cupLosses": 1,
@@ -455,7 +456,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 37,
+            "totalGamesPlayed": 38,
             "results": [
                 "stewart watson & ian shaw 21 - 19 james teale & graham oliver",
                 "stewart watson 21 - 12 terri durrans",
@@ -481,6 +482,7 @@
                 "stewart watson 16 - 21 graham petty",
                 "stewart watson 16 - 21 john lewis",
                 "stewart watson 5 - 21 aaron bottomley",
+                "stewart watson 21 - 15 a dagg",
                 "stewart watson 21 - 15 peter howroyd",
                 "stewart watson 16 - 21 john beverley",
                 "stewart watson 17 - 21 bill swales",
@@ -521,9 +523,9 @@
                 "aggDiff": 0
             },
             "mirfield (c)": {
-                "games": 11,
-                "wins": 3,
-                "aggDiff": -71
+                "games": 12,
+                "wins": 4,
+                "aggDiff": -65
             },
             "bradford half holiday": {
                 "games": 0,
@@ -578,6 +580,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "22/07/2025",
+    "lastUpdated": "23/07/2025",
     "statsYear": "2025"
 }

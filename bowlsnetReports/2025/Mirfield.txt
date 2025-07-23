@@ -1,4 +1,4 @@
-=== Mirfield District Bowling Association 2025 (as of Tue 22nd Jul)
+=== Mirfield District Bowling Association 2025 (as of Wed 23rd Jul)
 === Comp. Match Cards
 
         Division 1                Tue 15th Apr        
@@ -5596,6 +5596,21 @@ Adam Conlon             21 Jon Schofield           17
             Aggregate: 188             Aggregate: 185 
 
         Division 3                Tue 22nd Jul        
+    Spen Victoria 'A'       Ossett Flying Horse 'A'   
+Phil Bryant             21 Paul Wildgoose           5 
+Chris Ellis             21 Danny Hallas            10 
+Peter Ellis             17 David Armitage          21 
+Mally Fowler            21 Calum Fennell            4 
+Andrew Gallagher        14 Kevin Burns             21 
+Mark Goodall            15 Graham Blenkinsop       21 
+Lewis Pember            21 Malcolm Preston         20 
+Phillip Smith           21 Roger Lunn              19 
+Andrew Wood             21 Graham Higgins          20 
+Neil Wood Snr            9 Alwyn Beedel            21 
+               Points:   8                Points:   4 
+            Aggregate: 181             Aggregate: 162 
+
+        Division 3                Tue 22nd Jul        
      Thornhill C & BC         The Harold Club 'A'     
 James McNeill           21 Eddie Hill              16 
 Gary Mountain           18 Shaun Godfrey           21 
@@ -5609,6 +5624,21 @@ Nathan Jewitt           21 Nicky Jagger            15
 Steve Davis             21 Tom Jagger              12 
                Points:   9                Points:   3 
             Aggregate: 190             Aggregate: 150 
+
+        Division 3                Tue 22nd Jul        
+      Ossett C & AC              Thurgoland BC        
+Chris Goodwin           14 David Knights           21 
+Stuart Daniel           21 Brian Sharrock           8 
+Chris Nuttall           21 Fred Tippett            16 
+Joshua Dunford          21 Duncan Swift            18 
+Robert Dunford          21 Ryan Pendlebury         12 
+Mick Scott              21 Malcom Foweather        17 
+Noel Whitaker           21 Nigel Copping           11 
+Oscar Scott-Parker      21 Jeff Moreland           16 
+Graeme Eyre             19 Daniel Marsland         21 
+Nigel Miller            21 Tom Wiltshire           13 
+               Points:  10                Points:   2 
+            Aggregate: 201             Aggregate: 153 
 
         Division 3                Tue 22nd Jul        
      Alverthorpe WMC           Crosland Moor 'B'      
@@ -5656,6 +5686,21 @@ Andy Howie              21 Matthew Armitage        13
             Aggregate: 168             Aggregate: 171 
 
         Division 4                Tue 22nd Jul        
+  Cleckheaton Sports 'A'    Thongsbridge C & BC 'B'   
+Michael Rhodes          21 John Belfield            5 
+Roger Birdsall          21 Joshua Stephens          6 
+Tony Throup             21 John Gant                6 
+Andy Robinson           21 Roy Smith                9 
+Paul Gill               21 Thomas Graham           15 
+Richard Toulson         21 Ian Ross                19 
+Gary Walker             21 Brian Moroney           19 
+Bradley Throup          21 Mike Luty               20 
+Chris Blakeley          19 Robert Parker           21 
+Joe Bray                18 Ben Fisher              21 
+               Points:  10                Points:   2 
+            Aggregate: 205             Aggregate: 141 
+
+        Division 4                Tue 22nd Jul        
       Elland Sports                 Meltham           
 Russell Broadbent       21 Jamie Hulley            11 
 Gordon Bradford         21 Jake Dearden            16 
@@ -5669,6 +5714,21 @@ Stuart Carroll          21 Jack Howarth            10
 Jason Watters           15 Grant Eckersley         21 
                Points:  11                Points:   1 
             Aggregate: 204             Aggregate: 125 
+
+        Division 4                Tue 22nd Jul        
+    Kirkheaton Con 'B'           Pudsey BC 'C'        
+Gary Senior             21 Martin Bethell           7 
+Courtney Allert         21 Simon Metcalfe          16 
+Glyn Moulson            21 Colin Dibb              12 
+Richard Gledhill        21 Sebastian Mordue        16 
+Jack Waddington         21 Phil Daggett             7 
+A Dagg                  15 Stewart Watson          21 
+Shaun Fox               21 Logan Preston            9 
+Martin Greenall         21 Peter Simpson           13 
+Mark Berry              18 Oliver Mordue           21 
+Andy Lumb               21 Jake Daggett            20 
+               Points:  10                Points:   2 
+            Aggregate: 201             Aggregate: 142 
 
         Division 4                Tue 22nd Jul        
    Brighouse Sports 'B'        Spen Victoria 'B'      
@@ -5762,6 +5822,45 @@ Graham Woodruff         20 Adrian Smart            21
 M Skuse                 21 Derek Hawes             17 
                Points:   7                Points:   3 
             Aggregate: 164             Aggregate: 127 
+
+        Division 6                Tue 22nd Jul        
+   Brighouse Sports 'C'             Carcroft          
+Dave Scott              21 Jeff Bourke             16 
+Neal Hopper             11 Paul Bayliss            21 
+Tony Naylor             21 Robert Southwick         4 
+Ben English             19 Tyler Lysons            21 
+Lewis Whalley            5 John Ellery             21 
+Peter McGowan           13 Mike Patterson          21 
+Eric Charlesworth       11 Ryan Lysons             21 
+David Marsh             10 Craig Oddy              21 
+               Points:   2                Points:   8 
+            Aggregate: 111             Aggregate: 146 
+
+        Division 7                Tue 22nd Jul        
+      Dalton C & BC               Rastrick BC         
+Peter Clay              18 Graham Rimmer           21 
+Philip Battye           16 David Stuart            21 
+Keith Clarkson           6 Derek Hanner            21 
+Colin Walder            18 Robert Laycock          21 
+David Hill              18 Thomas Thornton         21 
+Glen Morris             17 Glyn Croft              21 
+Trevor Boothroyd        17 Brian Thurlow           21 
+Percy Harrison           2 Chris Stanley           21 
+               Points:   0                Points:  10 
+            Aggregate: 112             Aggregate: 168 
+
+        Division 7                Tue 22nd Jul        
+      Grange Moor BC             Royds Park BC        
+Michael Booth           21 Darren Burton            9 
+David Bolger            21 Robert Hoyle            14 
+Simon Shaw              21 Gareth Harwood          15 
+Dave Mills              20 Tim Rann                21 
+Graham Shaw             21 Phillip Rann            13 
+Darren Hardcastle       21 Stephen Busz            19 
+Martin Longley          11 David Broadhead         21 
+Paul Messenger          17 Richard Hemingway       21 
+               Points:   7                Points:   3 
+            Aggregate: 153             Aggregate: 133 
 
         Division 7                Tue 22nd Jul        
       Milnsbridge BC           Springwood BC 'A'      

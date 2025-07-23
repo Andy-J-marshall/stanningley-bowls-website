@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday) 2025 (as of Tue 22nd Jul)
+=== Leeds & District (Tuesday) 2025 (as of Wed 23rd Jul)
 === League Match Cards
 
       Division 1            Tue 8th Apr       
@@ -2223,14 +2223,14 @@ Kian Hendry         21 Ron Owen             9
     New Farnley A           Calverley YP      
 Andy Gardiner       19 Clifford Wheatley   21 
 Paul Wood           21 Lindsey Rosendale    7 
-Ian Lynch           18 Michael Bennett     21 
+Ian Lynch           21 Michael Bennett     18 
 Ian Worrall         20 Colin Whitley       21 
 Paul Jagger         21 Stephen Spurr       18 
 Harry Dixon         21 Rory Bligh           7 
 Andy Thompson       21 Brian Hodgson       10 
 Ryan Lynch          18 Ricky Kearns        21 
-        Aggregate: 159         Aggregate: 126 
-           Points:  36            Points:  28 
+        Aggregate: 162         Aggregate: 123 
+           Points:  37            Points:  27 
 
       Division 1            Tue 22nd Jul      
      Saville Park          Roundhay Pk A      
@@ -2270,6 +2270,19 @@ Sylvia Petty        17 Paul Leonard        21
 Graham Hill         10 Andrew Marshall     21 
         Aggregate: 133         Aggregate: 161 
            Points:  28            Points:  37 
+
+      Division 2            Tue 22nd Jul      
+     Gildersome A         East End Park A     
+David Norton        16 Dave Smith          21 
+Harvey Lockwood     21 Katie Simms          4 
+Linda Gaunt         21 Paul Simms          19 
+Diane Hales         14 Matt Ramsey         21 
+Beverley Hampshaw   21 Josey Olivant       15 
+Simon Hampshaw      16 Paul Reynard        21 
+Alan Procter        19 Sophie Olivant      21 
+Graham Gaunt         6 Darran Baker        21 
+        Aggregate: 134         Aggregate: 143 
+           Points:  28            Points:  32 
 
       Division 2            Tue 22nd Jul      
       Manston Pk          Crossgates Rec A    
