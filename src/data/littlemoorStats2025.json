@@ -1,18 +1,18 @@
 {
     "playerResults": {
         "alyssa randell": {
-            "totalAgg": 91,
-            "totalAggAgainst": 144,
-            "availableAgg": 147,
+            "totalAgg": 105,
+            "totalAggAgainst": 165,
+            "availableAgg": 168,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 42,
+            "availableHomeAgg": 63,
             "availableAwayAgg": 105,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 31,
-            "totalHomeAggAgainst": 39,
+            "totalHomeAgg": 45,
+            "totalHomeAggAgainst": 60,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 60,
@@ -20,7 +20,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 1,
-            "homeLosses": 1,
+            "homeLosses": 2,
             "awayWins": 0,
             "awayLosses": 5,
             "cupWins": 0,
@@ -33,7 +33,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 7,
+            "totalGamesPlayed": 8,
             "results": [
                 "alyssa randell 10 - 21 phil rayner",
                 "alyssa randell 10 - 21 john horsley",
@@ -41,7 +41,8 @@
                 "alyssa randell 21 - 18 eddie hill",
                 "alyssa randell 15 - 21 tim hall",
                 "alyssa randell 10 - 21 cindy rapinczuk",
-                "alyssa randell 17 - 21 bryan ibbetson"
+                "alyssa randell 17 - 21 bryan ibbetson",
+                "alyssa randell 14 - 21 kevin wood"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -79,9 +80,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 7,
+                "games": 8,
                 "wins": 1,
-                "aggDiff": -53
+                "aggDiff": -60
             },
             "bradford vets": {
                 "games": 0,
@@ -105,18 +106,18 @@
             }
         },
         "andrew marshall": {
-            "totalAgg": 190,
-            "totalAggAgainst": 176,
-            "availableAgg": 231,
+            "totalAgg": 207,
+            "totalAggAgainst": 197,
+            "availableAgg": 252,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 126,
+            "availableHomeAgg": 147,
             "availableAwayAgg": 105,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 123,
-            "totalHomeAggAgainst": 84,
+            "totalHomeAgg": 140,
+            "totalHomeAggAgainst": 105,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 67,
@@ -124,7 +125,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 5,
-            "homeLosses": 1,
+            "homeLosses": 2,
             "awayWins": 1,
             "awayLosses": 4,
             "cupWins": 0,
@@ -137,7 +138,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 11,
+            "totalGamesPlayed": 12,
             "results": [
                 "andrew marshall 18 - 21 stuart wilson",
                 "andrew marshall 21 - 14 bryan ibbetson",
@@ -149,7 +150,8 @@
                 "andrew marshall 8 - 21 tony throup",
                 "andrew marshall 21 - 8 bernie criddle",
                 "andrew marshall 21 - 9 david smith",
-                "andrew marshall 18 - 21 neil shaw"
+                "andrew marshall 18 - 21 neil shaw",
+                "andrew marshall 17 - 21 ann billington"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -187,9 +189,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 11,
+                "games": 12,
                 "wins": 6,
-                "aggDiff": 14
+                "aggDiff": 10
             },
             "bradford vets": {
                 "games": 0,
@@ -744,25 +746,25 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 410,
-            "totalAggAgainst": 399,
-            "availableAgg": 483,
+            "totalAgg": 431,
+            "totalAggAgainst": 406,
+            "availableAgg": 504,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 189,
+            "availableHomeAgg": 210,
             "availableAwayAgg": 252,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 188,
-            "totalHomeAggAgainst": 140,
+            "totalHomeAgg": 209,
+            "totalHomeAggAgainst": 147,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 185,
             "totalAwayAggAgainst": 229,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 8,
+            "homeWins": 9,
             "homeLosses": 1,
             "awayWins": 5,
             "awayLosses": 7,
@@ -776,7 +778,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 23,
+            "totalGamesPlayed": 24,
             "results": [
                 "stewart watson 7 - 21 steve rothwell",
                 "stewart watson 15 - 21 chris wilson",
@@ -792,6 +794,7 @@
                 "stewart watson 21 - 15 john sample",
                 "stewart watson 21 - 14 duncan ruddlesden",
                 "stewart watson 21 - 18 keith bissell",
+                "stewart watson 21 - 7 harry brooke",
                 "stewart watson 21 - 9 stephen kenworthy",
                 "stewart watson 16 - 21 matthew jacques",
                 "stewart watson 21 - 17 james klenk",
@@ -838,9 +841,9 @@
                 "aggDiff": 0
             },
             "spen valley (b)": {
-                "games": 12,
-                "wins": 8,
-                "aggDiff": 15
+                "games": 13,
+                "wins": 9,
+                "aggDiff": 29
             },
             "bradford vets": {
                 "games": 0,
@@ -865,6 +868,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "23/07/2025",
+    "lastUpdated": "24/07/2025",
     "statsYear": "2025"
 }

@@ -1,4 +1,4 @@
-=== Leeds & District (Half Holiday) 2025 (as of Wed 23rd Jul)
+=== Leeds & District (Half Holiday) 2025 (as of Thu 24th Jul)
 === League Match Cards
 
         Div 1               Wed 2nd Apr       
@@ -2304,5 +2304,27 @@ Keith Sellars       15 Ken Stockhill       21
 Paul Shackleton     21 Richard Aspin        6 
         Aggregate: 120         Aggregate:  66 
            Points:  28            Points:  12 
+
+        Div 4               Wed 23rd Jul      
+    East End Park          Pudsey Park B      
+Dave Howard         13 Bill Pyett          21 
+Andy Niddrie        15 David Milner        21 
+Thelma Lancaster    16 Elaine Hill         21 
+Richard Howlett     21 Peter Colley        18 
+Katie Simms         17 Maveen Tomlinson    21 
+Helen Simms         21 Derek Howell         9 
+        Aggregate: 103         Aggregate: 111 
+           Points:  21            Points:  25 
+
+        Div 4               Wed 23rd Jul      
+     Gildersome B         Scatcherd Park B    
+Bev Farrar          10 Roy Mitchell        21 
+Kay Stewart         21 Roy Kellet          15 
+Frank Hales         12 John Rowberry       21 
+Neil Schofield      21 Wendy Leybourne      8 
+Daphne Scott        21 Andrea Gardiner      7 
+Simon Hampshaw      21 Michael Geary        7 
+        Aggregate: 106         Aggregate:  79 
+           Points:  24            Points:  16 
 
 

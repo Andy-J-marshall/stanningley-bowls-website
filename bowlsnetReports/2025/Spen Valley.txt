@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Wed 23rd Jul)
+=== West Riding & Spen Valley 2025 (as of Thu 24th Jul)
 === Comp. Match Cards
 
          Premier                  Wed 16th Apr        
@@ -3915,6 +3915,32 @@ James Teale             21 Chris Broughton         15
                Points:   3                Points:   8 
 
          Premier                  Wed 23rd Jul        
+       Shipley - A             Spen Victoria - A      
+Chris Bedford           20 Chris Ellis             21 
+David Bland             21 Mark Goodall            19 
+Steve Cooper            21 Debi Davis               9 
+Graeme Dytiche          21 Lewis Pember            13 
+Chris Jacques           21 Peter Ellis              9 
+Ian Jacques             21 Garry Walker             4 
+Matthew Jacques         17 Philip Bryant           21 
+Neil Simpson            21 Mark Ellis              13 
+            Aggregate: 163             Aggregate: 109 
+               Points:   8                Points:   2 
+
+         Premier                  Wed 23rd Jul        
+     Heckmondwike - A         Brighouse Sports - A    
+Graham Higgins          14 Robert Hopper           21 
+Charlie Ripley          21 Gordon Johnson          13 
+Sean Carter             21 Jon Gamble              18 
+Jude Hatfield-Goodall   21 Dale Dyson              13 
+Tom Gilbert             21 Stuart Fletcher         14 
+Alex Wolfenden          21 Nigel Marshall          11 
+Sam Beresford           21 Mark Connolly           11 
+Jacob Hatfield-Goodall  21 John Bloomer            16 
+            Aggregate: 161             Aggregate: 117 
+               Points:   9                Points:   1 
+
+         Premier                  Wed 23rd Jul        
          Whitkirk                Littlemoor - A       
 Adam Varley             18 Lee Wider               21 
 Phil Hill               15 Will Bedford            21 
@@ -3952,6 +3978,19 @@ Harry Dixon             17 Terry Sykes             21
 Paul Wood               12 Andrew Sykes            21 
             Aggregate: 153             Aggregate: 132 
                Points:   7                Points:   3 
+
+        Division 1                Wed 23rd Jul        
+      Littlemoor - B           Spen Victoria - B      
+John Stocks             21 Paul Blackburn          18 
+Kath Mazurke            21 Phil Rayner             20 
+Andy Marshall           17 Ann Billington          21 
+Stuart Watson           21 Harry Brooke             7 
+Alyssa Randell          14 Kevin Wood              21 
+Thomas Powell            6 David Billington        21 
+Philip Thornton         21 Ian Gould               16 
+Alan Mazurke            20 Paul Warwick            21 
+            Aggregate: 141             Aggregate: 145 
+               Points:   4                Points:   7 
 
         Division 1                Wed 23rd Jul        
        Swillington           Cleckheaton Sports - A   
@@ -4011,11 +4050,11 @@ David Wood              18 Gary Amatt              21
 Michael Carter           9 Kath Robinson           21 
 Robert Laycock          14 David Armitage          21 
 Gaye Wood                4 Malcolm Preston         21 
-Joshua Smith            21 Christine Lamb           4 
+Joshua Smith            21 Christine Lamb           6 
 David Stuart            21 Jacob Amatt             17 
 Michael Wood            10 Derek North             21 
 Graeme Rimmer           21 Alwyn Beedel            17 
-            Aggregate: 118             Aggregate: 143 
+            Aggregate: 118             Aggregate: 145 
                Points:   3                Points:   8 
 
         Division 2                Wed 23rd Jul        
@@ -4044,6 +4083,19 @@ Shaun Suthers           21 Paul Hainsworth         19
             Aggregate: 161             Aggregate: 110 
                Points:   9                Points:   1 
 
+        Division 2                Wed 23rd Jul        
+  Mirfield Old Bank - B         New Farnley - B       
+Ron Jepson              21 Andy Gardener           12 
+Graham Sheard           21 Jake Skelton            17 
+Shaun Berry             13 Dave Taylor             21 
+Joshua Perks            21 Keith Skelton           14 
+Charlie Sykes           10 John Ingham             21 
+Mark Morton             21 James Skelton           15 
+Norman Booth            20 Roger Milner            21 
+David Bentley           20 David J Taylor          21 
+            Aggregate: 147             Aggregate: 142 
+               Points:   6                Points:   4 
+
         Division 3                Wed 23rd Jul        
       Royds Park - B         Cleckheaton Sports - F   
 John Greenhalgh         21 Steve Smith             16 
@@ -4069,6 +4121,19 @@ Alex Green              21 Georgia Lane            11
 Greg Hutchinson         21 David Wood              17 
             Aggregate: 146             Aggregate: 140 
                Points:   6                Points:   4 
+
+        Division 3                Wed 23rd Jul        
+    Spen Victoria - C            Gildersome - A       
+Claire Barraclough      12 Kevin Smales            21 
+Michael Potter          21 Ian Stocks               8 
+Terry Varney            21 Gary Hudson             14 
+John Shackleton          5 Linda Gaunt             21 
+Mel Blackburn           21 David Norton            17 
+John Smith              21 David Taylor            10 
+Michael Griffiths       16 Graham Gaunt            21 
+Lucas Wood              11 Alan Procter            21 
+            Aggregate: 128             Aggregate: 133 
+               Points:   4                Points:   7 
 
         Division 3                Wed 23rd Jul        
       Scatcherd Park             Royds Park - A       
@@ -4097,6 +4162,19 @@ Mark Gummery            21 Roger Binks             20
                Points:   7                Points:   3 
 
         Division 4                Wed 23rd Jul        
+     Heckmondwike - C           Heckmondwike - B      
+Kath Field              15 Danny Logan             21 
+George Tozer            10 Ash Harker              21 
+Roger Jackson           15 Janet Firth             21 
+Ateeque Mirza            7 Eric Franks             21 
+Steve Kidd              13 Daren Goodall           21 
+Hayley Lay               8 Ross Ingham             21 
+*No Player*              0 Marie Franks            21 
+*No Player*              0 Hayley Wood             21 
+            Aggregate:  68             Aggregate: 168 
+               Points:   0                Points:  11 
+
+        Division 4                Wed 23rd Jul        
     Spen Victoria - D              Firth Park         
 Trevor Austin            4 Mark Prideaux           21 
 Archie Wood             16 Susan Kennerdale        21 
@@ -4108,6 +4186,45 @@ Brian Smith             19 Graham Pearce           21
 Derek Warriner          13 Michael Wood            21 
             Aggregate: 120             Aggregate: 149 
                Points:   2                Points:   9 
+
+        Division 4                Wed 23rd Jul        
+      Gildersome - B         Cleckheaton Sports - D   
+Barbara Hall            21 Michael Binns            9 
+Kay Stewart             21 Alan Holmes              3 
+Glenda Holmes           21 Neil Blackburn          13 
+Frank Hales              7 Chris Watson            21 
+David Holmes            21 David Holmes            17 
+Neil Schofield          21 Chris Piercy            17 
+Michael Ross            21 Alan Potter             20 
+Tony Morris             21 Elaine Binns            16 
+            Aggregate: 154             Aggregate: 116 
+               Points:   9                Points:   1 
+
+        Division 3                Thu 24th Jul        
+      Pudsey BC - C               Rastrick - B        
+David McDonald          21 Keith Richards          15 
+Rick Pearson            18 Chris Jenkinson         21 
+Angie Morris            21 Brian Thurlow           16 
+Steve Clayton           15 Geoff Normanton         21 
+Melissa Morris          21 Glyn Croft               8 
+Janice Connaleigh       21 Michael Brocklehurst     7 
+Paul Myers              17 Paul Rimmer             21 
+Andy Barnatt             8 Chris Stanley           21 
+            Aggregate: 142             Aggregate: 130 
+               Points:   6                Points:   4 
+
+        Division 4                Thu 24th Jul        
+  Cleckheaton Sports - E          Drighlington        
+Helen Seed              16 Ian Fairhurst           21 
+David Griffiths         21 Steve Wrigglesworth      4 
+Joe Brook               21 Vicky Haigh             12 
+Chris Bentley           21 Philip Keating          19 
+Callum Brook            21 Graham Fuller            4 
+Mark Bailey             21 Pat Brooke              20 
+Lynn Seddon             15 Ken Oates               21 
+Graham Ward             21 Andrew Haigh            15 
+            Aggregate: 157             Aggregate: 116 
+               Points:   8                Points:   2 
 
 
        Round of 32                   Sat 5th Apr           
