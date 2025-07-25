@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Thu 24th Jul)
+=== Bradford (Saturday) 2025 (as of Fri 25th Jul)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -3592,5 +3592,19 @@ Paul Garside               21 Lesley Crowe               2
                    Games:   8                   Games:   2 
                Aggregate: 185               Aggregate:  97 
                   Points:  27                  Points:   3 
+
+ Division 5 (Haigh) 8 Player          Fri 25th Jul         
+       New Greengates             Cleckheaton Sports B     
+Chris Burnett              18 David Griffiths           21 
+Allan Smith                21 Geoff Akerman              7 
+James Dennison             10 Janet Inness              21 
+James Burnett               9 Rowena Oakey              21 
+Chris J Burnett            19 Lynn Seddon               21 
+Peter Page                 21 Geoff Thornton            13 
+Alan Broscombe             11 Helen Seed                21 
+Keith Goodall              21 Alex Green                17 
+                   Games:   3                   Games:   5 
+               Aggregate: 130               Aggregate: 142 
+                  Points:  11                  Points:  17 
 
 

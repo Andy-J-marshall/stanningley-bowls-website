@@ -1,4 +1,4 @@
-=== Bradford (Vets) 2025 (as of Thu 24th Jul)
+=== Bradford (Vets) 2025 (as of Fri 25th Jul)
 === Comp. Match Cards
 
 Division Four ( 6 Players)       Thu 10th Apr       
@@ -3661,6 +3661,20 @@ Peter Jefferson          21 Peter Storey         17
                  Games:   5              Games:   3 
                 Points:  20             Points:   8 
 
+       Division One              Thu 24th Jul       
+          Wyke A                    Wibsey          
+John Armitage            16 Ann Billington       21 
+Gerry Hird               21 John Stocks          19 
+Paul Metcalf             12 Tasawar Hussain      21 
+Michael Walton           16 Geoff Hanson         21 
+Robert Wilkinson         15 Derek Goor           21 
+Ian Wilson               17 David Billington     21 
+Kevin Wood               21 Peter Crowther       12 
+Nigel Wormald            21 John Stevenson        8 
+             Aggregate: 139          Aggregate: 144 
+                 Games:   3              Games:   5 
+                Points:  12             Points:  16 
+
        Division Two              Thu 24th Jul       
           Salts A                 Harold Club       
 David Bottomley          21 Stuart Harrison      11 
@@ -3739,11 +3753,11 @@ Caroline Corbett         21 Andrew Smith         18
 Christine Boyd            7 Sue Butler           21 
 John Boyd                21 Brian Barker         16 
 John Stead               21 Shirley Rooks        14 
-Ralph Sissons            21 Kevin Ackroyd        18 
-Bob Jeffery              21 *No Player*           0 
-             Aggregate: 154          Aggregate: 110 
+Ralph Sissons            21 Ken Binder           18 
+Bob Jeffery              21 Kevin Ackroyd         5 
+             Aggregate: 154          Aggregate: 115 
                  Games:   7              Games:   1 
-                Points:  24             Points:   4 
+                Points:  23             Points:   5 
 
       Division Three             Thu 24th Jul       
        Bradford Moor              Brackenhill       
