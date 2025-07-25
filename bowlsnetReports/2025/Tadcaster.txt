@@ -1,4 +1,4 @@
-=== Tadcaster Evening League 2025 (as of Thu 24th Jul)
+=== Tadcaster Evening League 2025 (as of Fri 25th Jul)
 === League Match Cards
 
     Richardson Trophy           Thu 3rd Apr        
@@ -3510,6 +3510,21 @@ Peter Harrison         14 Mark Raynard          21
 
     Main League 2025            Thu 24th Jul       
           Div 1                                    
+        WAYSIDE A                SCHOLES A         
+Alan Rothery           19 David Walker          21 
+Jason Worsnop          14 Duncan Ruddlesden     21 
+Paul Worsnop           20 Joe Ruddlesden        21 
+Peter Darbyshire       15 Ian Vickers           21 
+Stuart Whitehouse      21 J Frisby               9 
+Barry Sugden           11 Steve Hartley         21 
+Vic Skaife Clarke      20 Adam Conlon           21 
+M Reynolds             21 Chris Broughton       17 
+              Points:   2              Points:   8 
+           Aggregate: 141           Aggregate: 152 
+               Games:   2               Games:   6 
+
+    Main League 2025            Thu 24th Jul       
+          Div 1                                    
       DRAGON FLIES              BLACK SWAN A       
 Clare Howes            21 Richard Hebblewhite   13 
 Chris Sunter           21 Andy Lloyd            16 
@@ -3614,6 +3629,21 @@ Sophie Olivant         15 Trevor Baranovsky     21
                Games:   3               Games:   5 
 
     Main League 2025            Thu 24th Jul       
+          Div 2                                    
+       MAGNET PALE            LOW HARROGATE A      
+M Shah                 21 David Clarke          10 
+T Hardy                19 Cath Patrick          21 
+Nick Heaton            21 Jo Bonsels            10 
+M Greenwood            16 Nick Binns            21 
+Melanie Collins        21 Chris Olding           6 
+Carl (Rob) Preene       9 Peter Hicks           21 
+Tony Wood              20 Graham Patrick        21 
+Graham Collins         16 Ian Jarratt           21 
+              Points:   5              Points:   5 
+           Aggregate: 143           Aggregate: 131 
+               Games:   3               Games:   5 
+
+    Main League 2025            Thu 24th Jul       
           Div 3                                    
     BOSTON SPARTANS A             STARBECK         
 Graham Starkey         14 Sue Green             21 
@@ -3635,13 +3665,28 @@ P Lawson               19 Joy Slater            21
 Andy Wright            21 Bill Robinson         19 
 Gary Mahoney           15 Ray Brown             21 
 M Wright               21 Craig Hobbs           12 
-Anthony Fawcett        14 John West             21 
+Anthony Fawcett         7 John West             21 
 A Rushfirth            14 Tony Boyes            21 
 Stuart Birch           14 Julie Matthews        21 
 Mick Barker            12 Doug Fraser           21 
               Points:   2              Points:   8 
-           Aggregate: 130           Aggregate: 157 
+           Aggregate: 123           Aggregate: 157 
                Games:   2               Games:   6 
+
+    Main League 2025            Thu 24th Jul       
+          Div 3                                    
+      SHERBURN BEES              HAREHILLS         
+Ruth Nicholson         21 Sharon Kerry           8 
+Peter Kendall          14 Alan McConnell        21 
+Russell Porter         16 Jade Kerry            21 
+Margaret Saunders      21 David Smith           10 
+Paul Williamson        21 Dominic Hanson        12 
+Geoff Saunders         18 Laura Love            21 
+Steven Porter          17 David Tinker          21 
+David Milnes           14 Paul Hatch            21 
+              Points:   5              Points:   5 
+           Aggregate: 142           Aggregate: 135 
+               Games:   3               Games:   5 
 
     Main League 2025            Thu 24th Jul       
           Div 3                                    
@@ -3687,6 +3732,21 @@ David Lewis            21 Colin Rudd            15
               Points:   4              Points:   6 
            Aggregate: 130           Aggregate: 143 
                Games:   4               Games:   4 
+
+    Main League 2025            Thu 24th Jul       
+          Div 4                                    
+      BLACK SWAN B             THORNER WANDS       
+Lee Chandler           21 Alistair Warren        4 
+Jake Coker             21 Christine Holmes      20 
+Dave Kinder            21 Katie Simms           10 
+Sue Mitchell           21 Thelma Lancaster       5 
+Conor McCarthy         21 John Lofthouse         9 
+Stephen Westoby        21 Richard Eshelby       18 
+Val Rowson             21 Joyce Broadbent       14 
+Mark Raynard           21 Nick Koslowsky        14 
+              Points:  10              Points:   0 
+           Aggregate: 168           Aggregate:  94 
+               Games:   8               Games:   0 
 
     Main League 2025            Thu 24th Jul       
           Div 4                                    

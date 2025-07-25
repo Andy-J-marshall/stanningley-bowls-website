@@ -1,4 +1,4 @@
-=== Leeds & District Ladies Bowling League 2025 (as of Thu 24th Jul)
+=== Leeds & District Ladies Bowling League 2025 (as of Fri 25th Jul)
 === League Match Cards
 
          League                Thu 17th Apr       
@@ -1415,6 +1415,50 @@ Louise Roberts        13 Linda Taylor          21
             Points:  2.0             Points:  9.0 
 
     League Knock-Out           Thu 24th Jul       
+                            On Western Flatts     
+     Western Flatts            Greenbottom        
+Barbara Nellis        21 Barbara Harrison      18 
+Dot Taylor             4 Gwen Smith            21 
+Mary Horrocks         21 Sandy Watson          19 
+Maveen Tomlinson      21 Margaret Adamson       0 
+Hazel Goodall         21 Jean Lees              4 
+Ann Lucas             21 Anne Raw               6 
+Dawn Peters            2 Fiona Haxby           21 
+Angela Morley          7 Karen Whitelaw        21 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+         Aggregate:  118          Aggregate:  110 
+            Points:  8.0             Points:  3.0 
+
+    League Knock-Out           Thu 24th Jul       
+                               On Tarnfield       
+       Tarnfield                West Royd         
+Pam Ratcliffe         21 Pam Wilson            11 
+Carol Nettleton        3 Joan Coop             21 
+Linda Utley           13 Jan Mguiness          21 
+Nikki Swithenbabank    8 Hazel Stancliffe      21 
+Anita Howard          21 Elizabeth Farrar      12 
+Susan Whelan          21 Anne Gothard           5 
+*No Player*            0 Sandra Knell          21 
+*No Player*            0 Caroline Coop         21 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+         Aggregate:   87          Aggregate:  133 
+            Points:  3.0             Points:  8.0 
+
+    League Knock-Out           Thu 24th Jul       
                               On Eccleshill       
        Eccleshill               Grove Hill        
 Sarah Harrison        21 Linda Smith            7 
@@ -1457,5 +1501,27 @@ Sheila Hudson         16 Rachel Telford        21
 *No Player*            0 *No Player*            0 
          Aggregate:   93          Aggregate:  157 
             Points:  1.0             Points: 10.0 
+
+    League Knock-Out           Thu 24th Jul       
+                               On Calverley       
+       Calverley             Rufford Park 'A'     
+Lindsey Rosendale     21 Pauline Ingleson      19 
+Tina Howard           19 Catherine New         21 
+Carol Matthews        21 Janice Waite           9 
+Anne Newlove           7 Angela Bennett        21 
+Mandy Wilson          21 Angela Burnham        14 
+Brenda Chaffer        21 Sophie Bennett        18 
+Lynne Porter          13 Val Grace             21 
+Pamela Barlow         20 Carolyn Matthewman    21 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+*No Player*            0 *No Player*            0 
+         Aggregate:  143          Aggregate:  144 
+            Points:  4.0             Points:  7.0 
 
 
