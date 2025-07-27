@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Sat 26th Jul)
+=== Bradford (Saturday) 2025 (as of Sun 27th Jul)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -3767,6 +3767,22 @@ Alan Mazurke               19 Jordan Edmondson          21
                Aggregate: 197               Aggregate: 161 
                   Points:  21                  Points:   9 
 
+     Division 3 (Mellor)              Sat 26th Jul         
+        Eccleshill B                  Asa Briggs B         
+Derek Relton               21 Sean Schofield            16 
+Diane Emery                21 Alan Marsden              17 
+Theo Moyes                 21 Steven Fleming             1 
+Ken Wilson                 21 Bob Hiley                 10 
+Peter Howroyd              19 Debra Pearson             21 
+Pauline Gilroy             12 Gary Woodhead             21 
+Peter Jefferson            16 Michael Sansom            21 
+Martin Hayton              20 Arthur Schofield          21 
+John Griffin               13 Mathew Pearson            21 
+Lee Hicks                  21 Carl Smith                16 
+                   Games:   5                   Games:   5 
+               Aggregate: 185               Aggregate: 165 
+                  Points:  17                  Points:  13 
+
 Division 4 (Bartle) 8 Player          Sat 26th Jul         
           Pudsey C                   Crowghyll Park        
 Sam Hunak                  21 Tony Southern             14 
@@ -3836,6 +3852,20 @@ David Healey               21 Mark Woolner              14
                    Games:   5                   Games:   3 
                Aggregate: 146               Aggregate: 127 
                   Points:  17                  Points:  11 
+
+ Division 5 (Haigh) 8 Player          Sat 26th Jul         
+        Asa Briggs C              Cleckheaton Moorend      
+Alan Standing              21 Phil Long                 15 
+David Trudgill             21 Keith Walker              17 
+Kathleen Sansom            21 Barbara Woodcock          10 
+Lorraine Birch             16 Frank Turnbull            21 
+Graham Heede                4 Richard Hemmingway        21 
+Neil Morritt               15 Lee Collinson             21 
+James Klenk                21 Ian Northrop              11 
+Donald Harrison            15 Mick Stewart              21 
+                   Games:   4                   Games:   4 
+               Aggregate: 134               Aggregate: 137 
+                  Points:  13                  Points:  15 
 
  Division 5 (Haigh) 8 Player          Sat 26th Jul         
         Harold Club B                 Brackenhill          
