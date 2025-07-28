@@ -44,8 +44,8 @@ jobs:
             - name: Get stats from BowlsNet
               run: npm run get-stats
               continue-on-error: ${{ github.event.inputs.BEST_EFFORT == 'true' }}
-            - name: Add manually generated stats files
-              run: npm run combine-manual-stats-files
+            - name: Sanitise stats files
+              run: npm run sanitise-stats-files
             - name: Update stats
               run: npm run update-stats
             - name: Commit and push

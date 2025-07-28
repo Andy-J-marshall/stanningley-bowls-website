@@ -4827,12 +4827,12 @@
             "wins": 0,
             "awayLosses": 7,
             "homeLosses": 7,
-            "homeDraws": 1,
+            "homeDraws": 0,
             "awayDraws": 0,
-            "draws": 1,
+            "draws": 0,
             "cupWins": 0,
-            "cupLosses": 0,
-            "losses": 14,
+            "cupLosses": 1,
+            "losses": 15,
             "totalGamesPlayed": 15,
             "results": [
                 "West Royd 161 - 123 Stanningley",
@@ -4849,7 +4849,7 @@
                 "Stanningley 100 - 155 Guiseley",
                 "Hall Park 164 - 73 Stanningley",
                 "Stanningley 125 - 142 Rufford B",
-                "Stanningley 0 - 0 New Farnley"
+                "Stanningley 104 - 145 New Farnley"
             ]
         },
         {
@@ -4917,6 +4917,6 @@
             ]
         }
     ],
-    "lastUpdated": "27/07/2025",
+    "lastUpdated": "28/07/2025",
     "statsYear": "2025"
 }

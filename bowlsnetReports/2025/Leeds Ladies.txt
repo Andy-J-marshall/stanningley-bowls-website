@@ -1403,14 +1403,6 @@ Nicola Bona           13 Pat Skelton           21
 Tracey Marshall       21 Susan Jones            3 
 Kate Hall              8 Barbara Taylor        21 
 Louise Roberts        13 Linda Taylor          21 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
          Aggregate:  104          Aggregate:  145 
             Points:  2.0             Points:  9.0 
 
@@ -1425,14 +1417,6 @@ Alison Lockwood       14 Christine Boyd        21
 Margaret Johnstone    21 Lynette Hall          15 
 Tracey Norton         16 Lynne Ogden           21 
 Beverley Farrar        9 Maureen Jarvis        21 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
          Aggregate:  113          Aggregate:  141 
             Points:  2.0             Points:  9.0 
 
@@ -1447,14 +1431,6 @@ Hazel Goodall         21 Jean Lees              4
 Ann Lucas             21 Anne Raw               6 
 Dawn Peters            2 Fiona Haxby           21 
 Angela Morley          7 Karen Whitelaw        21 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
          Aggregate:  118          Aggregate:  110 
             Points:  8.0             Points:  3.0 
 
@@ -1469,14 +1445,6 @@ Anita Howard          21 Elizabeth Farrar      12
 Susan Whelan          21 Anne Gothard           5 
 *No Player*            0 Sandra Knell          21 
 *No Player*            0 Caroline Coop         21 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
          Aggregate:   87          Aggregate:  133 
             Points:  3.0             Points:  8.0 
 
@@ -1491,14 +1459,6 @@ Debbi Davies          21 Diane Farrar          16
 Melissa Gilroy        21 Jane Bowden           13 
 Shirley Rooks         21 Belinda Mitchell      13 
 Diane Emery           21 Kay Lodge             11 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
          Aggregate:  161          Aggregate:   88 
             Points: 10.0             Points:  1.0 
 
@@ -1513,14 +1473,6 @@ Tracey Whitaker        3 Sylvia Halliday       21
 Cora Dove              8 Wendy Spivey          21 
 Aileen Waite           6 Ioana Nistor          21 
 Sheila Hudson         16 Rachel Telford        21 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
          Aggregate:   93          Aggregate:  157 
             Points:  1.0             Points: 10.0 
 
@@ -1535,14 +1487,6 @@ Ruth Sutcliffe        21 Betty Sparkes         14
 Anne Mackman          21 Pat Penman             0 
 Kath Crompton         17 Janet Sykes           21 
 Sabrina Piggot        21 Carol Dunn            10 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
          Aggregate:  144          Aggregate:  109 
             Points:  8.0             Points:  3.0 
 
@@ -1557,14 +1501,6 @@ Mandy Wilson          21 Angela Burnham        14
 Brenda Chaffer        21 Sophie Bennett        18 
 Lynne Porter          13 Val Grace             21 
 Pamela Barlow         20 Carolyn Matthewman    21 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
-*No Player*            0 *No Player*            0 
          Aggregate:  143          Aggregate:  144 
             Points:  4.0             Points:  7.0 
 

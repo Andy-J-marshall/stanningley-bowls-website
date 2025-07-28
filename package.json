@@ -4,8 +4,8 @@
   "scripts": {
     "get-stats": "python3 ./scripts/statsScripts/createReportsYearDir.py && npx playwright test --config ./scripts/bowlsnet/playwright.config.ts",
     "update-stats": "python3 ./scripts/statsScripts/bowlsClubStats.py --club stanningley && python3 ./scripts/statsScripts/bowlsClubStats.py --club littlemoor && python3 ./scripts/statsScripts/bowlsClubStats.py --club pudsey && python3 ./scripts/statsScripts/bowlsAllClubsStats.py",
-    "combine-manual-stats-files": "python3 ./scripts/utils/combineFiles.py",
-    "get-stats-and-update": "npm run get-stats && npm run combine-manual-stats-files && npm run update-stats",
+    "sanitise-stats-files": "python3 ./scripts/utils/combineFiles.py && python3 ./scripts/utils/removeBlankResults.py",
+    "get-stats-and-update": "npm run get-stats && npm run sanitise-stats-files && npm run update-stats",
     "start": "vite",
     "build": "vite build",
     "deploy": "gh-pages -d dist",
