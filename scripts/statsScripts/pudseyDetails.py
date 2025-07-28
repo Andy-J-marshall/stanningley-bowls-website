@@ -49,6 +49,7 @@ teamsWithWithDifferentNumberOfPlayersToLeagueNorm = []
 # Every player (lowercase)
 players = [
     "richard hodgson",
+    "andy hodgson",
     "stewart watson",
     "linda barrand",
     "eleanor graves",
@@ -61,9 +62,9 @@ duplicatePlayerNames = ["stuart watson", "elenor graves"]
 traitorPlayers = {
     "AireWharfe Monday": [],
     "AireWharfe Vets": ["stewart watson"],
-    "Mirfield": [],
+    "Mirfield": ["andy hodgson"],
     "Bradford Half Holiday": ["stewart watson"],
-    "Spen Valley": ["stewart watson"],
+    "Spen Valley": ["stewart watson", "andy hodgson"],
     "Bradford Vets": [],
-    "Bradford Saturday": ["stewart watson"],
+    "Bradford Saturday": ["stewart watson", "andy hodgson"],
 }
