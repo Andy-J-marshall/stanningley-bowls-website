@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Mon 28th Jul)
+=== Bradford (Mon. Evening) 2025 (as of Tue 29th Jul)
 === Comp. Match Cards
 
   Division 1 - Thurston           Mon 7th Apr         
@@ -1922,6 +1922,30 @@ Kenny McCafferty        21 Anne Gothard            11
                Points:  19                Points:   7 
 
   Division 1 - Thurston           Mon 28th Jul        
+         Hightown                   Farsley           
+Alex Edmondson          21 Jim Swailes              9 
+Darren Goodall          21 Ken Gilroy              11 
+Daren Munt              21 Ian Swinfield           13 
+Dave Rayner             21 Stuart Brook            15 
+Tom Gilbert             21 Peter Crowther          16 
+Hayley Wood             21 Richard Whittaker       18 
+            Aggregate: 126             Aggregate:  82 
+                Games:   6                 Games:   0 
+               Points:  23                Points:   3 
+
+  Division 1 - Thurston           Mon 28th Jul        
+     Spen Victoria A               Asa Briggs         
+Mark Worrall            21 Andrew Heenan           13 
+Mark Goodall            21 Mathew Pearson           9 
+Philip Smith            21 Gary Woodhead           14 
+Mark Ellis              21 Carl Smith              18 
+Peter Ellis             19 Debra Pearson           21 
+Kevin Wood              13 Paula Graham            21 
+            Aggregate: 116             Aggregate:  96 
+                Games:   4                 Games:   2 
+               Points:  17                Points:   9 
+
+  Division 1 - Thurston           Mon 28th Jul        
       Crowghyll Park               Tyersal A          
 Derek Bridge             6 Pam Lindley             21 
 Sue Farrell             21 Wendy Shimbles          14 
@@ -1958,6 +1982,18 @@ Allan Smith             21 Roger Jackson           17
                Points:  21                Points:   5 
 
 Division 2 - Robert Bland         Mon 28th Jul        
+      Drighlington A             Shipley Club B       
+Richard Jones           11 Graham Baggley          21 
+Dianne Hoole            21 John Sample             16 
+Ian Fairhurst           21 Michael Kane            17 
+Mick Warren             21 Jason Bridge            15 
+John Roberts            15 Andrew Walker           21 
+Ken Oates               12 Richard Bloodworth      21 
+            Aggregate: 101             Aggregate: 111 
+                Games:   3                 Games:   3 
+               Points:  11                Points:  15 
+
+Division 2 - Robert Bland         Mon 28th Jul        
      Spen Victoria B                 Idle A           
 Lucas Wood              21 Michael Leach            6 
 Lexie Gould             21 Yvonne Coppin           15 
@@ -1980,6 +2016,18 @@ John Appleyard           4 Brian Raistrick         21
             Aggregate:  65             Aggregate: 121 
                 Games:   1                 Games:   5 
                Points:   3                Points:  23 
+
+ Division 3 - City Sports         Mon 28th Jul        
+        West Royd                Drighlington B       
+Hazel Stanclif          21 David Dowse             10 
+Anne Gothard            13 Pat Brooke              21 
+Sandra Knell            13 Judy Atkinson           21 
+Howard Gothard          21 Andrew Brooke           19 
+Jan McGuiness           21 Steve Wrigglesworth      9 
+Elizabeth Farrar        19 Mick Tolson             21 
+            Aggregate: 108             Aggregate: 101 
+                Games:   3                 Games:   3 
+               Points:  14                Points:  12 
 
  Division 3 - City Sports         Mon 28th Jul        
         Tyersal B                   Thornton          

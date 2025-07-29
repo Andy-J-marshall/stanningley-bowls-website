@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday) 2025 (as of Mon 28th Jul)
+=== Leeds & District (Tuesday) 2025 (as of Tue 29th Jul)
 === League Match Cards
 
       Division 1            Tue 8th Apr       
@@ -2361,5 +2361,148 @@ Andy Webster        21 Brian Stevens       15
 Ian Macfarlane      19 James Drury         21 
         Aggregate: 125         Aggregate: 145 
            Points:  27            Points:  31 
+
+      Division 1            Tue 29th Jul      
+    Roundhay Pk A           Calverley YP      
+John Lucas          21 Ricky Kearns         3 
+Andrew Ford         21 Roger French         9 
+Martin Lally        21 Clifford Wheatley   13 
+Ralph Taylor        21 Michael Bennett     10 
+Jim Bird            21 Lindsey Rosendale   16 
+Paul Burke          19 Carol Matthews      21 
+Andrew Lloyd        21 Rory Bligh          16 
+Andy Sharratt       21 Stephen Spurr       20 
+        Aggregate: 166         Aggregate: 108 
+           Points:  39            Points:  20 
+
+      Division 1            Tue 29th Jul      
+      Meanwood A           New Farnley A      
+Michael Gregory     21 David Taylor        15 
+Oliver Devaney      21 Ryan Lynch          18 
+Jeff Dumbrell       16 Andy Gardiner       21 
+Andy Webster        15 Ian Worrall         21 
+Lynda Heath         18 Ian Lynch           21 
+Darren Cookson      20 Paul Jagger         21 
+Mickey Rennison      6 Andy Thompson       21 
+Ian Howard          21 Paul Wood           12 
+        Aggregate: 138         Aggregate: 150 
+           Points:  30            Points:  34 
+
+      Division 2            Tue 29th Jul      
+    New Wortley A         Crossgates Rec A    
+Andrew Cole         21 Maria Durkan        18 
+Trevor Dawson       10 Dave Farman         21 
+Angela Morley       21 Alan Wood           15 
+Malcolm Crowson     21 Graham Scholes       8 
+Jerry Wood          21 Dave Sharp          11 
+Stuart Reardon      21 Terry Rock           4 
+Danny Dawson        14 James Tayolr        21 
+Paul Shackleton     21 Andy Walton          9 
+        Aggregate: 150         Aggregate: 107 
+           Points:  34            Points:  21 
+
+      Division 2            Tue 29th Jul      
+     Gildersome A         Sth Leeds Cons A    
+Ian Stocks          21 Mark Raistrick      20 
+Kevin Smales        21 Julie Cavalli       19 
+David Norton        21 Monica Adams        14 
+Simon Hampshaw      21 Malcolm Collinson    9 
+Alan Procter        21 Chloe Grant          6 
+Linda Gaunt         21 Michael Gore        19 
+Beverley Hampshaw   20 Reece Pratt         21 
+Harvey Lockwood     16 Joe Adams           21 
+        Aggregate: 162         Aggregate: 129 
+           Points:  37            Points:  26 
+
+      Division 2            Tue 29th Jul      
+  Chapel Allerton A          Holt Park        
+David Blackwell     14 Peter Byford        21 
+Colin Wilson        18 John Patrick        21 
+Mandy Wilson        16 Tony Watson         21 
+Matthew Watson      20 Sylvia Petty        21 
+Tommy Massey        21 Debbie Sandles       8 
+Royce Jackson       18 Colin Chadwick      21 
+Dave Hill           21 Mike Cox            19 
+Steven Bottomley    21 Terry Cook          18 
+        Aggregate: 149         Aggregate: 150 
+           Points:  32            Points:  34 
+
+      Division 2            Tue 29th Jul      
+   Stanningley Park          Manston Pk       
+Paul Leonard        21 David Wall           3 
+Craig Clarkson      21 Stephen Jackson      3 
+Andrew Marshall     21 Anthony Marsden      6 
+Alyssa Randell      21 Elizabeth Quigley   10 
+Richard Hodgson     21 Michael Monaghan    13 
+Stuart Potter       21 Jim Jordan          16 
+Malvin Miller       21 John Townsend       17 
+Colin Haque         12 Jonathan Moriaty    21 
+        Aggregate: 159         Aggregate:  89 
+           Points:  37            Points:  16 
+
+      Division 3            Tue 29th Jul      
+    Middleton Comm         Moor Allerton      
+Shirley Biancardo   21 Peter Aves           3 
+Richard Aspin       19 Ian Franllin        21 
+Mark Aspin          21 Rodney Cundle       10 
+Malcolm Cameron     21 Ian Lee             12 
+Karl Chapman        21 George Ramsden       8 
+Gordon Monk         21 Linda Greenland     12 
+Mario Biancardo     21 Martin Kaitcer      17 
+Malcolm Hallas      21 John Alper           9 
+        Aggregate: 166         Aggregate:  92 
+           Points:  39            Points:  16 
+
+      Division 3            Tue 29th Jul      
+    New Farnley B            Meanwood B       
+Ron Lavan           21 Pat Prosser         13 
+Hazel Goodall       21 David L Miller      19 
+Keith Skelton       21 Kathy Hey            6 
+John Ingham         21 Tina Howard         13 
+Jean Milner         21 Graham Hey          13 
+Graham Davison      19 Jeff Blackburn      21 
+Howard Fowler       21 Phil McStay         20 
+Pat Skelton         21 Ian Macfarlane      20 
+        Aggregate: 166         Aggregate: 125 
+           Points:  39            Points:  24 
+
+      Division 3            Tue 29th Jul      
+     Garforth C C           Holbeck Moor      
+Phil Lodge          21 Brian Thompson      13 
+Craig White         21 Wayne Warburton     17 
+Doughty Ian         21 Steve Brown         18 
+Steve Barltrop      21 Lorraine Barker      9 
+Sandra Pollard      21 Jim Barker           8 
+Helen Dickinson     17 Geoff Warbuton      21 
+Ann Doughty         19 John Binns          21 
+Neil Robinson       20 Steve Milton        21 
+        Aggregate: 161         Aggregate: 128 
+           Points:  36            Points:  26 
+
+      Division 3            Tue 29th Jul      
+        Colton              Gildersome B      
+Brian Scholes       21 Barbara Hall        17 
+John Malthouse      21 Alison Lockwood     14 
+David Clarkson      21 Neil Schofield       7 
+James Watkins       21 Michael Ross        13 
+David Ryder         21 Tracy Norton        11 
+Nicholas Ryder      21 Margaret Johnstone  11 
+Anthony Rushfirth   21 Kay Stewart         13 
+Stuart Birch        21 Tony Morris          7 
+        Aggregate: 168         Aggregate:  93 
+           Points:  40            Points:  15 
+
+      Division 3            Tue 29th Jul      
+    Pudsey Park A          Pudsey Park B      
+Darren Lowe         17 Derek Howell        21 
+Callum Birkin       17 Barbara Nellis      21 
+Peter Huffinley     21 David Milner         3 
+Dennis Walters      21 Maureen Bradshaw    15 
+Barry Wild           8 Jane Hirst          21 
+Frank Lindsay       18 Stephen Morris      21 
+James Drury         21 Bill Pyett          10 
+Carl Birkin         21 David Turner        10 
+        Aggregate: 144         Aggregate: 122 
+           Points:  31            Points:  27 
 
 

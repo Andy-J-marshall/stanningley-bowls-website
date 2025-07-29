@@ -362,25 +362,25 @@
             }
         },
         "john armitage": {
-            "totalAgg": 1179,
-            "totalAggAgainst": 892,
-            "availableAgg": 1281,
+            "totalAgg": 1200,
+            "totalAggAgainst": 910,
+            "availableAgg": 1302,
             "availablePairsAgg": 42,
-            "availableHomeAgg": 525,
+            "availableHomeAgg": 546,
             "availableAwayAgg": 609,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 42,
             "totalPairsAggAgainst": 25,
-            "totalHomeAgg": 499,
-            "totalHomeAggAgainst": 330,
+            "totalHomeAgg": 520,
+            "totalHomeAggAgainst": 348,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 541,
             "totalAwayAggAgainst": 471,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 20,
+            "homeWins": 21,
             "homeLosses": 5,
             "awayWins": 18,
             "awayLosses": 11,
@@ -394,7 +394,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 2,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 61,
+            "totalGamesPlayed": 62,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
@@ -424,6 +424,7 @@
                 "john armitage 21 - 11 micky hague",
                 "john armitage 13 - 21 daniel teale",
                 "john armitage 21 - 16 joe wiltshire",
+                "john armitage 21 - 18 wayne moseley",
                 "john armitage 21 - 12 malcolm crotty",
                 "john armitage 21 - 14 peter barstow",
                 "john armitage 21 - 13 chris wilson",
@@ -469,9 +470,9 @@
                 "aggDiff": 14
             },
             "mirfield": {
-                "games": 13,
-                "wins": 9,
-                "aggDiff": 51
+                "games": 14,
+                "wins": 10,
+                "aggDiff": 54
             },
             "mirfield (b)": {
                 "games": 0,
@@ -520,12 +521,12 @@
             }
         },
         "martin fulton": {
-            "totalAgg": 358,
-            "totalAggAgainst": 409,
-            "availableAgg": 483,
+            "totalAgg": 363,
+            "totalAggAgainst": 430,
+            "availableAgg": 504,
             "availablePairsAgg": 0,
             "availableHomeAgg": 252,
-            "availableAwayAgg": 231,
+            "availableAwayAgg": 252,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -534,14 +535,14 @@
             "totalHomeAggAgainst": 179,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 138,
-            "totalAwayAggAgainst": 230,
+            "totalAwayAgg": 143,
+            "totalAwayAggAgainst": 251,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 7,
             "homeLosses": 5,
             "awayWins": 1,
-            "awayLosses": 10,
+            "awayLosses": 11,
             "cupWins": 0,
             "cupLosses": 0,
             "pairWins": 0,
@@ -552,7 +553,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 23,
+            "totalGamesPlayed": 24,
             "results": [
                 "martin fulton 21 - 5 mark barker",
                 "martin fulton 21 - 6 vincent bussingham",
@@ -567,6 +568,7 @@
                 "martin fulton 21 - 12 nigel miller",
                 "martin fulton 15 - 21 andrew gallagher",
                 "martin fulton 17 - 21 ryan mitchell",
+                "martin fulton 5 - 21 john greenhalgh",
                 "martin fulton 19 - 21 ian jacques",
                 "martin fulton 21 - 19 nicky rooks",
                 "martin fulton 3 - 21 charlie ripley",
@@ -594,9 +596,9 @@
                 "aggDiff": -8
             },
             "mirfield (b)": {
-                "games": 8,
+                "games": 9,
                 "wins": 3,
-                "aggDiff": -17
+                "aggDiff": -33
             },
             "bradford half holiday": {
                 "games": 0,
