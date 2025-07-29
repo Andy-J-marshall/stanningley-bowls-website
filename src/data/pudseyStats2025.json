@@ -122,12 +122,12 @@
             }
         },
         "eleanor graves": {
-            "totalAgg": 111,
-            "totalAggAgainst": 230,
-            "availableAgg": 231,
+            "totalAgg": 132,
+            "totalAggAgainst": 248,
+            "availableAgg": 252,
             "availablePairsAgg": 0,
             "availableHomeAgg": 84,
-            "availableAwayAgg": 105,
+            "availableAwayAgg": 126,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -136,13 +136,13 @@
             "totalHomeAggAgainst": 83,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 36,
-            "totalAwayAggAgainst": 105,
+            "totalAwayAgg": 57,
+            "totalAwayAggAgainst": 123,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 1,
             "homeLosses": 3,
-            "awayWins": 0,
+            "awayWins": 1,
             "awayLosses": 5,
             "cupWins": 0,
             "cupLosses": 2,
@@ -154,7 +154,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 11,
+            "totalGamesPlayed": 12,
             "results": [
                 "eleanor graves 14 - 21 janet warburton",
                 "eleanor graves 5 - 21 david kirk",
@@ -166,7 +166,8 @@
                 "eleanor graves 2 - 21 marian poole",
                 "eleanor graves 8 - 21 bryan armit",
                 "eleanor graves 21 - 20 peter warren",
-                "eleanor graves 6 - 21 vanda greenwood"
+                "eleanor graves 6 - 21 vanda greenwood",
+                "eleanor graves 21 - 18 elaine blandford"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -179,9 +180,9 @@
                 "aggDiff": 0
             },
             "airewharfe vets": {
-                "games": 11,
-                "wins": 1,
-                "aggDiff": -119
+                "games": 12,
+                "wins": 2,
+                "aggDiff": -116
             },
             "mirfield": {
                 "games": 0,
@@ -250,12 +251,12 @@
             }
         },
         "linda barrand": {
-            "totalAgg": 443,
-            "totalAggAgainst": 613,
-            "availableAgg": 693,
+            "totalAgg": 449,
+            "totalAggAgainst": 634,
+            "availableAgg": 714,
             "availablePairsAgg": 0,
             "availableHomeAgg": 336,
-            "availableAwayAgg": 315,
+            "availableAwayAgg": 336,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -264,14 +265,14 @@
             "totalHomeAggAgainst": 284,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 171,
-            "totalAwayAggAgainst": 296,
+            "totalAwayAgg": 177,
+            "totalAwayAggAgainst": 317,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 5,
             "homeLosses": 11,
             "awayWins": 2,
-            "awayLosses": 13,
+            "awayLosses": 14,
             "cupWins": 1,
             "cupLosses": 1,
             "pairWins": 0,
@@ -282,7 +283,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 33,
+            "totalGamesPlayed": 34,
             "results": [
                 "linda barrand 4 - 21 alan byers",
                 "linda barrand 21 - 10 dorcas kirk",
@@ -298,6 +299,7 @@
                 "linda barrand 8 - 21 linda utley",
                 "linda barrand 13 - 21 nick gilleard",
                 "linda barrand 13 - 21 nuala pritchard",
+                "linda barrand 6 - 21 trevor baranovsky",
                 "linda barrand 17 - 21 charles fell",
                 "linda barrand 12 - 21 ian fairhurst",
                 "linda barrand 17 - 21 david glass",
@@ -329,9 +331,9 @@
                 "aggDiff": 0
             },
             "airewharfe vets": {
-                "games": 14,
+                "games": 15,
                 "wins": 5,
-                "aggDiff": -36
+                "aggDiff": -51
             },
             "mirfield": {
                 "games": 0,
@@ -546,18 +548,18 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 667,
-            "totalAggAgainst": 667,
-            "availableAgg": 819,
+            "totalAgg": 686,
+            "totalAggAgainst": 688,
+            "availableAgg": 840,
             "availablePairsAgg": 21,
-            "availableHomeAgg": 399,
+            "availableHomeAgg": 420,
             "availableAwayAgg": 378,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 21,
             "totalPairsAggAgainst": 19,
-            "totalHomeAgg": 345,
-            "totalHomeAggAgainst": 298,
+            "totalHomeAgg": 364,
+            "totalHomeAggAgainst": 319,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 295,
@@ -565,7 +567,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 14,
-            "homeLosses": 5,
+            "homeLosses": 6,
             "awayWins": 7,
             "awayLosses": 11,
             "cupWins": 1,
@@ -578,7 +580,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 39,
+            "totalGamesPlayed": 40,
             "results": [
                 "stewart watson & ian shaw 21 - 19 james teale & graham oliver",
                 "stewart watson 21 - 12 terri durrans",
@@ -605,6 +607,7 @@
                 "stewart watson 16 - 21 john lewis",
                 "stewart watson 5 - 21 aaron bottomley",
                 "stewart watson 21 - 15 a dagg",
+                "stewart watson 19 - 21 paul gill",
                 "stewart watson 21 - 15 peter howroyd",
                 "stewart watson 16 - 21 john beverley",
                 "stewart watson 17 - 21 bill swales",
@@ -646,9 +649,9 @@
                 "aggDiff": 0
             },
             "mirfield (c)": {
-                "games": 12,
+                "games": 13,
                 "wins": 4,
-                "aggDiff": -65
+                "aggDiff": -67
             },
             "bradford half holiday": {
                 "games": 0,

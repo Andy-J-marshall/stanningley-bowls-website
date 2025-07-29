@@ -1,17 +1,17 @@
-=== Bradford (Saturday) 2025 (as of Mon 28th Jul)
+=== Bradford (Saturday) 2025 (as of Tue 29th Jul)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
         Hill Crest A                      Wyke             
 Ben Halliday               21 Darren Hickey              6 
 Alan Bray                  21 Nigel Wormald             12 
-Scott Haynes               21 Neil Tordoff 'A'          17 
+Scott Haynes               21 Neil Tordoff              17 
 Gary Murphy                21 Daniel Barker             16 
 Martin Murphy               9 Mark Regan                21 
-Aaron Bottomley            12 Frank Cullen 'A'          21 
+Aaron Bottomley            12 Frank Cullen              21 
 David Barnes               20 Gareth Metcalf            21 
 Stuart Carrol              11 Keiran Bannister          21 
-Rebecca Woodhead           11 Trevor Benn 'A'           21 
+Rebecca Woodhead           11 Trevor Benn               21 
 Gary Jackson               21 Paul Metcalf              12 
                    Games:   5                   Games:   5 
                Aggregate: 168               Aggregate: 168 
@@ -415,14 +415,14 @@ Daniel Teale               21 Aaron Bottomley           11
             Wyke                        Whitkirk           
 Daniel Barker              10 Tony Green                21 
 Paul Metcalf               12 Adam Sharpe               21 
-Ian Wilson 'A'             15 Dave McGourty             21 
+Ian Wilson                 15 Dave McGourty             21 
 Darren Hickey              15 Amy Tobin                 21 
 Gareth Metcalf             20 Stan Elwell               21 
 Mark Regan                 20 Adam Varley               21 
-Trevor Benn 'A'            21 Bob Whitfield             13 
-Frank Cullen 'A'           21 Paul Tobin                13 
+Trevor Benn                21 Bob Whitfield             13 
+Frank Cullen               21 Paul Tobin                13 
 Nigel Wormald              21 Emma Tobin                15 
-Neil Tordoff 'A'           21 Terry Kelly                7 
+Neil Tordoff               21 Terry Kelly                7 
                    Games:   4                   Games:   6 
                Aggregate: 176               Aggregate: 174 
                   Points:  15                  Points:  15 
@@ -733,10 +733,10 @@ Gareth Metcalf             21 Dennis Henderson          12
 Mark Regan                 21 Martin Wilson             12 
 Nigel Wormald              21 Kevin Siddle              16 
 Darren Hickey              21 Thomas Cater               7 
-Trevor Benn 'A'            21 Joe Stockdale             15 
+Trevor Benn                21 Joe Stockdale             15 
 Martin Atkinson            21 Andy Wood                  9 
-Neil Tordoff 'A'           21 James Teale               19 
-Ian Wilson 'A'             21 Andrew Durkin              7 
+Neil Tordoff               21 James Teale               19 
+Ian Wilson                 21 Andrew Durkin              7 
                    Games:   8                   Games:   2 
                Aggregate: 197               Aggregate: 139 
                   Points:  24                  Points:   6 
@@ -1124,12 +1124,12 @@ Adam Mellor                14 Ben Halliday              21
 Mark Goodall               17 Mark Regan                21 
 Andrew Wood                21 James Scott                4 
 Lewis Pember               21 Darren Hickey             16 
-Ash Tattersley             21 Neil Tordoff 'A'          15 
+Ash Tattersley             21 Neil Tordoff              15 
 Phil Smith                 21 Daniel Barker              7 
-Phil Bryant                14 Frank Cullen 'A'          21 
+Phil Bryant                14 Frank Cullen              21 
 Chris Ellis                21 Gareth Metcalf             9 
-Andy Hodgson               12 Ian Wilson 'A'            21 
-Mally Fowler               14 Trevor Benn 'A'           21 
+Andy Hodgson               12 Ian Wilson                21 
+Mally Fowler               14 Trevor Benn               21 
 Andrew Gallagher           21 Nigel Wormald             14 
                    Games:   6                   Games:   4 
                Aggregate: 183               Aggregate: 149 
@@ -1467,14 +1467,14 @@ Kevin Siddle               13 Ash Tattersley            21
 
  Division 1 (Naylor Premier)          Sat 24th May         
             Wyke                      Littlemoor A         
-Neil Tordoff 'A'           21 Mark Allman                8 
-Frank Cullen 'A'           21 John Armitage 'A'         16 
+Neil Tordoff               21 Mark Allman                8 
+Frank Cullen               21 John Armitage 'A'         16 
 Mark Regan                 21 Nicole Farrar             16 
 Nigel Wormald              21 Lee Wider                 20 
-Trevor Benn 'A'            21 Nathan Dobson 'A'         15 
+Trevor Benn                21 Nathan Dobson 'A'         15 
 Paul Metcalf               11 Charles Ripley            21 
 Daniel Barker              18 Will Bedford              21 
-Ian Wilson 'A'             11 Fern Beaumont             21 
+Ian Wilson                 11 Fern Beaumont             21 
 Darren Hickey              15 Ben Falkingham            21 
 Gareth Metcalf              7 Alex Wolfenden            21 
                    Games:   5                   Games:   5 
@@ -1815,12 +1815,12 @@ Malcolm Riggs              21 Steven Bussingham         12
           Pudsey A                        Wyke             
 Philip Wilsdon             21 Gareth Metcalf             7 
 Stuart Hanson              21 Matthew Hicks             18 
-Ian Shaw                   21 Neil Tordoff 'A'          17 
-Fin Hickey                 21 Ian Wilson 'A'             5 
+Ian Shaw                   21 Neil Tordoff              17 
+Fin Hickey                 21 Ian Wilson                 5 
 Jamie Winterburn           17 Mark Regan                21 
 Chris Mordue               21 Robert K Wilkinson        10 
 Mason Lindley              21 Darren Hickey             17 
-Andrew Sykes               21 Trevor Benn 'A'           14 
+Andrew Sykes               21 Trevor Benn               14 
 Josh Mordue                21 Paul Metcalf               8 
 Stephen Walker             21 Nigel Wormald              6 
                    Games:   9                   Games:   1 
@@ -2207,16 +2207,16 @@ Daniel Teale                7 Thomas Hanson             21
 
  Division 1 (Naylor Premier)          Sat 14th Jun         
             Wyke                      Shipley Club         
-Neil Tordoff 'A'           18 Daniel Metcalfe           21 
+Neil Tordoff               18 Daniel Metcalfe           21 
 Darren Hickey              15 Ian Jacques               21 
 Mark Regan                 14 Matthew Jacques 'A'       21 
 Daniel Barker              18 Craig Fenton              21 
-Trevor Benn 'A'            21 John Sample               13 
+Trevor Benn                21 John Sample               13 
 Paul Metcalf               21 David Bland               12 
-Ian Wilson 'A'             21 Chris Jacques             11 
+Ian Wilson                 21 Chris Jacques             11 
 Nigel Wormald              21 Neil Simpson              18 
 Gareth Metcalf             21 Andrew Walker             13 
-Frank Cullen 'A'           21 Scott Bloodworth          19 
+Frank Cullen               21 Scott Bloodworth          19 
                    Games:   6                   Games:   4 
                Aggregate: 191               Aggregate: 170 
                   Points:  19                  Points:  11 
@@ -2571,9 +2571,9 @@ Helen Simpson              12 Scott Haynes              21
           Cononley                        Wyke             
 Robbie Ellis               21 Richard Kerr               6 
 Mike Gadd                  21 Nigel Wormald             13 
-Rob Scarr                  18 Trevor Benn 'A'           21 
-Jim Calvert                 6 Frank Cullen 'A'          21 
-Ian Dewhirst               21 Neil Tordoff 'A'           8 
+Rob Scarr                  18 Trevor Benn               21 
+Jim Calvert                 6 Frank Cullen              21 
+Ian Dewhirst               21 Neil Tordoff               8 
 Sharon Gadd                21 Matthew Hicks             19 
 Claire Russell             21 Darren Hickey              3 
 Grahame Sharp              14 Daniel Barker             21 
@@ -2586,7 +2586,7 @@ Steve Clamp                12 Gareth Metcalf            21
  Division 1 (Naylor Premier)          Sat 21st Jun         
           Whitkirk                    Littlemoor A         
 Phil Hill                  21 *No Player*                0 
-Bob Whitfield              21 *No Player*                0 
+Bob Whitfield              21 Nathan Dobson 'A'         18 
 Stan Elwell                19 Zinedine Ayub             21 
 Warren Wilson               5 Lewis Cooper              21 
 Tom Johnson                21 Lee Wider                 16 
@@ -2596,8 +2596,8 @@ Tony Green                 21 Mark Dobson               10
 Andy Martinho              21 Will Bedford              17 
 Kris Walder                 7 Marc Armitage 'A'         21 
                    Games:   5                   Games:   5 
-               Aggregate: 169               Aggregate: 148 
-                  Points:  18                  Points:  12 
+               Aggregate: 169               Aggregate: 166 
+                  Points:  16                  Points:  14 
 
      Division 2 (Godwin)              Sat 21st Jun         
            Farsley                      Pudsey B           
@@ -2903,12 +2903,12 @@ Daniel Barker              11 Micheal Wood              21
 Darren Hickey              11 Julian Dawson             21 
 Paul Metcalf               16 John Bloomer              21 
 Mark Regan                 19 Helen Simpson             21 
-Trevor Benn 'A'            21 Gordon Bradford           13 
-Neil Tordoff 'A'           21 Dale Dyson                15 
+Trevor Benn                21 Gordon Bradford           13 
+Neil Tordoff               21 Dale Dyson                15 
 Matthew Hicks              21 John Horsley              17 
 Nigel Wormald              21 Gordon Johnson            17 
 Gareth Metcalf             21 Nigel Marshall            20 
-Ian Wilson 'A'             21 Robert Hopper             20 
+Ian Wilson                 21 Robert Hopper             20 
                    Games:   6                   Games:   4 
                Aggregate: 183               Aggregate: 186 
                   Points:  15                  Points:  15 
@@ -3249,16 +3249,16 @@ Joe Stockdale              20 Gordon Bradford           21
 
  Division 1 (Naylor Premier)          Sat 12th Jul         
             Wyke                      Hill Crest A         
-Trevor Benn 'A'            21 David Barnes              15 
+Trevor Benn                21 David Barnes              15 
 Nigel Wormald              21 Craig Thomasson            2 
 Gareth Metcalf             21 Rebecca Woodhead           7 
 Paul Metcalf               21 Ben Halliday              20 
-Neil Tordoff 'A'           21 Nikki Conway               5 
+Neil Tordoff               21 Nikki Conway               5 
 Daniel Barker              21 Alan Bray                 19 
 Darren Hickey              21 John Halliday             12 
 Mark Regan                 21 Stuart Carrol             11 
-Ian Wilson 'A'             21 Robert Woodhead            9 
-Frank Cullen 'A'           21 Gary Jackson               8 
+Ian Wilson                 21 Robert Woodhead            9 
+Frank Cullen               21 Gary Jackson               8 
                    Games:  10                   Games:   0 
                Aggregate: 210               Aggregate: 108 
                   Points:  30                  Points:   0 
@@ -3660,11 +3660,11 @@ Steve Cooper               21 Mason Lindley             14
 Dave McGourty              21 Richard Kerr               8 
 Terry Kelly                21 Darren Hickey             15 
 Emma Tobin                 21 Daniel Barker             14 
-Stan Elwell                 9 Frank Cullen 'A'          21 
-Warren Wilson              21 Neil Tordoff 'A'          20 
+Stan Elwell                 9 Frank Cullen              21 
+Warren Wilson              21 Neil Tordoff              20 
 Tony Green                 21 Paul Metcalf               6 
-Amy Tobin                  21 Trevor Benn 'A'           17 
-Kris Walder                21 Ian Wilson 'A'            20 
+Amy Tobin                  21 Trevor Benn               17 
+Kris Walder                21 Ian Wilson                20 
 Adam Varley                21 Mark Regan                11 
 Paul Tobin                 21 Nigel Wormald              5 
                    Games:   9                   Games:   1 
