@@ -217,18 +217,18 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 869,
-            "totalAggAgainst": 831,
-            "availableAgg": 1050,
+            "totalAgg": 884,
+            "totalAggAgainst": 852,
+            "availableAgg": 1071,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 483,
+            "availableHomeAgg": 504,
             "availableAwayAgg": 504,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 444,
-            "totalHomeAggAgainst": 357,
+            "totalHomeAgg": 459,
+            "totalHomeAggAgainst": 378,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 376,
@@ -236,7 +236,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 15,
-            "homeLosses": 8,
+            "homeLosses": 9,
             "awayWins": 11,
             "awayLosses": 13,
             "cupWins": 1,
@@ -249,7 +249,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 50,
+            "totalGamesPlayed": 51,
             "results": [
                 "jim moorin 21 - 2 janice connaleigh",
                 "jim moorin 10 - 21 deborah swann",
@@ -292,6 +292,7 @@
                 "jim moorin 21 - 12 ricky kearns",
                 "jim moorin 3 - 21 kevin rankin",
                 "jim moorin 18 - 21 peter jefferson",
+                "jim moorin 15 - 21 dave jowett",
                 "jim moorin 21 - 10 michael sansom",
                 "jim moorin 14 - 21 jordan edmondson",
                 "jim moorin 21 - 19 peter owen",
@@ -343,9 +344,9 @@
                 "aggDiff": -31
             },
             "bradford vets": {
-                "games": 10,
+                "games": 11,
                 "wins": 5,
-                "aggDiff": 5
+                "aggDiff": -1
             },
             "ossett and horbury": {
                 "games": 0,
@@ -364,18 +365,18 @@
             }
         },
         "john armitage": {
-            "totalAgg": 1200,
-            "totalAggAgainst": 910,
-            "availableAgg": 1302,
+            "totalAgg": 1220,
+            "totalAggAgainst": 931,
+            "availableAgg": 1323,
             "availablePairsAgg": 42,
-            "availableHomeAgg": 546,
+            "availableHomeAgg": 567,
             "availableAwayAgg": 609,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 42,
             "totalPairsAggAgainst": 25,
-            "totalHomeAgg": 520,
-            "totalHomeAggAgainst": 348,
+            "totalHomeAgg": 540,
+            "totalHomeAggAgainst": 369,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 541,
@@ -383,7 +384,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 21,
-            "homeLosses": 5,
+            "homeLosses": 6,
             "awayWins": 18,
             "awayLosses": 11,
             "cupWins": 6,
@@ -396,7 +397,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 2,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 62,
+            "totalGamesPlayed": 63,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
@@ -447,6 +448,7 @@
                 "john armitage 21 - 11 nick bastow",
                 "john armitage 21 - 7 charlie ripley",
                 "john armitage 21 - 16 amy tobin",
+                "john armitage 20 - 21 robert hopper",
                 "john armitage 21 - 9 myles summers",
                 "john armitage 21 - 7 bailey dawson",
                 "john armitage 21 - 13 dale hardcastle",
@@ -492,9 +494,9 @@
                 "aggDiff": 46
             },
             "spen valley": {
-                "games": 18,
+                "games": 19,
                 "wins": 13,
-                "aggDiff": 116
+                "aggDiff": 115
             },
             "spen valley (b)": {
                 "games": 0,
@@ -523,25 +525,25 @@
             }
         },
         "martin fulton": {
-            "totalAgg": 363,
-            "totalAggAgainst": 430,
-            "availableAgg": 504,
+            "totalAgg": 384,
+            "totalAggAgainst": 442,
+            "availableAgg": 525,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 252,
+            "availableHomeAgg": 273,
             "availableAwayAgg": 252,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 220,
-            "totalHomeAggAgainst": 179,
+            "totalHomeAgg": 241,
+            "totalHomeAggAgainst": 191,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 143,
             "totalAwayAggAgainst": 251,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 7,
+            "homeWins": 8,
             "homeLosses": 5,
             "awayWins": 1,
             "awayLosses": 11,
@@ -555,7 +557,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 24,
+            "totalGamesPlayed": 25,
             "results": [
                 "martin fulton 21 - 5 mark barker",
                 "martin fulton 21 - 6 vincent bussingham",
@@ -580,7 +582,8 @@
                 "martin fulton 17 - 21 alex edmondson",
                 "martin fulton 8 - 21 joe stockdale",
                 "martin fulton 9 - 21 david bland",
-                "martin fulton 14 - 21 graham higgins"
+                "martin fulton 14 - 21 graham higgins",
+                "martin fulton 21 - 12 dale dyson"
             ],
             "airewharfe monday": {
                 "games": 1,
@@ -613,9 +616,9 @@
                 "aggDiff": 0
             },
             "spen valley": {
-                "games": 10,
-                "wins": 2,
-                "aggDiff": -60
+                "games": 11,
+                "wins": 3,
+                "aggDiff": -51
             },
             "spen valley (b)": {
                 "games": 0,
@@ -876,6 +879,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "30/07/2025",
+    "lastUpdated": "31/07/2025",
     "statsYear": "2025"
 }

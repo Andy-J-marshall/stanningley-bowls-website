@@ -1,4 +1,4 @@
-=== Leeds & District (Thursday Over 55s) 2025 (as of Wed 30th Jul)
+=== Leeds & District (Thursday Over 55s) 2025 (as of Thu 31st Jul)
 === League Match Cards
 
      Division 1            Thu 17th Apr       
@@ -1058,5 +1058,83 @@ Richard Aspin      21 Allan Blue           11
 Ken Stockhill      21 John Goode           12 
        Aggregate: 130          Aggregate: 133 
           Points:  30             Points:  28 
+
+     Division 1            Thu 31st Jul       
+     New Wortley            Burley Prk        
+Stephen Morley     21 Malcolm Dacre         8 
+Angela Morley      21 Barry Palmer         16 
+Malcolm Crowson    21 Pat Dacre            17 
+Stuart Reardon     21 Jeff Fryer            3 
+Keith Sellars       9 Steve Pickersgill    21 
+Valerie Dawson     15 John Gilroy          21 
+Trevor Dawson      17 Tommy Parr           21 
+Paul Shackleton    21 *No Player*           0 
+       Aggregate: 146          Aggregate: 107 
+          Points:  32             Points:  22 
+
+     Division 1            Thu 31st Jul       
+  Stanningley Park          Gildersome        
+Ken Green           5 Simon Hampshaw       21 
+Steve Sheldon      10 Graham Gaunt         21 
+Donald Shaw        20 Sandra Deegan        21 
+Bob Marshall       21 Frank Hales          11 
+Colin Haque        18 Harvey Lockwood      21 
+Cliff Brogie       12 Kevin Smales         21 
+Malvin Miller      18 David Norton         21 
+Andy Waller        21 Linda Gaunt          10 
+       Aggregate: 125          Aggregate: 147 
+          Points:  27             Points:  34 
+
+     Division 1            Thu 31st Jul       
+     Cranmore BC           Pudsey Park A      
+Barry Baldwin      21 Bill Pyett           16 
+Peter Griffin      16 Janet Pearson        21 
+Marvin Stafford    21 Frank Lindsay         9 
+John Harvey        21 Brian Stevens        12 
+Peter Nicholson     9 Peter Huffinley      21 
+Deborah Stafford   19 Dennis Walters       21 
+Paul Griffiths     21 Elaine Hill          11 
+Jeff Higgins        5 Maveen Tomlinson     21 
+       Aggregate: 133          Aggregate: 132 
+          Points:  29             Points:  28 
+
+     Division 2            Thu 31st Jul       
+   Western Flatts          Bramley Park       
+Shirley Barker     21 Malcolm Woodcock     16 
+Margaret McPhail   21 Shirley Allman       17 
+Ron Lavan          16 Jeff Allman          21 
+Geoff Clark        15 Glynn Barrett        21 
+Stewart Wardlow    21 Keith Davison         6 
+Anne Lucas         21 Andy Best            13 
+Glynis Ash         21 Brian Fish           18 
+Hazel Goodall      13 Terry Astley         21 
+       Aggregate: 149          Aggregate: 133 
+          Points:  33             Points:  28 
+
+     Division 2            Thu 31st Jul       
+   Middleton Park          Scatcherd Pk       
+Matt Ramsey        19 Marilyn Robinson     21 
+Kath Burdett       15 Keith Kincaid        21 
+Dawn Robinson      15 Terry Dillon         21 
+Janice Dickinson    9 Derek Ludlam         21 
+Valerie Darwin     21 Sandra Foster        11 
+Trevor Sackett     21 Roy Kellett           8 
+Ian Dickinson      21 Ken McRae            14 
+Philip Rowe        21 Glenn Parkinson      17 
+       Aggregate: 142          Aggregate: 134 
+          Points:  31             Points:  28 
+
+     Division 2            Thu 31st Jul       
+    Pudsey Park B         West Royd Park      
+Derek Howell       21 Colin Pontefract      7 
+David Milner       10 Les Spencer          21 
+Barry Wild         21 Jan McGuiness        13 
+Barbara Nellis     21 Howard Gothard       15 
+Barbara Moss       21 Pam Wilson           12 
+Maureen Bradshaw   21 Gez Collins          11 
+Peter Wild         21 Richard Tatum        20 
+Kathleen Vince     21 Chris Swales         14 
+       Aggregate: 157          Aggregate: 113 
+          Points:  37             Points:  21 
 
 
