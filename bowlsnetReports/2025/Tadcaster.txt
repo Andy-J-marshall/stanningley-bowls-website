@@ -1,4 +1,4 @@
-=== Tadcaster Evening League 2025 (as of Thu 31st Jul)
+=== Tadcaster Evening League 2025 (as of Fri 1st Aug)
 === League Match Cards
 
     Richardson Trophy           Thu 3rd Apr        
@@ -3772,7 +3772,7 @@ Mark Taylor            21 Jon Schofield         10
 Racheal Wilcox         17 Adam Conlon           21 
 Lynn Wilcox             4 Chris Broughton       21 
 James Wilcox           21 Ian Vickers           18 
-Thomas Cranston        18 G Dickinson           21 
+Tom Smith              18 G Dickinson           21 
 Peter Wilcox           21 Joe Ruddlesden        14 
               Points:   4              Points:   6 
            Aggregate: 138           Aggregate: 143 
@@ -3884,6 +3884,21 @@ Phil Berry             19 David Spilsbury       21
                Games:   5               Games:   3 
 
     Main League 2025            Thu 31st Jul       
+          Div 2                                    
+     WHITKIRK KNAVES            MAGNET PALE        
+T Johnson              13 Tony Wood             21 
+G Hodder                8 T Hardy               21 
+Michael Sheerin        18 P Wetherhill          21 
+Phil Hatch             21 M Shah                11 
+Stan Elwell            21 Graham Collins         4 
+S Cahill               21 M Greenwood            6 
+Hannah Risley          19 Melanie Collins       21 
+Paul Hardy             21 Nick Heaton           16 
+              Points:   6              Points:   4 
+           Aggregate: 142           Aggregate: 121 
+               Games:   4               Games:   4 
+
+    Main League 2025            Thu 31st Jul       
           Div 3                                    
         STARBECK               GARFORTH CC B       
 Sue Green              21 Neil Robinson          9 
@@ -3942,6 +3957,36 @@ Nick Bahado            12 David Waldron         21
               Points:   3              Points:   7 
            Aggregate: 122           Aggregate: 155 
                Games:   3               Games:   5 
+
+    Main League 2025            Thu 31st Jul       
+          Div 4                                    
+      COLTON SPORTS             BLACK SWAN B       
+Elizabeth Loveday      12 Stephen Westoby       21 
+Richard Naylor         10 Gary Kinder           21 
+Deborah Orrell          6 Sue Mitchell          21 
+Andrew Stocks          15 Jim Corr              21 
+Sue Barker              7 Will Tully            21 
+Mick Barker            21 Barry Turnbull        11 
+Brian Scholes          14 Val Rowson            21 
+J Orrell               21 Conor McCarthy        13 
+              Points:   2              Points:   8 
+           Aggregate: 106           Aggregate: 150 
+               Games:   2               Games:   6 
+
+    Main League 2025            Thu 31st Jul       
+          Div 4                                    
+      THORNER WANDS            BARDSEY HAWKS       
+Joe Wilkinson          21 Lynda Fuszard         19 
+Halle Moore            15 Linda Matthews        21 
+Nick Koslowsky          9 Carol Cocker          21 
+Thelma Lancaster       16 David Lewis           21 
+Katie Simms            21 James Phillips        14 
+Alistair Warren        21 Walter Lewis          17 
+Christine Holmes       21 Martin Woolley        11 
+Granville Deighton     16 Ron Clark             21 
+              Points:   4              Points:   6 
+           Aggregate: 140           Aggregate: 145 
+               Games:   4               Games:   4 
 
     Main League 2025            Thu 31st Jul       
           Div 4                                    

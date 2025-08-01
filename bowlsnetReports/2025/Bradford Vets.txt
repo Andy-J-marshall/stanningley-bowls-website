@@ -1,4 +1,4 @@
-=== Bradford (Vets) 2025 (as of Thu 31st Jul)
+=== Bradford (Vets) 2025 (as of Fri 1st Aug)
 === Comp. Match Cards
 
 Division Four ( 6 Players)       Thu 10th Apr       
@@ -4084,6 +4084,18 @@ Duncan Newton            10 Steven Bussingham    21
                 Points:  16             Points:  10 
 
 Division Four ( 6 Players)       Thu 31st Jul       
+         Clayton C               Bowling Park       
+Joe Midgley              21 Brian Metcalfe       11 
+Sue Findlay              21 Keith Robertson      19 
+Trevor Bateman           21 John Chisholm        13 
+Ian Findlay              20 Carol Chisholm       21 
+Shaun Toehill            21 David Waggett        11 
+Kenny McCafferty         21 Jackie Swindell      17 
+             Aggregate: 125          Aggregate:  92 
+                 Games:   5              Games:   1 
+                Points:  20             Points:   6 
+
+Division Four ( 6 Players)       Thu 31st Jul       
           Salts B                   Idle C          
 Julie Stead              21 David Priestley      13 
 Anne Brown               21 Margaret Austin      20 
@@ -4118,5 +4130,19 @@ John Winstanley          21 Dawn Riggett         11
              Aggregate: 113          Aggregate:  84 
                  Games:   5              Games:   1 
                 Points:  20             Points:   6 
+
+      Division Three              Fri 1st Aug       
+      Drighlington A           Crowghyll Park B     
+Phil Keating             20 Derek Simpson        21 
+John Roberts             21 Sue Allender          5 
+Stewart Whiteley         21 Janet Welsh           9 
+Mick Tolson              21 Audrey Healey        13 
+Graham Priestley         21 Rae Heddle           15 
+Ian Fairhurst            21 Flo Johnston          5 
+Tony Carpenter           21 Jim Welsh             7 
+Michael Warren           16 Dennis Brown         21 
+             Aggregate: 162          Aggregate:  96 
+                 Games:   6              Games:   2 
+                Points:  26             Points:   2 
 
 
