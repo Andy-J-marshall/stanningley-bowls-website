@@ -1,4 +1,4 @@
-=== Leeds & District Ladies Bowling League 2025 (as of Thu 31st Jul)
+=== Leeds & District Ladies Bowling League 2025 (as of Fri 1st Aug)
 === League Match Cards
 
          League                Thu 17th Apr       
@@ -1503,5 +1503,94 @@ Lynne Porter          13 Val Grace             21
 Pamela Barlow         20 Carolyn Matthewman    21 
          Aggregate:  143          Aggregate:  144 
             Points:  4.0             Points:  7.0 
+
+         League                Thu 31st Jul       
+       Division 2                                 
+       Holt Park                 Guiseley         
+Betty Sparkes         16 Maureen Jarvis        21 
+Julie Keightley       17 Lynne Ogden           21 
+Janet Sykes           21 Julie Stead            9 
+Maureen Sheriden      17 Anne Brown            21 
+Michelle Norcliffe    17 Christine Fountain    21 
+Kathleen Haley        21 Doreen Lawson         10 
+Sylvia Petty          16 Caroline Corbett      21 
+Julie Keightley       11 Lynette Hall          21 
+         Aggregate:  136          Aggregate:  145 
+
+   Supplementary Cup           Thu 31st Jul       
+      Stanningley               Gildersome        
+Linda Barrand         21 *No Player*            0 
+Nicola Bona           21 *No Player*            0 
+Sarah Connolly        21 *No Player*            0 
+Eleanor Graves        21 *No Player*            0 
+Kate Hall             21 *No Player*            0 
+Vanessa Lancaster     21 *No Player*            0 
+Tracey Marshall       21 *No Player*            0 
+Bernadette Moran      21 *No Player*            0 
+Laila Packer          21 *No Player*            0 
+Alyssa Randell        21 *No Player*            0 
+Louise Roberts        21 *No Player*            0 
+Mary Spears           21 *No Player*            0 
+Mary Spears           21 *No Player*            0 
+Karen Uttley          21 *No Player*            0 
+Sarah Connolly        21 *No Player*            0 
+Alison Woodfine       21 *No Player*            0 
+         Aggregate:  336          Aggregate:    0 
+            Points: 19.0             Points:  0.0 
+
+   Supplementary Cup           Thu 31st Jul       
+      Greenbottom               Tarnfield         
+Margaret Adamson      21 *No Player*            0 
+Isabel Douglas        21 *No Player*            0 
+Barbara Harrison      21 *No Player*            0 
+Fiona Haxby           21 *No Player*            0 
+Anne Hogg             21 *No Player*            0 
+Dorothy Jackson       21 *No Player*            0 
+Kate Jukes            21 *No Player*            0 
+Anita Kingham         21 *No Player*            0 
+Jean Lees             21 *No Player*            0 
+Audrey Macgregor      21 *No Player*            0 
+May Metcalf           21 *No Player*            0 
+Anne Raw              21 *No Player*            0 
+Ann Ryley             21 *No Player*            0 
+Gwen Smith            21 *No Player*            0 
+Linda Summers         21 *No Player*            0 
+Sandy Watson          21 *No Player*            0 
+         Aggregate:  336          Aggregate:    0 
+            Points: 19.0             Points:  0.0 
+
+   Supplementary Cup           Thu 31st Jul       
+       Grove Hill               Rufford B         
+Diane Farrar          21 Aileen Waite           4 
+Jane Bowden           21 Gabby Parker          15 
+Linda Smith           21 Cora Dove              7 
+Judith Collins        21 Tracey Whitaker       12 
+Pauline Barnett       21 Lynsey Gregson        12 
+Kay Lodge             21 Adele Hart-Woods      11 
+Linda Yates           16 Sue Newell            21 
+Belinda Mitchell      21 Sally Clarke          14 
+         Aggregate:  163          Aggregate:   96 
+            Points: 10.0             Points:  1.0 
+
+   Supplementary Cup           Thu 31st Jul       
+       Calverley                Holt Park         
+*No Player*            0 Rita Bennett          21 
+*No Player*            0 Carol Dunn            21 
+*No Player*            0 Kathleen Haley        21 
+*No Player*            0 Julie Keightley       21 
+*No Player*            0 Geraldine Lyons       21 
+*No Player*            0 Michelle Norcliffe    21 
+*No Player*            0 Pat Penman            21 
+*No Player*            0 Sylvia Petty          21 
+*No Player*            0 Debbie Sandals        21 
+*No Player*            0 Maureen Sheriden      21 
+*No Player*            0 Pat Penman            21 
+*No Player*            0 Janet Sykes           21 
+*No Player*            0 Rita Bennett          21 
+*No Player*            0 Carol Dunn            21 
+*No Player*            0 Kathleen Haley        21 
+*No Player*            0 Julie Keightley       21 
+         Aggregate:    0          Aggregate:  336 
+            Points:  0.0             Points: 19.0 
 
 

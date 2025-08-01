@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Thu 31st Jul)
+=== Ossett & Horbury 2025 (as of Fri 1st Aug)
 === League Match Cards
 
          Division 3                   Tue 8th Apr          
@@ -4180,6 +4180,18 @@ John Webster              21 Kath Robinson              16
               Aggregate: 148                Aggregate: 122 
 
       Premier Division               Thu 31st Jul          
+          Sandal A                  Skelmanthorpe A        
+Joe Cranston              21 Nick White                 18 
+Nigel Cranston            20 Graham Hickey              21 
+James Hanson              21 Chris Kelly                18 
+Darren Pitchforth         18 Harry Lumb                 21 
+Kristian Shuttleworth     14 Ashley Daykin              21 
+Leighton Shuttleworth      6 Ian Ross                   21 
+Ben Sweeney               19 Josh Brown                 21 
+Gary Wike                  9 Ian Booth                  21 
+              Aggregate: 128                Aggregate: 162 
+
+      Premier Division               Thu 31st Jul          
       Hanging Heaton A                 Sandal B            
 Chris Mordue              21 Darren Pitchforth           7 
 Simon Metcalfe            21 Paul Hawes                 15 
@@ -4190,6 +4202,30 @@ Sebastian Mordue          20 Martin Eley                21
 Pam Lindley               21 Andrew Evison              12 
 Roger Birdsall            21 Sam Farmer                 20 
               Aggregate: 160                Aggregate: 130 
+
+      Premier Division               Thu 31st Jul          
+      Castleford Town                Spen Victoria         
+David Watson              10 Ash Tattersley             21 
+Calum Fennell             16 Harley Tattersley          21 
+Robert McGuire            13 Andrew Gallagher           21 
+S Williams                21 Mark Goodall               13 
+Robert Lloyd              21 Richard Crowther            4 
+Dean Hopwood              21 Danny Teale                15 
+Daniel Revell             21 Phil Smith                 13 
+Mark Brain                21 Chris Ellis                12 
+              Aggregate: 144                Aggregate: 120 
+
+      Premier Division               Thu 31st Jul          
+      Ossett C & AC A                  Rothwell            
+Chris Goodwin             21 Garry Dennison             18 
+Noel Whitaker             20 Charlotte Holmes           21 
+Chris Nuttall             19 Kez Smith                  21 
+Oscar Scott-Parker        21 Mark Hughes                14 
+Sam Beresford             17 Thomas Scorah              21 
+Stuart Daniel             16 Gareth Lally               21 
+Mick Scott                21 Matt Turner                10 
+Joshua Dunford            21 Katie Turner                5 
+              Aggregate: 156                Aggregate: 131 
 
          Division 1                  Thu 31st Jul          
         Dodworth MW                Alverthorpe WMC A       
@@ -4264,6 +4300,18 @@ James Tiler               21 Gary Denton                 7
               Aggregate: 127                Aggregate: 111 
 
          Division 2                  Thu 31st Jul          
+        Horbury WMC                  Smirthwaite B         
+Phillip Dunnill           21 Dale Evans                 20 
+John Stokes               21 A France                    9 
+David Ingham              21 R Dunwell                  15 
+David Purssell            21 M Watson                   18 
+David Horan               21 Leigh Measham              16 
+Derek Hawes               21 Glen Evans                 12 
+S Crummack                17 Alan Knowles               21 
+Den Law                   15 Graham Kirkaldy            21 
+              Aggregate: 158                Aggregate: 132 
+
+         Division 2                  Thu 31st Jul          
         Savile Park                Hanging Heaton B        
 Jade Johnson              16 Gary Amatt                 21 
 Liam Massey               21 Ian Taylor                  9 
@@ -4298,6 +4346,54 @@ Sam Seargent              21 Rob Curzon                 13
 Johnathon Taylor          17 Joshua Eley                21 
 Lee Dobson                19 John Packer                21 
               Aggregate: 144                Aggregate: 123 
+
+         Division 3                  Thu 31st Jul          
+       Wake Thornes A               Horbury Bridge         
+Bob Holmes                21 Kathleen Nelson             7 
+S Findlay                 21 Brian Beddow               17 
+Diane Eley                21 Geoff Close                19 
+D Warwick                 20 Marshall Coates            21 
+D Guile                   11 Kevin Scott                21 
+Khalid Mahmood            21 Andrew Fawcett             19 
+R Stables                 21 Martin Turner              13 
+Gerry Taylor              20 Rob Taylor                 21 
+              Aggregate: 156                Aggregate: 138 
+
+         Division 3                  Thu 31st Jul          
+      Ossett C & AC C                Wrenthorpe A          
+John Kellett              15 Vernon Green               21 
+Karen Kellett             21 Gary Dawson                18 
+Alan Nash                 21 Eileen Wardman             13 
+Nora Collier              21 Brian Marden               15 
+John Kennelly             21 Jenny Berry                15 
+David Clarkson            21 John Scholey               20 
+Terence Fletcher          18 Philip Berry               21 
+Connor Dunford            17 Dave Gordon                21 
+              Aggregate: 155                Aggregate: 144 
+
+         Division 3                  Thu 31st Jul          
+       Denby Grange B                 Earlsheaton          
+Josh Broadhead            21 David McNally              16 
+Malcolm Brown             15 Jenny Pitchforth           21 
+Keeling Ben               21 Karen Ainley               16 
+Ian Davis                 17 Yvonne Ainley              21 
+Rob Norbury               21 Daniel Logan               11 
+David Wright              19 Lee Crossland              21 
+Bryan Thomas              15 Malcolm Battye             21 
+Graham Blythe             21 Keith Pinchbeck            20 
+              Aggregate: 150                Aggregate: 147 
+
+         Division 4                  Thu 31st Jul          
+        Wrenthorpe B                     B J D             
+Dennis Mercer             16 David Shearstone           21 
+Mark Wigglesworth         21 Alan Mullins               14 
+Les Bailey                21 Ian Falshaw                20 
+Jack Norton               13 Gerry Pickard              21 
+Mick Smith                 7 Gillian Haigh              21 
+John Nunn                 16 Ken Channer                21 
+Harry Baxby               17 Peter Richmond             21 
+Charles Dews               6 Les Conway                 21 
+              Aggregate: 117                Aggregate: 160 
 
          Division 4                  Thu 31st Jul          
        Smirthwaite C                    Altofts            
@@ -4358,5 +4454,58 @@ Keith Lawrance            21 Michael Scholey            18
 Tony Bell                  6 Diane Pitchford            21 
 Eric Szpyrka              21 Sharon Scholey              0 
               Aggregate: 133                Aggregate: 127 
+
+         Division 5                  Thu 31st Jul          
+       Holmfield Park               Skelmanthorpe C        
+Lucas Manousios           12 Joanne McLaughlan          21 
+Shirley Griffiths         17 Andrew McLaughlan          21 
+Peter Birch               11 Cerise Booth               21 
+David Smith               21 Brenda Ayre                 8 
+Eric France               13 Kevin Booth                21 
+Lee Woodrow               21 Julie Hardy                12 
+Mick Lund                 21 Elaine Long                16 
+Frank Ryan                15 John Kitching              21 
+              Aggregate: 131                Aggregate: 141 
+
+        Semi-Finals                   Fri 1st Aug          
+                                    On Smirthwaite         
+          Sandal A                   Spen Victoria         
+Ian Shuttleworth          21 Richard Crowther           15 
+Darren Pitchforth         19 Danny Teale                21 
+James Hanson              18 Andrew Gallagher           21 
+Sam Farmer                21 Neil Wood Jr               16 
+Gary Wike                 21 Chris Ellis                19 
+Nigel Cranston            19 Mark Goodall               21 
+James Davison             14 Ash Tattersley             21 
+Craig Hopwood             16 Harley Tattersley          21 
+              Aggregate: 149                Aggregate: 155 
+
+        Semi-Finals                   Fri 1st Aug          
+                                      On Rothwell          
+       West Bretton B               Horbury Bridge         
+John Hepworth             18 Geoff Close                21 
+Carol Stevenson           21 Andrew Fawcett              9 
+Kate Moore                 7 Kevin Scott                21 
+Simon Geal                21 Mark Senior                20 
+Paul Wainwright           14 Martin Turner              21 
+Mick Shaw                 13 Brian Beddow               21 
+Mathew Boud                7 Jim Liversidge             21 
+Steve Slawycz              8 Rob Taylor                 21 
+               Handicap: +12                 Handicap: Scr 
+              Aggregate: 121                Aggregate: 155 
+
+        Semi-Finals                   Fri 1st Aug          
+                                    On Horbury WMC         
+         Stanley A                    Overthorpe           
+Holger Cole               16 Geraldine Dickinson        21 
+C Scargill                11 Heather Jewitt             21 
+Stephen Haist             10 Anthony Dickinson          21 
+J Morris                  21 Andy Wilson                17 
+Julia Wright               5 Les Bell                   21 
+Karen Haist               21 Richard Sweeney            13 
+Andrew Lord               21 Johny Smith                11 
+Paul Giblin               19 Nathan Jewitt              21 
+               Handicap: +12                 Handicap: +12 
+              Aggregate: 136                Aggregate: 158 
 
 

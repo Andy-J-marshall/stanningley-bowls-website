@@ -1,4 +1,4 @@
-=== Mirfield District Bowling Association 2025 (as of Thu 31st Jul)
+=== Mirfield District Bowling Association 2025 (as of Fri 1st Aug)
 === Comp. Match Cards
 
         Division 1                Tue 15th Apr        
@@ -6358,5 +6358,18 @@ Phillip Rann            21 Keith Clarkson           1
 Mark Seed               21 Glen Morris              8 
                Points:  10                Points:   0 
             Aggregate: 168             Aggregate:  70 
+
+        Division 7                Fri 1st Aug         
+  Cleckheaton Sports 'C'         Milnsbridge BC       
+John Dyson              21 Kian Mosley             19 
+Richard Bentley         16 David Peacock           21 
+Norman Swift            21 Andy Thornton           16 
+Chris Bray              21 Neil Croasdell          19 
+Dave Marshall           19 Richard Eaton           21 
+Richard Oldroyd         21 Howard Young            16 
+Alex Green              15 Scott Thornton          21 
+John Bradley            21 Mark Hirst              16 
+               Points:   7                Points:   3 
+            Aggregate: 155             Aggregate: 149 
 
 
