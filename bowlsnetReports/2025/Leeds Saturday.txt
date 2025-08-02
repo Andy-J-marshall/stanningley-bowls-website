@@ -1,4 +1,4 @@
-=== Leeds & District (Saturday) 2025 (as of Fri 1st Aug)
+=== Leeds & District (Saturday) 2025 (as of Sat 2nd Aug)
 === League Match Cards
 
    Saturday League          Sat 5th Apr       
@@ -1933,5 +1933,131 @@ Matthew Rollinson    6 Kevin Smales        21
 David Anker          4 David Norton        21 
         Aggregate:  57         Aggregate: 168 
            Points:   7            Points:  40 
+
+   Saturday League          Sat 2nd Aug       
+     League Div 1                             
+   Scatcherd Park A         Holbeck Ltd       
+Jeff Holt           16 Kian Hendry         21 
+Chris Stuart        21 Ryan Birch          12 
+Richard Stott       21 Jason Ream          13 
+Steve Briggs        18 Richard Perry       21 
+Stuart Wardlaw      21 Rhys Hammill        13 
+Geoff Firth         12 James Cuffe         21 
+Martin Huxley       21 Paul Hainsworth     18 
+Graham Goodhall     10 Andrew Dewhirst     21 
+        Aggregate: 140         Aggregate: 140 
+           Points:  31            Points:  30 
+
+   Saturday League          Sat 2nd Aug       
+     League Div 1                             
+   Sth Leeds Cons A         Holbeck Moor      
+Tony Auty           21 Wayne Warburton      8 
+Joe Adams           21 Hilary Campbell     15 
+David Brooke        21 Geoff Warburton     11 
+Mark Rastrick       21 Brian Thompson      19 
+Monica Adams        15 Steve Brown         21 
+Tim Newton          17 John Binns          21 
+Simon Hemmingway    21 Mick Stott          15 
+Derek McCormack     17 Steve Milton        21 
+        Aggregate: 154         Aggregate: 131 
+           Points:  34            Points:  28 
+
+   Saturday League          Sat 2nd Aug       
+     League Div 1                             
+       Meanwood          Stanningley Park A   
+Jeff Dumbrell       17 Paul Leonard        21 
+David L Miller       5 Malvin Miller       21 
+Julie Keightley     13 Andy Hodgson        21 
+Mick Gregory        21 David Eaton          7 
+Ian Macfarlane       7 Paul Bowes          21 
+Paul Dishman        21 Stuart Potter        7 
+Andy Webster        21 Alyssa Randell       3 
+Jeff Blackburn       7 Martin Fulton       21 
+        Aggregate: 112         Aggregate: 122 
+           Points:  23            Points:  27 
+
+   Saturday League          Sat 2nd Aug       
+     League Div 1                             
+     New Wortley            New Farnley       
+Andrew Cole         15 Ryan Lynch          21 
+Angela Morley       21 Linda Taylor        20 
+Trevor Dawson       21 Harry Dixon         19 
+Malcolm Crowson     21 Graham Davison      15 
+Stephen Morley      21 Dave Taylor         14 
+Danny Dawson        21 Andy Thompson       17 
+Stuart Reardon      21 Ian Worrall         17 
+Paul Shackleton     21 Paul Jagger         16 
+        Aggregate: 162         Aggregate: 139 
+           Points:  38            Points:  27 
+
+   Saturday League          Sat 2nd Aug       
+     League Div 1                             
+     Cross Flatts           Pudsey Park       
+Stacey Turner       10 Cliff Brogie        21 
+Ian Wood            21 Frank Lindsay        5 
+Paul Hatch          21 Dennis Walters       7 
+Stephanie Wood       5 Carl Birkin         21 
+Jason Potter        21 Jane Hirst           7 
+Jim Bootland        21 Calum Birkin         8 
+*No Player*          0 Maveen Tomlinson    21 
+*No Player*          0 Stephen Morris      21 
+        Aggregate:  99         Aggregate: 111 
+           Points:  23            Points:  24 
+
+   Saturday League          Sat 2nd Aug       
+     League Div 2                             
+     Bramley Park          Western Flatts     
+Anthony Caywood     14 Hazel Goodall       21 
+Glynn Barrett       21 Gordon Stalker       3 
+Terry Astley        21 Andrew Ash          17 
+Sean Fish           21 Mary Horrocks       13 
+Lynn Beaumont        7 Anne Lucas          21 
+Peter Ritchie       12 Geoff Clark         21 
+Barry Palmer        21 Susan Reddyhoff      2 
+Jeff Allman         21 Margaret McPhail    17 
+        Aggregate: 138         Aggregate: 115 
+           Points:  30            Points:  23 
+
+   Saturday League          Sat 2nd Aug       
+     League Div 2                             
+     New Armley A         Sth Leeds Cons B    
+Ken Stockhill       21 Chloe Grant          9 
+Karl Chapman        21 Malcolm Whipp       14 
+Richard Aspin       20 Julie Cavalli       21 
+Carol Butters       21 Dave Kellet         18 
+Fred Hargreaves     18 Janet Stockdale     21 
+Richard Stephens    21 Alan Goodall        18 
+Walter Stockhill    21 Neville Salmon      16 
+Karl Dutton         21 Malcolm Collinson   13 
+        Aggregate: 164         Aggregate: 130 
+           Points:  38            Points:  26 
+
+   Saturday League          Sat 2nd Aug       
+     League Div 2                             
+     Gildersome A          Middleton Comm     
+Frank Hales         12 Sue Harrison        21 
+Sandra Deegan       21 Barbara Ragan       19 
+David Taylor        18 Mick Harrison       21 
+Glenda Holmes       11 Shirley Biancardo   21 
+Diane Hales         21 Brian Ragan         18 
+Linda Gaunt          9 Gordon Monk         21 
+Harvey Lockwood      8 Mario Biancardo     21 
+Kevin Smales        21 Neil Hudson          7 
+        Aggregate: 121         Aggregate: 149 
+           Points:  25            Points:  34 
+
+   Saturday League          Sat 2nd Aug       
+     League Div 2                             
+    Middleton Park          Gildersome B      
+Patricia Rowe        9 Tracy Norton        21 
+Janice Dickinson     6 Barbara Hall        21 
+Ian Dickinson       21 Margaret Johnstone  12 
+Kath Burdett        21 Michael Ross        16 
+Dawn Robinson       16 Neil Schofield      21 
+Val Darwin          21 John Ackroyd        16 
+Philip Rowe         21 David Holmes         9 
+Trevor Sackett      11 Tony Morris         21 
+        Aggregate: 126         Aggregate: 137 
+           Points:  27            Points:  29 
 
 
