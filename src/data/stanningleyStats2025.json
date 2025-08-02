@@ -103,12 +103,12 @@
             }
         },
         "alyssa randell": {
-            "totalAgg": 837,
-            "totalAggAgainst": 722,
-            "availableAgg": 997,
+            "totalAgg": 840,
+            "totalAggAgainst": 743,
+            "availableAgg": 1018,
             "availablePairsAgg": 94,
             "availableHomeAgg": 420,
-            "availableAwayAgg": 367,
+            "availableAwayAgg": 388,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 52,
             "totalPairsAgg": 83,
@@ -117,14 +117,14 @@
             "totalHomeAggAgainst": 276,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 270,
-            "totalAwayAggAgainst": 300,
+            "totalAwayAgg": 273,
+            "totalAwayAggAgainst": 321,
             "totalPairsAwayAgg": 47,
             "totalPairsAwayAggAgainst": 35,
             "homeWins": 13,
             "homeLosses": 7,
             "awayWins": 5,
-            "awayLosses": 12,
+            "awayLosses": 13,
             "cupWins": 7,
             "cupLosses": 3,
             "pairWins": 2,
@@ -135,7 +135,7 @@
             "pairAwayLosses": 1,
             "pairCupWins": 1,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 47,
+            "totalGamesPlayed": 48,
             "results": [
                 "alyssa randell 21 - 8 gary skeet",
                 "alyssa randell 7 - 21 nigel steels",
@@ -183,6 +183,7 @@
                 "alyssa randell 21 - 17 mick stott",
                 "alyssa randell 20 - 21 james drury",
                 "alyssa randell 18 - 21 steve milton",
+                "alyssa randell 3 - 21 andy webster",
                 "alyssa randell 20 - 21 jeff allman"
             ],
             "airewharfe monday": {
@@ -221,9 +222,9 @@
                 "aggDiff": 20
             },
             "leeds saturday": {
-                "games": 11,
+                "games": 12,
                 "wins": 7,
-                "aggDiff": 45
+                "aggDiff": 27
             },
             "leeds saturday (b)": {
                 "games": 1,
@@ -351,12 +352,12 @@
             }
         },
         "andy hodgson": {
-            "totalAgg": 63,
-            "totalAggAgainst": 33,
-            "availableAgg": 63,
+            "totalAgg": 84,
+            "totalAggAgainst": 46,
+            "availableAgg": 84,
             "availablePairsAgg": 0,
             "availableHomeAgg": 0,
-            "availableAwayAgg": 42,
+            "availableAwayAgg": 63,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -365,13 +366,13 @@
             "totalHomeAggAgainst": 0,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 42,
-            "totalAwayAggAgainst": 23,
+            "totalAwayAgg": 63,
+            "totalAwayAggAgainst": 36,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 0,
             "homeLosses": 0,
-            "awayWins": 2,
+            "awayWins": 3,
             "awayLosses": 0,
             "cupWins": 1,
             "cupLosses": 0,
@@ -383,11 +384,12 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 3,
+            "totalGamesPlayed": 4,
             "results": [
                 "andy hodgson 21 - 12 gavin johns",
                 "andy hodgson 21 - 10 ian franllin",
-                "andy hodgson 21 - 11 terry cook"
+                "andy hodgson 21 - 11 terry cook",
+                "andy hodgson 21 - 13 julie keightley"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -425,9 +427,9 @@
                 "aggDiff": 0
             },
             "leeds saturday": {
-                "games": 0,
-                "wins": 0,
-                "aggDiff": 0
+                "games": 1,
+                "wins": 1,
+                "aggDiff": 8
             },
             "leeds saturday (b)": {
                 "games": 0,
@@ -1002,12 +1004,12 @@
             }
         },
         "dave eaton": {
-            "totalAgg": 696,
-            "totalAggAgainst": 681,
-            "availableAgg": 882,
+            "totalAgg": 703,
+            "totalAggAgainst": 702,
+            "availableAgg": 903,
             "availablePairsAgg": 0,
             "availableHomeAgg": 357,
-            "availableAwayAgg": 378,
+            "availableAwayAgg": 399,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -1016,14 +1018,14 @@
             "totalHomeAggAgainst": 265,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 303,
-            "totalAwayAggAgainst": 304,
+            "totalAwayAgg": 310,
+            "totalAwayAggAgainst": 325,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 9,
             "homeLosses": 8,
             "awayWins": 10,
-            "awayLosses": 8,
+            "awayLosses": 9,
             "cupWins": 4,
             "cupLosses": 3,
             "pairWins": 0,
@@ -1034,7 +1036,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 42,
+            "totalGamesPlayed": 43,
             "results": [
                 "dave eaton 11 - 21 steve portman",
                 "dave eaton 21 - 14 susan reddyhoff",
@@ -1077,7 +1079,8 @@
                 "dave eaton 21 - 5 linda taylor",
                 "dave eaton 11 - 21 john binns",
                 "dave eaton 10 - 21 carl birkin",
-                "dave eaton 19 - 21 john binns"
+                "dave eaton 19 - 21 john binns",
+                "dave eaton 7 - 21 mick gregory"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -1115,9 +1118,9 @@
                 "aggDiff": 0
             },
             "leeds saturday": {
-                "games": 14,
+                "games": 15,
                 "wins": 8,
-                "aggDiff": 26
+                "aggDiff": 12
             },
             "leeds saturday (b)": {
                 "games": 0,
@@ -2648,12 +2651,12 @@
             }
         },
         "malvin miller": {
-            "totalAgg": 912,
-            "totalAggAgainst": 878,
-            "availableAgg": 1071,
+            "totalAgg": 933,
+            "totalAggAgainst": 883,
+            "availableAgg": 1092,
             "availablePairsAgg": 0,
             "availableHomeAgg": 525,
-            "availableAwayAgg": 399,
+            "availableAwayAgg": 420,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -2662,13 +2665,13 @@
             "totalHomeAggAgainst": 435,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 355,
-            "totalAwayAggAgainst": 319,
+            "totalAwayAgg": 376,
+            "totalAwayAggAgainst": 324,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 11,
             "homeLosses": 14,
-            "awayWins": 10,
+            "awayWins": 11,
             "awayLosses": 9,
             "cupWins": 5,
             "cupLosses": 2,
@@ -2680,7 +2683,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 51,
+            "totalGamesPlayed": 52,
             "results": [
                 "malvin miller 8 - 21 tony watson",
                 "malvin miller 19 - 21 nigel stockdale",
@@ -2726,6 +2729,7 @@
                 "malvin miller 21 - 13 jason ream",
                 "malvin miller 13 - 21 stephen morris",
                 "malvin miller 16 - 21 mick stott",
+                "malvin miller 21 - 5 david l miller",
                 "malvin miller 21 - 9 kevin smales",
                 "malvin miller 20 - 21 gordon monk",
                 "malvin miller 21 - 17 richard aspin",
@@ -2770,9 +2774,9 @@
                 "aggDiff": 0
             },
             "leeds saturday": {
-                "games": 5,
-                "wins": 3,
-                "aggDiff": 7
+                "games": 6,
+                "wins": 4,
+                "aggDiff": 23
             },
             "leeds saturday (b)": {
                 "games": 7,
@@ -2781,12 +2785,12 @@
             }
         },
         "martin fulton": {
-            "totalAgg": 289,
-            "totalAggAgainst": 165,
-            "availableAgg": 294,
+            "totalAgg": 310,
+            "totalAggAgainst": 172,
+            "availableAgg": 315,
             "availablePairsAgg": 0,
             "availableHomeAgg": 147,
-            "availableAwayAgg": 105,
+            "availableAwayAgg": 126,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -2795,13 +2799,13 @@
             "totalHomeAggAgainst": 59,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 102,
-            "totalAwayAggAgainst": 72,
+            "totalAwayAgg": 123,
+            "totalAwayAggAgainst": 79,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 7,
             "homeLosses": 0,
-            "awayWins": 3,
+            "awayWins": 4,
             "awayLosses": 2,
             "cupWins": 1,
             "cupLosses": 1,
@@ -2813,7 +2817,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 14,
+            "totalGamesPlayed": 15,
             "results": [
                 "martin fulton 21 - 15 steve milton",
                 "martin fulton 20 - 21 malcolm crowson",
@@ -2828,7 +2832,8 @@
                 "martin fulton 19 - 21 ian wardle",
                 "martin fulton 21 - 16 danny dawson",
                 "martin fulton 21 - 13 steve brown",
-                "martin fulton 21 - 0 dennis walters"
+                "martin fulton 21 - 0 dennis walters",
+                "martin fulton 21 - 7 jeff blackburn"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -2866,9 +2871,9 @@
                 "aggDiff": 0
             },
             "leeds saturday": {
-                "games": 13,
-                "wins": 10,
-                "aggDiff": 118
+                "games": 14,
+                "wins": 11,
+                "aggDiff": 132
             },
             "leeds saturday (b)": {
                 "games": 0,
@@ -3203,12 +3208,12 @@
             }
         },
         "paul bowes": {
-            "totalAgg": 910,
-            "totalAggAgainst": 479,
-            "availableAgg": 924,
+            "totalAgg": 931,
+            "totalAggAgainst": 486,
+            "availableAgg": 945,
             "availablePairsAgg": 21,
             "availableHomeAgg": 378,
-            "availableAwayAgg": 399,
+            "availableAwayAgg": 420,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 16,
@@ -3217,13 +3222,13 @@
             "totalHomeAggAgainst": 165,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 391,
-            "totalAwayAggAgainst": 230,
+            "totalAwayAgg": 412,
+            "totalAwayAggAgainst": 237,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 17,
             "homeLosses": 1,
-            "awayWins": 17,
+            "awayWins": 18,
             "awayLosses": 2,
             "cupWins": 6,
             "cupLosses": 1,
@@ -3235,7 +3240,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 44,
+            "totalGamesPlayed": 45,
             "results": [
                 "paul bowes 21 - 6 john gilroy",
                 "paul bowes 21 - 5 david ascough",
@@ -3280,7 +3285,8 @@
                 "paul bowes 16 - 21 ian worrall",
                 "paul bowes 21 - 5 george ellener",
                 "paul bowes 21 - 6 maveen tomlinson",
-                "paul bowes 18 - 21 wayne warburton"
+                "paul bowes 18 - 21 wayne warburton",
+                "paul bowes 21 - 7 ian macfarlane"
             ],
             "airewharfe monday": {
                 "games": 15,
@@ -3318,9 +3324,9 @@
                 "aggDiff": 0
             },
             "leeds saturday": {
-                "games": 14,
-                "wins": 11,
-                "aggDiff": 116
+                "games": 15,
+                "wins": 12,
+                "aggDiff": 130
             },
             "leeds saturday (b)": {
                 "games": 0,
@@ -3329,12 +3335,12 @@
             }
         },
         "paul leonard": {
-            "totalAgg": 1098,
-            "totalAggAgainst": 983,
-            "availableAgg": 1294,
+            "totalAgg": 1119,
+            "totalAggAgainst": 1000,
+            "availableAgg": 1315,
             "availablePairsAgg": 328,
             "availableHomeAgg": 555,
-            "availableAwayAgg": 545,
+            "availableAwayAgg": 566,
             "availablePairsHomeAgg": 156,
             "availablePairsAwayAgg": 104,
             "totalPairsAgg": 258,
@@ -3343,13 +3349,13 @@
             "totalHomeAggAgainst": 363,
             "totalPairsHomeAgg": 156,
             "totalPairsHomeAggAgainst": 70,
-            "totalAwayAgg": 454,
-            "totalAwayAggAgainst": 444,
+            "totalAwayAgg": 475,
+            "totalAwayAggAgainst": 461,
             "totalPairsAwayAgg": 71,
             "totalPairsAwayAggAgainst": 87,
             "homeWins": 18,
             "homeLosses": 7,
-            "awayWins": 15,
+            "awayWins": 16,
             "awayLosses": 10,
             "cupWins": 3,
             "cupLosses": 6,
@@ -3361,7 +3367,7 @@
             "pairAwayLosses": 2,
             "pairCupWins": 1,
             "pairCupLosses": 2,
-            "totalGamesPlayed": 59,
+            "totalGamesPlayed": 60,
             "results": [
                 "paul leonard 20 - 21 mike cox",
                 "paul leonard 11 - 21 paul stoyles",
@@ -3411,6 +3417,7 @@
                 "paul leonard 21 - 15 pat skelton",
                 "paul leonard 21 - 1 jane hirst",
                 "paul leonard 21 - 20 pat parker",
+                "paul leonard 21 - 17 jeff dumbrell",
                 "paul leonard 21 - 20 linda gaunt",
                 "paul leonard 21 - 5 brian ragan",
                 "paul leonard 21 - 19 carol robinson",
@@ -3459,9 +3466,9 @@
                 "aggDiff": 0
             },
             "leeds saturday": {
-                "games": 3,
-                "wins": 3,
-                "aggDiff": 27
+                "games": 4,
+                "wins": 4,
+                "aggDiff": 31
             },
             "leeds saturday (b)": {
                 "games": 11,
@@ -4268,12 +4275,12 @@
             }
         },
         "stuart potter": {
-            "totalAgg": 843,
-            "totalAggAgainst": 754,
-            "availableAgg": 987,
+            "totalAgg": 850,
+            "totalAggAgainst": 775,
+            "availableAgg": 1008,
             "availablePairsAgg": 21,
             "availableHomeAgg": 441,
-            "availableAwayAgg": 399,
+            "availableAwayAgg": 420,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 19,
@@ -4282,14 +4289,14 @@
             "totalHomeAggAgainst": 292,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 294,
-            "totalAwayAggAgainst": 351,
+            "totalAwayAgg": 301,
+            "totalAwayAggAgainst": 372,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 16,
             "homeLosses": 5,
             "awayWins": 8,
-            "awayLosses": 11,
+            "awayLosses": 12,
             "cupWins": 4,
             "cupLosses": 3,
             "pairWins": 0,
@@ -4300,7 +4307,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 47,
+            "totalGamesPlayed": 48,
             "results": [
                 "stuart potter 21 - 12 john patrick",
                 "stuart potter 8 - 21 kath crompton",
@@ -4348,7 +4355,8 @@
                 "stuart potter 8 - 21 lance greenwood",
                 "stuart potter 21 - 12 keith sellars",
                 "stuart potter 21 - 4 clifford brogie",
-                "stuart potter 15 - 21 steve brown"
+                "stuart potter 15 - 21 steve brown",
+                "stuart potter 7 - 21 paul dishman"
             ],
             "airewharfe monday": {
                 "games": 15,
@@ -4386,9 +4394,9 @@
                 "aggDiff": 0
             },
             "leeds saturday": {
-                "games": 12,
+                "games": 13,
                 "wins": 6,
-                "aggDiff": 35
+                "aggDiff": 21
             },
             "leeds saturday (b)": {
                 "games": 0,
@@ -4902,9 +4910,9 @@
         },
         {
             "day": "Leeds Saturday",
-            "awayWins": 7,
+            "awayWins": 8,
             "homeWins": 7,
-            "wins": 16,
+            "wins": 17,
             "awayLosses": 0,
             "homeLosses": 0,
             "homeDraws": 0,
@@ -4913,7 +4921,7 @@
             "cupWins": 2,
             "cupLosses": 0,
             "losses": 0,
-            "totalGamesPlayed": 16,
+            "totalGamesPlayed": 17,
             "results": [
                 "New Wortley 28 - 36 Stanningley A",
                 "Stanningley A 40 - 20 New Farnley",
@@ -4930,7 +4938,8 @@
                 "New Farnley 23 - 34 Stanningley A",
                 "Stanningley A 155 - 123 Holbeck Moor",
                 "Stanningley A 33 - 19 Pudsey Park",
-                "Holbeck Moor 32 - 33 Stanningley A"
+                "Holbeck Moor 32 - 33 Stanningley A",
+                "Meanwood 23 - 27 Stanningley A"
             ]
         },
         {
@@ -4965,6 +4974,6 @@
             ]
         }
     ],
-    "lastUpdated": "01/08/2025",
+    "lastUpdated": "02/08/2025",
     "statsYear": "2025"
 }
