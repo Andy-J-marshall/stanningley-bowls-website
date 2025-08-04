@@ -1,4 +1,4 @@
-=== Leeds & District (Saturday) 2025 (as of Sat 2nd Aug)
+=== Leeds & District (Saturday) 2025 (as of Sun 3rd Aug)
 === League Match Cards
 
    Saturday League          Sat 5th Apr       
@@ -2034,6 +2034,20 @@ Karl Dutton         21 Malcolm Collinson   13
 
    Saturday League          Sat 2nd Aug       
      League Div 2                             
+  Stanningley Park B        New Armley B      
+Bob Marshall        17 David Hurd          21 
+Colin Haque         21 Rob Jagger          10 
+Donald Shaw         21 Howard Gothard       9 
+Karen Uttley        10 Maureen Morris      21 
+Ken Green           10 David Anker         21 
+Laila Packer        21 Josie Burdon        17 
+Nicola Bona         21 Alan Taylor          9 
+Phil Sutcliffe      21 Jonathan Kaye       10 
+        Aggregate: 142         Aggregate: 118 
+           Points:  32            Points:  24 
+
+   Saturday League          Sat 2nd Aug       
+     League Div 2                             
      Gildersome A          Middleton Comm     
 Frank Hales         12 Sue Harrison        21 
 Sandra Deegan       21 Barbara Ragan       19 
@@ -2059,5 +2073,19 @@ Philip Rowe         21 David Holmes         9
 Trevor Sackett      11 Tony Morris         21 
         Aggregate: 126         Aggregate: 137 
            Points:  27            Points:  29 
+
+   Saturday League          Sun 3rd Aug       
+     League Div 2                             
+    Middleton Comm          Gildersome A      
+Brian Ragan          9 Harvey Lockwood     21 
+Terry Maher         21 Glenda Holmes       11 
+Neil Hudson         16 Frank Hales         21 
+Barbara Ragan       21 David Taylor        10 
+Gordon Monk         21 *No Player*          0 
+Mick Harrison       21 Graham Gaunt        14 
+Sue Harrison        21 Diane Hales          8 
+Roy Tebbutt         21 Kevin Smales        16 
+        Aggregate: 151         Aggregate: 101 
+           Points:  34            Points:  20 
 
 

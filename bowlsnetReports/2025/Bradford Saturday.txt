@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Sat 2nd Aug)
+=== Bradford (Saturday) 2025 (as of Sun 3rd Aug)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -3936,6 +3936,22 @@ Kevin Ackroyd              21 Byron Whalley             15
                    Games:   7                   Games:   1 
                Aggregate: 166               Aggregate:  97 
                   Points:  24                  Points:   4 
+
+     Division 2 (Godwin)              Sat 2nd Aug          
+        Eccleshill A                   Clayton A           
+Mick Angus                 13 Chris Wilson              21 
+Stephen Bastow             21 Mick Skwarek               5 
+Mark Reynolds 'B'          21 Andy Southwell            10 
+Nicky Bastow 'A'           21 Peter Oliver              14 
+Ian Matthews 'B'           20 Joe Bray                  21 
+Diane Emery                14 Paul Gill                 21 
+Graham Chaffer 'B'         21 June Wilson               14 
+Paul Rooks                 21 Dave Jowett               14 
+Andy Haran                 21 Paul Demetriades           6 
+Nicky Rooks                21 Jack Summers              15 
+                   Games:   7                   Games:   3 
+               Aggregate: 194               Aggregate: 141 
+                  Points:  23                  Points:   7 
 
 Division 4 (Bartle) 8 Player          Sat 2nd Aug          
     Cleckheaton Sports A              Hill Crest B         
