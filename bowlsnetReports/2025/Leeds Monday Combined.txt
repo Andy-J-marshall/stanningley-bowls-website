@@ -1,4 +1,4 @@
-=== Leeds & District (Mon. Combined) 2025 (as of Sun 3rd Aug)
+=== Leeds & District (Mon. Combined) 2025 (as of Wed 6th Aug)
 === League Match Cards
 
         Div 1                Mon 21st Apr        
@@ -1235,5 +1235,96 @@ Jeff Drumbell        7 Dave McGourty          21
 Graham Hey             P Hill                    
          Handicap: +10             Handicap: Scr 
         Aggregate:  73            Aggregate: 120 
+
+        Div 1                 Mon 4th Aug        
+      Harehills               New Wortley        
+Jade Kerry          14 Keith Sellars          21 
+Alan McConnell      19 Angela Morley          21 
+David Smith         21 Martin Heys            10 
+Sharon Kerry        10 Malcolm Crowson        21 
+Steven Dolan        21 Danny Dawson            6 
+Raymond Swallow        Valerie Dawson            
+Laura Love          16 Marie Tate             21 
+Shane Smith            Trevor Dawson             
+        Aggregate: 101            Aggregate: 100 
+           Points:  21               Points:  23 
+
+        Div 1                 Mon 4th Aug        
+     Garforth C C             Gildersome         
+Thomas Cranston     14 Ian Stocks             21 
+Robert Beattie      21 Harvey Lockwood        13 
+David Horsey        13 Alan Procter           21 
+Stuart Cranston     21 David Norton            9 
+Ian Doughty         21 Bev Farrar             16 
+Joe Doughty            Andy Lockwood             
+Steve Barltrop      21 Linda Gaunt            20 
+Neil Robinson          Barbara Hall              
+        Aggregate: 111            Aggregate: 100 
+           Points:  24               Points:  20 
+
+        Div 1                 Mon 4th Aug        
+    Rothwell BC A             Whitkirk A         
+Charlotte Holmes    21 G Hodder               14 
+Peter Burrows       21 S Cahill               15 
+Mark Hopps          21 T Green                18 
+Gary Haley          18 Phil Cox               21 
+Gary Dennison       15 Dave McGourty          21 
+Nicola Pearson         P Hill                    
+Lynne Best          13 Jason Richards         21 
+Ellis Owen             M Sheerin                 
+        Aggregate: 109            Aggregate: 110 
+           Points:  24               Points:  24 
+
+        Div 2                 Mon 4th Aug        
+    Western Flatts            New Farnley        
+Gordon Stalker      11 Emma Dixon             21 
+Glennys Ash         19 Howard Fowler          21 
+Granville Stoyles   20 John Ingham            21 
+David Turner        15 Harry Dixon            21 
+Hazel Goodall       21 Sue Jones              17 
+Joanna Rochester       Ron Lavan                 
+Dot Taylor          17 Keith Walker           21 
+Andrew Ash             Pat Skelton               
+        Aggregate: 103            Aggregate: 122 
+           Points:  21               Points:  28 
+
+        Div 2                 Mon 4th Aug        
+   Chapel Allerton           Bramley Park        
+Connor Newton       21 Terry Astley            7 
+Ronak Singh         21 Brian Fish             18 
+David Miller        21 Barry Palmer           14 
+Alan Smith          21 Shilrley Allman         8 
+Laurentiu Barbu     21 Sean Fish              14 
+Anne Miller            Glynn Barrett             
+Susan Thomas        17 Andy Best              21 
+Michael Knaggs         Jeff Allman               
+        Aggregate: 122            Aggregate:  82 
+           Points:  28               Points:  15 
+
+        Div 2                 Mon 4th Aug        
+       Meanwood              Scatcherd Pk        
+Oliver Devaney      16 Mark Ellis             21 
+Julie Keightley     21 Elliot Beddard         12 
+Graham Hey          15 Keith Kincaid          21 
+Ian Macfarlane      14 Richard Stott          21 
+Wendy Skyes         21 Wendy Leybourne        13 
+Jenny Holiday          Les Cheney                
+Jenice Guild        21 Chris Stuart           12 
+John Hindle            Roy Kellett               
+        Aggregate: 108            Aggregate: 100 
+           Points:  23               Points:  21 
+
+        Div 2                 Mon 4th Aug        
+      Whitkirk B             Rothwell BC B       
+Jim Smith           21 Robert Leighton         4 
+Chloe Jackson       21 John Hemingway          6 
+Andy Johnson        21 Nigel Richardson        5 
+P Hatch             21 Karen Portman          20 
+Helen Johnson       21 Mick Bagshaw           11 
+S Worthington          Trevor Hawkin             
+S Ellis             21 Lyn Owen               20 
+Thomas Johnson         Ron Owen                  
+        Aggregate: 126            Aggregate:  66 
+           Points:  30               Points:  12 
 
 

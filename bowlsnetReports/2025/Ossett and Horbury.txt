@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Sun 3rd Aug)
+=== Ossett & Horbury 2025 (as of Wed 6th Aug)
 === League Match Cards
 
          Division 3                   Tue 8th Apr          
@@ -1519,7 +1519,7 @@ Phil Mack                 14 Dave White                 21
 Bryan Thomas               8 Brian Marden               21 
 David Wright              21 Vernon Green               18 
 Chris Nicholson           20 Paul Horrocks              21 
-Barry Holland              9 Eileen Wardman             21 
+Keeling Ben                9 Eileen Wardman             21 
 Chris Shires               8 Dave Gordon                21 
 Josh Broadhead            21 Jenny Berry                18 
 Neil Broadhead            13 Gary Dawson                21 
@@ -4533,5 +4533,41 @@ Andrew Lord               21 Johny Smith                11
 Paul Giblin               19 Nathan Jewitt              21 
                Handicap: +12                 Handicap: +12 
               Aggregate: 136                Aggregate: 158 
+
+         Division 3                   Tue 5th Aug          
+          Sandal C                  Wake Thornes A         
+Neil Brighton             21 Bob Holmes                 10 
+Andrea Banham             21 Brian Oselton               5 
+Mel Whittaker              8 Diane Eley                 21 
+Colin Mackinder           15 S Findlay                  21 
+Joshua Eley               19 C Shipley                  21 
+Terry Weston              21 D Warwick                  11 
+Rob Curzon                21 D Guile                    17 
+John Packer               21 R Stables                   7 
+              Aggregate: 147                Aggregate: 113 
+
+         Division 4                   Tue 5th Aug          
+        Slazenger C                   Overthorpe           
+Roger Byard               21 Tony Greenlees              5 
+David Fox                 13 Geraldine Dickinson        21 
+Tricia Eastwood           13 Heather Jewitt             21 
+Julie Dexter              16 Andy Wilson                21 
+Kathryn Redican           18 Les Bell                   21 
+Alwyn Cotton              15 Leah Wetherill             21 
+Alan Shilito              17 Anthony Dickinson          21 
+Stuart Kelly              21 Richard Sweeney             1 
+              Aggregate: 134                Aggregate: 132 
+
+         Division 5                   Tue 5th Aug          
+      Skelmanthorpe C               Wakefield BC B         
+Cerise Booth              11 Tommy Hanley               21 
+Kevin Booth               21 Donald Ward                 9 
+Brenda Ayre               14 David Carter               21 
+Keith Jagger              21 Margaret Shand             17 
+John Kitching             21 Tony Moss                   5 
+Joanne McLaughlan         21 Margaret Carter            17 
+Pamela Roys               21 Michael Murphy             18 
+Andrew McLaughlan         16 Ron Greenwood              21 
+              Aggregate: 146                Aggregate: 129 
 
 

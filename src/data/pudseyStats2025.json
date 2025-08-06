@@ -1,12 +1,12 @@
 {
     "playerResults": {
         "andy hodgson": {
-            "totalAgg": 79,
-            "totalAggAgainst": 67,
-            "availableAgg": 84,
+            "totalAgg": 100,
+            "totalAggAgainst": 87,
+            "availableAgg": 105,
             "availablePairsAgg": 0,
             "availableHomeAgg": 21,
-            "availableAwayAgg": 42,
+            "availableAwayAgg": 63,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -15,13 +15,13 @@
             "totalHomeAggAgainst": 18,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 42,
-            "totalAwayAggAgainst": 28,
+            "totalAwayAgg": 63,
+            "totalAwayAggAgainst": 48,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 1,
             "homeLosses": 0,
-            "awayWins": 2,
+            "awayWins": 3,
             "awayLosses": 0,
             "cupWins": 0,
             "cupLosses": 1,
@@ -33,17 +33,18 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 4,
+            "totalGamesPlayed": 5,
             "results": [
                 "andy hodgson 21 - 16 david kirkbright",
                 "andy hodgson 21 - 18 joe ullock",
                 "andy hodgson 16 - 21 chris hight",
+                "andy hodgson 21 - 20 graham chaffer",
                 "andy hodgson 21 - 12 trevor sargison"
             ],
             "airewharfe monday": {
-                "games": 3,
-                "wins": 2,
-                "aggDiff": 3
+                "games": 4,
+                "wins": 3,
+                "aggDiff": 4
             },
             "airewharfe monday (b)": {
                 "games": 1,
@@ -122,18 +123,18 @@
             }
         },
         "eleanor graves": {
-            "totalAgg": 132,
-            "totalAggAgainst": 248,
-            "availableAgg": 252,
+            "totalAgg": 140,
+            "totalAggAgainst": 269,
+            "availableAgg": 273,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 84,
+            "availableHomeAgg": 105,
             "availableAwayAgg": 126,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 51,
-            "totalHomeAggAgainst": 83,
+            "totalHomeAgg": 59,
+            "totalHomeAggAgainst": 104,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 57,
@@ -141,7 +142,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 1,
-            "homeLosses": 3,
+            "homeLosses": 4,
             "awayWins": 1,
             "awayLosses": 5,
             "cupWins": 0,
@@ -154,7 +155,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 12,
+            "totalGamesPlayed": 13,
             "results": [
                 "eleanor graves 14 - 21 janet warburton",
                 "eleanor graves 5 - 21 david kirk",
@@ -167,7 +168,8 @@
                 "eleanor graves 8 - 21 bryan armit",
                 "eleanor graves 21 - 20 peter warren",
                 "eleanor graves 6 - 21 vanda greenwood",
-                "eleanor graves 21 - 18 elaine blandford"
+                "eleanor graves 21 - 18 elaine blandford",
+                "eleanor graves 8 - 21 susan rymer"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -180,9 +182,9 @@
                 "aggDiff": 0
             },
             "airewharfe vets": {
-                "games": 12,
+                "games": 13,
                 "wins": 2,
-                "aggDiff": -116
+                "aggDiff": -129
             },
             "mirfield": {
                 "games": 0,
@@ -251,25 +253,25 @@
             }
         },
         "linda barrand": {
-            "totalAgg": 477,
-            "totalAggAgainst": 676,
-            "availableAgg": 756,
+            "totalAgg": 498,
+            "totalAggAgainst": 691,
+            "availableAgg": 777,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 357,
+            "availableHomeAgg": 378,
             "availableAwayAgg": 357,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 252,
-            "totalHomeAggAgainst": 305,
+            "totalHomeAgg": 273,
+            "totalHomeAggAgainst": 320,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 191,
             "totalAwayAggAgainst": 338,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 5,
+            "homeWins": 6,
             "homeLosses": 12,
             "awayWins": 2,
             "awayLosses": 15,
@@ -283,7 +285,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 36,
+            "totalGamesPlayed": 37,
             "results": [
                 "linda barrand 4 - 21 alan byers",
                 "linda barrand 21 - 10 dorcas kirk",
@@ -300,6 +302,7 @@
                 "linda barrand 13 - 21 nick gilleard",
                 "linda barrand 13 - 21 nuala pritchard",
                 "linda barrand 6 - 21 trevor baranovsky",
+                "linda barrand 21 - 15 keith bond",
                 "linda barrand 17 - 21 charles fell",
                 "linda barrand 12 - 21 ian fairhurst",
                 "linda barrand 17 - 21 david glass",
@@ -333,9 +336,9 @@
                 "aggDiff": 0
             },
             "airewharfe vets": {
-                "games": 15,
-                "wins": 5,
-                "aggDiff": -51
+                "games": 16,
+                "wins": 6,
+                "aggDiff": -45
             },
             "mirfield": {
                 "games": 0,
@@ -404,27 +407,27 @@
             }
         },
         "richard hodgson": {
-            "totalAgg": 595,
-            "totalAggAgainst": 488,
-            "availableAgg": 651,
+            "totalAgg": 637,
+            "totalAggAgainst": 514,
+            "availableAgg": 693,
             "availablePairsAgg": 21,
-            "availableHomeAgg": 294,
-            "availableAwayAgg": 294,
+            "availableHomeAgg": 315,
+            "availableAwayAgg": 315,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 20,
             "totalPairsAggAgainst": 21,
-            "totalHomeAgg": 272,
-            "totalHomeAggAgainst": 198,
+            "totalHomeAgg": 293,
+            "totalHomeAggAgainst": 207,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 261,
-            "totalAwayAggAgainst": 237,
+            "totalAwayAgg": 282,
+            "totalAwayAggAgainst": 254,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 11,
+            "homeWins": 12,
             "homeLosses": 3,
-            "awayWins": 7,
+            "awayWins": 8,
             "awayLosses": 7,
             "cupWins": 2,
             "cupLosses": 1,
@@ -436,7 +439,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 31,
+            "totalGamesPlayed": 33,
             "results": [
                 "richard hodgson & thomas hanson 20 - 21 kevin siddle & nick bastow",
                 "richard hodgson 21 - 12 david pike",
@@ -451,6 +454,8 @@
                 "richard hodgson 21 - 15 phil hynes",
                 "richard hodgson 13 - 21 val grace",
                 "richard hodgson 21 - 14 michael smith",
+                "richard hodgson 21 - 9 andrew magoolagan",
+                "richard hodgson 21 - 17 ian moxon",
                 "richard hodgson 21 - 15 thomas powell",
                 "richard hodgson 21 - 12 derek carroll",
                 "richard hodgson 21 - 18 martin grace",
@@ -476,9 +481,9 @@
                 "aggDiff": -1
             },
             "airewharfe monday (b)": {
-                "games": 12,
-                "wins": 9,
-                "aggDiff": 39
+                "games": 13,
+                "wins": 10,
+                "aggDiff": 51
             },
             "airewharfe vets": {
                 "games": 0,
@@ -496,9 +501,9 @@
                 "aggDiff": 0
             },
             "mirfield (c)": {
-                "games": 0,
-                "wins": 0,
-                "aggDiff": 0
+                "games": 1,
+                "wins": 1,
+                "aggDiff": 4
             },
             "bradford half holiday": {
                 "games": 6,
@@ -552,27 +557,27 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 707,
-            "totalAggAgainst": 702,
-            "availableAgg": 861,
+            "totalAgg": 744,
+            "totalAggAgainst": 734,
+            "availableAgg": 903,
             "availablePairsAgg": 21,
-            "availableHomeAgg": 420,
-            "availableAwayAgg": 399,
+            "availableHomeAgg": 441,
+            "availableAwayAgg": 420,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 21,
             "totalPairsAggAgainst": 19,
-            "totalHomeAgg": 364,
-            "totalHomeAggAgainst": 319,
+            "totalHomeAgg": 380,
+            "totalHomeAggAgainst": 340,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 316,
-            "totalAwayAggAgainst": 343,
+            "totalAwayAgg": 337,
+            "totalAwayAggAgainst": 354,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 14,
-            "homeLosses": 6,
-            "awayWins": 8,
+            "homeLosses": 7,
+            "awayWins": 9,
             "awayLosses": 11,
             "cupWins": 1,
             "cupLosses": 1,
@@ -584,7 +589,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 41,
+            "totalGamesPlayed": 43,
             "results": [
                 "stewart watson & ian shaw 21 - 19 james teale & graham oliver",
                 "stewart watson 21 - 12 terri durrans",
@@ -599,6 +604,7 @@
                 "stewart watson 21 - 14 les tugwell",
                 "stewart watson 21 - 16 ken lee",
                 "stewart watson 19 - 21 mark silvester",
+                "stewart watson 16 - 21 pauline gilroy",
                 "stewart watson 10 - 21 andy swain",
                 "stewart watson 21 - 14 john lewis",
                 "stewart watson 6 - 21 dave fox",
@@ -612,6 +618,7 @@
                 "stewart watson 5 - 21 aaron bottomley",
                 "stewart watson 21 - 15 a dagg",
                 "stewart watson 19 - 21 paul gill",
+                "stewart watson 21 - 11 tony riley",
                 "stewart watson 21 - 15 peter howroyd",
                 "stewart watson 16 - 21 john beverley",
                 "stewart watson 17 - 21 bill swales",
@@ -634,9 +641,9 @@
                 "aggDiff": 2
             },
             "airewharfe monday (b)": {
-                "games": 12,
+                "games": 13,
                 "wins": 9,
-                "aggDiff": 39
+                "aggDiff": 34
             },
             "airewharfe vets": {
                 "games": 0,
@@ -654,9 +661,9 @@
                 "aggDiff": 0
             },
             "mirfield (c)": {
-                "games": 13,
-                "wins": 4,
-                "aggDiff": -67
+                "games": 14,
+                "wins": 5,
+                "aggDiff": -57
             },
             "bradford half holiday": {
                 "games": 0,
@@ -711,6 +718,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "03/08/2025",
+    "lastUpdated": "06/08/2025",
     "statsYear": "2025"
 }
