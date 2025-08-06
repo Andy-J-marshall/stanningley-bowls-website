@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday) 2025 (as of Sun 3rd Aug)
+=== Leeds & District (Tuesday) 2025 (as of Wed 6th Aug)
 === League Match Cards
 
       Division 1            Tue 8th Apr       
@@ -1979,7 +1979,7 @@ Jean Milner         18 Jason Ream          21
 Keith Skelton       13 Kian Hendry         21 
 John Ingham         21 Paul Hainsworth     19 
          Handicap: +30          Handicap: Scr 
-        Aggregate: 120         Aggregate: 166 
+        Aggregate: 150         Aggregate: 166 
 
      Round of 16            Tue 8th Jul       
                             On Roundhay       
@@ -1993,7 +1993,7 @@ Graham Scholes      21 Nicholas Ryder      13
 James Tayolr        21 Andrew Stocks        1 
 John Durkan         21 Stuart Birch        15 
          Handicap: Scr          Handicap: +20 
-        Aggregate: 147         Aggregate: 105 
+        Aggregate: 147         Aggregate: 125 
 
      Round of 16            Tue 8th Jul       
                         On Stanningley Park   
@@ -2020,7 +2020,7 @@ Josey Olivant       21 Andy Webster        11
 Sophie Olivant      21 Darren Cookson      14 
 Darran Baker        18 Mickey Rennison     21 
          Handicap: +20          Handicap: Scr 
-        Aggregate: 111         Aggregate: 151 
+        Aggregate: 131         Aggregate: 151 
 
      Round of 16            Tue 8th Jul       
                           On Moor Allerton    
@@ -2034,7 +2034,7 @@ Graham Hey          18 Alan Procter        21
 Jeff Blackburn      21 Beverley Hampshaw    8 
 Ian Macfarlane      18 Simon Hampshaw      21 
          Handicap: +20          Handicap: Scr 
-        Aggregate: 147         Aggregate: 119 
+        Aggregate: 167         Aggregate: 119 
 
      Round of 16            Tue 8th Jul       
                          On East End Park 1   
@@ -2048,7 +2048,7 @@ George Ramsden      21 Colin Haque         19
 Martin Kaitcer      21 Paul Leonard        17 
 John Alper          21 Richard Hodgson     16 
          Handicap: +20          Handicap: Scr 
-        Aggregate: 144         Aggregate: 136 
+        Aggregate: 164         Aggregate: 136 
 
       Division 1            Tue 15th Jul      
     Churwell Park          Holbeck Ltd A      
@@ -2517,5 +2517,101 @@ James Drury         21 Bill Pyett          10
 Carl Birkin         21 David Turner        10 
         Aggregate: 144         Aggregate: 122 
            Points:  31            Points:  27 
+
+      Division 3            Tue 5th Aug       
+        Colton             New Farnley B      
+Andrew Stocks       13 Roger Milner        21 
+Brian Scholes       21 Pat Skelton         18 
+David Clarkson      21 Hazel Goodall       10 
+David Ryder         19 Ron Lavan           21 
+James Watkins       21 Howard Fowler       10 
+Nicholas Ryder      21 Jean Milner         13 
+Anthony Rushfirth   18 John Ingham         21 
+Stuart Birch        21 Keith Skelton        3 
+        Aggregate: 155         Aggregate: 117 
+           Points:  35            Points:  25 
+
+     Semi-Finals            Tue 5th Aug       
+                         On Middleton Comm    
+    New Wortley A          New Farnley A      
+Paul Shackleton     21 Ian Lynch           15 
+Danny Dawson        13 Andy Thompson       21 
+Angela Morley        4 Harry Dixon         21 
+Stuart Reardon      21 Ian Worrall          6 
+Stephen Morley      10 Andy Gardiner       21 
+Malcolm Crowson     10 Paul Wood           21 
+Trevor Dawson       20 Simon Lavan         21 
+Andrew Cole         13 Ryan Lynch          21 
+         Handicap: +20          Handicap: Scr 
+        Aggregate: 132         Aggregate: 147 
+
+     Semi-Finals            Tue 5th Aug       
+                         On East End Park 1   
+    Roundhay Pk A          Pudsey Park A      
+Ralph Taylor        21 Barry Wild           7 
+Andrew Ford         21 Frank Lindsay       10 
+John Bates          21 Darren Lowe         13 
+Jim Bird            21 Callum Birkin       13 
+Andrew Lloyd        21 Carl Birkin         17 
+Paul Burke          21 Elaine Hill         19 
+Martin Lally        15 Brian Stevens       21 
+Andy Sharratt       14 James Drury         21 
+         Handicap: Scr          Handicap: +30 
+        Aggregate: 155         Aggregate: 151 
+
+      Qtr-Finals            Tue 5th Aug       
+                            On Churwell       
+    Holbeck Ltd A         Crossgates Rec A    
+James Cuffe         10 Andy Walton         21 
+Andrew Dewhirst     21 Alan Wood            6 
+Paul Hainsworth     15 Graham Scholes      21 
+Paul Hatch          21 Maria Durkan         4 
+Kian Hendry         21 Dave Sharp          15 
+Daniel Owen         15 Bob Patterson       21 
+Alex Perry          21 Dave Farman          8 
+Jason Ream          21 James Tayolr        15 
+         Handicap: Scr          Handicap: +20 
+        Aggregate: 145         Aggregate: 131 
+
+      Qtr-Finals            Tue 5th Aug       
+                           On Pudsey Park     
+  Chapel Allerton A          Meanwood A       
+David Blackwell      6 Michael Gregory     21 
+Dave Hill           21 Craig Goodall       19 
+Mandy Wilson        20 Ian Howard          21 
+Matthew Watson      19 Douglas Blair       21 
+Tommy Massey        21 Steve Jones          9 
+Colin Wilson        21 Lynda Heath         12 
+Royce Jackson       21 Darren Cookson      20 
+Steven Bottomley    21 Mickey Rennison     16 
+         Handicap: +20          Handicap: Scr 
+        Aggregate: 170         Aggregate: 139 
+
+      Qtr-Finals            Tue 5th Aug       
+                          On Holbeck Moor     
+      Meanwood B           Moor Allerton      
+David L Miller      16 Susan Lee           21 
+Pat Blackburn       21 Linda Greenland      9 
+Graham Hey          17 George Ramsden      21 
+Tina Howard         21 Mike Gould          17 
+Jeff Blackburn      21 Ian Franllin        13 
+Phil McStay         21 Martin Kaitcer      18 
+Ian Macfarlane      20 John Alper          21 
+Oliver Devaney      20 Geoff West          21 
+        Aggregate: 157         Aggregate: 141 
+
+      Qtr-Finals            Tue 5th Aug       
+                        On Stanningley Park   
+      Holt Park             Gildersome B      
+Sylvia Petty        21 Barbara Hall        17 
+Tony Watson         21 John Ackroyd        10 
+Debbie Sandles      21 Neil Schofield      14 
+Peter Byford        21 Kay Stewart         18 
+John Patrick        21 Tracy Norton        18 
+Mike Cox            21 Alison Lockwood     15 
+Colin Chadwick      21 Margaret Johnstone  10 
+Terry Cook          12 Tony Morris         21 
+         Handicap: Scr          Handicap: +20 
+        Aggregate: 159         Aggregate: 143 
 
 

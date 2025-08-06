@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Sun 3rd Aug)
+=== West Riding & Spen Valley 2025 (as of Wed 6th Aug)
 === Comp. Match Cards
 
          Premier                  Wed 16th Apr        
@@ -36,7 +36,7 @@ Amy Tobin               20 Kez Smith               21
 Stan Elwell             18 Harry Seehra            21 
 Emma Tobin              21 Garreth Lally           18 
 Simon Cahill            21 Liam Griffin            20 
-Thomas Johnson          13 *A.N.Other*             21 
+Thomas Johnson          13 Craig Hopwood           21 
             Aggregate: 152             Aggregate: 158 
                Points:   4                Points:   7 
 
@@ -694,7 +694,7 @@ Stan Elwell             21 Mark Goodall            18
        Shipley - A                 Crossgates         
 Chris Jacques           21 Nigel Cranston          13 
 Neil Simpson            21 Harry Seehra            17 
-Craig Fenton            21 *A.N.Other*             14 
+Craig Fenton            21 Tom Smith               14 
 David Bland             17 Kez Smith               21 
 Steve Cooper            13 Liam Griffin            21 
 Chris Bedford           11 Simon Walder            21 
@@ -2285,7 +2285,7 @@ Nigel Cranston          21 Stuart Fletcher          9
 Liam Griffin            21 Gordon Johnson          14 
 Kez Smith               21 Robert Hopper           12 
 Harry Seehra            21 Graham Roberts           6 
-*A.N.Other*             21 Nigel Marshall          13 
+Craig Hopwood           21 Nigel Marshall          13 
             Aggregate: 165             Aggregate: 102 
                Points:   9                Points:   1 
 
@@ -3531,11 +3531,11 @@ Steve Kidd              21 Andrew Haigh             8
 Roger Jackson           21 Graham Fuller            8 
 Susan McMananamin       18 Vicky Haigh             21 
 Paul Cooper             21 Ian Fairhurst           13 
-Ateeque Mirza            6 Ken Oates               21 
-Darren Schofield        21 Peter Thompson           4 
+*No Player*              0 Ken Oates               21 
+*No Player*              0 Peter Thompson          21 
 *No Player*              0 Andy Brooke             21 
-            Aggregate: 129             Aggregate: 114 
-               Points:   7                Points:   3 
+            Aggregate: 102             Aggregate: 131 
+               Points:   4                Points:   7 
 
         Division 3                Thu 10th Jul        
       Pudsey BC - C              Gildersome - A       

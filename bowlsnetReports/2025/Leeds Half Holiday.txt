@@ -1,4 +1,4 @@
-=== Leeds & District (Half Holiday) 2025 (as of Sun 3rd Aug)
+=== Leeds & District (Half Holiday) 2025 (as of Wed 6th Aug)
 === League Match Cards
 
         Div 1               Wed 2nd Apr       
@@ -1871,7 +1871,7 @@ Ann Lucas           18 Stuart Reardon      21
 Mick Harrison       21 Andy Waller          7 
 Stewart Wardlaw     18 David Eaton         21 
 Sue Harrison        21 Alyssa Randell      10 
-Stephen Briggs      11 Malcolm Crowsman    21 
+Stephen Briggs      11 Malcolm Crowson     21 
          Handicap: +10          Handicap: Scr 
         Aggregate: 118         Aggregate: 101 
 
@@ -2190,7 +2190,7 @@ Phil Hill           21 Alyssa Randell       3
 Tony Green          21 Jimmy Swailes       10 
 Barry Tobin         11 Malvin Miller       21 
 Graham Scholes      21 David Eaton         15 
-Graham Hodder       21 Malcolm Crowsman    14 
+Graham Hodder       21 Malcolm Crowson     14 
 Philip Hatch        21 Andy Waller         15 
         Aggregate: 116         Aggregate:  78 
            Points:  27            Points:  15 
@@ -2198,7 +2198,7 @@ Philip Hatch        21 Andy Waller         15
         Div 1               Wed 23rd Jul      
    Stanningley Park         Cross Flatts      
 David Eaton         21 Melissa Lister       1 
-Malcolm Crowsman    21 Jason Potter        11 
+Malcolm Crowson     21 Jason Potter        11 
 Alyssa Randell      21 Jim Bootland         8 
 Malvin Miller       21 Stephanie Wood       8 
 Andy Waller         19 Ian Wood            21 
@@ -2383,5 +2383,104 @@ Stewart Wardlaw     14 Karen Portman       21
 Sue Harrison        13 Ian Howard          21 
          Handicap: +10          Handicap: Scr 
         Aggregate:  78         Aggregate: 126 
+
+        Div 1               Wed 6th Aug       
+    Rothwell BC A         Stanningley Park    
+John Whiteley       21 Alyssa Randell      12 
+Phil Wilsher        21 Malcolm Crowson     13 
+June Johnson        21 Stuart Reardon      14 
+David Kaye          21 Andy Waller         16 
+Gareth Gidman       21 Martin Fulton       16 
+Geoff Newbould      18 Andrew Marshall     21 
+        Aggregate: 123         Aggregate:  92 
+           Points:  29            Points:  17 
+
+        Div 1               Wed 6th Aug       
+     Holbeck Moor          Rothwell BC B      
+John Binns          21 Lyn Best            16 
+Julie Mathews       21 Katie Turner        15 
+Steve Milton        21 Ron Owen            17 
+Michael Stott       15 Lyn Owen            21 
+Brian Thompson      13 Peter Burrows       21 
+Steve Brown         21 Mark Hopps           3 
+        Aggregate: 112         Aggregate:  93 
+           Points:  25            Points:  19 
+
+        Div 2               Wed 6th Aug       
+        Colton            Chapel Allerton     
+Monica Buckroyd     14 Alex McSheehy       21 
+Martin Dowling      21 Adrienne Blackwell   7 
+Peter Griffin       21 Andrew Paxton        9 
+Gary Mahoney        21 Graham Pickles      19 
+Andrea Ryder        21 Chris Jones         12 
+Tony Ward           21 Royce Jackson       18 
+        Aggregate: 119         Aggregate:  86 
+           Points:  27            Points:  17 
+
+        Div 2               Wed 6th Aug       
+  South Leeds Cons A        Grove Road A      
+David Brooke        21 Lynne Mattison      16 
+Reece Pratt         21 Martin Murdoch      19 
+Malcolm Collinson   21 Tony Boyes          14 
+Jackie Cross        15 Peter Sully         21 
+Neville Salmon      21 Peter Nichols       14 
+Alan Goodhall       15 John West           21 
+        Aggregate: 114         Aggregate: 105 
+           Points:  26            Points:  21 
+
+        Div 2               Wed 6th Aug       
+   Meanwood Park B          Gildersome A      
+John King           21 Graham Gaunt        17 
+Ian Macfarlaine     21 David Norton        13 
+Paul Dishman        11 Tony Morris         21 
+Julie Keightley     21 Neil Schofield      19 
+John Hindle         10 Kevin Smales        21 
+Oliver Devaney      21 Linda Gaunt         17 
+        Aggregate: 105         Aggregate: 108 
+           Points:  24            Points:  22 
+
+        Div 2               Wed 6th Aug       
+    Churwell Park         Scatcherd Park A    
+Sue Harrison        19 Ian Dufton          21 
+Stephen Briggs      21 Kevin Taylor        12 
+Kath Andrews        20 Peter Oldfield      21 
+Mick Harrison       20 Billy Ward          21 
+Graham Goodhall     21 Terry Dillon        16 
+Stewart Wardlaw     21 Roy Kellet          16 
+        Aggregate: 122         Aggregate: 107 
+           Points:  27            Points:  23 
+
+        Div 3               Wed 6th Aug       
+   Middleton Comm A      South Leeds Cons B   
+Mario Biiancardo    21 Patrick Toher        2 
+Gordon Monk         21 Malcolm Whipp        7 
+Barbara Ragan       21 Mal Stockdale       11 
+Malcolm Hallas      21 Janet Stockdale     11 
+Neil Hudson         21 Chloe Grant         16 
+Shirley Biancardo   21 David Kellett        6 
+        Aggregate: 126         Aggregate:  53 
+           Points:  30            Points:   9 
+
+        Div 3               Wed 6th Aug       
+     Burley Park          Moor Allerton B     
+Michael Howsham     17 Gary Enkin          21 
+Malcolm Dacre       21 Peter Aves          12 
+John Gilroy         21 Tim Milner           8 
+Jeff Fryer          18 Ian Franklin        21 
+John Illingworth    21 George Ramsden      14 
+Tommy Parr          14 Mike Gould          21 
+        Aggregate: 112         Aggregate:  97 
+           Points:  24            Points:  20 
+
+        Div 4               Wed 6th Aug       
+      New Armley           Pudsey Park B      
+Richard Aspin       21 Peter Colley        12 
+Fred Hargreaves      5 Derek Howell        21 
+Carol Butters       11 Barbara Nellis      21 
+Ken Stockhill       21 Maveen Tomlinson    18 
+Richard Stephen     17 Elaine Hill         21 
+Dave Hurd           13 Bill Pyett          21 
+        Aggregate:  88         Aggregate: 114 
+           Points:  18            Points:  26 
 
 
