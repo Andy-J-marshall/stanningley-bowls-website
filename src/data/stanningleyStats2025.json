@@ -4887,16 +4887,16 @@
             "day": "Leeds Ladies",
             "awayWins": 0,
             "homeWins": 0,
-            "wins": 1,
+            "wins": 0,
             "awayLosses": 7,
             "homeLosses": 7,
             "homeDraws": 0,
             "awayDraws": 0,
             "draws": 0,
-            "cupWins": 1,
+            "cupWins": 0,
             "cupLosses": 1,
             "losses": 15,
-            "totalGamesPlayed": 16,
+            "totalGamesPlayed": 15,
             "results": [
                 "West Royd 161 - 123 Stanningley",
                 "Stanningley 104 - 159 Tarnfield",
@@ -4912,8 +4912,7 @@
                 "Stanningley 100 - 155 Guiseley",
                 "Hall Park 164 - 73 Stanningley",
                 "Stanningley 125 - 142 Rufford B",
-                "Stanningley 104 - 145 New Farnley",
-                "Stanningley 21 - 0 Gildersome"
+                "Stanningley 104 - 145 New Farnley"
             ]
         },
         {
