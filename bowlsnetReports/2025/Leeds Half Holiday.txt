@@ -1,4 +1,4 @@
-=== Leeds & District (Half Holiday) 2025 (as of Wed 6th Aug)
+=== Leeds & District (Half Holiday) 2025 (as of Thu 7th Aug)
 === League Match Cards
 
         Div 1               Wed 2nd Apr       
@@ -2405,6 +2405,17 @@ Brian Thompson      13 Peter Burrows       21
 Steve Brown         21 Mark Hopps           3 
         Aggregate: 112         Aggregate:  93 
            Points:  25            Points:  19 
+
+        Div 1               Wed 6th Aug       
+     Cross Flatts          Whitkirk BC A      
+Jim Bootland        18 Phil Hill           21 
+Stephanie Wood      10 Paul Hardy          21 
+Paul Hatch          21 Barry Tobin          5 
+*No Player*          0 Graham Scholes      21 
+Jason Potter        10 Michael Sheerin     21 
+Ian Wood            20 Philip Hatch        21 
+        Aggregate:  79         Aggregate: 110 
+           Points:  17            Points:  26 
 
         Div 2               Wed 6th Aug       
         Colton            Chapel Allerton     

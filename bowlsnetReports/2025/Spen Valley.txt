@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Wed 6th Aug)
+=== West Riding & Spen Valley 2025 (as of Thu 7th Aug)
 === Comp. Match Cards
 
          Premier                  Wed 16th Apr        
@@ -4591,6 +4591,19 @@ Luke Teale              21 Dave McGourty            6
                Points:   8                Points:   2 
 
          Premier                  Wed 6th Aug         
+     Heckmondwike - A             Shipley - A         
+Sam Beresford           17 Chris Bedford           21 
+Sean Carter             21 Stuart Wilson           16 
+Tom Gilbert             13 Neil Simpson            21 
+Daren Goodall           13 Craig Fenton            21 
+Jacob Hatfield-Goodall  21 Matthew Jacques         17 
+Graham Higgins          21 David Bland             17 
+Ross Ingham             10 Ian Jacques             21 
+Alex Wolfenden          21 Richard Bloodworth       3 
+            Aggregate: 137             Aggregate: 137 
+               Points:   5                Points:   5 
+
+         Premier                  Wed 6th Aug         
    Brighouse Sports - A          Pudsey BC - A        
 Mark Connolly           21 Tom Lawrence            11 
 Dale Dyson              12 Jamie Winterburn        21 
@@ -4602,6 +4615,19 @@ Graham Roberts          16 Matthew Leaf            21
 Tom Gasson              20 Pam Lindley             21 
             Aggregate: 153             Aggregate: 137 
                Points:   7                Points:   3 
+
+        Division 1                Wed 6th Aug         
+       Shipley - B           Mirfield Old Bank - A    
+John Sample             18 Andrew Sykes            21 
+Cindy Rapinczuk         21 Andrew Foggo            20 
+Jason Bridge             8 Keith Bissell           21 
+Rachel Telford          21 John Hopkinson          15 
+Andrew Walker           21 Terry Sykes             17 
+Michael Kane             8 Neil Shaw               21 
+Tony Spivey             20 Andrew Mitchell         21 
+Paul Harrison            8 Mandy Mitchell          21 
+            Aggregate: 125             Aggregate: 157 
+               Points:   3                Points:   8 
 
         Division 1                Wed 6th Aug         
      Harold Club - A           Spen Victoria - B      
@@ -4773,6 +4799,19 @@ Gary Hudson             21 David Broadhead         10
                Points:   3                Points:   8 
 
         Division 4                Wed 6th Aug         
+  Cleckheaton Sports - D         Eccleshill - B       
+Andrea Brearley          7 Sue Steward             21 
+Chris Watson            15 Vincent Gelder          21 
+Michael Binns           21 Tom Spensley            17 
+Alan Holmes             21 Dot Shaw                 4 
+Neil Blackburn          19 Jack Steward            21 
+David Holmes            21 Peter Dawson            17 
+Chris Piercy            21 Andrew Smith             5 
+Elaine Binns            21 Roger Binks             16 
+            Aggregate: 146             Aggregate: 122 
+               Points:   7                Points:   3 
+
+        Division 4                Wed 6th Aug         
      Harold Club - C             Gildersome - B       
 Bryan Firth             16 Beverley Farrar         21 
 Stephen Council         21 Frank Hales             16 
@@ -4810,6 +4849,19 @@ Gary Morton             21 Steve Wrigglesworth     10
 Mark Prideaux           21 Andy Brooke              6 
             Aggregate: 134             Aggregate: 121 
                Points:   7                Points:   3 
+
+        Division 4                Thu 7th Aug         
+  Cleckheaton Sports - E        Heckmondwike - B      
+David Griffiths         21 Ash Harker              11 
+Joe Brook               21 Marie Franks             8 
+Keith Barlow            21 Hayley Wood             11 
+Graham Ward             21 Janet Firth             15 
+Joe Bray                21 Eric Franks             11 
+Lynn Seddon             21 Roy Carter              20 
+Chris Bentley           21 *No Player*              0 
+Callum Brook            21 *No Player*              0 
+            Aggregate: 168             Aggregate:  76 
+               Points:  10                Points:   0 
 
 
        Round of 32                   Sat 5th Apr           

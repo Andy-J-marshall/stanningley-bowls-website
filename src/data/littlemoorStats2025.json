@@ -367,12 +367,12 @@
             }
         },
         "john armitage": {
-            "totalAgg": 1262,
-            "totalAggAgainst": 968,
-            "availableAgg": 1365,
+            "totalAgg": 1281,
+            "totalAggAgainst": 989,
+            "availableAgg": 1386,
             "availablePairsAgg": 42,
             "availableHomeAgg": 567,
-            "availableAwayAgg": 651,
+            "availableAwayAgg": 672,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 42,
@@ -381,14 +381,14 @@
             "totalHomeAggAgainst": 369,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 583,
-            "totalAwayAggAgainst": 508,
+            "totalAwayAgg": 602,
+            "totalAwayAggAgainst": 529,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 21,
             "homeLosses": 6,
             "awayWins": 20,
-            "awayLosses": 11,
+            "awayLosses": 12,
             "cupWins": 6,
             "cupLosses": 1,
             "pairWins": 2,
@@ -399,7 +399,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 2,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 65,
+            "totalGamesPlayed": 66,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
@@ -439,6 +439,7 @@
                 "john armitage 21 - 19 peter crowther",
                 "john armitage 21 - 18 pam lindley",
                 "john armitage 21 - 9 alan standing",
+                "john armitage 19 - 21 darren goodall",
                 "john armitage 21 - 8 david bland",
                 "john armitage 21 - 8 stephen bastow",
                 "john armitage 18 - 21 graham higgins",
@@ -493,9 +494,9 @@
                 "aggDiff": 9
             },
             "bradford half holiday (b)": {
-                "games": 6,
+                "games": 7,
                 "wins": 6,
-                "aggDiff": 46
+                "aggDiff": 44
             },
             "spen valley": {
                 "games": 19,
@@ -887,6 +888,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "06/08/2025",
+    "lastUpdated": "07/08/2025",
     "statsYear": "2025"
 }
