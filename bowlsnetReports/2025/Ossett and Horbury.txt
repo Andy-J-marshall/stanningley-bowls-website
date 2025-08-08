@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Thu 7th Aug)
+=== Ossett & Horbury 2025 (as of Fri 8th Aug)
 === League Match Cards
 
          Division 3                   Tue 8th Apr          
@@ -4607,6 +4607,18 @@ John Webster              21 Jonathan Orbell            14
               Aggregate: 162                Aggregate: 126 
 
       Premier Division                Thu 7th Aug          
+          Rothwell                  Castleford Town        
+Gareth Lally              21 Robert McGuire             11 
+Mark Hughes               21 Mark Brain                 13 
+Charlotte Holmes          19 Calum Fennell              21 
+Garry Dennison            21 Alan Glenn                 11 
+Kez Smith                 21 Robert Lloyd               18 
+Thomas Scorah             21 Daniel Revell              15 
+Josh Thomas               21 Steve Winterburn           15 
+Katie Turner              21 Jeanette Brain             14 
+              Aggregate: 166                Aggregate: 118 
+
+      Premier Division                Thu 7th Aug          
           Sandal B                     Sandal A            
 Leighton Shuttleworth     13 Gary Wike                  21 
 Steve Simmonds            21 James Evison               10 
@@ -4617,6 +4629,42 @@ Martin Eley               21 Darren Pitchforth           9
 Joshua Eley               12 Ben Sweeney                21 
 Andrew Evison             10 Ian Shuttleworth           21 
               Aggregate: 128                Aggregate: 133 
+
+         Division 1                   Thu 7th Aug          
+        Morton House               Alverthorpe WMC A       
+Michael Sweeney           21 Jeff Normanton             14 
+Chris Sweeney             21 Amanda Hagen               19 
+Tom Gilbert               21 Colin Lloyd                19 
+Charlie Ripley            21 John Smart                  6 
+Marcus Leach              21 Karl Dutton                17 
+Adrian Leach              17 Dave Cowsill               21 
+Harrison Messinger        16 Andy Webb                  21 
+J Payne                   18 James Tiler                21 
+              Aggregate: 156                Aggregate: 138 
+
+         Division 1                   Thu 7th Aug          
+       Denby Grange A                 Dodworth MW          
+Chris Shires              11 Barry Holland              21 
+David Walker              20 Jack Hill                  21 
+Charlie Fisher            20 Carl Whitham               21 
+Danny Towning - Smith     21 Jack Wareing               17 
+David Wright               7 Debbie Talbot              21 
+Mortimer Ray              15 Josh Talbot                21 
+Neil Broadhead            12 Tom Marsland               21 
+Keeling Ben               13 Nigel McDermott            21 
+              Aggregate: 119                Aggregate: 164 
+
+         Division 1                   Thu 7th Aug          
+    Ossett Flying Horse             Clayton West A         
+Robert Bennett            21 G Richardson               15 
+Graham Higgins            21 Bob Dalby                   9 
+Graham Blenkinsop         21 R Clarkson                 19 
+Kevin Burns               21 M Gilbert                  15 
+Roger Lunn                21 M Greenall                  9 
+Gordon Hird               21 D Richardson               10 
+Danny Hallas              21 Neale Wallace              11 
+Andy Taylor               21 T Poulter                  19 
+              Aggregate: 168                Aggregate: 107 
 
          Division 1                   Thu 7th Aug          
        West Bretton A                Heckmondwike          
@@ -4665,6 +4713,30 @@ David Wright              17 David Purssell             21
 Mick Booth                21 David Horan                15 
 David Nichol              21 S Crummack                 15 
               Aggregate: 157                Aggregate: 125 
+
+         Division 2                   Thu 7th Aug          
+      Hanging Heaton B               Smirthwaite B         
+Philip Crossland          17 Graham Kirkaldy            21 
+Gary Amatt                21 Glen Evans                 17 
+Tony Howland               6 A France                   21 
+Peter Byrne               21 Dale Evans                 15 
+Jacob Amatt               21 Tom Knapper                14 
+Michael Underhill         19 M Watson                   21 
+Derek North               14 Leigh Measham              21 
+Paul Murphy               21 Alan Knowles               15 
+              Aggregate: 140                Aggregate: 145 
+
+         Division 2                   Thu 7th Aug          
+       Wakefield BC A                 Savile Park          
+Kaz Habib                 14 Jade Johnson               21 
+John Dudding              12 P Whipp                    21 
+Robyn Walters             21 Alfie Hutchinson           14 
+David Clough              21 David Steel                13 
+Anita Lawson              11 Richard Johnson            21 
+Trevor Newey              11 Gary Haley                 21 
+Mark Young                21 Karen Portman              19 
+David Crest                9 Ellis Owen                 21 
+              Aggregate: 120                Aggregate: 151 
 
          Division 3                   Thu 7th Aug          
     West Yorks Sports A               Earlsheaton          
@@ -4773,6 +4845,18 @@ Howard Riley              21 Karen Poyser               12
 Frank Ryan                21 Clive Sabey                11 
 Lucas Manousios           21 Brian Wild                 15 
               Aggregate: 168                Aggregate: 101 
+
+         Division 5                   Thu 7th Aug          
+       Wake Thornes B                  Stanley B           
+Wayne Holling             12 Antony Bolton              21 
+G Milner                  21 Anne Waring                 9 
+Brian Oselton             21 Cheryl Cole                11 
+Susan Holling             14 Vicky Peters               21 
+R Stables                 21 Julia Wright               16 
+D Warwick                 21 Keith Lawrance             18 
+June Herrera              21 Tony Bell                  19 
+Leo Herrera               11 Eric Szpyrka               21 
+              Aggregate: 142                Aggregate: 136 
 
          Division 5                   Thu 7th Aug          
        Horbury WMC B                 Outwood WMC B         

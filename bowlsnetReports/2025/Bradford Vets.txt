@@ -1,4 +1,4 @@
-=== Bradford (Vets) 2025 (as of Thu 7th Aug)
+=== Bradford (Vets) 2025 (as of Fri 8th Aug)
 === Comp. Match Cards
 
 Division Four ( 6 Players)       Thu 10th Apr       
@@ -4414,5 +4414,17 @@ Violet Rodgers           12 Edgar Rhodes         21
              Aggregate: 115          Aggregate:  84 
                  Games:   4              Games:   2 
                 Points:  19             Points:   7 
+
+Division Four ( 6 Players)        Fri 8th Aug       
+      West Bradford B               Wyke C          
+Malcolm Leeming          15 Nigel Swales         21 
+Geraldine Sephton         7 Sue Williamson       21 
+Anne Mullaney            11 John Winstanley      21 
+Gerry Peel               21 Ken Bairstow         15 
+Steven Bussingham        21 Keith Stephenson     16 
+Paul Wood                18 Colin Fallows        21 
+             Aggregate:  93          Aggregate: 115 
+                 Games:   2              Games:   4 
+                Points:   8             Points:  18 
 
 

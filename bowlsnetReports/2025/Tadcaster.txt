@@ -1,4 +1,4 @@
-=== Tadcaster Evening League 2025 (as of Thu 7th Aug)
+=== Tadcaster Evening League 2025 (as of Fri 8th Aug)
 === League Match Cards
 
     Richardson Trophy           Thu 3rd Apr        
@@ -4035,6 +4035,21 @@ Steve Hartley          17 Richard Hebblewhite   21
 
     Main League 2025            Thu 7th Aug        
           Div 1                                    
+     THORNER JOKERS             DRAGON FLIES       
+Owen Laurie            21 Steve Webster          7 
+Toni Laurie            16 Clare Howes           21 
+Suzie Lawson           18 Chris Sunter          21 
+John Mais              10 Graham Hesling        21 
+Jim Jordan             21 Carol Sunter          18 
+Peter Holmes            4 Paul Gill             21 
+Mick Cooper            15 Richard Chester       21 
+Gareth Coates          21 Chris England         14 
+              Points:   3              Points:   7 
+           Aggregate: 126           Aggregate: 144 
+               Games:   3               Games:   5 
+
+    Main League 2025            Thu 7th Aug        
+          Div 1                                    
        CROSSGATES                MAGNET OLD        
 Lynn Wilcox            21 P Greenwood           19 
 Natalie Sanderson      21 D Bedford              8 
@@ -4047,6 +4062,51 @@ Peter Wilcox           21 Jon Lucas             16
               Points:   8              Points:   2 
            Aggregate: 162           Aggregate: 125 
                Games:   6               Games:   2 
+
+    Main League 2025            Thu 7th Aug        
+          Div 1                                    
+    WHITKIRK KNIGHTS         TADCASTER FALCONS     
+Tony Green             20 Andrew Dodsworth      21 
+P Hill                 21 John Dykes            11 
+Terry Kelly            21 Steven Dykes           9 
+Amy Tobin              21 Graeme Franklin       11 
+Emma Tobin             21 David Lightfoot       15 
+Adam Varley            21 Martin Thornton       12 
+Kristian Walder        21 Frank Cook             8 
+Warren Wilson          18 Neil Taylor           21 
+              Points:   8              Points:   2 
+           Aggregate: 164           Aggregate: 108 
+               Games:   6               Games:   2 
+
+    Main League 2025            Thu 7th Aug        
+          Div 1                                    
+        WAYSIDE A              GARFORTH CC A       
+M Reynolds             21 Nigel Turner           4 
+Adam Walker            21 Ian Doughty           16 
+Barry Sugden           21 Stuart Cranston       10 
+Alan Whittaker         16 Scott Normington      21 
+Jason Worsnop          13 Les Hudson            21 
+Chris Rigby            21 Rob Carroll           16 
+Stuart Whitehouse      15 Lewis Cooper          21 
+Vic Skaife Clarke      21 Michael Firth         14 
+              Points:   7              Points:   3 
+           Aggregate: 149           Aggregate: 123 
+               Games:   5               Games:   3 
+
+    Main League 2025            Thu 7th Aug        
+          Div 2                                    
+       MAGNET PALE             BARDSEY EAGLES      
+Nick Heaton             9 John Conyers          21 
+Mandy Hardy             2 Ray Hill              21 
+M Shah                 10 Nick Barker           21 
+Tony Wood              16 Steve Jones           21 
+M Greenwood            16 Phil Bouic            21 
+T Hardy                21 Mark Green            20 
+P Wetherhill           21 Martin Cocker          4 
+Carl (Rob) Preene      21 Paul Crossling        19 
+              Points:   3              Points:   7 
+           Aggregate: 116           Aggregate: 148 
+               Games:   3               Games:   5 
 
     Main League 2025            Thu 7th Aug        
           Div 2                                    
@@ -4062,6 +4122,36 @@ Ian Wallbank           21 Steven Proberts       10
               Points:   1              Points:   9 
            Aggregate: 116           Aggregate: 157 
                Games:   1               Games:   7 
+
+    Main League 2025            Thu 7th Aug        
+          Div 2                                    
+    KNARESBOROUGH OAK            WAYSIDE B         
+Nicholas Lofthouse     21 David Small           14 
+Phil Berry             17 Chris Wood            21 
+Paul Herrington        18 David Singleton       21 
+Paul Passman           14 Lee Singleton         21 
+Mark Herrington        21 Jenny Asker            4 
+David Finlayson        21 Hayden Whitehouse     19 
+Rob Barker             15 Martin Knights        21 
+Trevor Baranovsky       8 Colin Rigby           21 
+              Points:   3              Points:   7 
+           Aggregate: 135           Aggregate: 142 
+               Games:   3               Games:   5 
+
+    Main League 2025            Thu 7th Aug        
+          Div 2                                    
+     LOW HARROGATE A          WHITKIRK KNAVES      
+David Clarke           18 Paul Hardy            21 
+Chris Olding           10 Michael Sheerin       21 
+Ian Jarratt            21 Hannah Risley         13 
+Cath Patrick           17 T Johnson             21 
+Nick Binns             21 Andy Johnson           7 
+Graham Patrick         20 Phil Hatch            21 
+Peter Hicks            11 Stan Elwell           21 
+David Spilsbury        21 Jason Richards         4 
+              Points:   5              Points:   5 
+           Aggregate: 139           Aggregate: 129 
+               Games:   3               Games:   5 
 
     Main League 2025            Thu 7th Aug        
           Div 3                                    
@@ -4167,5 +4257,20 @@ Hazel Kelly            21 Bill Harrison         19
               Points:   3              Points:   7 
            Aggregate: 126           Aggregate: 146 
                Games:   3               Games:   5 
+
+    Main League 2025            Thu 7th Aug        
+          Div 4                                    
+      BLACK SWAN B            LOW HARROGATE B      
+Dave Kinder            21 Dave Moon             14 
+Gary Kinder            21 Peter Rawcliffe       11 
+Lee Chandler           21 Angela Spilsbury      13 
+Conor McCarthy         21 Adele Zagorski        20 
+Sue Mitchell           21 Charlie Peacock       14 
+Barry Turnbull         21 David Hughan          11 
+Val Rowson             21 Jo Bonsels             3 
+Mark Raynard           21 Alan Old               7 
+              Points:  10              Points:   0 
+           Aggregate: 168           Aggregate:  93 
+               Games:   8               Games:   0 
 
 
