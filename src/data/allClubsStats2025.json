@@ -829,12 +829,12 @@
             ]
         },
         "duncan mcphail": {
-            "totalAgg": 917,
-            "totalAggAgainst": 758,
-            "availableAgg": 1029,
+            "totalAgg": 930,
+            "totalAggAgainst": 779,
+            "availableAgg": 1050,
             "availablePairsAgg": 21,
             "availableHomeAgg": 504,
-            "availableAwayAgg": 399,
+            "availableAwayAgg": 420,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 21,
@@ -843,14 +843,14 @@
             "totalHomeAggAgainst": 345,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 319,
-            "totalAwayAggAgainst": 346,
+            "totalAwayAgg": 332,
+            "totalAwayAggAgainst": 367,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 19,
             "homeLosses": 5,
             "awayWins": 8,
-            "awayLosses": 11,
+            "awayLosses": 12,
             "cupWins": 6,
             "cupLosses": 0,
             "pairWins": 1,
@@ -861,7 +861,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 49,
+            "totalGamesPlayed": 50,
             "results": [
                 "duncan mcphail 21 - 7 graham hey",
                 "duncan mcphail 21 - 17 steve brown",
@@ -911,7 +911,8 @@
                 "duncan mcphail 21 - 17 sue chadwick",
                 "duncan mcphail 21 - 8 ian ryding",
                 "duncan mcphail 21 - 15 allan caine",
-                "duncan mcphail 21 - 20 june wilson"
+                "duncan mcphail 21 - 20 june wilson",
+                "duncan mcphail 13 - 21 linda gledhill"
             ]
         },
         "eleanor graves": {
@@ -1310,25 +1311,25 @@
             ]
         },
         "john armitage": {
-            "totalAgg": 1638,
-            "totalAggAgainst": 1153,
-            "availableAgg": 1743,
+            "totalAgg": 1680,
+            "totalAggAgainst": 1168,
+            "availableAgg": 1785,
             "availablePairsAgg": 42,
-            "availableHomeAgg": 714,
+            "availableHomeAgg": 756,
             "availableAwayAgg": 861,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 42,
             "totalPairsAggAgainst": 25,
-            "totalHomeAgg": 687,
-            "totalHomeAggAgainst": 429,
+            "totalHomeAgg": 729,
+            "totalHomeAggAgainst": 444,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 791,
             "totalAwayAggAgainst": 620,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 28,
+            "homeWins": 30,
             "homeLosses": 6,
             "awayWins": 29,
             "awayLosses": 12,
@@ -1342,7 +1343,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 2,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 83,
+            "totalGamesPlayed": 85,
             "results": [
                 "john armitage 21 - 9 carol matthews",
                 "john armitage 21 - 12 david steel",
@@ -1426,7 +1427,9 @@
                 "john armitage 21 - 15 lewis pember",
                 "john armitage 21 - 18 adam sharpe",
                 "john armitage 21 - 13 ian jacques",
-                "john armitage 21 - 13 mason lindley"
+                "john armitage 21 - 13 mason lindley",
+                "john armitage 21 - 5 tony riley",
+                "john armitage 21 - 10 jim calvert"
             ]
         },
         "karen uttley": {
@@ -2553,12 +2556,12 @@
             ]
         },
         "richard hodgson": {
-            "totalAgg": 1145,
-            "totalAggAgainst": 872,
-            "availableAgg": 1239,
+            "totalAgg": 1166,
+            "totalAggAgainst": 890,
+            "availableAgg": 1260,
             "availablePairsAgg": 21,
             "availableHomeAgg": 546,
-            "availableAwayAgg": 546,
+            "availableAwayAgg": 567,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 20,
@@ -2567,13 +2570,13 @@
             "totalHomeAggAgainst": 351,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 496,
-            "totalAwayAggAgainst": 398,
+            "totalAwayAgg": 517,
+            "totalAwayAggAgainst": 416,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 21,
             "homeLosses": 5,
-            "awayWins": 17,
+            "awayWins": 18,
             "awayLosses": 9,
             "cupWins": 3,
             "cupLosses": 4,
@@ -2585,7 +2588,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 59,
+            "totalGamesPlayed": 60,
             "results": [
                 "richard hodgson 21 - 12 beverley hampshaw",
                 "richard hodgson 16 - 21 malcolm collinson",
@@ -2645,7 +2648,8 @@
                 "richard hodgson 21 - 18 martin grace",
                 "richard hodgson 12 - 21 mark goodall",
                 "richard hodgson 21 - 6 phil robinson",
-                "richard hodgson 21 - 13 peter howroyd"
+                "richard hodgson 21 - 13 peter howroyd",
+                "richard hodgson 21 - 18 david smalley"
             ]
         },
         "rob packer": {
@@ -3322,6 +3326,6 @@
             ]
         }
     },
-    "lastUpdated": "08/08/2025",
+    "lastUpdated": "09/08/2025",
     "statsYear": "2025"
 }

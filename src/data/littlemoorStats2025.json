@@ -367,25 +367,25 @@
             }
         },
         "john armitage": {
-            "totalAgg": 1281,
-            "totalAggAgainst": 989,
-            "availableAgg": 1386,
+            "totalAgg": 1323,
+            "totalAggAgainst": 1004,
+            "availableAgg": 1428,
             "availablePairsAgg": 42,
-            "availableHomeAgg": 567,
+            "availableHomeAgg": 609,
             "availableAwayAgg": 672,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 42,
             "totalPairsAggAgainst": 25,
-            "totalHomeAgg": 540,
-            "totalHomeAggAgainst": 369,
+            "totalHomeAgg": 582,
+            "totalHomeAggAgainst": 384,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 602,
             "totalAwayAggAgainst": 529,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 21,
+            "homeWins": 23,
             "homeLosses": 6,
             "awayWins": 20,
             "awayLosses": 12,
@@ -399,7 +399,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 2,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 66,
+            "totalGamesPlayed": 68,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
@@ -466,6 +466,8 @@
                 "john armitage 21 - 18 adam sharpe",
                 "john armitage 21 - 13 ian jacques",
                 "john armitage 21 - 13 mason lindley",
+                "john armitage 21 - 5 tony riley",
+                "john armitage 21 - 10 jim calvert",
                 "john armitage 21 - 12 mick griffiths"
             ],
             "airewharfe monday": {
@@ -519,9 +521,9 @@
                 "aggDiff": 0
             },
             "bradford saturday": {
-                "games": 7,
-                "wins": 5,
-                "aggDiff": 21
+                "games": 9,
+                "wins": 7,
+                "aggDiff": 48
             },
             "bradford saturday (b)": {
                 "games": 1,
@@ -888,6 +890,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "08/08/2025",
+    "lastUpdated": "09/08/2025",
     "statsYear": "2025"
 }
