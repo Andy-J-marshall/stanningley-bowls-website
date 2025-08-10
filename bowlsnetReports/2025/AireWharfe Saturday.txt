@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Saturday) 2025 (as of Sat 9th Aug)
+=== AireDale & Wharfedale (Saturday) 2025 (as of Sun 10th Aug)
 === League Match Cards
 
            Premier                      Sat 5th Apr           
@@ -2244,20 +2244,20 @@ Trevor Haley                13 Philip Blackburn            21
                    Points:  12                    Points:  18 
 
           Division 3                    Sat 17th May          
-       Wharfemeadows B                   Calverley            
-David Warburton              4 Terry Lilley                21 
-Gill Godden                 17 Geoff Yewdall               21 
-Malcolm Levi 'Ab'           19 Malcolm Pratt               21 
-Paul Bowden                 13 Derek Whitaker              21 
-Raymond Smith Snr           15 Margaret Whitaker           21 
-Jane Bowden 'Ab'            21 Roy Whiteley                17 
-Jean Crawford               14 Alan Horsfield              21 
-Linda Yates 'Ab'            10 Anne Newlove                21 
-John Parker                 12 Rory Bligh                  21 
-Michael Taylor 'Ab'         14 Clifford Wheatley           21 
-                    Games:   1                     Games:   9 
-                Aggregate: 139                 Aggregate: 206 
-                   Points:   4                    Points:  26 
+          Calverley                   Wharfemeadows B         
+Terry Lilley                21 David Warburton              4 
+Geoff Yewdall               21 Gill Godden                 17 
+Malcolm Pratt               21 Malcolm Levi 'Ab'           19 
+Derek Whitaker              21 Paul Bowden                 13 
+Margaret Whitaker           21 Raymond Smith Snr           15 
+Roy Whiteley                17 Jane Bowden 'Ab'            21 
+Alan Horsfield              21 Jean Crawford               14 
+Anne Newlove                21 Linda Yates 'Ab'            10 
+Rory Bligh                  21 John Parker                 12 
+Clifford Wheatley           21 Michael Taylor 'Ab'         14 
+                    Games:   9                     Games:   1 
+                Aggregate: 206                 Aggregate: 139 
+                   Points:  26                    Points:   4 
 
           Division 4                    Sat 17th May          
           Baildon C                    Myrtle Park C          
@@ -6141,6 +6141,22 @@ Tony Derrick                21 Mick Duke                    4
                    Points:  20                    Points:  10 
 
            Premier                      Sat 9th Aug           
+        Meanwood Park                     Oxenhope            
+Joanne Speight              20 Mary Hemsley                21 
+Jonathan Orbell             19 Sue Cook                    21 
+Simon Walder                21 Trevor Douglas              10 
+Douglas Blair               21 Lorraine Douglas             8 
+Ian Howard                  21 Colin Bilney                 2 
+Andy Swain                  21 David Milnes                 8 
+Matthew Turner              21 Derek Pollard               13 
+Karen Portman               15 Debbie Hosty                21 
+Chris Daysh                 21 Stephen Peers               17 
+Steve Longley               15 Richard Hemsley             21 
+                    Games:   6                     Games:   4 
+                Aggregate: 195                 Aggregate: 142 
+                   Points:  22                    Points:   8 
+
+           Premier                      Sat 9th Aug           
          Sutton Park                      Rawdon A            
 Alan Barber                 21 Bernard Harrison             8 
 James Ralph Jennings        21 Stan Parker                  8 
@@ -6270,7 +6286,7 @@ Stuart Whitehouse           21 David Pike 'A'              20
 
           Division 2                    Sat 9th Aug           
            Starbeck                     Grove Hill A          
-Dave Stockdale              21 Tony Farrar                 18 
+Debbie Stockdale            21 Tony Farrar                 18 
 Carol Abbott                21 David Samuel                17 
 Brian Baldry                14 Diane Farrar                21 
 Debbie Kilvington           21 David Locke                 14 
@@ -6495,5 +6511,21 @@ Philip Sykes                21 Brian Clark                  6
                     Games:   5                     Games:   3 
                 Aggregate: 147                 Aggregate: 114 
                    Points:  19                    Points:   9 
+
+          Division 1                    Sun 10th Aug          
+         Holt Park A                  Wharfemeadows A         
+Ernest Johnson              21 Michael Smith               15 
+David Lyons                 19 Alan Broadwell 'A'          21 
+Mike Cox                    15 Ben Smith                   21 
+Tony Watson 'A'             21 Mark Silvester 'A'          12 
+Debbie Sandles              21 Pauline Barnett              9 
+Carol Matthews              13 Margaret Marwood            21 
+David Sadler                 7 Jean Harrison               21 
+Peter Byford 'A'            21 Graham Tansley              12 
+Sylvia Petty 'A'            14 Paul Crawford 'A'           21 
+John Patrick 'A'            15 John Chippindale 'A'        21 
+                    Games:   4                     Games:   6 
+                Aggregate: 167                 Aggregate: 174 
+                   Points:  13                    Points:  17 
 
 
