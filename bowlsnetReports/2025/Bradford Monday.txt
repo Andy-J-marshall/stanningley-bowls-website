@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Sun 10th Aug)
+=== Bradford (Mon. Evening) 2025 (as of Mon 11th Aug)
 === Comp. Match Cards
 
   Division 1 - Thurston           Mon 7th Apr         
@@ -2208,5 +2208,89 @@ Elizabeth Farrar        14 Steve Edgley            21
             Aggregate: 107             Aggregate: 100 
                 Games:   3                 Games:   3 
                Points:  14                Points:  12 
+
+  Division 1 - Thurston           Mon 11th Aug        
+     Spen Victoria A             West Bradford        
+Peter Ellis             21 Kevin Buckley           14 
+Mark Worrall            21 Jason Greenwood         11 
+Kevin Wood              21 Stuart Graham           17 
+Debi Davis              21 Mark Woolner            10 
+Mark Goodall            21 Gregg Fairhead          18 
+Mark Ellis              19 Mark Chambers           21 
+            Aggregate: 124             Aggregate:  91 
+                Games:   5                 Games:   1 
+               Points:  20                Points:   6 
+
+  Division 1 - Thurston           Mon 11th Aug        
+      Shipley Club A             Heckmondwike A       
+Chris Jacques           21 Eric Franks              8 
+Richard Bloodworth      21 Sean Carter             20 
+Craig Fenton            21 Ash Harker               7 
+Ian Jacques             21 Charlie Sykes            6 
+Stuart Wilson           21 Roy Carter              18 
+David Bland             21 Norman Booth            10 
+            Aggregate: 126             Aggregate:  69 
+                Games:   6                 Games:   0 
+               Points:  25                Points:   1 
+
+  Division 1 - Thurston           Mon 11th Aug        
+         Hightown                  Asa Briggs         
+Daren Munt              21 Curtis Brown             8 
+Darren Goodall          21 Paula Graham            17 
+Logan Preston           21 Gary Woodhead           17 
+Peter Simpson           20 Carl Smith              21 
+Hayley Wood              9 Michael Frost           21 
+Tom Gilbert              9 Clive Foord             21 
+            Aggregate: 101             Aggregate: 105 
+                Games:   3                 Games:   3 
+               Points:  12                Points:  14 
+
+ Division 3 - City Sports         Mon 11th Aug        
+      Drighlington B               Queensbury         
+David Dowse             21 Lorraine Birch          16 
+Pat Brooke              15 Michael Clare           21 
+Karl Denville           21 John Moore              12 
+Judy Atkinson           13 David Jarvis            21 
+Graham Fuller           14 Muriel Keighley         21 
+Steve Wrigglesworth     21 Keith Turner            17 
+            Aggregate: 105             Aggregate: 108 
+                Games:   3                 Games:   3 
+               Points:  12                Points:  14 
+
+ Division 3 - City Sports         Mon 11th Aug        
+        Clayton B                   Thornton          
+Lee Greenwood           14 Kenny McCafferty        21 
+Sue Findlay             21 Dawn Rigget             14 
+Joe Midgley             13 June Harrison           21 
+Ian Findlay             21 Mervyn Gration           2 
+Steve Edgley            21 Barry Austin            18 
+Malcolm Riggs           21 Anthony Lockwood         8 
+            Aggregate: 111             Aggregate:  84 
+                Games:   4                 Games:   2 
+               Points:  18                Points:   8 
+
+ Division 3 - City Sports         Mon 11th Aug        
+       Brackenhill                 Tyersal B          
+John Howarth            15 Byron Whalley           21 
+Ellie Campbell          13 Russell Hudson          21 
+Bob Armitage            21 Christine Hillas        16 
+Kathy Wilford           21 Brenda Hudson           10 
+Madeline Gamble         13 Jeffrey Smith           21 
+Graham Wilkinson 'A'    21 Edgar Rhodes            15 
+            Aggregate: 104             Aggregate: 104 
+                Games:   3                 Games:   3 
+               Points:  13                Points:  13 
+
+ Division 3 - City Sports         Mon 11th Aug        
+     Bradford Moor B            Bradford Moor A       
+Diane Barraclough       13 Tracy Duxbury           21 
+Dave English             1 Michael Jarvis          21 
+Edward East             21 Neil Duxbury            17 
+Martin Barraclough      13 Mark Durrans 'A'        21 
+Geoff Woodfine          14 Sharon Queripel         21 
+Margaret East            6 Christine Jarvis        21 
+            Aggregate:  68             Aggregate: 122 
+                Games:   1                 Games:   5 
+               Points:   3                Points:  23 
 
 
