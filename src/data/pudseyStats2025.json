@@ -124,12 +124,12 @@
             }
         },
         "eleanor graves": {
-            "totalAgg": 140,
-            "totalAggAgainst": 269,
-            "availableAgg": 273,
+            "totalAgg": 149,
+            "totalAggAgainst": 290,
+            "availableAgg": 294,
             "availablePairsAgg": 0,
             "availableHomeAgg": 105,
-            "availableAwayAgg": 126,
+            "availableAwayAgg": 147,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -138,14 +138,14 @@
             "totalHomeAggAgainst": 104,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 57,
-            "totalAwayAggAgainst": 123,
+            "totalAwayAgg": 66,
+            "totalAwayAggAgainst": 144,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 1,
             "homeLosses": 4,
             "awayWins": 1,
-            "awayLosses": 5,
+            "awayLosses": 6,
             "cupWins": 0,
             "cupLosses": 2,
             "pairWins": 0,
@@ -156,7 +156,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 13,
+            "totalGamesPlayed": 14,
             "results": [
                 "eleanor graves 14 - 21 janet warburton",
                 "eleanor graves 5 - 21 david kirk",
@@ -170,7 +170,8 @@
                 "eleanor graves 21 - 20 peter warren",
                 "eleanor graves 6 - 21 vanda greenwood",
                 "eleanor graves 21 - 18 elaine blandford",
-                "eleanor graves 8 - 21 susan rymer"
+                "eleanor graves 8 - 21 susan rymer",
+                "eleanor graves 9 - 21 chris head"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -183,9 +184,9 @@
                 "aggDiff": 0
             },
             "airewharfe vets": {
-                "games": 13,
+                "games": 14,
                 "wins": 2,
-                "aggDiff": -129
+                "aggDiff": -141
             },
             "mirfield": {
                 "games": 0,
@@ -723,6 +724,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "11/08/2025",
+    "lastUpdated": "12/08/2025",
     "statsYear": "2025"
 }

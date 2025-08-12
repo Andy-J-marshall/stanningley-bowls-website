@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Mon 11th Aug)
+=== Bradford (Mon. Evening) 2025 (as of Tue 12th Aug)
 === Comp. Match Cards
 
   Division 1 - Thurston           Mon 7th Apr         
@@ -2208,6 +2208,18 @@ Elizabeth Farrar        14 Steve Edgley            21
             Aggregate: 107             Aggregate: 100 
                 Games:   3                 Games:   3 
                Points:  14                Points:  12 
+
+  Division 1 - Thurston           Mon 11th Aug        
+        Tyersal A                   Farsley           
+Mason Lindley           18 Peter Crowther          21 
+Pam Lindley             21 Graham Petty            12 
+Simon Metcalfe          21 Jim Swailes             19 
+Chris Mordue            21 Ken Gilroy               8 
+Gary Wike               21 Richard Whittaker        9 
+Philip Wilsdon          21 Dean Helliwell          15 
+            Aggregate: 123             Aggregate:  84 
+                Games:   5                 Games:   1 
+               Points:  21                Points:   5 
 
   Division 1 - Thurston           Mon 11th Aug        
      Spen Victoria A             West Bradford        
