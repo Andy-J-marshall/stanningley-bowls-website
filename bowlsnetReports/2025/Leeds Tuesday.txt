@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday) 2025 (as of Mon 11th Aug)
+=== Leeds & District (Tuesday) 2025 (as of Tue 12th Aug)
 === League Match Cards
 
       Division 1            Tue 8th Apr       
@@ -2613,5 +2613,135 @@ Colin Chadwick      21 Margaret Johnstone  10
 Terry Cook          12 Tony Morris         21 
          Handicap: Scr          Handicap: +20 
         Aggregate: 159         Aggregate: 143 
+
+      Division 1            Tue 12th Aug      
+    Roundhay Pk A          Churwell Park      
+Andrew Ford         21 Graham Goodall       2 
+Jim Bird            21 Sue Harrison         4 
+John Lucas          21 Steve Briggs         8 
+Paul Burke          21 Martin Huxley       13 
+Andy Sharratt       21 Mick Harrison       19 
+Ralph Taylor        21 Robert Spink        19 
+Paul Johnson        17 Lawrie Bairstow     21 
+Andrew Lloyd        14 Ellen Barraclough   21 
+        Aggregate: 157         Aggregate: 107 
+           Points:  35            Points:  21 
+
+      Division 1            Tue 12th Aug      
+    New Farnley A           Rothwell BC       
+Simon Lavan         21 Lyn Owen             2 
+David Taylor        14 Georgina Holmes     21 
+Paul Jagger         21 Mick Goodhall        8 
+Paul Wood           21 Peter Linley        18 
+Ian Lynch           21 John Ainsley        12 
+Andy Gardiner       21 Charlotte Holmes    16 
+Ian Worrall         21 Geoff Newbould      19 
+Andy Thompson       21 Ron Owen            11 
+        Aggregate: 161         Aggregate: 107 
+           Points:  37            Points:  21 
+
+      Division 1            Tue 12th Aug      
+     Calverley YP            Meanwood A       
+Lindsey Rosendale   10 Michael Gregory     21 
+Clifford Wheatley   21 Craig Goodall       12 
+Michael Bennett     21 Douglas Blair       19 
+Stephen Spurr       21 Steve Jones          9 
+Carol Matthews       9 Ian Howard          21 
+Rory Bligh          18 Andy Webster        21 
+Roger French        21 Mickey Rennison     11 
+Ricky Kearns        21 Darren Cookson      14 
+        Aggregate: 142         Aggregate: 128 
+           Points:  32            Points:  26 
+
+      Division 2            Tue 12th Aug      
+    New Wortley A        Chapel Allerton A    
+Andrew Cole         21 David Blackwell     14 
+Trevor Dawson       21 Tommy Massey        13 
+Angela Morley       14 Mandy Wilson        21 
+Malcolm Crowson     13 Matthew Watson      21 
+Jerry Wood          10 Steven Bottomley    21 
+Stephen Morley      21 Dave Hill            8 
+Danny Dawson        15 Royce Jackson       21 
+Paul Shackleton     21 Colin Wilson        13 
+        Aggregate: 136         Aggregate: 132 
+           Points:  29            Points:  27 
+
+      Division 2            Tue 12th Aug      
+      Holt Park             Gildersome A      
+Terry Cook          14 Harvey Lockwood     21 
+Sylvia Petty        21 Graham Gaunt        15 
+Tony Watson         21 David Norton        19 
+Debbie Sandles      14 Ian Stocks          21 
+Peter Byford        21 Kevin Smales        13 
+John Patrick        14 Linda Gaunt         21 
+Mike Cox            21 David Taylor        16 
+Colin Chadwick       5 Alan Procter        21 
+        Aggregate: 131         Aggregate: 147 
+           Points:  27            Points:  32 
+
+      Division 3            Tue 12th Aug      
+     Gildersome B          Middleton Comm     
+Glenda Holmes       21 Shirley Biancardo   18 
+Neil Schofield      10 Neil Hudson         21 
+John Ackroyd         3 Gordon Monk         21 
+Tracy Norton        21 Malcolm Cameron     10 
+Margaret Johnstone  11 Mark Aspin          21 
+Tony Morris         16 Malcolm Hallas      21 
+Alison Lockwood     21 Karl Chapman         2 
+Kay Stewart         16 Mario Biancardo     21 
+        Aggregate: 119         Aggregate: 135 
+           Points:  25            Points:  31 
+
+      Division 3            Tue 12th Aug      
+    Moor Allerton          New Farnley B      
+George Ramsden      21 Barbara Taylor      20 
+Anne Miller          9 Bob Taylor          21 
+Susan Lee           21 Graham Davison      16 
+Rodney Cundle       21 Jean Milner         14 
+Ian Franllin        21 Pat Skelton         12 
+Martin Kaitcer      21 Keith Skelton       20 
+Geoff West          21 John Ingham         15 
+John Alper          21 Roger Milner        13 
+        Aggregate: 156         Aggregate: 131 
+           Points:  36            Points:  25 
+
+      Division 3            Tue 12th Aug      
+      Meanwood B            Holbeck Moor      
+Pat Prosser         11 Russell Porter      21 
+David L Miller       9 Wayne Warburton     21 
+Tina Howard          9 John Binns          21 
+Ian Macfarlane       9 Steve Milton        21 
+Jeff Dumbrell       21 Geoff Warbuton       9 
+Pat Blackburn       21 Lorraine Barker     13 
+Phil McStay         21 Brian Thompson      15 
+Graham Hey          21 Jim Barker          15 
+        Aggregate: 122         Aggregate: 136 
+           Points:  25            Points:  29 
+
+      Division 3            Tue 12th Aug      
+        Colton             Pudsey Park A      
+John Malthouse      21 Frank Lindsay        8 
+Andrew Stocks       12 Brian Stevens       21 
+David Ryder         11 Peter Huffinley     21 
+Brian Scholes       19 Elaine Hill         21 
+James Watkins       21 Callum Birkin       10 
+Nicholas Ryder      20 Carl Birkin         21 
+David Clarkson      21 Dennis Walters      10 
+Anthony Rushfirth   21 Darren Lowe         14 
+        Aggregate: 146         Aggregate: 126 
+           Points:  32            Points:  27 
+
+      Division 3            Tue 12th Aug      
+    Pudsey Park B           Garforth C C      
+Maureen Bradshaw    21 Craig White         16 
+Barbara Moss        21 Helen Dickinson     15 
+Bill Pyett          17 Ann Doughty         21 
+Derek Howell        14 Andrew Grunwell     21 
+Barbara Nellis      16 Steve Barltrop      21 
+Jane Hirst          21 Thomas Cranston     15 
+Stephen Morris      14 Doughty Ian         21 
+Peter Colley        10 Phil Lodge          21 
+        Aggregate: 134         Aggregate: 151 
+           Points:  27            Points:  34 
 
 
