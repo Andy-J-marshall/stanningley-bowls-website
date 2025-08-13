@@ -1426,10 +1426,10 @@ David Wright       20 David Eaton          21
 Chris Boyd         15 Jim Moorin           21 
 Margaret Finister  14 Andy Waller          21 
 Ken Maxim          12 Stewart Watson       21 
-Jennifer Dodgson   17 Jim Swailes          21 
+Jennifer Dodgson    8 Jim Swailes          21 
 Jack Finister      17 Duncan McPhail       21 
 Jane Boyd          17 Paul Bowes           21 
-       Aggregate: 120          Aggregate: 168 
+       Aggregate: 111          Aggregate: 168 
 
      Semi-Finals           Tue 12th Aug       
                           On Drighlington     
