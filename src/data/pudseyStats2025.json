@@ -561,12 +561,12 @@
             }
         },
         "stewart watson": {
-            "totalAgg": 780,
-            "totalAggAgainst": 759,
-            "availableAgg": 945,
+            "totalAgg": 801,
+            "totalAggAgainst": 778,
+            "availableAgg": 966,
             "availablePairsAgg": 21,
             "availableHomeAgg": 462,
-            "availableAwayAgg": 441,
+            "availableAwayAgg": 462,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 21,
@@ -575,13 +575,13 @@
             "totalHomeAggAgainst": 344,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 352,
-            "totalAwayAggAgainst": 375,
+            "totalAwayAgg": 373,
+            "totalAwayAggAgainst": 394,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 15,
             "homeLosses": 7,
-            "awayWins": 9,
+            "awayWins": 10,
             "awayLosses": 12,
             "cupWins": 1,
             "cupLosses": 1,
@@ -593,7 +593,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 45,
+            "totalGamesPlayed": 46,
             "results": [
                 "stewart watson & ian shaw 21 - 19 james teale & graham oliver",
                 "stewart watson 21 - 12 terri durrans",
@@ -624,6 +624,7 @@
                 "stewart watson 21 - 15 a dagg",
                 "stewart watson 19 - 21 paul gill",
                 "stewart watson 21 - 11 tony riley",
+                "stewart watson 21 - 19 david billington",
                 "stewart watson 21 - 15 peter howroyd",
                 "stewart watson 16 - 21 john beverley",
                 "stewart watson 17 - 21 bill swales",
@@ -667,9 +668,9 @@
                 "aggDiff": 0
             },
             "mirfield (c)": {
-                "games": 14,
-                "wins": 5,
-                "aggDiff": -57
+                "games": 15,
+                "wins": 6,
+                "aggDiff": -55
             },
             "bradford half holiday": {
                 "games": 0,
@@ -724,6 +725,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "12/08/2025",
+    "lastUpdated": "13/08/2025",
     "statsYear": "2025"
 }

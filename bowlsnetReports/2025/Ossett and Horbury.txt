@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Tue 12th Aug)
+=== Ossett & Horbury 2025 (as of Wed 13th Aug)
 === League Match Cards
 
          Division 3                   Tue 8th Apr          
@@ -4869,5 +4869,17 @@ Sam Ascough               20 Carl Bland                 21
 Darren Addison            21 John Birkett                8 
 Derek Hawes               21 Tony Hunter                 6 
               Aggregate: 139                Aggregate: 108 
+
+         Division 5                  Tue 12th Aug          
+       Wakefield BC B               Wake Thornes B         
+Dorothy Smith             21 Susan Holling               7 
+Margaret Shand            21 Leo Herrera                11 
+Nigel Brook               16 June Herrera               21 
+David Carter              12 Brian Oselton              21 
+Michael Murphy            21 Wayne Holling              17 
+Ron Greenwood             21 Khalid Mahmood             17 
+Margaret Carter           21 G Milner                   13 
+Anita Lawson              21 R Stables                   9 
+              Aggregate: 154                Aggregate: 116 
 
 
