@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday) 2025 (as of Tue 12th Aug)
+=== Leeds & District (Tuesday) 2025 (as of Wed 13th Aug)
 === League Match Cards
 
       Division 1            Tue 8th Apr       
@@ -2633,7 +2633,7 @@ Simon Lavan         21 Lyn Owen             2
 David Taylor        14 Georgina Holmes     21 
 Paul Jagger         21 Mick Goodhall        8 
 Paul Wood           21 Peter Linley        18 
-Ian Lynch           21 John Ainsley        12 
+Ryan Lynch          21 John Ainsley        12 
 Andy Gardiner       21 Charlotte Holmes    16 
 Ian Worrall         21 Geoff Newbould      19 
 Andy Thompson       21 Ron Owen            11 
@@ -2678,6 +2678,32 @@ Mike Cox            21 David Taylor        16
 Colin Chadwick       5 Alan Procter        21 
         Aggregate: 131         Aggregate: 147 
            Points:  27            Points:  32 
+
+      Division 2            Tue 12th Aug      
+      Manston Pk          East End Park A     
+David Morley        21 Matt Ramsey         17 
+Jim Jordan          21 Dave Howard         12 
+Elizabeth Quigley   21 Sophie Olivant      14 
+John Townsend       21 Josey Olivant       19 
+Anthony Marsden     10 Paul Reynard        21 
+Michael Monaghan    18 Helen Simms         21 
+David Wall          14 Dave Smith          21 
+Jonathan Moriaty    21 Steve Olivant       12 
+        Aggregate: 147         Aggregate: 137 
+           Points:  33            Points:  28 
+
+      Division 2            Tue 12th Aug      
+   Crossgates Rec A       Stanningley Park    
+Dave Farman         21 Richard Hodgson     16 
+Bob Patterson       21 Andy Hodgson        19 
+Alan Wood           21 Malvin Miller       18 
+Maria Durkan        21 Colin Haque         12 
+Dave Sharp          21 Phil Sutcliffe      17 
+James Tayolr        21 Bob Marshall        18 
+Graham Scholes      21 Stuart Potter       12 
+John Durkan         16 Andrew Marshall     21 
+        Aggregate: 163         Aggregate: 133 
+           Points:  38            Points:  27 
 
       Division 3            Tue 12th Aug      
      Gildersome B          Middleton Comm     
