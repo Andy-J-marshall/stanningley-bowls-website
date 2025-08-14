@@ -1,4 +1,4 @@
-=== Bradford (Vets) 2025 (as of Wed 13th Aug)
+=== Bradford (Vets) 2025 (as of Thu 14th Aug)
 === Comp. Match Cards
 
 Division Four ( 6 Players)       Thu 10th Apr       
@@ -4426,5 +4426,17 @@ Paul Wood                18 Colin Fallows        21
              Aggregate:  93          Aggregate: 115 
                  Games:   2              Games:   4 
                 Points:   8             Points:  18 
+
+Division Four ( 6 Players)       Thu 14th Aug       
+         Clayton C                 Thornton         
+Ray Wadsworth            21 Dawn Riggett          7 
+Joe Midgley              19 Karen Brame          21 
+Trevor Bateman           21 Barry Austin         11 
+Ian Findlay              21 Sheila Farr           9 
+Peter Barker             21 Steve Tomkinson       7 
+Kenny McCafferty         21 Anthony Lockwood      7 
+             Aggregate: 124          Aggregate:  62 
+                 Games:   5              Games:   1 
+                Points:  24             Points:   2 
 
 
