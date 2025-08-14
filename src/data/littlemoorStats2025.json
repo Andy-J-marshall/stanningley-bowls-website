@@ -220,25 +220,25 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 929,
-            "totalAggAgainst": 898,
-            "availableAgg": 1134,
+            "totalAgg": 950,
+            "totalAggAgainst": 903,
+            "availableAgg": 1155,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 525,
+            "availableHomeAgg": 546,
             "availableAwayAgg": 546,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 480,
-            "totalHomeAggAgainst": 382,
+            "totalHomeAgg": 501,
+            "totalHomeAggAgainst": 387,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 400,
             "totalAwayAggAgainst": 458,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 16,
+            "homeWins": 17,
             "homeLosses": 9,
             "awayWins": 11,
             "awayLosses": 15,
@@ -252,7 +252,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 54,
+            "totalGamesPlayed": 55,
             "results": [
                 "jim moorin 21 - 2 janice connaleigh",
                 "jim moorin 10 - 21 deborah swann",
@@ -298,6 +298,7 @@
                 "jim moorin 3 - 21 kevin rankin",
                 "jim moorin 18 - 21 peter jefferson",
                 "jim moorin 15 - 21 dave jowett",
+                "jim moorin 21 - 5 jeremy jones",
                 "jim moorin 21 - 10 michael sansom",
                 "jim moorin 14 - 21 jordan edmondson",
                 "jim moorin 21 - 19 peter owen",
@@ -350,9 +351,9 @@
                 "aggDiff": -31
             },
             "bradford vets": {
-                "games": 11,
-                "wins": 5,
-                "aggDiff": -1
+                "games": 12,
+                "wins": 6,
+                "aggDiff": 15
             },
             "ossett and horbury": {
                 "games": 0,

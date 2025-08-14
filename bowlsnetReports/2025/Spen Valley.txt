@@ -5033,6 +5033,19 @@ Tony Render             16 Peter Scott             21
                Points:   7                Points:   3 
 
         Division 2                Wed 13th Aug        
+     New Farnley - B                Holbeck           
+Roger Milner            20 Kyle Hainsworth         21 
+Dave Taylor             16 Paul Hainsworth         21 
+John Ingham              9 Alex Perry              21 
+Andy Gardener           21 *No Player*              0 
+Keith Skelton           19 Daniel Owen             21 
+Jake Skelton            19 Andrew Dewhirst         21 
+David J Taylor          21 Kian Hendry             11 
+Jean Milner             21 *No Player*              0 
+            Aggregate: 146             Aggregate: 116 
+               Points:   5                Points:   5 
+
+        Division 2                Wed 13th Aug        
        Rastrick - A              Pudsey BC - B        
 David Wood              17 Logan Preston           21 
 Joshua Smith            21 Gary Thornton           11 
@@ -5053,7 +5066,7 @@ Andy Mitchell           21 David Taylor             7
 Ben English              9 Kevin Smales            21 
 Orla Horsey             21 Harvey Lockwood         19 
 Ruby Whalley            16 Alan Procter            21 
-Lewis Whalley           21 Tracey Norton           11 
+Lewis Whalley           21 David Norton            11 
 Sarha Horsley           11 Gary Hudson             21 
             Aggregate: 133             Aggregate: 140 
                Points:   4                Points:   7 
@@ -5148,6 +5161,32 @@ Paul Cooper             17 Mark Gummery            21
 *No Player*              0 Ian Boldy               21 
             Aggregate:  68             Aggregate: 163 
                Points:   1                Points:  10 
+
+        Division 3                Thu 14th Aug        
+      Pudsey BC - C              Scatcherd Park       
+Janice Connaleigh       21 Billy Ward              20 
+Angie Morris            20 Steve Briggs            21 
+Andy Barnatt            10 Michael Geary           21 
+David McDonald          20 Stuart Wardlaw          21 
+Rick Pearson            21 Roy Kellett              9 
+Steve Harwood           21 Martin Huxley            8 
+Taylor Smith            21 Graham Goodall           9 
+Melissa Morris          19 Richard Stott           21 
+            Aggregate: 153             Aggregate: 130 
+               Points:   6                Points:   4 
+
+        Division 3                Thu 14th Aug        
+  Cleckheaton Sports - F       Spen Victoria - C      
+Ian Webb                 8 John Smith              21 
+Steve Smith             10 Terry Varney            21 
+Richard Oldroyd         21 Mel Blackburn           12 
+Gordon Piper             7 John Shackleton         21 
+Matthew Stephenson       3 Steve Kemp              21 
+Ian Gatenby             17 Michael Griffiths       21 
+Mark Waite               8 Paul Walker             21 
+Ryan Piercy             21 Lucas Wood              20 
+            Aggregate:  95             Aggregate: 158 
+               Points:   2                Points:   9 
 
 
        Round of 32                   Sat 5th Apr           
