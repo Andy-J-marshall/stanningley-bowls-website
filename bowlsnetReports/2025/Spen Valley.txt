@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Wed 13th Aug)
+=== West Riding & Spen Valley 2025 (as of Thu 14th Aug)
 === Comp. Match Cards
 
          Premier                  Wed 16th Apr        
@@ -4877,6 +4877,19 @@ Amy Tobin               21 Andy Howie              10
                Points:   7                Points:   3 
 
          Premier                  Wed 13th Aug        
+        Crossgates              Heckmondwike - A      
+Nigel Cranston          14 Alex Wolfenden          21 
+Kez Smith               21 Graham Higgins          14 
+Garreth Lally           21 Charlie Ripley          20 
+Jonathan Wood           21 Tom Gilbert              8 
+Dean Hopwood            21 Sam Beresford           19 
+Liam Griffin            21 Jude Hatfield-Goodall    9 
+Chris Broughton         21 Sean Carter             14 
+Harry Seehra            21 Jacob Hatfield-Goodall  14 
+            Aggregate: 161             Aggregate: 119 
+               Points:   9                Points:   1 
+
+         Premier                  Wed 13th Aug        
     Spen Victoria - A         Brighouse Sports - A    
 Mark Goodall            21 John Bloomer             5 
 Peter Ellis             21 Mark Connolly           19 
@@ -4888,6 +4901,19 @@ Lewis Pember            10 Stuart Fletcher         21
 Garry Walker            16 Dale Dyson              21 
             Aggregate: 140             Aggregate: 127 
                Points:   6                Points:   4 
+
+         Premier                  Wed 13th Aug        
+      Pudsey BC - A              Littlemoor - A       
+David Hilliam           21 Martin Fulton           10 
+Matthew Leaf            12 Will Bedford            21 
+Pam Lindley             17 Marc Armitage           21 
+Simon Metcalfe          21 Kevin Siddle            13 
+Dave Smith              21 Lee Wider               10 
+Jamie Winterburn        21 Tom Morris              14 
+Philip Wilsdon          21 Paul Bowes              12 
+Stuart Hanson           21 Johnny Orbell           20 
+            Aggregate: 155             Aggregate: 121 
+               Points:   8                Points:   2 
 
          Premier                  Wed 13th Aug        
        Shipley - A                  Guiseley          
@@ -4903,6 +4929,19 @@ Stuart Wilson           21 Graham Oliver           11
                Points:   8                Points:   2 
 
         Division 1                Wed 13th Aug        
+   Brighouse Sports - B         Harold Club - A       
+Peter Owen              21 Stuart Firth            19 
+Tony Naylor             21 David Halligan          16 
+Jason Horsley           21 Eddie Hill              14 
+Jamie Horsley           21 Andy Bairstow            9 
+Dave Scott              21 Nigel Wormald           11 
+Helen Simpson           14 Chris Sowden            21 
+Ian Moxon               21 Ian Wilson               7 
+Simon Cresswell         15 Thomas Jagger           21 
+            Aggregate: 155             Aggregate: 118 
+               Points:   8                Points:   2 
+
+        Division 1                Wed 13th Aug        
   Mirfield Old Bank - A           Swillington         
 John Hopkinson          21 Chris Firth             15 
 Andrew Sykes            21 Nathan Conlon           12 
@@ -4914,6 +4953,45 @@ Neil Shaw               21 Andrew Morris           19
 Bryan Ibbetson           8 David Waldron           21 
             Aggregate: 118             Aggregate: 151 
                Points:   3                Points:   8 
+
+        Division 1                Wed 13th Aug        
+    Spen Victoria - B        Cleckheaton Sports - A   
+Phil Rayner             14 Tony Throup             21 
+Paul Blackburn          21 Andy Robinson            8 
+Richard Brooke          21 Jason Townend           15 
+David Billington        10 Stuart Johnson          21 
+Ian Gould               21 John Wilson              7 
+Ann Billington          10 Tim Hall                21 
+Harry Brooke            21 Stephen Archer          14 
+Paul Warwick            19 Richard Toulson         21 
+            Aggregate: 137             Aggregate: 128 
+               Points:   6                Points:   4 
+
+        Division 1                Wed 13th Aug        
+      Chapel Street               Shipley - B         
+Dale Hardcastle         21 Garry Nellist           11 
+Paul Tobin              21 Jason Bridge            18 
+Steve Hartley           15 John Sample             21 
+David Smith             15 Rachel Telford          21 
+Owen Laurie             21 Andrew Walker            8 
+Joe Ruddlesden          21 Tony Spivey              8 
+Neil Wood Snr           21 Michael Kane             7 
+Scott Bailey            21 John Preston            11 
+            Aggregate: 156             Aggregate: 105 
+               Points:   8                Points:   2 
+
+        Division 1                Wed 13th Aug        
+      Littlemoor - B            New Farnley - A       
+Andy Marshall           21 Sophie Worrall           2 
+John Stocks             21 Ian Lynch                7 
+Kath Mazurke            21 Ryan Lynch              17 
+Thomas Powell           13 Andrew Thompson         21 
+Stuart Watson           21 Ian Worrall             14 
+Alyssa Randell          13 Paul Jagger             21 
+Philip Thornton         19 Simon Lavan             21 
+Alan Mazurke            21 Paul Wood                8 
+            Aggregate: 150             Aggregate: 111 
+               Points:   7                Points:   3 
 
         Division 2                Wed 13th Aug        
   Cleckheaton Sports - B     Mirfield Old Bank - B    
@@ -4940,6 +5018,19 @@ Tony Godfrey            15 Lee Collinson           21
 Vince Cleary             6 Mick Stewart            21 
             Aggregate: 138             Aggregate: 145 
                Points:   3                Points:   8 
+
+        Division 2                Wed 13th Aug        
+      Hanging Heaton                Farsley           
+Jacob Amatt             21 Derek Pickering         12 
+Alwyn Beedel            21 Dean Helliwell           9 
+Gary Amatt              21 Jim Swailes             13 
+Derek North             17 Duncan McPhail          21 
+Mark McGuire            15 Peter Crowther          21 
+Malcolm Preston         21 Stuart Brook            13 
+Kath Robinson           21 Graham Petty            20 
+Tony Render             16 Peter Scott             21 
+            Aggregate: 153             Aggregate: 130 
+               Points:   7                Points:   3 
 
         Division 2                Wed 13th Aug        
        Rastrick - A              Pudsey BC - B        
@@ -5017,6 +5108,45 @@ Dot Shaw                 2 Brian Smith             21
 Jenson Gilroy            8 Archie Wood             21 
 Roger Binks             21 Harry Talbot            11 
             Aggregate: 106             Aggregate: 158 
+               Points:   1                Points:  10 
+
+        Division 4                Wed 13th Aug        
+     Heckmondwike - B              Firth Park         
+Ash Harker              21 Alison Hodgson           5 
+Daren Goodall           19 Gary Morton             21 
+Janet Firth             21 Mark Prideaux           15 
+Marie Franks            19 Michael Wood            21 
+Eric Franks             18 Steve Rhodes            21 
+Peter Buchan            21 Alan Parkin             13 
+Hayley Wood             21 Graham Pearce           14 
+Danny Logan             21 Matty Mongan            15 
+            Aggregate: 161             Aggregate: 125 
+               Points:   7                Points:   3 
+
+        Division 4                Wed 13th Aug        
+       Drighlington          Cleckheaton Sports - D   
+Ken Oates               21 Neil Blackburn           8 
+Graham Fuller           21 Linda Potter            11 
+Philip Keating          21 Janet Inness            17 
+Andy Brooke             21 Alan Holmes             17 
+Ian Fairhurst           21 Chris Watson            20 
+Pat Brooke              21 Alan Potter             12 
+Steve Wrigglesworth     21 Gillian Shore           11 
+Richard Jones           21 Chris Piercy            19 
+            Aggregate: 168             Aggregate: 115 
+               Points:  10                Points:   0 
+
+        Division 4                Wed 13th Aug        
+     Heckmondwike - C           Harold Club - C       
+Roger Jackson           10 Carl Maguire            21 
+George Tozer            20 Martin Watson           21 
+Steve Kidd              21 Bryan Firth             16 
+Paul Cooper             17 Mark Gummery            21 
+*No Player*              0 Stephen Council         21 
+*No Player*              0 Andrew Jacobs           21 
+*No Player*              0 Kelly Gummery           21 
+*No Player*              0 Ian Boldy               21 
+            Aggregate:  68             Aggregate: 163 
                Points:   1                Points:  10 
 
 

@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Wed. Pairs) 2025 (as of Wed 13th Aug)
+=== AireDale & Wharfedale (Wed. Pairs) 2025 (as of Thu 14th Aug)
 === League Match Cards
 
        Division 1                Wed 9th Apr        
@@ -2606,6 +2606,20 @@ Stewart Sunman            Glynn Goodyear
               Points:  16               Points:   8 
 
        Division 1               Wed 13th Aug        
+        Guiseley                  Ilkley A          
+Maureen Jarvis         25 Terry Almond           26 
+Peter Storey              Andrew Breare             
+Roger Waite            26 Steve Senior           18 
+Jeremy Jones              Andrew Cook               
+Caroline Corbett       17 Steve Birch 'A'        26 
+Ralph Sissons             Cliff Taylor              
+John French            13 Steve Ackroyd          26 
+Chris Hight               Darren Thompson           
+           Aggregate:  81            Aggregate:  96 
+               Games:   1                Games:   3 
+              Points:   8               Points:  16 
+
+       Division 1               Wed 13th Aug        
  Burley in Wharfedale B            Adel A           
 Brian Wardle           26 Jean Shepherd          24 
 Nigel Steels              Bruce Tremlett            
@@ -2662,6 +2676,20 @@ Richard Gosnay            Paul Stoyles
               Points:  18               Points:   6 
 
        Division 2               Wed 13th Aug        
+      Wharfemeadows             Greenbottom A       
+Jean Crawford          12 Ann Ryley              26 
+Nancy Marston             Edgar Ryley               
+Jane Bowden            26 Karen Whitelaw         14 
+Paul Crawford             Mike Whitelaw             
+Lorna Crabtree         26 Bill Lovedale          23 
+Jeffrey Crabtree          Elinor Newhouse           
+Graham Tansley         26 Gary Poucher           21 
+Paul Bowden               Alan Bishop               
+           Aggregate:  90            Aggregate:  84 
+               Games:   3                Games:   1 
+              Points:  14               Points:  10 
+
+       Division 2               Wed 13th Aug        
         Ilkley B                 Grove Hill         
 Colin Spooner          26 Katherine Lodge        20 
 Bernie Connor             David Locke               
@@ -2688,6 +2716,48 @@ Tekla England             Rob Packer
            Aggregate: 100            Aggregate:  52 
                Games:   3                Games:   1 
               Points:  20               Points:   4 
+
+       Division 3               Wed 13th Aug        
+         Adel B                  Northcliffe        
+Lesley Williams        18 Michael Dennison       26 
+Paul Williams             Anne Idle                 
+John Auty              26 Denis Collet           14 
+Gordon Robinson           Peter Roy Lamonby         
+Alan Wittrick          12 Ian Chiverton          26 
+Phil Hayward              Andrea Chiverton          
+Sue Pagdin             17 David Idle             26 
+Steve Richardson          Valerie Haynes            
+           Aggregate:  73            Aggregate:  92 
+               Games:   1                Games:   3 
+              Points:   8               Points:  16 
+
+       Division 3               Wed 13th Aug        
+      Greenbottom B               Menston B         
+Diane Walker            7 Monty Navias           26 
+Keith Roberts             Stuart Davies             
+Sandy Watson           18 Christine Asquith      26 
+Trevor Dawson             Peter Gaston              
+Anne Raw               19 Joyce Bishop           26 
+Peter Raw                 Christine Hughes          
+Linda Summers          13 Jim Hughes             26 
+Dorothy Jackson           Rosemary Cowley           
+           Aggregate:  57            Aggregate: 104 
+               Games:   0                Games:   4 
+              Points:   3               Points:  21 
+
+       Division 3               Wed 13th Aug        
+       New Armley               Yeadon Park B       
+Walter Stockhill       26 Mark Sample            22 
+David Gregory             Adam Sample               
+Carol Robinson         23 David Poole            26 
+David Hurd                Marian Poole              
+Matthew Rollinson      26 Tim Nicholson          21 
+Mark Rollinson            Shirley Nicholson         
+Maureen Morris         24 Reid Haddow            26 
+Alan Taylor               Robert North              
+           Aggregate:  99            Aggregate:  95 
+               Games:   2                Games:   2 
+              Points:  13               Points:  11 
 
 
         Round 1                Wed 30th Apr        

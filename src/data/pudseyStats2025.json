@@ -409,25 +409,25 @@
             }
         },
         "richard hodgson": {
-            "totalAgg": 679,
-            "totalAggAgainst": 550,
-            "availableAgg": 735,
+            "totalAgg": 700,
+            "totalAggAgainst": 559,
+            "availableAgg": 756,
             "availablePairsAgg": 21,
-            "availableHomeAgg": 315,
+            "availableHomeAgg": 336,
             "availableAwayAgg": 357,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 20,
             "totalPairsAggAgainst": 21,
-            "totalHomeAgg": 293,
-            "totalHomeAggAgainst": 207,
+            "totalHomeAgg": 314,
+            "totalHomeAggAgainst": 216,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 324,
             "totalAwayAggAgainst": 290,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 12,
+            "homeWins": 13,
             "homeLosses": 3,
             "awayWins": 10,
             "awayLosses": 7,
@@ -441,7 +441,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 35,
+            "totalGamesPlayed": 36,
             "results": [
                 "richard hodgson & thomas hanson 20 - 21 kevin siddle & nick bastow",
                 "richard hodgson 21 - 12 david pike",
@@ -465,6 +465,7 @@
                 "richard hodgson 12 - 21 mark goodall",
                 "richard hodgson 21 - 6 phil robinson",
                 "richard hodgson 21 - 13 peter howroyd",
+                "richard hodgson 21 - 9 malcolm crotty",
                 "richard hodgson 21 - 5 richard whitaker",
                 "richard hodgson 17 - 21 lee collinson",
                 "richard hodgson 21 - 12 jan ingham",
@@ -510,9 +511,9 @@
                 "aggDiff": 4
             },
             "bradford half holiday": {
-                "games": 6,
-                "wins": 5,
-                "aggDiff": 32
+                "games": 7,
+                "wins": 6,
+                "aggDiff": 44
             },
             "bradford half holiday (b)": {
                 "games": 0,
@@ -725,6 +726,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "13/08/2025",
+    "lastUpdated": "14/08/2025",
     "statsYear": "2025"
 }
