@@ -1,4 +1,4 @@
-=== Leeds & District (Saturday) 2025 (as of Wed 13th Aug)
+=== Leeds & District (Saturday) 2025 (as of Sat 16th Aug)
 === League Match Cards
 
    Saturday League          Sat 5th Apr       
@@ -28,20 +28,6 @@ Paul Jagger         21 Maveen Tomlinson     5
 Ryan Lynch          21 Calum Birkin        14 
         Aggregate: 144         Aggregate: 117 
            Points:  31            Points:  24 
-
-   Saturday League          Sat 5th Apr       
-     League Div 1                             
-     Holbeck Moor           Cross Flatts      
-Geoff Warburton     11 Jason Potter        21 
-John Binns          21 Stephanie Wood       5 
-Steve Milton        21 Shirley Biancardo   15 
-Hilary Campbell     15 Jim Bootland        21 
-Brian Thompson      21 Paul Hatch          19 
-Steve Brown         21 John Lister         13 
-Mick Stott          18 Mario Biancardo     21 
-Wayne Warburton     21 Ian Wood             3 
-        Aggregate: 149         Aggregate: 118 
-           Points:  34            Points:  25 
 
    Saturday League          Sat 5th Apr       
      League Div 1                             
@@ -140,20 +126,6 @@ Cliff Brogie        18 Wayne Warburton     21
 Dennis Walters      13 Mick Stott          21 
         Aggregate: 120         Aggregate: 136 
            Points:  24            Points:  31 
-
-   Saturday League          Sat 12th Apr      
-     League Div 1                             
-     Cross Flatts         Sth Leeds Cons A    
-Ian Wood            20 David Brooke        21 
-Stacey Turner        4 Barbara Wherret     21 
-Mario Biancardo     21 Tony Auty           10 
-John Lister         21 Bob Emerson         18 
-Jim Bootland        19 Tim Newton          21 
-Shirley Biancardo   21 Mark Rastrick       10 
-Paul Hatch          21 Reece Pratt         18 
-Jason Potter        10 Derek McCormack     21 
-        Aggregate: 137         Aggregate: 140 
-           Points:  30            Points:  32 
 
    Saturday League          Sat 12th Apr      
      League Div 1                             
@@ -280,20 +252,6 @@ Mark Rastrick       13 Paul Hainsworth     21
 Derek McCormack     21 Alex Perry          15 
         Aggregate: 153         Aggregate: 116 
            Points:  34            Points:  23 
-
-   Saturday League          Sat 19th Apr      
-     League Div 1                             
-     Cross Flatts           New Wortley       
-Paul Hatch          21 Andrew Cole         13 
-Mario Biancardo     21 Stuart Reardon      18 
-Stephanie Wood      16 Paul Shackleton     21 
-Jason Potter        21 Iain Baker           8 
-Stacey Turner        5 Malcolm Crowson     21 
-Jim Bootland         9 Stephen Morley      21 
-Shirley Biancardo   21 Angela Morley       11 
-Ian Wood            21 Danny Dawson        16 
-        Aggregate: 135         Aggregate: 129 
-           Points:  30            Points:  27 
 
    Saturday League          Sat 19th Apr      
      League Div 1                             
@@ -434,20 +392,6 @@ Sophie Worral       21 Hilary Campbell      0
 Ian Worrall         18 Mick Stott          21 
         Aggregate: 131         Aggregate: 120 
            Points:  29            Points:  26 
-
-   Saturday League          Sat 26th Apr      
-     League Div 1                             
-   Scatcherd Park A         Cross Flatts      
-Martin Huxley       21 John Lister          6 
-Geoff Firth         21 Mario Biancardo     20 
-Steve Briggs        21 Stephanie Wood       0 
-Ian Dufton          21 Stacey Turner        5 
-Chris Stuart        21 Ian Wood            19 
-Stuart Wardlaw      21 Jim Bootland        13 
-Graham Goodhall     17 Shirley Biancardo   21 
-Mark Ellis           9 Jason Potter        21 
-        Aggregate: 152         Aggregate: 105 
-           Points:  34            Points:  22 
 
    Saturday League          Sat 26th Apr      
      League Div 1                             
@@ -647,20 +591,6 @@ Glenda Holmes       21 Matthew Rollinson    2
 
    Saturday League          Sat 10th May      
      League Div 1                             
-     Pudsey Park            Cross Flatts      
-Jane Hirst           6 Shirley Biancardo   21 
-Peter Colley        10 John Lister         21 
-Maveen Tomlinson     2 Mario Biancardo     21 
-Stephen Morris      10 Jim Bootland        21 
-Carl Birkin         21 Jason Potter        19 
-Dennis Walters      21 Ian Wood            11 
-Cliff Brogie        21 Stephanie Wood      13 
-Frank Lindsay       21 *No Player*          0 
-        Aggregate: 112         Aggregate: 127 
-           Points:  25            Points:  28 
-
-   Saturday League          Sat 10th May      
-     League Div 1                             
      New Farnley            New Wortley       
 Linda Taylor        13 Malcolm Crowson     21 
 Dave Taylor         21 Keith Sellars        7 
@@ -773,15 +703,15 @@ Geoff Warburton      9 Paul Dishman        21
 
    YEN Cup (Div 1)          Sat 17th May      
                          On Scatcherd Park    
-     Cross Flatts           Pudsey Park       
-Ian Wood            21 Peter Colley         6 
-Stacey Turner        8 Jane Hirst          21 
-John Lister         21 Carl Birkin         15 
-Mario Biancardo     21 Frank Lindsay       15 
-Paul Hatch          21 Cliff Brogie        11 
-Jason Potter        21 James Drury         15 
-Stephanie Wood      21 Calum Birkin        15 
-Shirley Biancardo   21 Dennis Walters      11 
+        [FREE]              Pudsey Park       
+*Withdrawn*         21 Peter Colley         6 
+*Withdrawn*          8 Jane Hirst          21 
+*Withdrawn*         21 Carl Birkin         15 
+*Withdrawn*         21 Frank Lindsay       15 
+*Withdrawn*         21 Cliff Brogie        11 
+*Withdrawn*         21 James Drury         15 
+*Withdrawn*         21 Calum Birkin        15 
+*Withdrawn*         21 Dennis Walters      11 
         Aggregate: 155         Aggregate: 109 
 
    YEN Cup (Div 1)          Sat 17th May      
@@ -923,20 +853,6 @@ Mick Stott          13 Paul Shackleton     21
            Points:  31            Points:  32 
 
    Saturday League          Sat 31st May      
-     League Div 1                             
-  Stanningley Park A        Cross Flatts      
-Alyssa Randell      21 Stacey Turner        2 
-Steve Gardner       21 Stephanie Wood       4 
-Martin Fulton       21 Paul Hatch           5 
-Malvin Miller       21 Jim Bootland        16 
-Richard Hodgson     21 Jason Potter        20 
-Jim Swailes         21 Ian Wood            20 
-Stuart Potter       21 *No Player*          0 
-Paul Bowes          21 *No Player*          0 
-        Aggregate: 168         Aggregate:  67 
-           Points:  40            Points:  12 
-
-   Saturday League          Sat 31st May      
      League Div 2                             
    Sth Leeds Cons B         Gildersome B      
 Janet Stockdale     21 Kay Stewart         12 
@@ -1063,20 +979,6 @@ Iain Baker          12 Frank Lindsay       21
            Points:  37            Points:  13 
 
    Saturday League          Sat 7th Jun       
-     League Div 1                             
-     Cross Flatts             Meanwood        
-Paul Hatch          21 Mick Gregory        15 
-Jim Bootland        20 Ian Macfarlane      21 
-Stacey Turner        3 Julie Keightley     21 
-Mel Lister           4 David L Miller      21 
-Jason Potter        21 Jeff Blackburn      17 
-Stephanie Wood      21 Jimmy Wilson        15 
-John Lister          9 Lynda Heath         21 
-Ian Wood            21 John Hindle         11 
-        Aggregate: 120         Aggregate: 142 
-           Points:  25            Points:  31 
-
-   Saturday League          Sat 7th Jun       
      League Div 2                             
      Bramley Park           New Armley B      
 Terry Astley        21 Josie Burdon        20 
@@ -1162,13 +1064,13 @@ Paul Shackleton     21 Kyle Hainsworth     16
 
    YEN Cup (Div 1)          Sat 14th Jun      
                           On Holbeck Moor     
-     Cross Flatts           New Farnley       
-Paul Hatch          11 Sophie Worral       21 
-Stephanie Wood      13 Ian Worrall         21 
-Jim Bootland        21 Linda Taylor        12 
-Mel Lister          11 Graham Davison      21 
-John Lister          2 Dave Taylor         21 
-Ian Wood            20 Ryan Lynch          21 
+        [FREE]              New Farnley       
+*Withdrawn*         11 Sophie Worral       21 
+*Withdrawn*         13 Ian Worrall         21 
+*Withdrawn*         21 Linda Taylor        12 
+*Withdrawn*         11 Graham Davison      21 
+*Withdrawn*          2 Dave Taylor         21 
+*Withdrawn*         20 Ryan Lynch          21 
 *No Player*          0 Paul Jagger         21 
 *No Player*          0 Andy Thompson       21 
         Aggregate:  78         Aggregate: 159 
@@ -1308,20 +1210,6 @@ Martin Huxley       16 Reece Pratt         21
 
    Saturday League          Sat 21st Jun      
      League Div 1                             
-     Cross Flatts           Holbeck Moor      
-Jim Bootland        21 George Ellener       8 
-Jason Potter        14 John Binns          21 
-Mel Lister           4 Mick Stott          21 
-*No Player*          0 Brian Thompson      21 
-Stacey Turner        3 Wayne Warburton     21 
-Ian Wood            21 Steve Brown         18 
-Stephanie Wood      10 Steve Milton        21 
-Paul Hatch          21 Hilary Campbell      8 
-        Aggregate:  94         Aggregate: 139 
-           Points:  19            Points:  31 
-
-   Saturday League          Sat 21st Jun      
-     League Div 1                             
      Pudsey Park            New Farnley       
 James Drury         21 Bob Taylor           7 
 Maveen Tomlinson    21 Linda Taylor        18 
@@ -1417,20 +1305,6 @@ Paul Jagger         18 Alex Perry          21
 Dave Taylor         21 Paul Hainsworth     16 
         Aggregate: 161         Aggregate: 116 
            Points:  37            Points:  22 
-
-   Saturday League          Sat 28th Jun      
-     League Div 1                             
-   Sth Leeds Cons A         Cross Flatts      
-Reece Pratt         20 Ian Wood            21 
-Janet Stockdale     21 John Lister          4 
-David Brooke        21 Stacey Turner       10 
-Tony Auty           15 Paul Hatch          21 
-Mark Rastrick       21 Stephanie Wood       0 
-Simon Hemmingway    21 Jim Bootland        18 
-Tim Newton          21 Mel Lister           5 
-Derek McCormack     21 Jason Potter         8 
-        Aggregate: 161         Aggregate:  87 
-           Points:  37            Points:  18 
 
    Saturday League          Sat 28th Jun      
      League Div 1                             
@@ -1571,20 +1445,6 @@ Ryan Lynch          21 Joey Broadbent       9
 Andy Thompson       10 Andrew Marshall     21 
         Aggregate: 109         Aggregate: 151 
            Points:  23            Points:  34 
-
-   Saturday League          Sat 5th Jul       
-     League Div 1                             
-     New Wortley            Cross Flatts      
-Andrew Cole         21 Jason Potter        20 
-Valerie Dawson      21 Mel Lister           3 
-Trevor Dawson       21 Jim Bootland        19 
-Angela Morley       21 Stephanie Wood       5 
-Danny Dawson        21 Stacey Turner        2 
-Stuart Reardon      11 John Lister         21 
-Stephen Morley      21 *No Player*          0 
-Paul Shackleton     21 Ian Wood             6 
-        Aggregate: 158         Aggregate:  76 
-           Points:  37            Points:  15 
 
    Saturday League          Sat 5th Jul       
      League Div 1                             
@@ -1796,20 +1656,6 @@ Kevin Smales        20 Tony Morris         21
 
    Saturday League          Sat 26th Jul      
      League Div 1                             
-     Holbeck Ltd            Cross Flatts      
-Richard Perry       21 Stacey Turner        8 
-James Cuffe         17 Stephanie Wood      21 
-Joanne Unwin        10 Paul Hatch          21 
-Alex Perry          21 Jason Potter        10 
-Rhys Hammill        21 *No Player*          0 
-Jason Ream          21 *No Player*          0 
-Paul Hainsworth     21 Jim Bootland        16 
-Lisa Hogan          10 Ian Wood            21 
-        Aggregate: 142         Aggregate:  97 
-           Points:  32            Points:  21 
-
-   Saturday League          Sat 26th Jul      
-     League Div 1                             
      Pudsey Park          Sth Leeds Cons A    
 Dennis Walters      21 Alan Goodall        10 
 Carl Birkin         21 David Brooke        10 
@@ -1991,20 +1837,6 @@ Paul Shackleton     21 Paul Jagger         16
            Points:  38            Points:  27 
 
    Saturday League          Sat 2nd Aug       
-     League Div 1                             
-     Cross Flatts           Pudsey Park       
-Stacey Turner       10 Cliff Brogie        21 
-Ian Wood            21 Frank Lindsay        5 
-Paul Hatch          21 Dennis Walters       7 
-Stephanie Wood       5 Carl Birkin         21 
-Jason Potter        21 Jane Hirst           7 
-Jim Bootland        21 Calum Birkin         8 
-*No Player*          0 Maveen Tomlinson    21 
-*No Player*          0 Stephen Morris      21 
-        Aggregate:  99         Aggregate: 111 
-           Points:  23            Points:  24 
-
-   Saturday League          Sat 2nd Aug       
      League Div 2                             
      Bramley Park          Western Flatts     
 Anthony Caywood     14 Hazel Goodall       21 
@@ -2102,20 +1934,6 @@ Geoff Warburton      7 Ryan Lynch          21
         Aggregate: 133         Aggregate:  94 
            Points:  31            Points:  19 
 
-   Saturday League          Sat 9th Aug       
-     League Div 1                             
-     Cross Flatts           Holbeck Ltd       
-Jim Bootland        19 Kyle Hainsworth     21 
-Jason Potter        21 *No Player*          0 
-Paul Hatch          21 Andrew Dewhirst     16 
-Ian Wood            21 Paul Hainsworth     16 
-Stephanie Wood      11 Alex Perry          21 
-Stacey Turner        6 Jason Ream          21 
-Chris Wood          19 Ryan Birch          21 
-*No Player*          0 *No Player*          0 
-        Aggregate: 118         Aggregate: 116 
-           Points:  26            Points:  26 
-
   Trigg Cup (Div 2)         Sat 9th Aug       
                            On Holbeck Ltd     
    Sth Leeds Cons B         Gildersome A      
@@ -2142,4 +1960,298 @@ Barry Palmer        21 Neil Hudson         19
 Brian Fish          16 Sue Harrison        21 
         Aggregate: 131         Aggregate: 152 
 
+   Saturday League          Sat 16th Aug      
+     League Div 1                             
+     Holbeck Ltd            New Wortley       
+Daniel Howcroft     21 Stephen Morley      12 
+Jason Farrar        21 Keith Sellars        8 
+Richard Perry       21 Martin Heys          6 
+Steve Gilbert        2 Angela Morley       21 
+Chris Hogan         21 Iain Baker          20 
+Jason Ream          19 Andrew Cole         21 
+Andrew Dewhirst     16 Danny Dawson        21 
+Paul Hainsworth     10 Stuart Reardon      21 
+        Aggregate: 131         Aggregate: 130 
+           Points:  29            Points:  28 
 
+   Saturday League          Sat 16th Aug      
+     League Div 1                             
+  Stanningley Park A      Sth Leeds Cons A    
+Paul Bowes          21 Brenda Moscrop      10 
+Andy Hodgson        21 Janet Stockdale      2 
+Jim Swailes         21 Alan Goodall        17 
+David Eaton         21 Neville Salmon      11 
+Richard Hodgson     21 David Brooke        17 
+Stuart Potter       18 Mark Rastrick       21 
+Andrew Marshall     21 Reece Pratt         19 
+Martin Fulton       11 Derek McCormack     21 
+        Aggregate: 155         Aggregate: 118 
+           Points:  36            Points:  24 
+
+   Saturday League          Sat 16th Aug      
+     League Div 1           On Meanwood       
+     Holbeck Moor             Meanwood        
+Geoff Warburton      6 Jeff Dumbrell       21 
+Hilary Campbell     20 David L Miller      21 
+John Binns           7 John Hindle         21 
+Brian Thompson      20 Mick Gregory        21 
+Steve Milton        21 Julie Keightley     18 
+Wayne Warburton     21 Maureen Sheridan     9 
+Steve Brown         21 Janice Guild        13 
+Mick Stott          12 Jeff Blackburn      21 
+        Aggregate: 128         Aggregate: 145 
+           Points:  27            Points:  32 
+
+   Saturday League          Sat 16th Aug      
+     League Div 2                             
+    Middleton Comm          Bramley Park      
+Terry Maher         21 Anthony Caywood      6 
+Sue Harrison        21 Keith Davison        6 
+Shirley Biancardo   21 Duncan Raper        12 
+Gordon Monk         21 Peter Caine         14 
+Brian Ragan         16 Bob Davison         21 
+Mario Biancardo     21 Barry Palmer         8 
+Barbara Ragan       21 Peter Ritchie       15 
+Neil Hudson         21 Terry Astley        18 
+        Aggregate: 163         Aggregate: 100 
+           Points:  38            Points:  19 
+
+   Saturday League          Sat 16th Aug      
+     League Div 2                             
+    Western Flatts          Gildersome A      
+Hazel Goodall       16 Frank Hales         21 
+Shirley Barker      13 David Taylor        21 
+Mary Horrocks       15 Harvey Lockwood     21 
+Gary Reddyhoff      19 Glenda Holmes       21 
+Lillian Pickles      6 David Norton        21 
+Margaret McPhail    21 Sandra Deegan       17 
+Ron Lavan           21 Linda Gaunt          7 
+Geoff Clark         21 Kevin Smales        18 
+        Aggregate: 132         Aggregate: 147 
+           Points:  28            Points:  33 
+
+   Saturday League          Sat 16th Aug      
+     League Div 2                             
+     New Armley B           New Armley A      
+David Hurd          20 Mark Aspin          21 
+Howard Gothard       7 Walter Stockhill    21 
+Alan Taylor          3 Ken Stockhill       21 
+David Gregory       20 Carol Butters       21 
+Jonathan Kaye       16 Richard Stephens    21 
+Maureen Morris       8 Richard Aspin       21 
+David Anker         11 Karl Chapman        21 
+Anne Gothard         6 Karl Dutton         21 
+        Aggregate:  91         Aggregate: 168 
+           Points:  16            Points:  40 
+
+
+=== CrossFlatts results only (dropped out of league 14th)
+
+   YEN Cup (Div 1)          Sat 17th May      
+                         On Scatcherd Park    
+     Cross Flatts           Pudsey Park       
+Ian Wood            21 Peter Colley         6 
+Stacey Turner        8 Jane Hirst          21 
+John Lister         21 Carl Birkin         15 
+Mario Biancardo     21 Frank Lindsay       15 
+Paul Hatch          21 Cliff Brogie        11 
+Jason Potter        21 James Drury         15 
+Stephanie Wood      21 Calum Birkin        15 
+Shirley Biancardo   21 Dennis Walters      11 
+        Aggregate: 155         Aggregate: 109 
+
+
+   YEN Cup (Div 1)          Sat 14th Jun      
+                          On Holbeck Moor     
+     Cross Flatts           New Farnley       
+Paul Hatch          11 Sophie Worral       21 
+Stephanie Wood      13 Ian Worrall         21 
+Jim Bootland        21 Linda Taylor        12 
+Mel Lister          11 Graham Davison      21 
+John Lister          2 Dave Taylor         21 
+Ian Wood            20 Ryan Lynch          21 
+*No Player*          0 Paul Jagger         21 
+*No Player*          0 Andy Thompson       21 
+        Aggregate:  78         Aggregate: 159 
+
+    Saturday League          Sat 5th Apr       
+     League Div 1                             
+     Holbeck Moor           Cross Flatts      
+Geoff Warburton     11 Jason Potter        21 
+John Binns          21 Stephanie Wood       5 
+Steve Milton        21 Shirley Biancardo   15 
+Hilary Campbell     15 Jim Bootland        21 
+Brian Thompson      21 Paul Hatch          19 
+Steve Brown         21 John Lister         13 
+Mick Stott          18 Mario Biancardo     21 
+Wayne Warburton     21 Ian Wood             3 
+        Aggregate: 149         Aggregate: 118 
+           Points:  34            Points:  25 
+
+   Saturday League          Sat 12th Apr      
+     League Div 1                             
+     Cross Flatts         Sth Leeds Cons A    
+Ian Wood            20 David Brooke        21 
+Stacey Turner        4 Barbara Wherret     21 
+Mario Biancardo     21 Tony Auty           10 
+John Lister         21 Bob Emerson         18 
+Jim Bootland        19 Tim Newton          21 
+Shirley Biancardo   21 Mark Rastrick       10 
+Paul Hatch          21 Reece Pratt         18 
+Jason Potter        10 Derek McCormack     21 
+        Aggregate: 137         Aggregate: 140 
+           Points:  30            Points:  32 
+
+   Saturday League          Sat 19th Apr      
+     League Div 1                             
+     Cross Flatts           New Wortley       
+Paul Hatch          21 Andrew Cole         13 
+Mario Biancardo     21 Stuart Reardon      18 
+Stephanie Wood      16 Paul Shackleton     21 
+Jason Potter        21 Iain Baker           8 
+Stacey Turner        5 Malcolm Crowson     21 
+Jim Bootland         9 Stephen Morley      21 
+Shirley Biancardo   21 Angela Morley       11 
+Ian Wood            21 Danny Dawson        16 
+        Aggregate: 135         Aggregate: 129 
+           Points:  30            Points:  27 
+
+Saturday League          Sat 26th Apr      
+     League Div 1                             
+   Scatcherd Park A         Cross Flatts      
+Martin Huxley       21 John Lister          6 
+Geoff Firth         21 Mario Biancardo     20 
+Steve Briggs        21 Stephanie Wood       0 
+Ian Dufton          21 Stacey Turner        5 
+Chris Stuart        21 Ian Wood            19 
+Stuart Wardlaw      21 Jim Bootland        13 
+Graham Goodhall     17 Shirley Biancardo   21 
+Mark Ellis           9 Jason Potter        21 
+        Aggregate: 152         Aggregate: 105 
+           Points:  34            Points:  22 
+
+Saturday League          Sat 10th May      
+     League Div 1                             
+     Pudsey Park            Cross Flatts      
+Jane Hirst           6 Shirley Biancardo   21 
+Peter Colley        10 John Lister         21 
+Maveen Tomlinson     2 Mario Biancardo     21 
+Stephen Morris      10 Jim Bootland        21 
+Carl Birkin         21 Jason Potter        19 
+Dennis Walters      21 Ian Wood            11 
+Cliff Brogie        21 Stephanie Wood      13 
+Frank Lindsay       21 *No Player*          0 
+        Aggregate: 112         Aggregate: 127 
+           Points:  25            Points:  28 
+
+Saturday League          Sat 31st May      
+     League Div 1                             
+  Stanningley Park A        Cross Flatts      
+Alyssa Randell      21 Stacey Turner        2 
+Steve Gardner       21 Stephanie Wood       4 
+Martin Fulton       21 Paul Hatch           5 
+Malvin Miller       21 Jim Bootland        16 
+Richard Hodgson     21 Jason Potter        20 
+Jim Swailes         21 Ian Wood            20 
+Stuart Potter       21 *No Player*          0 
+Paul Bowes          21 *No Player*          0 
+        Aggregate: 168         Aggregate:  67 
+           Points:  40            Points:  12 
+
+   Saturday League          Sat 7th Jun       
+     League Div 1                             
+     Cross Flatts             Meanwood        
+Paul Hatch          21 Mick Gregory        15 
+Jim Bootland        20 Ian Macfarlane      21 
+Stacey Turner        3 Julie Keightley     21 
+Mel Lister           4 David L Miller      21 
+Jason Potter        21 Jeff Blackburn      17 
+Stephanie Wood      21 Jimmy Wilson        15 
+John Lister          9 Lynda Heath         21 
+Ian Wood            21 John Hindle         11 
+        Aggregate: 120         Aggregate: 142 
+           Points:  25            Points:  31 
+
+   Saturday League          Sat 21st Jun      
+     League Div 1                             
+     Cross Flatts           Holbeck Moor      
+Jim Bootland        21 George Ellener       8 
+Jason Potter        14 John Binns          21 
+Mel Lister           4 Mick Stott          21 
+*No Player*          0 Brian Thompson      21 
+Stacey Turner        3 Wayne Warburton     21 
+Ian Wood            21 Steve Brown         18 
+Stephanie Wood      10 Steve Milton        21 
+Paul Hatch          21 Hilary Campbell      8 
+        Aggregate:  94         Aggregate: 139 
+           Points:  19            Points:  31 
+
+Saturday League          Sat 28th Jun      
+     League Div 1                             
+   Sth Leeds Cons A         Cross Flatts      
+Reece Pratt         20 Ian Wood            21 
+Janet Stockdale     21 John Lister          4 
+David Brooke        21 Stacey Turner       10 
+Tony Auty           15 Paul Hatch          21 
+Mark Rastrick       21 Stephanie Wood       0 
+Simon Hemmingway    21 Jim Bootland        18 
+Tim Newton          21 Mel Lister           5 
+Derek McCormack     21 Jason Potter         8 
+        Aggregate: 161         Aggregate:  87 
+           Points:  37            Points:  18 
+
+Saturday League          Sat 5th Jul       
+     League Div 1                             
+     New Wortley            Cross Flatts      
+Andrew Cole         21 Jason Potter        20 
+Valerie Dawson      21 Mel Lister           3 
+Trevor Dawson       21 Jim Bootland        19 
+Angela Morley       21 Stephanie Wood       5 
+Danny Dawson        21 Stacey Turner        2 
+Stuart Reardon      11 John Lister         21 
+Stephen Morley      21 *No Player*          0 
+Paul Shackleton     21 Ian Wood             6 
+        Aggregate: 158         Aggregate:  76 
+           Points:  37            Points:  15 
+
+Saturday League          Sat 26th Jul      
+     League Div 1                             
+     Holbeck Ltd            Cross Flatts      
+Richard Perry       21 Stacey Turner        8 
+James Cuffe         17 Stephanie Wood      21 
+Joanne Unwin        10 Paul Hatch          21 
+Alex Perry          21 Jason Potter        10 
+Rhys Hammill        21 *No Player*          0 
+Jason Ream          21 *No Player*          0 
+Paul Hainsworth     21 Jim Bootland        16 
+Lisa Hogan          10 Ian Wood            21 
+        Aggregate: 142         Aggregate:  97 
+           Points:  32            Points:  21 
+
+   Saturday League          Sat 2nd Aug       
+     League Div 1                             
+     Cross Flatts           Pudsey Park       
+Stacey Turner       10 Cliff Brogie        21 
+Ian Wood            21 Frank Lindsay        5 
+Paul Hatch          21 Dennis Walters       7 
+Stephanie Wood       5 Carl Birkin         21 
+Jason Potter        21 Jane Hirst           7 
+Jim Bootland        21 Calum Birkin         8 
+*No Player*          0 Maveen Tomlinson    21 
+*No Player*          0 Stephen Morris      21 
+        Aggregate:  99         Aggregate: 111 
+           Points:  23            Points:  24 
+
+   Saturday League          Sat 9th Aug       
+     League Div 1                             
+     Cross Flatts           Holbeck Ltd       
+Jim Bootland        19 Kyle Hainsworth     21 
+Jason Potter        21 *No Player*          0 
+Paul Hatch          21 Andrew Dewhirst     16 
+Ian Wood            21 Paul Hainsworth     16 
+Stephanie Wood      11 Alex Perry          21 
+Stacey Turner        6 Jason Ream          21 
+Chris Wood          19 Ryan Birch          21 
+*No Player*          0 *No Player*          0 
+        Aggregate: 118         Aggregate: 116 
+           Points:  26            Points:  26 
