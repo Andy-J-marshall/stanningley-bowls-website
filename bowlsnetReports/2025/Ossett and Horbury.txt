@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Thu 14th Aug)
+=== Ossett & Horbury 2025 (as of Sat 16th Aug)
 === League Match Cards
 
          Division 3                   Tue 8th Apr          
@@ -4883,6 +4883,18 @@ Anita Lawson              21 R Stables                   9
               Aggregate: 154                Aggregate: 116 
 
       Premier Division               Thu 14th Aug          
+      Castleford Town                 Thornhill A          
+Dean Hopwood              21 Phil Gamble                 7 
+Robert Lloyd              21 Andy Mitchell               8 
+Calum Fennell             21 Aiden Fox                  10 
+Mark Brain                21 Kath Robinson              13 
+S Williams                21 Paul Sweeney               14 
+Robert McGuire            21 Stephen Wainwright         18 
+Mark Hopwood              21 James McNeil               19 
+Daniel Revell             21 Steve Davis                19 
+              Aggregate: 168                Aggregate: 108 
+
+      Premier Division               Thu 14th Aug          
       Skelmanthorpe A                  Rothwell            
 Chris Kelly               18 Garry Dennison             21 
 Jack Dyson                21 Mark Hughes                 6 
@@ -4905,6 +4917,18 @@ Leighton Shuttleworth     21 John Webster               13
 Ben Sweeney               11 Darren Hennessy            21 
 Gary Wike                 21 Peter Farrar                9 
               Aggregate: 141                Aggregate: 136 
+
+      Premier Division               Thu 14th Aug          
+      Ossett C & AC A              Hanging Heaton A        
+Chris Nuttall             21 Mason Lindley              19 
+Robert Dunford            21 Simon Metcalfe              5 
+Noel Whitaker             21 Roger Birdsall             10 
+Sam Beresford             18 Pam Lindley                21 
+Mick Scott                21 Chris Mordue               20 
+Joshua Dunford            12 Jonathan Orbell            21 
+Stuart Daniel             21 Sebastian Mordue           17 
+Oscar Scott-Parker        21 Malcolm Preston            14 
+              Aggregate: 156                Aggregate: 127 
 
       Premier Division               Thu 14th Aug          
        Spen Victoria                   Sandal B            
@@ -4943,6 +4967,18 @@ Josh Talbot               21 Graham Blenkinsop          17
               Aggregate: 154                Aggregate: 132 
 
          Division 1                  Thu 14th Aug          
+        Heckmondwike                Clayton West A         
+Logan Preston             12 T Poulter                  21 
+Jon Edmondson             18 M Gilbert                  21 
+Peter Simpson             21 R Clarkson                  5 
+Roy Carter                21 Neale Wallace               8 
+Jude Hatfield-Goodall     21 M Greenall                 15 
+Poppy Fox                 21 G Richardson               19 
+Jacob Hatfield-Goodall    21 Bob Dalby                  19 
+Darren Goodall            21 D Richardson               19 
+              Aggregate: 156                Aggregate: 127 
+
+         Division 1                  Thu 14th Aug          
         Morton House                Denby Grange A         
 Marcus Leach              21 Sarah Fisher                8 
 J Payne                   21 Mortimer Ray               12 
@@ -4965,6 +5001,30 @@ Zak Bond                  21 James Szabo                20
 Luke Gant                 21 Tim Chadwick               15 
 Wayne Bond                21 Steven Sykes               14 
               Aggregate: 166                Aggregate: 136 
+
+         Division 2                  Thu 14th Aug          
+        Horbury WMC                Alverthorpe WMC B       
+Phillip Dunnill           21 Anita Dack                  9 
+David Purssell            18 William Grayley            21 
+John Stokes               21 Abigail Tiler               6 
+Adrian Smart              21 Rebecca Finnegan-Stewart    3 
+A Clarkson                21 Mick Dack                  13 
+Den Law                   21 Colin Quarmby              18 
+David Ingham              19 Phillip Schofield          21 
+David Horan               21 James Tiler                20 
+              Aggregate: 163                Aggregate: 111 
+
+         Division 2                  Thu 14th Aug          
+       Smirthwaite B                Wakefield BC A         
+R Dunwell                 10 Mark Young                 21 
+A France                  21 Kaz Habib                  10 
+Roy Limb                  21 David Clough               19 
+Tom Knapper               13 Trevor Newey               21 
+Leigh Measham             18 Robyn Walters              21 
+Alan Knowles               7 John Dudding               21 
+Glen Evans                21 David Crest                15 
+Graham Kirkaldy           21 Peter Claven               12 
+              Aggregate: 132                Aggregate: 140 
 
          Division 2                  Thu 14th Aug          
       Hanging Heaton B               Outwood WMC A         
@@ -5001,6 +5061,18 @@ Allan Poyser              18 Jenny Berry                21
 David Dixon               12 Dave Gordon                21 
 Mark Lingard              21 Philip Berry               16 
               Aggregate: 139                Aggregate: 130 
+
+         Division 3                  Thu 14th Aug          
+       Denby Grange B               Skelmanthorpe B        
+Josh Broadhead            11 Lee Dobson                 21 
+Malcolm Brown             13 Johnathon Taylor           21 
+Andrea Daniels            15 Jamal Kelly                21 
+Bryan Thomas              20 Stephen Auty               21 
+Keeling Ben               21 Richard Auty               15 
+Lynda Scott               15 Graham Roys                21 
+David Wright              21 John Fisher                18 
+Graham Blythe             21 Liz Barden                 16 
+              Aggregate: 137                Aggregate: 154 
 
          Division 3                  Thu 14th Aug          
        Wake Thornes A               Ossett C & AC C        
@@ -5061,6 +5133,18 @@ D Watson                  15 Les Bell                   21
 Michael Wood              14 Johny Smith                21 
 Craig Measham             16 Nathan Jewitt              21 
               Aggregate: 140                Aggregate: 115 
+
+         Division 4                  Thu 14th Aug          
+       Clayton West B                 Brookhouse           
+Kenneth Taylor            21 Jennifer Dooler             7 
+P Taylor                  14 John Best                  21 
+D Hallas                  18 Richard Shackleton         21 
+John Romano               21 Tony Codner                 8 
+M Sellars                 21 Mark Whittaker              6 
+Stuart England            21 Jeremy Wightman            10 
+Mirel Buga                13 Declan Brown               21 
+Stuart Simmons            21 Paul Long                   2 
+              Aggregate: 150                Aggregate:  96 
 
          Division 4                  Thu 14th Aug          
         Wrenthorpe B                  Slazenger C          

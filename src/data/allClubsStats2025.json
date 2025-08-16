@@ -1069,25 +1069,25 @@
             ]
         },
         "jim moorin": {
-            "totalAgg": 1301,
-            "totalAggAgainst": 1119,
-            "availableAgg": 1512,
+            "totalAgg": 1322,
+            "totalAggAgainst": 1125,
+            "availableAgg": 1533,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 651,
+            "availableHomeAgg": 672,
             "availableAwayAgg": 735,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 600,
-            "totalHomeAggAgainst": 459,
+            "totalHomeAgg": 621,
+            "totalHomeAggAgainst": 465,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 589,
             "totalAwayAggAgainst": 572,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 21,
+            "homeWins": 22,
             "homeLosses": 10,
             "awayWins": 20,
             "awayLosses": 15,
@@ -1101,7 +1101,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 72,
+            "totalGamesPlayed": 73,
             "results": [
                 "jim moorin 21 - 5 brenda chaffer",
                 "jim moorin 21 - 18 mark hopps",
@@ -1174,7 +1174,8 @@
                 "jim moorin 21 - 4 vincent bussingham",
                 "jim moorin 21 - 18 curtis brown",
                 "jim moorin 21 - 17 lesley crowe",
-                "jim moorin 5 - 21 peter owen"
+                "jim moorin 5 - 21 peter owen",
+                "jim moorin 21 - 6 eddie hill"
             ]
         },
         "jim swailes": {
@@ -1345,12 +1346,12 @@
             ]
         },
         "john armitage": {
-            "totalAgg": 1722,
-            "totalAggAgainst": 1187,
-            "availableAgg": 1827,
+            "totalAgg": 1742,
+            "totalAggAgainst": 1208,
+            "availableAgg": 1848,
             "availablePairsAgg": 42,
             "availableHomeAgg": 777,
-            "availableAwayAgg": 861,
+            "availableAwayAgg": 882,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 42,
@@ -1359,14 +1360,14 @@
             "totalHomeAggAgainst": 455,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 791,
-            "totalAwayAggAgainst": 620,
+            "totalAwayAgg": 811,
+            "totalAwayAggAgainst": 641,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 31,
             "homeLosses": 6,
             "awayWins": 29,
-            "awayLosses": 12,
+            "awayLosses": 13,
             "cupWins": 8,
             "cupLosses": 1,
             "pairWins": 2,
@@ -1377,7 +1378,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 2,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 87,
+            "totalGamesPlayed": 88,
             "results": [
                 "john armitage 21 - 9 carol matthews",
                 "john armitage 21 - 12 david steel",
@@ -1465,7 +1466,8 @@
                 "john armitage 21 - 13 ian jacques",
                 "john armitage 21 - 13 mason lindley",
                 "john armitage 21 - 5 tony riley",
-                "john armitage 21 - 10 jim calvert"
+                "john armitage 21 - 10 jim calvert",
+                "john armitage 20 - 21 rebecca woodhead"
             ]
         },
         "karen uttley": {
@@ -2180,12 +2182,12 @@
             ]
         },
         "neil porter": {
-            "totalAgg": 1082,
-            "totalAggAgainst": 841,
-            "availableAgg": 1218,
+            "totalAgg": 1103,
+            "totalAggAgainst": 855,
+            "availableAgg": 1239,
             "availablePairsAgg": 0,
             "availableHomeAgg": 546,
-            "availableAwayAgg": 525,
+            "availableAwayAgg": 546,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -2194,13 +2196,13 @@
             "totalHomeAggAgainst": 339,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 444,
-            "totalAwayAggAgainst": 411,
+            "totalAwayAgg": 465,
+            "totalAwayAggAgainst": 425,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 19,
             "homeLosses": 7,
-            "awayWins": 13,
+            "awayWins": 14,
             "awayLosses": 12,
             "cupWins": 6,
             "cupLosses": 1,
@@ -2212,7 +2214,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 58,
+            "totalGamesPlayed": 59,
             "results": [
                 "neil porter 21 - 3 anne miller",
                 "neil porter 21 - 10 john manson",
@@ -2271,7 +2273,8 @@
                 "neil porter 7 - 21 steve birch",
                 "neil porter 21 - 14 john hardisty",
                 "neil porter 21 - 8 cath rushton",
-                "neil porter 19 - 21 barry sugden"
+                "neil porter 19 - 21 barry sugden",
+                "neil porter 21 - 14 george mclaren"
             ]
         },
         "nicola bona": {

@@ -1,4 +1,4 @@
-=== Tadcaster Evening League 2025 (as of Thu 14th Aug)
+=== Tadcaster Evening League 2025 (as of Sat 16th Aug)
 === League Match Cards
 
     Richardson Trophy           Thu 3rd Apr        
@@ -4365,6 +4365,21 @@ John Conyers           21 Graham Patrick        12
 
     Main League 2025            Thu 14th Aug       
           Div 2                                    
+     WHITKIRK KNAVES         KNARESBOROUGH OAK     
+T Johnson              21 Bill Harrison         13 
+Andy Johnson           21 Paul Passman          18 
+Hannah Risley          18 Nicholas Lofthouse    21 
+Dave McGourty          21 Andy Ison              4 
+Paul Hardy             21 Paul Herrington        9 
+Stan Elwell            21 Phil Berry            16 
+S Cahill               21 Rob Barker            16 
+G Hodder               21 David Finlayson       14 
+              Points:   9              Points:   1 
+           Aggregate: 165           Aggregate: 111 
+               Games:   7               Games:   1 
+
+    Main League 2025            Thu 14th Aug       
+          Div 2                                    
         SCHOLES B              EAST END PARK       
 Jennifer Elliott       21 Dave Smith            15 
 J Dickinson            21 Peter Simmons         12 
@@ -4425,6 +4440,21 @@ Steven Porter          20 John Potter           21
 
     Main League 2025            Thu 14th Aug       
           Div 3                                    
+        HAREHILLS             ALMSCLIFFE KITES     
+Paul Hatch             21 John Richardson        6 
+David Smith            12 Alan Broadwell        21 
+Raymond Swallow        21 Margaret Atkinson     20 
+Alan McConnell          5 John Atkinson         21 
+Dominic Hanson         12 Pam Richardson        21 
+David Tinker           21 Bob Williams           9 
+Sharon Kerry            6 Steve Speak           21 
+Laura Love             21 Sonya Garfit           8 
+              Points:   4              Points:   6 
+           Aggregate: 119           Aggregate: 127 
+               Games:   4               Games:   4 
+
+    Main League 2025            Thu 14th Aug       
+          Div 3                                    
        COLLINGHAM              GARFORTH CC B       
 Jim McArthur           10 Joe Doughty           21 
 Angela Scorfield       21 Nigel Ware            10 
@@ -4437,6 +4467,21 @@ Alan Scorfield         21 Trevor Curtis          3
               Points:   7              Points:   3 
            Aggregate: 137           Aggregate: 120 
                Games:   5               Games:   3 
+
+    Main League 2025            Thu 14th Aug       
+          Div 4                                    
+      THORNER WANDS             SWILLINGTON        
+Joe Wilkinson           5 Kieran Thurston       21 
+Halle Moore             9 Guy Stewart           21 
+Richard Eshelby         2 John Walker           21 
+John Lofthouse         11 Michelle Scorah       21 
+Granville Deighton     12 Lee Stewart           21 
+Katie Simms            16 David Waldron         21 
+Claire Wilkinson       17 Steve Clough          21 
+Christine Holmes       21 Wayne Broadhead       14 
+              Points:   1              Points:   9 
+           Aggregate:  93           Aggregate: 161 
+               Games:   1               Games:   7 
 
     Main League 2025            Thu 14th Aug       
           Div 4                                    
@@ -4467,5 +4512,20 @@ Adele Zagorski         11 Ian Carr              21
               Points:   4              Points:   6 
            Aggregate: 138           Aggregate: 144 
                Games:   4               Games:   4 
+
+    Main League 2025            Thu 14th Aug       
+          Div 4                                    
+    KNARESBOROUGH ASH           BLACK SWAN B       
+George Gibson          21 Sue Mitchell          18 
+Tony Pedel             21 Gary Kinder           12 
+Paul Addle             21 Keith Agars           18 
+R Bushell               4 Conor McCarthy        21 
+Karen Blaymire         15 Barry Turnbull        21 
+Phil Blaymire          13 Dave Kinder           21 
+Sue Massey             16 Val Rowson            21 
+Eric Taylor            10 Lee Chandler          21 
+              Points:   3              Points:   7 
+           Aggregate: 121           Aggregate: 153 
+               Games:   3               Games:   5 
 
 

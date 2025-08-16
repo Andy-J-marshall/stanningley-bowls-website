@@ -220,25 +220,25 @@
             }
         },
         "jim moorin": {
-            "totalAgg": 950,
-            "totalAggAgainst": 903,
-            "availableAgg": 1155,
+            "totalAgg": 971,
+            "totalAggAgainst": 909,
+            "availableAgg": 1176,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 546,
+            "availableHomeAgg": 567,
             "availableAwayAgg": 546,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 501,
-            "totalHomeAggAgainst": 387,
+            "totalHomeAgg": 522,
+            "totalHomeAggAgainst": 393,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 400,
             "totalAwayAggAgainst": 458,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 17,
+            "homeWins": 18,
             "homeLosses": 9,
             "awayWins": 11,
             "awayLosses": 15,
@@ -252,7 +252,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 55,
+            "totalGamesPlayed": 56,
             "results": [
                 "jim moorin 21 - 2 janice connaleigh",
                 "jim moorin 10 - 21 deborah swann",
@@ -308,7 +308,8 @@
                 "jim moorin 21 - 4 vincent bussingham",
                 "jim moorin 21 - 18 curtis brown",
                 "jim moorin 21 - 17 lesley crowe",
-                "jim moorin 5 - 21 peter owen"
+                "jim moorin 5 - 21 peter owen",
+                "jim moorin 21 - 6 eddie hill"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -366,18 +367,18 @@
                 "aggDiff": 0
             },
             "bradford saturday (b)": {
-                "games": 10,
-                "wins": 7,
-                "aggDiff": 44
+                "games": 11,
+                "wins": 8,
+                "aggDiff": 59
             }
         },
         "john armitage": {
-            "totalAgg": 1344,
-            "totalAggAgainst": 1015,
-            "availableAgg": 1449,
+            "totalAgg": 1364,
+            "totalAggAgainst": 1036,
+            "availableAgg": 1470,
             "availablePairsAgg": 42,
             "availableHomeAgg": 630,
-            "availableAwayAgg": 672,
+            "availableAwayAgg": 693,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 42,
@@ -386,14 +387,14 @@
             "totalHomeAggAgainst": 395,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 602,
-            "totalAwayAggAgainst": 529,
+            "totalAwayAgg": 622,
+            "totalAwayAggAgainst": 550,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 24,
             "homeLosses": 6,
             "awayWins": 20,
-            "awayLosses": 12,
+            "awayLosses": 13,
             "cupWins": 6,
             "cupLosses": 1,
             "pairWins": 2,
@@ -404,7 +405,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 2,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 69,
+            "totalGamesPlayed": 70,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
@@ -474,6 +475,7 @@
                 "john armitage 21 - 13 mason lindley",
                 "john armitage 21 - 5 tony riley",
                 "john armitage 21 - 10 jim calvert",
+                "john armitage 20 - 21 rebecca woodhead",
                 "john armitage 21 - 12 mick griffiths"
             ],
             "airewharfe monday": {
@@ -527,9 +529,9 @@
                 "aggDiff": 0
             },
             "bradford saturday": {
-                "games": 9,
+                "games": 10,
                 "wins": 7,
-                "aggDiff": 48
+                "aggDiff": 47
             },
             "bradford saturday (b)": {
                 "games": 1,
