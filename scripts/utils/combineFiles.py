@@ -24,13 +24,14 @@ files_to_update = [
 for file_pair in files_to_update:
     # Read data from the input file
     with open(file_pair["input_file"], "r", encoding="utf-8") as f:
-        data_to_append = f.read()
+        input_lines = f.readlines()
 
     # Read the original output file data
     with open(file_pair["output_file"], "r", encoding="utf-8") as f:
-        original_data = f.read()
+        output_lines = f.readlines()
 
-    # Write the combined data back to the output file (original first, then append)
-    with open(file_pair["output_file"], "w", encoding="utf-8") as f:
-        f.write(original_data)
-        f.write(data_to_append)
+    # Only write if every row from input_file is not already in output_file
+    if not all(line in output_lines for line in input_lines):
+        with open(file_pair["output_file"], "w", encoding="utf-8") as f:
+            f.writelines(output_lines)
+            f.writelines(input_lines)
