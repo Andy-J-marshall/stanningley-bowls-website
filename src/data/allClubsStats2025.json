@@ -852,25 +852,25 @@
             ]
         },
         "duncan mcphail": {
-            "totalAgg": 991,
-            "totalAggAgainst": 834,
-            "availableAgg": 1113,
+            "totalAgg": 1012,
+            "totalAggAgainst": 850,
+            "availableAgg": 1134,
             "availablePairsAgg": 21,
-            "availableHomeAgg": 525,
+            "availableHomeAgg": 546,
             "availableAwayAgg": 441,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 21,
             "totalPairsAggAgainst": 14,
-            "totalHomeAgg": 491,
-            "totalHomeAggAgainst": 366,
+            "totalHomeAgg": 512,
+            "totalHomeAggAgainst": 382,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 353,
             "totalAwayAggAgainst": 384,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 19,
+            "homeWins": 20,
             "homeLosses": 6,
             "awayWins": 9,
             "awayLosses": 12,
@@ -884,7 +884,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 53,
+            "totalGamesPlayed": 54,
             "results": [
                 "duncan mcphail 21 - 7 graham hey",
                 "duncan mcphail 21 - 17 steve brown",
@@ -938,7 +938,8 @@
                 "duncan mcphail 21 - 8 ian ryding",
                 "duncan mcphail 21 - 15 allan caine",
                 "duncan mcphail 21 - 20 june wilson",
-                "duncan mcphail 13 - 21 linda gledhill"
+                "duncan mcphail 13 - 21 linda gledhill",
+                "duncan mcphail 21 - 16 mark reynolds"
             ]
         },
         "eleanor graves": {
