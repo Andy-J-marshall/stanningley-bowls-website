@@ -23,7 +23,7 @@ Danny Fountain             21 Kevin Siddle              18
 Julian Dawson              21 Luke Teale                14 
 Graham Roberts             21 Andy Wood                 20 
 Daniel Dunkerley           21 Dennis Henderson          14 
-John Bloomer               13 Graham Oliver 'A'         21 
+John Bloomer               13 Graham Oliver             21 
 Helen Simpson              16 Thomas Cater              21 
 John Horsley               21 James Teale                8 
 Robert Hopper              21 Ben Stockdale             15 
@@ -53,7 +53,7 @@ John Whitaker              21 Garry Walker               8
         Shipley Club                  Littlemoor A         
 Scott Bloodworth           12 Alex Wolfenden            21 
 Craig Fenton               21 Zinedine Ayub             13 
-Matthew Jacques 'A'        21 John Armitage 'A'         11 
+Matthew Jacques 'A'        21 John Armitage             11 
 Chris Jacques              21 Nicky Dewhirst            16 
 Ian Jacques                16 Mark Allman               21 
 Daniel Metcalfe            21 Adam Mellor                9 
@@ -107,7 +107,7 @@ Daniel Beardsworth         21 Guy Barrie                16
 Dean Helliwell             21 Debbie Kirkbright         16 
 Ian Swinfield              21 Val Grace                 13 
 Derek Pickering            21 Allan Caine               20 
-Peter Crowther              8 Martyn Benson 'A'         21 
+Peter Crowther              8 Martyn Benson             21 
 Peter Scott                15 Tim Bennett               21 
                    Games:   7                   Games:   3 
                Aggregate: 184               Aggregate: 163 
@@ -116,12 +116,12 @@ Peter Scott                15 Tim Bennett               21
      Division 2 (Godwin)              Sat 12th Apr         
           Stainland                   Eccleshill A         
 Ben Fisher                 17 Stephen Bastow            21 
-John Gant                  17 Graham Chaffer 'B'        21 
-Keith Hatzer               21 Mark Reynolds 'B'         18 
-Peter Hopkinson            21 Ian Matthews 'B'          14 
+John Gant                  17 Graham Chaffer            21 
+Keith Hatzer               21 Mark Reynolds             18 
+Peter Hopkinson            21 Ian Matthews              14 
 Lynda Drury                12 Paul Rooks                21 
-Carole Harpin              21 Neil Mylan 'A'             6 
-Lorraine Hirst             21 Nicky Bastow 'A'          20 
+Carole Harpin              21 Neil Mylan                 6 
+Lorraine Hirst             21 Nicky Bastow              20 
 Robert Dickinson           16 Ken Gilroy                21 
 Sally Turner               19 Andy Haran                21 
 Jane Hollingworth          21 Nicky Rooks               14 
@@ -147,12 +147,12 @@ Tom Gilbert                20 Paul Gill                 21
 
      Division 2 (Godwin)              Sat 12th Apr         
         Asa Briggs A                  Hove Edge A          
-Stuart King 'A'            21 Jean Winchcombe            6 
-Malcolm Iles 'A'           19 Julie Best                21 
+Stuart King                21 Jean Winchcombe            6 
+Malcolm Iles               19 Julie Best                21 
 Andy Denton                18 Steve Mallinson           21 
 Michael Frost               9 Chloe Hirst               21 
-Clive Foord 'A'            12 Linda Gledhill            21 
-Jordan Brown 'B'           21 Suzi Ladbrooke             9 
+Clive Foord                12 Linda Gledhill            21 
+Jordan Brown               21 Suzi Ladbrooke             9 
 Carl Smith                 21 Lynn Carter               13 
 Gary Woodhead              21 Julie Mallinson           15 
 Jason Watters              21 Steve Haigh                9 
@@ -241,7 +241,7 @@ Division 4 (Bartle) 8 Player          Sat 12th Apr
           Rufford B               Cleckheaton Sports A     
 Pauline Ingleson           21 Dave Marshall             18 
 Adrian Ingleson            13 Val Wilson                21 
-Carole Wright 'B'          21 Alan Potter               16 
+Carole Wright              21 Alan Potter               16 
 Eileen Beck                17 Janice Walton             21 
 Angela Bennett             15 Liz Ellis                 21 
 Dianne Teale               21 Shaun Suthers             14 
@@ -326,7 +326,7 @@ Archie Wood                21 Andy Stoutt               18
 Trevor Bateman             21 Trevor Yeadon             12 
 Sue Findlay                21 Violet Rodgers            10 
 Ian Findlay                 9 Jackie Swindell           21 
-Sean Toehill               21 John Chisholm              4 
+Shaun Toehill              21 John Chisholm              4 
 Joe Midgley                21 Sheila Krysik             19 
 Peter Barker               21 Christine Kilner          12 
 Malcolm Riggs              21 Carol Chisholm             5 
@@ -400,7 +400,7 @@ Andrew Wood                21 John Horsley              16
 Ben Stockdale              21 Martin Murphy             10 
 Andy Wood                   8 David Barnes              21 
 Kevin Siddle                7 Alan Bray                 21 
-Graham Oliver 'A'          21 Ben Halliday              20 
+Graham Oliver              21 Ben Halliday              20 
 James Teale                21 Rebecca Woodhead           8 
 Thomas Cater               21 Robert Woodhead           11 
 Luke Teale                 21 John Halliday              7 
@@ -446,7 +446,7 @@ Paul Gill                  14 Stephen Gilroy            21
      Division 2 (Godwin)              Sat 19th Apr         
           Rufford A                     Pudsey B           
 Ken Lee                    21 Logan Preston             10 
-Carole Wright 'B'           9 Dave Smith                21 
+Carole Wright               9 Dave Smith                21 
 Val Grace                  21 Wendy Shimbles            13 
 Debbie Kirkbright          21 Simon Metcalfe            18 
 Guy Barrie                 12 Sue Chadwick              21 
@@ -454,7 +454,7 @@ Glynn Goodyear             21 Sebastian Mordue          11
 Allan Caine                21 Lynn Noonan               14 
 Tim Bennett                11 Pam Lindley               21 
 David Kirkbright           14 Peter Simpson             21 
-Martyn Benson 'A'          21 Matthew Leaf              17 
+Martyn Benson              21 Matthew Leaf              17 
                    Games:   6                   Games:   4 
                Aggregate: 172               Aggregate: 167 
                   Points:  17                  Points:  13 
@@ -477,10 +477,10 @@ Chris Cox                  21 Robert Dickinson          15
 
      Division 2 (Godwin)              Sat 19th Apr         
         Eccleshill A                  Asa Briggs A         
-Mark Reynolds 'B'          14 Stuart King 'A'           21 
-Andy Haran                 18 Jordan Brown 'B'          21 
-Neil Mylan 'A'              7 Andy Denton               21 
-Graham Chaffer 'B'         15 Michael Frost             21 
+Mark Reynolds              14 Stuart King               21 
+Andy Haran                 18 Jordan Brown              21 
+Neil Mylan                  7 Andy Denton               21 
+Graham Chaffer             15 Michael Frost             21 
 John Benson                21 Gary Woodhead              7 
 John Griffin               21 Paula Graham              12 
 Chris Daysh                21 Scott Sansom              18 
@@ -565,7 +565,7 @@ Curtis Brown               14 Diane Emery               21
 Peter Wilkinson            21 Pauline Gilroy            17 
 James Klenk                21 Vincent Bussingham         9 
 Ryan Bradley                9 Peter Jefferson           21 
-Mathew Pearson             17 Paul Hillam 'A'           21 
+Mathew Pearson             17 Paul Hillam               21 
 Arthur Schofield           21 Lee Hicks                 10 
                    Games:   5                   Games:   5 
                Aggregate: 170               Aggregate: 167 
@@ -706,7 +706,7 @@ Tracy Duxbury              21 Joe Midgley                4
 John Appleyard             18 Ian Findlay               21 
 Neil Duxbury               21 Peter Barker              10 
 Alan Naylor                21 Steve Edgley              18 
-Mark Durrans 'A'           17 Sean Toehill              21 
+Mark Durrans 'A'           17 Shaun Toehill             21 
                    Games:   6                   Games:   2 
                Aggregate: 161               Aggregate: 110 
                   Points:  22                  Points:   6 
@@ -727,7 +727,7 @@ Edgar Rhodes               21 Sue Butler                13
 
  Division 1 (Naylor Premier)          Sat 3rd May          
             Wyke                       Guiseley A          
-Paul Metcalf               13 Graham Oliver 'A'         21 
+Paul Metcalf               13 Graham Oliver             21 
 Daniel Barker              16 Luke Teale                21 
 Gareth Metcalf             21 Dennis Henderson          12 
 Mark Regan                 21 Martin Wilson             12 
@@ -759,7 +759,7 @@ David Barnes               17 Andy Hodgson              21
 
  Division 1 (Naylor Premier)          Sat 3rd May          
      Brighouse Sports A               Littlemoor A         
-Julian Dawson              21 Marc Armitage 'A'          8 
+Julian Dawson              21 Marc Armitage              8 
 Nigel Marshall             21 Ben Falkingham             4 
 Helen Simpson              21 Fern Beaumont             17 
 John Horsley                5 Mark Allman               21 
@@ -767,7 +767,7 @@ John Bloomer               21 Alex Wolfenden            15
 Danny Fountain             21 Adam Mellor               10 
 Graham Roberts             21 Charles Ripley            12 
 Micheal Wood               21 Zinedine Ayub             12 
-Daniel Dunkerley           16 Nathan Dobson 'A'         21 
+Daniel Dunkerley           16 Nathan Dobson             21 
 Robert Hopper              21 Mark Dobson                6 
                    Games:   8                   Games:   2 
                Aggregate: 189               Aggregate: 126 
@@ -816,7 +816,7 @@ Paul Barnes                21 David Kirkbright          19
 Rob Sandie                 11 Val Grace                 21 
 Steve Swallow              21 Allan Caine               13 
 Nigel Broadbent            21 Glynn Goodyear            16 
-Chris Cox                  19 Martyn Benson 'A'         21 
+Chris Cox                  19 Martyn Benson             21 
                    Games:   6                   Games:   4 
                Aggregate: 194               Aggregate: 176 
                   Points:  18                  Points:  12 
@@ -855,15 +855,15 @@ Derek Pickering            21 Julie Best                 8
 
      Division 2 (Godwin)              Sat 3rd May          
           Hightown                    Eccleshill A         
-Eddie Gilbert               8 Neil Mylan 'A'            21 
+Eddie Gilbert               8 Neil Mylan                21 
 Hayley Wood                 9 Ken Gilroy                21 
-Poppy Fox                  10 Graham Chaffer 'B'        21 
-Adam Darby                 12 Mark Reynolds 'B'         21 
+Poppy Fox                  10 Graham Chaffer            21 
+Adam Darby                 12 Mark Reynolds             21 
 Jude Hatfield-Goodall      13 Steve Bowes               21 
 Sean Carter                20 Mick Angus                21 
 Tom Gilbert                21 Andy Haran                19 
 Jacob Hatfield-Goodall     21 Nicky Rooks               15 
-Darren Goodall             21 Ian Matthews 'B'          14 
+Darren Goodall             21 Ian Matthews              14 
 Jon Edmondson              21 Paul Rooks                 4 
                    Games:   4                   Games:   6 
                Aggregate: 156               Aggregate: 178 
@@ -871,15 +871,15 @@ Jon Edmondson              21 Paul Rooks                 4
 
      Division 2 (Godwin)              Sat 3rd May          
         Asa Briggs A                   Stainland           
-Jordan Brown 'B'           21 Karen Gant                14 
+Jordan Brown               21 Karen Gant                14 
 Michael Frost              19 Jane Hollingworth         21 
 Mark Hirst                 21 Lynda Drury               13 
-Malcolm Iles 'A'           21 Ben Fisher                10 
-Clive Foord 'A'            21 Stuart Rodd               14 
+Malcolm Iles               21 Ben Fisher                10 
+Clive Foord                21 Stuart Rodd               14 
 Andy Denton                13 Jessica Sykes             21 
 Jason Watters              21 Richard Severn             6 
 Scott Sansom               21 Peter Hopkinson           15 
-Stuart King 'A'            21 Robert Dickinson           9 
+Stuart King                21 Robert Dickinson           9 
 Glen McCafferty            21 John Gant                 11 
                    Games:   8                   Games:   2 
                Aggregate: 200               Aggregate: 134 
@@ -997,7 +997,7 @@ Angela Bennett             21 Alan Jacques              10
 John McHale                16 Robin Sugden              21 
 Pauline Ingleson           21 David Healey              14 
 Eileen Beck                21 Luke Britton              19 
-Carole Wright 'B'          13 Steve Oakes               21 
+Carole Wright              13 Steve Oakes               21 
 Brian Teale                21 Roger Bernard             18 
                    Games:   5                   Games:   3 
                Aggregate: 144               Aggregate: 127 
@@ -1068,7 +1068,7 @@ Simon Russell              21 Anthony Hatherley          7
 Lesley Holmes              21 Linda Pickering           17 
 Malcolm Riggs              21 Peter Mortimer            18 
 Kenny McCafferty           21 Tom Pickering             14 
-Sean Toehill               21 Jean Mortimer              8 
+Shaun Toehill              21 Jean Mortimer              8 
                    Games:   7                   Games:   1 
                Aggregate: 166               Aggregate: 110 
                   Points:  23                  Points:   5 
@@ -1106,12 +1106,12 @@ Ian Shaw                   21 Nigel Marshall             8
  Division 1 (Naylor Premier)          Sat 17th May         
         Littlemoor A                  Hill Crest A         
 Alex Wolfenden             21 David Barnes               5 
-Marc Armitage 'A'          21 Martin Murphy              5 
+Marc Armitage              21 Martin Murphy              5 
 Nicole Farrar              21 Rebecca Woodhead           8 
 Will Bedford               21 Scott Haynes               9 
-John Armitage 'A'          21 Alan Bray                 10 
+John Armitage              21 Alan Bray                 10 
 Mark Allman                21 Aaron Bottomley           11 
-Nathan Dobson 'A'          21 Robert Woodhead           14 
+Nathan Dobson              21 Robert Woodhead           14 
 Fern Beaumont              21 Gary Jackson              15 
 Mark Dobson                17 John Halliday             21 
 Adam Mellor                14 Ben Halliday              21 
@@ -1159,7 +1159,7 @@ Emma Tobin                 21 James Teale                8
 Terry Kelly                21 Thomas Cater              13 
 Paul Tobin                 21 Andrew Durkin              5 
 Tony Green                 21 Dennis Henderson           6 
-Stan Elwell                21 Graham Oliver 'A'         10 
+Stan Elwell                21 Graham Oliver             10 
 Amy Tobin                  21 Martin Wilson             11 
 Adam Varley                21 Ben Stockdale             10 
 Adam Sharpe                12 Joe Stockdale             21 
@@ -1170,11 +1170,11 @@ Adam Sharpe                12 Joe Stockdale             21
      Division 2 (Godwin)              Sat 17th May         
         Eccleshill A                    Farsley            
 Andy Haran                 21 Colin Rhodes               0 
-Graham Chaffer 'B'         21 Derek Pickering           19 
-Mark Reynolds 'B'          21 Duncan McPhail            13 
-Ian Matthews 'B'           21 Peter Scott               19 
-Nicky Bastow 'A'           21 Daniel Beardsworth         8 
-Neil Mylan 'A'             21 Dean Helliwell            17 
+Graham Chaffer             21 Derek Pickering           19 
+Mark Reynolds              21 Duncan McPhail            13 
+Ian Matthews               21 Peter Scott               19 
+Nicky Bastow               21 Daniel Beardsworth         8 
+Neil Mylan                 21 Dean Helliwell            17 
 Steve Bowes                17 Stephen Gilroy            21 
 Mick Angus                 21 Stuart Brook              10 
 Andrew Howie               21 Graham Petty               8 
@@ -1225,7 +1225,7 @@ Sally Turner               21 David Norris              15
 Carole Harpin               7 Debbie Kirkbright         21 
 Jessica Sykes              11 David Kirkbright          21 
 John Gant                  14 Glynn Goodyear            21 
-Lorraine Hirst             15 Martyn Benson 'A'         21 
+Lorraine Hirst             15 Martyn Benson             21 
 Keith Hatzer               21 Tim Bennett               17 
                    Games:   5                   Games:   5 
                Aggregate: 165               Aggregate: 189 
@@ -1233,10 +1233,10 @@ Keith Hatzer               21 Tim Bennett               17
 
      Division 2 (Godwin)              Sat 17th May         
         Asa Briggs A                    Hightown           
-Stuart King 'A'            21 Darren Goodall             3 
+Stuart King                21 Darren Goodall             3 
 Jason Watters              21 Daren Munt                 3 
-Jordan Brown 'B'           21 Poppy Fox                  8 
-Clive Foord 'A'            21 Tom Gilbert               14 
+Jordan Brown               21 Poppy Fox                  8 
+Clive Foord                21 Tom Gilbert               14 
 Michael Frost              21 Sean Carter               14 
 Andrew Heenan               4 Jude Hatfield-Goodall     21 
 Scott Sansom               16 Jacob Hatfield-Goodall    21 
@@ -1343,7 +1343,7 @@ Angela Bennett             21 Sheryl Robinson           10
 Adrian Ingleson            10 Ernie Rickman             21 
 John McHale                 8 Clive Austin              21 
 Cath New                   21 Thomas Bridges             5 
-Carole Wright 'B'          17 Kay Lund                  21 
+Carole Wright              17 Kay Lund                  21 
 Dianne Teale               14 Trish Austin              21 
 Brian Teale                 4 Gareth Swain              21 
 Eileen Beck                18 Darren Metcalfe           21 
@@ -1428,7 +1428,7 @@ Doreen Lawson              16 Joe Midgley               21
 Jean Perry                 21 Lesley Holmes             10 
 Earl Delany                 3 Steve Edgley              21 
 Julie Stead                 9 Ian Findlay               21 
-Gary Stead                 11 Sean Toehill              21 
+Gary Stead                 11 Shaun Toehill             21 
 Paul Gains                 14 Kenny McCafferty          21 
 John French                21 Malcolm Riggs             17 
                    Games:   3                   Games:   5 
@@ -1451,7 +1451,7 @@ Colin Isles                21 Margaret Wilson            3
 
  Division 1 (Naylor Premier)          Sat 24th May         
          Guiseley A                 Spen Victoria A        
-Graham Oliver 'A'          21 Mark Goodall              12 
+Graham Oliver              21 Mark Goodall              12 
 Luke Teale                 21 Chris Ellis               11 
 Dennis Henderson            2 Lewis Pember              21 
 Ben Stockdale              21 Mally Fowler              19 
@@ -1468,10 +1468,10 @@ Kevin Siddle               13 Ash Tattersley            21
  Division 1 (Naylor Premier)          Sat 24th May         
             Wyke                      Littlemoor A         
 Neil Tordoff               21 Mark Allman                8 
-Frank Cullen               21 John Armitage 'A'         16 
+Frank Cullen               21 John Armitage             16 
 Mark Regan                 21 Nicole Farrar             16 
 Nigel Wormald              21 Lee Wider                 20 
-Trevor Benn                21 Nathan Dobson 'A'         15 
+Trevor Benn                21 Nathan Dobson             15 
 Paul Metcalf               11 Charles Ripley            21 
 Daniel Barker              18 Will Bedford              21 
 Ian Wilson                 11 Fern Beaumont             21 
@@ -1531,16 +1531,16 @@ John Whitaker              21 Simon Cahill               6
 
      Division 2 (Godwin)              Sat 24th May         
           Rufford A                    Clayton A           
-Carole Wright 'B'          20 Mick Skwarek              21 
+Carole Wright              20 Mick Skwarek              21 
 Guy Barrie                 21 Josh Walker               13 
 David Norris               16 June Wilson               21 
 Tim Bennett                20 Dave Jowett               21 
-Allan Caine                21 Sean Toehill              11 
+Allan Caine                21 Shaun Toehill             11 
 Ken Lee                    21 Andy Walker               11 
 Debbie Kirkbright          15 Peter Oliver              21 
 David Kirkbright           13 Chris Wilson              21 
 Glynn Goodyear             15 Myles Summers             21 
-Martyn Benson 'A'          21 Joe Bray                  20 
+Martyn Benson              21 Joe Bray                  20 
                    Games:   4                   Games:   6 
                Aggregate: 183               Aggregate: 181 
                   Points:  15                  Points:  15 
@@ -1565,14 +1565,14 @@ Chris Cox                  15 Andy Carter               21
           Pudsey B                    Eccleshill A         
 Wendy Shimbles             21 Mick Angus                14 
 Matthew Leaf               21 Ken Gilroy                16 
-Tom Morris                 21 Ian Matthews 'B'           7 
+Tom Morris                 21 Ian Matthews               7 
 Sebastian Mordue           18 Andy Haran                21 
 Pam Lindley                15 Paul Rooks                21 
 Simon Metcalfe             12 Nicky Rooks               21 
-Logan Preston              18 Mark Reynolds 'B'         21 
-Dave Smith                 14 Neil Mylan 'A'            21 
+Logan Preston              18 Mark Reynolds             21 
+Dave Smith                 14 Neil Mylan                21 
 Sue Chadwick                9 Steve Bowes               21 
-Peter Simpson               6 Graham Chaffer 'B'        21 
+Peter Simpson               6 Graham Chaffer            21 
                    Games:   3                   Games:   7 
                Aggregate: 155               Aggregate: 184 
                   Points:  10                  Points:  20 
@@ -1580,12 +1580,12 @@ Peter Simpson               6 Graham Chaffer 'B'        21
      Division 2 (Godwin)              Sat 24th May         
            Farsley                    Asa Briggs A         
 Peter Crowther             20 Michael Frost             21 
-Colin Rhodes               20 Malcolm Iles 'A'          21 
+Colin Rhodes               20 Malcolm Iles              21 
 Neil Nicholson             21 Glen McCafferty           13 
 Stephen Gilroy             21 Gary Woodhead             15 
-Daniel Beardsworth         21 Clive Foord 'A'           11 
+Daniel Beardsworth         21 Clive Foord               11 
 Dean Helliwell             21 Scott Sansom              20 
-Peter Scott                21 Jordan Brown 'B'          11 
+Peter Scott                21 Jordan Brown              11 
 Duncan McPhail             21 Andrew Heenan             18 
 Stuart Brook               21 Jason Watters             20 
 Derek Pickering            21 Mark Hirst                17 
@@ -1830,14 +1830,14 @@ Stephen Walker             21 Nigel Wormald              6
  Division 1 (Naylor Premier)          Sat 7th Jun          
         Littlemoor A                   Guiseley A          
 Alex Wolfenden             19 Daniel Teale              21 
-Marc Armitage 'A'          13 Luke Teale                21 
+Marc Armitage              13 Luke Teale                21 
 Will Bedford               19 Thomas Cater              21 
 Lewis Cooper               15 Andy Wood                 21 
 Nicole Farrar              16 Joe Stockdale             21 
 Charles Ripley             21 Martin Wilson             14 
 Mark Allman                21 Bob Jeffrey                6 
 Zinedine Ayub              21 Dennis Henderson           9 
-Mark Dobson                21 Graham Oliver 'A'         15 
+Mark Dobson                21 Graham Oliver             15 
 Jonny Orbell               21 James Teale               19 
                    Games:   5                   Games:   5 
                Aggregate: 187               Aggregate: 168 
@@ -1894,11 +1894,11 @@ Adam Varley                18 Neil Wood Sr              21
      Division 2 (Godwin)              Sat 7th Jun          
         Eccleshill A          Hipperholme & Lightcliffe A  
 Steve Bowes                21 Nick Crowther             18 
-Graham Chaffer 'B'         21 John Denham               12 
-Mark Reynolds 'B'          21 Adrian Megson              8 
-Ian Matthews 'B'           17 Ian Ryding                21 
+Graham Chaffer             21 John Denham               12 
+Mark Reynolds              21 Adrian Megson              8 
+Ian Matthews               17 Ian Ryding                21 
 Ken Gilroy                 21 Rob Sandie                15 
-Neil Mylan 'A'             21 Robin Sugden               9 
+Neil Mylan                 21 Robin Sugden               9 
 Andy Haran                 21 David Ryding              15 
 Mick Angus                 21 Steve Swallow             13 
 Nicky Rooks                21 Nigel Broadbent            9 
@@ -1918,7 +1918,7 @@ Jean Winchcombe             2 Glynn Goodyear            21
 Linda Gledhill             21 Allan Caine               17 
 Julie Mallinson            21 Ken Lee                    8 
 Steve Mallinson            21 Val Grace                 14 
-Steve Haigh                21 Martyn Benson 'A'         16 
+Steve Haigh                21 Martyn Benson             16 
                    Games:   9                   Games:   1 
                Aggregate: 191               Aggregate: 149 
                   Points:  24                  Points:   6 
@@ -1957,12 +1957,12 @@ Daren Munt                 21 Duncan McPhail            20
 
      Division 2 (Godwin)              Sat 7th Jun          
         Asa Briggs A                    Pudsey B           
-Malcolm Iles 'A'           15 Pam Lindley               21 
+Malcolm Iles               15 Pam Lindley               21 
 Andy Denton                21 Sue Chadwick               7 
 Mark Hirst                 21 Logan Preston             14 
 Michael Frost              21 Sebastian Mordue          15 
-Jordan Brown 'B'           21 Wendy Shimbles             9 
-Clive Foord 'A'            21 Simon Metcalfe            19 
+Jordan Brown               21 Wendy Shimbles             9 
+Clive Foord                21 Simon Metcalfe            19 
 Scott Sansom               21 Lynn Noonan                6 
 Andrew Heenan              21 David Hilliam              9 
 Jason Watters              21 Peter Simpson              9 
@@ -1982,7 +1982,7 @@ Derek Goor                 10 Stuart Watson             21
 Steve Kemp                  6 Jim Moorin                21 
 Paul Blackburn             21 Angela Carter              7 
 Lewis Pember               21 William Swailes            9 
-Mick Griffiths             12 John Armitage 'A'         21 
+Mick Griffiths             12 John Armitage             21 
                    Games:   3                   Games:   7 
                Aggregate: 152               Aggregate: 179 
                   Points:  10                  Points:  20 
@@ -2068,7 +2068,7 @@ Cath New                   21 David Cross                7
 Eileen Beck                21 David McDonald            13 
 Adrian Ingleson            21 Melissa Morris            16 
 Dianne Teale               21 Hannah Leaf               15 
-Carole Wright 'B'          21 Phil Daggett               6 
+Carole Wright              21 Phil Daggett               6 
 Pauline Ingleson            7 Steve Harwood             21 
 Brian Teale                17 Tom Morris                21 
                    Games:   6                   Games:   2 
@@ -2180,11 +2180,11 @@ Ash Tattersley             14 Zinedine Ayub             21
 Phil Smith                 12 Charles Ripley            21 
 Andrew Gallagher           21 Mark Allman               20 
 Mally Fowler               21 Alex Wolfenden             4 
-Lewis Pember               15 John Armitage 'A'         21 
+Lewis Pember               15 John Armitage             21 
 Andrew Wood                16 Fern Beaumont             21 
-Mark Goodall               15 Marc Armitage 'A'         21 
+Mark Goodall               15 Marc Armitage             21 
 Debi Davis                 21 Lee Wider                 16 
-Garry Walker               18 Nathan Dobson 'A'         21 
+Garry Walker               18 Nathan Dobson             21 
                    Games:   3                   Games:   7 
                Aggregate: 167               Aggregate: 187 
                   Points:  11                  Points:  19 
@@ -2193,7 +2193,7 @@ Garry Walker               18 Nathan Dobson 'A'         21
          Guiseley A                     Pudsey A           
 James Teale                 8 Fin Hickey                21 
 Andrew Durkin               9 Gary Wike                 21 
-Graham Oliver 'A'          14 Philip Wilsdon            21 
+Graham Oliver              14 Philip Wilsdon            21 
 Martin Wilson              16 Ian Shaw                  21 
 Andy Wood                  12 Jack Bowes                21 
 Luke Teale                 21 Chris Mordue              13 
@@ -2271,14 +2271,14 @@ Mick Skwarek                3 Linda Gledhill            21
 
      Division 2 (Godwin)              Sat 14th Jun         
           Rufford A                   Eccleshill A         
-Ken Lee                    17 Mark Reynolds 'B'         21 
-Guy Barrie                 16 Graham Chaffer 'B'        21 
-Thomas Johnson             21 Ian Matthews 'B'          15 
-Carole Wright 'B'          21 Stephen Bastow            11 
+Ken Lee                    17 Mark Reynolds             21 
+Guy Barrie                 16 Graham Chaffer            21 
+Thomas Johnson             21 Ian Matthews              15 
+Carole Wright              21 Stephen Bastow            11 
 David Norris               21 Mick Angus                14 
-Tim Bennett                17 Nicky Bastow 'A'          21 
+Tim Bennett                17 Nicky Bastow              21 
 Allan Caine                21 Andrew Howie              14 
-Martyn Benson 'A'          19 Paul Rooks                21 
+Martyn Benson              19 Paul Rooks                21 
 Glynn Goodyear             12 Andy Haran                21 
 Graham Ingleson            21 Nicky Rooks               13 
                    Games:   5                   Games:   5 
@@ -2304,10 +2304,10 @@ Peter Scott                21 Jessica Sykes              5
      Division 2 (Godwin)              Sat 14th Jun         
  Hipperholme & Lightcliffe A          Asa Briggs A         
 Nick Crowther              21 Andy Denton               13 
-Adrian Megson              21 Clive Foord 'A'           16 
-John Denham                21 Malcolm Iles 'A'          15 
+Adrian Megson              21 Clive Foord               16 
+John Denham                21 Malcolm Iles              15 
 Mathew Parker               6 Michael Frost             21 
-Rob Sandie                 16 Jordan Brown 'B'          21 
+Rob Sandie                 16 Jordan Brown              21 
 Nigel Parker               21 Andrew Heenan             20 
 Steve Oakes                21 Scott Sansom              16 
 Steve Swallow              21 Jason Watters             10 
@@ -2530,7 +2530,7 @@ Kevin Ackroyd              21 Lee Greenwood              8
 Brian Barker               21 Ian Findlay               13 
 Ken Binder                 19 Malcolm Riggs             21 
 Sue Butler                 14 Kenny McCafferty          21 
-Shirley Rooks              18 Sean Toehill              21 
+Shirley Rooks              18 Shaun Toehill             21 
                    Games:   3                   Games:   5 
                Aggregate: 147               Aggregate: 139 
                   Points:  14                  Points:  14 
@@ -2586,15 +2586,15 @@ Steve Clamp                12 Gareth Metcalf            21
  Division 1 (Naylor Premier)          Sat 21st Jun         
           Whitkirk                    Littlemoor A         
 Phil Hill                  21 *No Player*                0 
-Bob Whitfield              21 Nathan Dobson 'A'         18 
+Bob Whitfield              21 Nathan Dobson             18 
 Stan Elwell                19 Zinedine Ayub             21 
 Warren Wilson               5 Lewis Cooper              21 
 Tom Johnson                21 Lee Wider                 16 
-Adam Sharpe                18 John Armitage 'A'         21 
+Adam Sharpe                18 John Armitage             21 
 Simon Cahill               15 Ben Falkingham            21 
 Tony Green                 21 Mark Dobson               10 
 Andy Martinho              21 Will Bedford              17 
-Kris Walder                 7 Marc Armitage 'A'         21 
+Kris Walder                 7 Marc Armitage             21 
                    Games:   5                   Games:   5 
                Aggregate: 169               Aggregate: 166 
                   Points:  16                  Points:  14 
@@ -2651,12 +2651,12 @@ Tom Gilbert                21 Chris Cox                 18
         Asa Briggs A                   Rufford A           
 Scott Sansom               21 Ken Lee                   11 
 Michael Frost              18 Debbie Kirkbright         21 
-Jordan Brown 'B'           21 Allan Caine               13 
-Malcolm Iles 'A'           21 Glynn Goodyear             9 
+Jordan Brown               21 Allan Caine               13 
+Malcolm Iles               21 Glynn Goodyear             9 
 Andy Denton                21 David Kirkbright          20 
-Clive Foord 'A'            21 David Norris              15 
+Clive Foord                21 David Norris              15 
 Andrew Heenan              17 Guy Barrie                21 
-Mark Hirst                 20 Martyn Benson 'A'         21 
+Mark Hirst                 20 Martyn Benson             21 
 Jason Watters              21 Val Grace                 20 
 Glen McCafferty            19 Tim Bennett               21 
                    Games:   6                   Games:   4 
@@ -2727,7 +2727,7 @@ Ioana Nister               21 Eddie Prince              15
 John McHale                21 Pam Robinson              12 
 Angela Bennett             21 Dennis Brown              12 
 Dianne Teale               21 Trevor Hodgson            13 
-Carole Wright 'B'          21 Phil Robinson             15 
+Carole Wright              21 Phil Robinson             15 
 Cath New                   21 Flo Johnston               5 
 Pauline Ingleson           21 Derek Carroll              8 
 Brian Teale                21 Craig Tavendale           14 
@@ -2841,7 +2841,7 @@ Craig Fenton               11 Thomas Cater              21
 John Sample                 6 Luke Teale                21 
 Matthew Jacques 'A'        21 Bob Jeffrey               17 
 Scott Bloodworth           21 Joe Stockdale              9 
-Chris Jacques              21 Graham Oliver 'A'         14 
+Chris Jacques              21 Graham Oliver             14 
 Daniel Metcalfe            21 Ben Stockdale              4 
 David Bland                10 Daniel Teale              21 
 Andrew Walker              21 Kevin Siddle              19 
@@ -2932,13 +2932,13 @@ John Halliday              18 Phil Hill                 21
      Division 2 (Godwin)              Sat 5th Jul          
          Hove Edge A                  Eccleshill A         
 Julie Mallinson            14 Mick Angus                21 
-Linda Gledhill              5 Mark Reynolds 'B'         21 
+Linda Gledhill              5 Mark Reynolds             21 
 Suzi Ladbrooke             21 Pauline Gilroy            15 
-Jacquie Haigh              21 Ian Matthews 'B'           6 
+Jacquie Haigh              21 Ian Matthews               6 
 Chloe Hirst                21 Steve Bowes               17 
 Stacey Dyson               15 Andy Haran                21 
-Steve Mallinson            21 Nicky Bastow 'A'          12 
-Lynn Carter                21 Graham Chaffer 'B'        18 
+Steve Mallinson            21 Nicky Bastow              12 
+Lynn Carter                21 Graham Chaffer            18 
 Andy Carter                21 Nicky Rooks               16 
 Jean Winchcombe            21 Ken Gilroy                19 
                    Games:   7                   Games:   3 
@@ -2966,8 +2966,8 @@ Matthew Leaf               21 Robert Dickinson          12
 Andy Southwell             14 Andrew Heenan             21 
 Paul Demetriades           15 Jason Watters             21 
 Myles Summers              16 Mark Hirst                21 
-Andy Walker                17 Clive Foord 'A'           21 
-Dave Jowett                19 Malcolm Iles 'A'          21 
+Andy Walker                17 Clive Foord               21 
+Dave Jowett                19 Malcolm Iles              21 
 Paul Gill                  21 Michael Frost             11 
 Peter Oliver               21 Michael Sansom            12 
 John Smith                 21 Glen McCafferty           16 
@@ -2985,7 +2985,7 @@ David Norris               11 Jacob Hatfield-Goodall    21
 David Kirkbright           21 Daren Munt                12 
 Guy Barrie                 21 Roy Carter                 9 
 Glynn Goodyear             21 Adam Darby                10 
-Martyn Benson 'A'          21 Darren Goodall             4 
+Martyn Benson              21 Darren Goodall             4 
 Thomas Johnson             18 Poppy Fox                 21 
 Val Grace                   7 Alex Edmondson            21 
 Tim Bennett                21 Tom Gilbert               14 
@@ -3044,7 +3044,7 @@ Jordan Edmondson           21 Guy Smith                  6
      Division 3 (Mellor)              Sat 5th Jul          
         Asa Briggs B                Spen Victoria B        
 Alan Marsden               17 Kevin Wood                21 
-Jordan Brown 'B'           21 Paul Blackburn            18 
+Jordan Brown               21 Paul Blackburn            18 
 Sean Schofield             19 Claire Barraclough        21 
 Andy Denton                21 John Blackburn             8 
 Curtis Brown               21 Mel Blackburn             18 
@@ -3163,7 +3163,7 @@ John Hainsworth            21 Sue Findlay               11
 Susan Smith                10 Simon Russell             21 
 Keith Bedford               4 Malcolm Riggs             21 
 Barry Clough               13 Ian Findlay               21 
-Russell Hudson             17 Sean Toehill              21 
+Russell Hudson             17 Shaun Toehill             21 
 Edgar Rhodes               21 Steve Edgley              14 
                    Games:   2                   Games:   6 
                Aggregate: 117               Aggregate: 151 
@@ -3205,10 +3205,10 @@ Will Bedford               21 John Sample                3
 Zinedine Ayub              21 Neil Simpson               7 
 Mark Allman                21 Chris Jacques              7 
 Mark Dobson                21 David Bland               12 
-John Armitage 'A'          21 Ian Jacques               13 
+John Armitage              21 Ian Jacques               13 
 Lee Wider                  16 Scott Bloodworth          21 
 Ben Falkingham             14 Craig Fenton              21 
-Adam Wider 'A'             13 Daniel Metcalfe           21 
+Adam Wider                 13 Daniel Metcalfe           21 
 Lewis Cooper               13 Bailey Rice               21 
 Nicole Farrar              12 Matthew Jacques 'A'       21 
                    Games:   5                   Games:   5 
@@ -3237,7 +3237,7 @@ Luke Teale                 21 Nigel Marshall             8
 Colin Matthewman           12 Gordon Johnson            21 
 Andy Wood                  21 Graham Roberts            18 
 Thomas Cater               21 Richard Hobson            15 
-Graham Oliver 'A'          12 John Bloomer              21 
+Graham Oliver              12 John Bloomer              21 
 Ben Stockdale              21 Julian Dawson              8 
 James Teale                21 Dale Dyson                12 
 Daniel Teale               21 Helen Simpson             10 
@@ -3265,9 +3265,9 @@ Frank Cullen               21 Gary Jackson               8
 
  Division 1 (Naylor Premier)          Sat 12th Jul         
         Littlemoor A                    Pudsey A           
-John Armitage 'A'          21 Mason Lindley             13 
-Nathan Dobson 'A'          21 Andrew Sykes              14 
-Marc Armitage 'A'          21 Tom Lawrence              17 
+John Armitage              21 Mason Lindley             13 
+Nathan Dobson              21 Andrew Sykes              14 
+Marc Armitage              21 Tom Lawrence              17 
 Lewis Cooper               21 Chris Mordue              18 
 Nicole Farrar              21 Stuart Hanson             19 
 Ben Falkingham             20 Ian Shaw                  21 
@@ -3281,13 +3281,13 @@ Will Bedford               10 Fin Hickey                21
 
      Division 2 (Godwin)              Sat 12th Jul         
         Eccleshill A                   Stainland           
-Mark Reynolds 'B'          16 Karen Gant                21 
-Graham Chaffer 'B'         21 Carole Harpin             14 
+Mark Reynolds              16 Karen Gant                21 
+Graham Chaffer             21 Carole Harpin             14 
 Steve Bowes                21 John Gant                 11 
 Ken Gilroy                 21 Peter Hopkinson           19 
-Nicky Bastow 'A'           21 Lynda Drury               20 
+Nicky Bastow               21 Lynda Drury               20 
 Andy Haran                 21 Jessica Sykes              9 
-Neil Mylan 'A'             20 Robert Dickinson          21 
+Neil Mylan                 20 Robert Dickinson          21 
 Mick Angus                 21 Holly Sykes               12 
 Andrew Howie               21 Jane Hollingworth         19 
 Nicky Rooks                20 Lorraine Hirst            21 
@@ -3304,7 +3304,7 @@ Guy Barrie                 21 Colin Rhodes              19
 Debbie Kirkbright          17 Peter Crowther            21 
 Val Grace                  21 Graham Petty              15 
 David Norris               14 Stuart Brook              21 
-Martyn Benson 'A'          21 Peter Scott                8 
+Martyn Benson              21 Peter Scott                8 
 Tim Bennett                21 Daniel Beardsworth        14 
 Thomas Johnson             20 Neil Nicholson            21 
                    Games:   6                   Games:   4 
@@ -3330,11 +3330,11 @@ Chris Cox                  16 Matthew Leaf              21
      Division 2 (Godwin)              Sat 12th Jul         
          Hove Edge A                  Asa Briggs A         
 Julie Mallinson            21 Scott Sansom              16 
-Linda Gledhill             21 Malcolm Iles 'A'          11 
-Chloe Hirst                13 Stuart King 'A'           21 
-Suzi Ladbrooke             18 Clive Foord 'A'           21 
+Linda Gledhill             21 Malcolm Iles              11 
+Chloe Hirst                13 Stuart King               21 
+Suzi Ladbrooke             18 Clive Foord               21 
 Lynn Carter                21 Michael Frost             19 
-Andy Carter                19 Jordan Brown 'B'          21 
+Andy Carter                19 Jordan Brown              21 
 Jean Winchcombe            21 Andrew Heenan             10 
 Jacquie Haigh               9 Glen McCafferty           21 
 Stacey Dyson               15 Mark Hirst                21 
@@ -3555,7 +3555,7 @@ Sheila Krysik              15 Joe Midgley               21
 Violet Rodgers              6 Lesley Holmes             21 
 John Ibbotson               8 Malcolm Riggs             21 
 Trevor Yeadon              21 Ian Findlay               14 
-Christine Kilner           11 Sean Toehill              21 
+Christine Kilner           11 Shaun Toehill             21 
 Jackie Swindell            21 Peter Barker               7 
                    Games:   3                   Games:   5 
                Aggregate: 115               Aggregate: 129 
@@ -3613,7 +3613,7 @@ Aaron Bottomley            21 Thomas Cater               5
 Rebecca Woodhead           21 Bob Jeffrey               15 
 John Halliday              21 Andrew Durkin             15 
 Ben Halliday               21 Joe Stockdale             20 
-Stuart Carrol               9 Graham Oliver 'A'         21 
+Stuart Carrol               9 Graham Oliver             21 
 Gary Jackson                5 Luke Teale                21 
 Alan Bray                  17 Ben Stockdale             21 
 Pamela Woodhead            14 James Teale               21 
@@ -3679,7 +3679,7 @@ Logan Preston              19 Glynn Goodyear            21
 Peter Simpson              21 David Kirkbright          19 
 Wendy Shimbles             21 David Norris              17 
 Lynn Noonan                21 Val Grace                 12 
-Sue Chadwick               21 Martyn Benson 'A'         14 
+Sue Chadwick               21 Martyn Benson             14 
 Pam Lindley                21 Guy Barrie                 8 
 Simon Metcalfe             21 Thomas Johnson             2 
 Matthew Leaf               21 Tim Bennett               14 
@@ -3903,7 +3903,7 @@ Steve Edgley               21 Marjorie Leeming          12
 Trevor Bateman             12 Tracy Duxbury             21 
 Ian Findlay                 9 Neil Duxbury              21 
 Malcolm Riggs              16 Alan Naylor               21 
-Sean Toehill               17 Alan Farrow 'A'           21 
+Shaun Toehill              17 Alan Farrow 'A'           21 
 Kenny McCafferty           20 Mark Durrans 'A'          21 
                    Games:   1                   Games:   7 
                Aggregate: 130               Aggregate: 159 
@@ -3941,11 +3941,11 @@ Kevin Ackroyd              21 Byron Whalley             15
         Eccleshill A                   Clayton A           
 Mick Angus                 13 Chris Wilson              21 
 Stephen Bastow             21 Mick Skwarek               5 
-Mark Reynolds 'B'          21 Andy Southwell            10 
-Nicky Bastow 'A'           21 Peter Oliver              14 
-Ian Matthews 'B'           20 Joe Bray                  21 
+Mark Reynolds              21 Andy Southwell            10 
+Nicky Bastow               21 Peter Oliver              14 
+Ian Matthews               20 Joe Bray                  21 
 Diane Emery                14 Paul Gill                 21 
-Graham Chaffer 'B'         21 June Wilson               14 
+Graham Chaffer             21 June Wilson               14 
 Paul Rooks                 21 Dave Jowett               14 
 Andy Haran                 21 Paul Demetriades           6 
 Nicky Rooks                21 Jack Summers              15 
@@ -4032,11 +4032,11 @@ Danny Marsland             20 Daniel Dunkerley          21
 Mark Dobson                19 Nigel Marshall            21 
 Mark Allman                17 Julian Dawson             21 
 Will Bedford               21 Richard Hobson             3 
-John Armitage 'A'          21 Tony Riley                 5 
+John Armitage              21 Tony Riley                 5 
 Fern Beaumont              21 Gordon Johnson             5 
-Marc Armitage 'A'          21 Gordon Bradford           12 
+Marc Armitage              21 Gordon Bradford           12 
 Nicole Farrar              21 Helen Simpson             13 
-Nathan Dobson 'A'          21 Graham Roberts            15 
+Nathan Dobson              21 Graham Roberts            15 
 Lewis Cooper               21 John Horsley              18 
                    Games:   7                   Games:   3 
                Aggregate: 203               Aggregate: 134 
@@ -4061,7 +4061,7 @@ Andrew Wood                21 Rebecca Woodhead           5
  Division 1 (Naylor Premier)          Sat 9th Aug          
          Guiseley A                       Wyke             
 Luke Teale                 21 Nigel Swales              13 
-Graham Oliver 'A'           8 Trevor Benn               21 
+Graham Oliver               8 Trevor Benn               21 
 James Teale                21 Gareth Metcalf             8 
 Andrew Durkin              21 Nigel Wormald             19 
 Andy Wood                  19 Paul Metcalf              21 
@@ -4095,8 +4095,8 @@ Paul Tobin                 18 Ian Jacques               21
 Lee Wider                  21 Dean Brown                16 
 Mark Allman                21 Ian Dewhirst              18 
 Will Bedford               21 Mike Gadd                 10 
-John Armitage 'A'          21 Jim Calvert               10 
-Marc Armitage 'A'          21 Robbie Ellis              19 
+John Armitage              21 Jim Calvert               10 
+Marc Armitage              21 Robbie Ellis              19 
 Zinedine Ayub              21 Alister Keighley          15 
 Lewis Cooper                7 Steve Clamp               21 
 Nicole Farrar              21 Sharon Gadd                2 
@@ -4145,7 +4145,7 @@ Guy Barrie                 21 Adrian Megson             12
 David Norris               21 John Denham               17 
 David Kirkbright           21 Chris Cox                 19 
 Debbie Kirkbright          11 Ian Ryding                21 
-Martyn Benson 'A'          21 Paul Barnes                7 
+Martyn Benson              21 Paul Barnes                7 
 Val Grace                  21 Nigel Parker               6 
 Tim Bennett                21 Steve Swallow              9 
 Allan Caine                20 David Peel                21 
@@ -4157,15 +4157,15 @@ Thomas Johnson             21 Nigel Broadbent            4
      Division 2 (Godwin)              Sat 9th Aug          
         Eccleshill A                    Hightown           
 Mick Angus                 21 Eddie Gilbert             13 
-Mark Reynolds 'B'          21 Sean Carter               14 
+Mark Reynolds              21 Sean Carter               14 
 Steve Bowes                21 Jacob Hatfield-Goodall    17 
-Nicky Bastow 'A'           21 Peter Rayner               1 
+Nicky Bastow               21 Peter Rayner               1 
 Andrew Howie               21 Darren Goodall            11 
 Andy Haran                 21 Hayley Wood                5 
 Paul Rooks                 21 Jude Hatfield-Goodall     16 
-Neil Mylan 'A'             11 Jon Edmondson             21 
+Neil Mylan                 11 Jon Edmondson             21 
 Ken Gilroy                 16 Poppy Fox                 21 
-Graham Chaffer 'B'         17 Roy Carter                21 
+Graham Chaffer             17 Roy Carter                21 
                    Games:   7                   Games:   3 
                Aggregate: 191               Aggregate: 140 
                   Points:  23                  Points:   7 
@@ -4173,15 +4173,15 @@ Graham Chaffer 'B'         17 Roy Carter                21
      Division 2 (Godwin)              Sat 9th Aug          
           Stainland                   Asa Briggs A         
 Ben Fisher                 15 Jason Watters             21 
-Karen Gant                 21 Jordan Brown 'B'          20 
+Karen Gant                 21 Jordan Brown              20 
 Robert Senior              21 Andy Denton               17 
-Peter Hopkinson            21 Malcolm Iles 'A'          15 
-Keith Hatzer               21 Clive Foord 'A'           13 
+Peter Hopkinson            21 Malcolm Iles              15 
+Keith Hatzer               21 Clive Foord               13 
 John Gant                  21 Andrew Heenan             20 
 Carole Harpin              13 Scott Sansom              21 
 Robert Dickinson           16 Mark Hirst                21 
 Jane Hollingworth          18 Glen McCafferty           21 
-Lynda Drury                 7 Stuart King 'A'           21 
+Lynda Drury                 7 Stuart King               21 
                    Games:   5                   Games:   5 
                Aggregate: 174               Aggregate: 190 
                   Points:  13                  Points:  17 
@@ -4354,7 +4354,7 @@ Audrey Firth               21 Steve Edgley              15
 Joanne Furey               21 Trevor Bateman            16 
 William Naven              21 Ian Findlay               17 
 Peter Mortimer             16 Malcolm Riggs             21 
-Jean Mortimer              19 Sean Toehill              21 
+Jean Mortimer              19 Shaun Toehill             21 
 Richard Hunter             21 Kenny McCafferty           8 
                    Games:   4                   Games:   4 
                Aggregate: 147               Aggregate: 140 
@@ -4394,7 +4394,7 @@ Kevin Siddle               21 Dave McGourty             10
 Daniel Teale               21 Emma Tobin                11 
 Ben Stockdale              21 Warren Wilson             10 
 Bob Jeffrey                21 Tony Green                16 
-Graham Oliver 'A'           5 Stan Elwell               21 
+Graham Oliver               5 Stan Elwell               21 
 Luke Teale                 21 Phil Hill                 16 
 Thomas Cater               15 Amy Tobin                 21 
 James Teale                15 Adam Varley               21 
@@ -4405,17 +4405,33 @@ Andy Wood                  21 Simon Cahill              19
                   Points:  19                  Points:  11 
 
  Division 1 (Naylor Premier)          Sat 16th Aug         
+            Wyke                    Spen Victoria A        
+Darren Hickey              11 Danny Teale               21 
+Gerry Hird                 13 Phil Bryant               21 
+Paul Metcalf               14 Phil Smith                21 
+Mark Regan                 16 Andrew Wood               21 
+Daniel Barker              17 Andrew Gallagher          21 
+Nigel Wormald              19 Chris Ellis               21 
+Trevor Benn                19 Lewis Pember              21 
+Martin Atkinson            21 Mally Fowler              16 
+Ian Wilson                 21 Debi Davis                14 
+Gareth Metcalf             21 Mark Goodall              12 
+                   Games:   3                   Games:   7 
+               Aggregate: 172               Aggregate: 189 
+                  Points:  11                  Points:  19 
+
+ Division 1 (Naylor Premier)          Sat 16th Aug         
         Hill Crest A                  Littlemoor A         
 Gary Murphy                21 Fern Beaumont             17 
 Scott Haynes               21 Will Bedford              14 
 Aaron Bottomley            21 Mark Allman                4 
 Ben Halliday               21 Lee Wider                 12 
-Rebecca Woodhead           21 John Armitage 'A'         20 
+Rebecca Woodhead           21 John Armitage             20 
 John Halliday              21 Mark Dobson               10 
 Gary Jackson               14 Lewis Cooper              21 
 Robert Woodhead            19 Nicole Farrar             21 
 David Barnes               12 Ben Falkingham            21 
-Alan Bray                  21 Marc Armitage 'A'         17 
+Alan Bray                  21 Marc Armitage             17 
                    Games:   7                   Games:   3 
                Aggregate: 192               Aggregate: 157 
                   Points:  21                  Points:   9 
@@ -4442,12 +4458,12 @@ Mike Gadd                  21 Lee Wider                 11
 Philip Dowgill             21 Mark Allman                6 
 Claire Russell             17 Adam Mellor               21 
 Jim Calvert                21 Ben Falkingham            14 
-Alister Keighley           21 Adam Wider 'A'             1 
+Alister Keighley           21 Adam Wider                 1 
 John Whitaker              21 Lewis Cooper               8 
 Ian Dewhirst               21 Will Bedford               3 
 Sharon Gadd                21 Mark Dobson                6 
 Steve Clamp                21 Nicole Farrar             10 
-Robbie Ellis                9 Marc Armitage 'A'         21 
+Robbie Ellis                9 Marc Armitage             21 
                    Games:   8                   Games:   2 
                Aggregate: 194               Aggregate: 101 
                   Points:  28                  Points:   2 
@@ -4501,17 +4517,33 @@ Simon Metcalfe             13 Andy Carter               21
                   Points:  15                  Points:  15 
 
      Division 2 (Godwin)              Sat 16th Aug         
+           Farsley                    Eccleshill A         
+Derek Pickering            12 Andy Haran                21 
+Duncan McPhail             21 Mark Reynolds             16 
+Stephen Gilroy             21 Graham Chaffer            10 
+Peter Crowther             21 Mick Angus                17 
+Graham Petty                9 Nicky Bastow              21 
+Dean Helliwell             21 Pauline Gilroy            12 
+Stuart Brook                9 Paul Rooks                21 
+Peter Scott                 6 Neil Mylan                21 
+Neil Nicholson             21 Ken Gilroy                16 
+Daniel Beardsworth         21 Nicky Rooks               10 
+                   Games:   6                   Games:   4 
+               Aggregate: 162               Aggregate: 165 
+                  Points:  15                  Points:  15 
+
+     Division 2 (Godwin)              Sat 16th Aug         
           Hightown                    Asa Briggs A         
 Poppy Fox                  21 Peter Wilkinson            4 
-Sean Carter                21 Clive Foord 'A'           11 
+Sean Carter                21 Clive Foord               11 
 Tom Gilbert                21 Andrew Heenan             15 
 Jacob Hatfield-Goodall     21 Glen McCafferty           17 
-Roy Carter                 21 Malcolm Iles 'A'          20 
+Roy Carter                 21 Malcolm Iles              20 
 Darren Goodall             14 Scott Sansom              21 
 David Rayner               12 Michael Frost             21 
 Jon Edmondson              15 Andy Denton               21 
-Adam Darby                 16 Jordan Brown 'B'          21 
-Jude Hatfield-Goodall      11 Stuart King 'A'           21 
+Adam Darby                 16 Jordan Brown              21 
+Jude Hatfield-Goodall      11 Stuart King               21 
                    Games:   5                   Games:   5 
                Aggregate: 173               Aggregate: 172 
                   Points:  16                  Points:  14 
@@ -4531,6 +4563,38 @@ Philip Thornton            10 Andy Bairstow             21
                    Games:   6                   Games:   4 
                Aggregate: 189               Aggregate: 162 
                   Points:  19                  Points:  11 
+
+     Division 3 (Mellor)              Sat 16th Aug         
+       Spen Victoria B                 Guiseley B          
+John Blackburn             21 Roger Waite               12 
+Mel Blackburn              21 Caroline Corbett          11 
+Paul Blackburn             21 Carolyn Matthewman        16 
+Harry Brooke               21 Lynne Ogden               14 
+Richard Brooke             21 John French               16 
+Derek Goor                 21 Jeremy Jones               5 
+Ian Gould                  21 Colin Matthewman          18 
+Steve Kemp                 17 Ralph Sissons             21 
+Phil Rayner                21 Gary Whelan               13 
+John Smith                 21 Peter Storey              12 
+                   Games:   9                   Games:   1 
+               Aggregate: 206               Aggregate: 138 
+                  Points:  26                  Points:   4 
+
+     Division 3 (Mellor)              Sat 16th Aug         
+       Spen Victoria B                Asa Briggs B         
+John Smith                 21 Alan Marsden              18 
+Phil Rayner                21 Steve Peers               12 
+Steve Kemp                 13 Kevin Burrage             21 
+Richard Brooke             21 Gary Woodhead             10 
+Harry Brooke               21 Arthur Schofield           9 
+Derek Goor                 21 Sean Schofield             8 
+Ian Gould                  14 Curtis Brown              21 
+John Blackburn             21 Debra Pearson              8 
+Mel Blackburn              12 Mathew Pearson            21 
+Paul Blackburn             21 Paula Graham               7 
+                   Games:   7                   Games:   3 
+               Aggregate: 186               Aggregate: 135 
+                  Points:  23                  Points:   7 
 
 Division 4 (Bartle) 8 Player          Sat 16th Aug         
        Crowghyll Park         Hipperholme & Lightcliffe B  
@@ -4603,6 +4667,20 @@ Kay Lund                   19 Dianne Teale              21
                   Points:  25                  Points:   3 
 
  Division 5 (Haigh) 8 Player          Sat 16th Aug         
+    Cleckheaton Sports B          Cleckheaton Moorend      
+Carol Turner               21 Frank Turnbull            14 
+Andrea Brearley            21 Pat Parkinson             13 
+Janet Inness               19 Barbara Woodcock          21 
+Rowena Oakey               21 Robert Hoyle              11 
+Lynn Seddon                 5 Mick Stewart              21 
+Mary Johnson                9 John Parkinson            21 
+Anne Watkinson             10 Lee Collinson             21 
+David Griffiths            17 David Lloyd               21 
+                   Games:   3                   Games:   5 
+               Aggregate: 123               Aggregate: 143 
+                  Points:  11                  Points:  17 
+
+ Division 5 (Haigh) 8 Player          Sat 16th Aug         
        Spen Victoria C                Asa Briggs C         
 Justine Wood               21 James Klenk               15 
 Terry Varney               21 Gill McGrevy               5 
@@ -4632,7 +4710,7 @@ Keith Goodall              21 Andy Stoutt               11
 
  Division 6 (Riley) 8 Player          Sat 16th Aug         
         Eccleshill C                 Bradford Moor         
-Shirley Rooks              21 Tracy Duxbury             15 
+Shirley Rooks              21 Tracy Duxbury             16 
 Sue Butler                  5 Neil Duxbury              21 
 Kevin Ackroyd              21 Diane Barraclough          7 
 Andrew Smith               21 Marjorie Leeming          19 
@@ -4641,7 +4719,7 @@ Brian Barker               21 Doreen Parkin             20
 Tom Spensley                4 Alan Naylor               21 
 Ken Binder                  5 Mark Durrans 'A'          21 
                    Games:   5                   Games:   3 
-               Aggregate: 119               Aggregate: 128 
+               Aggregate: 119               Aggregate: 129 
                   Points:  14                  Points:  14 
 
  Division 6 (Riley) 8 Player          Sat 16th Aug         
@@ -4653,7 +4731,7 @@ Ian Findlay                21 Julie Stead               12
 Lesley Holmes              21 Doreen Lawson             19 
 Malcolm Riggs              21 Gary Stead                 7 
 Steve Edgley               21 Jean Perry                13 
-Sean Toehill               21 Paul Gains                11 
+Shaun Toehill              21 Paul Gains                11 
                    Games:   6                   Games:   2 
                Aggregate: 154               Aggregate: 115 
                   Points:  20                  Points:   8 
