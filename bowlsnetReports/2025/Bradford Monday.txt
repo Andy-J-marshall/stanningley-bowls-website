@@ -1,4 +1,4 @@
-=== Bradford (Mon. Evening) 2025 (as of Sun 17th Aug)
+=== Bradford (Mon. Evening) 2025
 === Comp. Match Cards
 
   Division 1 - Thurston           Mon 7th Apr         
@@ -2304,5 +2304,77 @@ Margaret East            6 Christine Jarvis        21
             Aggregate:  68             Aggregate: 122 
                 Games:   1                 Games:   5 
                Points:   3                Points:  23 
+
+  Division 1 - Thurston           Mon 18th Aug        
+     Spen Victoria A                Farsley           
+Mark Worrall            21 Ian Swinfield            8 
+Lexie Gould             13 Richard Whittaker       21 
+Ian Gould               21 Jim Swailes              5 
+Mark Ellis              14 Ken Gilroy              21 
+Philip Smith            21 Peter Scott              6 
+Debi Davis              21 Graham Petty            15 
+            Aggregate: 111             Aggregate:  76 
+                Games:   4                 Games:   2 
+               Points:  19                Points:   7 
+
+  Division 1 - Thurston           Mon 18th Aug        
+      Heckmondwike A                Hightown          
+Marie Franks             9 Tom Gilbert             21 
+Kathleen Field          12 Peter Simpson           21 
+Eric Franks             17 Daren Munt              21 
+Charlie Sykes           18 Logan Preston           21 
+Sean Carter             21 Darren Goodall           6 
+Gareth Harwood          21 Hayley Wood             15 
+            Aggregate:  98             Aggregate: 105 
+                Games:   2                 Games:   4 
+               Points:  11                Points:  15 
+
+ Division 3 - City Sports         Mon 18th Aug        
+        Clayton B                  Queensbury         
+Sue Findlay             21 Lorraine Birch          20 
+Trevor Bateman           9 Michael Clare           21 
+Joe Midgley             21 Brian Raistrick         18 
+Steve Edgley            21 David Jarvis            18 
+Ian Findlay             17 Muriel Keighley         21 
+Lee Greenwood           21 John Moore              14 
+            Aggregate: 110             Aggregate: 112 
+                Games:   4                 Games:   2 
+               Points:  13                Points:  13 
+
+ Division 3 - City Sports         Mon 18th Aug        
+        Tyersal B               Bradford Moor B       
+Jeffrey Smith           17 Edward East             21 
+Byron Whalley           21 Geoff Woodfine           6 
+Brenda Hudson           20 Martin Barraclough      21 
+John Smith              21 Diane Barraclough        9 
+Russell Hudson          21 Margaret East            6 
+Edgar Rhodes            21 John Appleyard           5 
+            Aggregate: 121             Aggregate:  68 
+                Games:   4                 Games:   2 
+               Points:  22                Points:   4 
+
+ Division 3 - City Sports         Mon 18th Aug        
+     Bradford Moor A               West Royd          
+Christine Jarvis        21 Anne Gothard             6 
+Neil Duxbury            21 Sandra Knell             8 
+Michael Jarvis          21 Jan McGuiness           20 
+Alan Naylor 'A'         21 Hazel Stanclif          14 
+Tracy Duxbury           21 Elizabeth Farrar        14 
+Mark Durrans 'A'        21 Howard Gothard          11 
+            Aggregate: 126             Aggregate:  73 
+                Games:   6                 Games:   0 
+               Points:  24                Points:   2 
+
+ Division 3 - City Sports         Mon 18th Aug        
+       Brackenhill               Drighlington B       
+Ellie Campbell          17 Karl Denville           21 
+Jackie Wilkinson        21 Graham Fuller           11 
+Madeline Gamble         21 Andrew Haigh             7 
+Gordon McLennon         20 Vicky Haigh             21 
+Kathy Wilford           21 Steve Wrigglesworth      7 
+Bob Armitage            21 Mick Tolson             11 
+            Aggregate: 121             Aggregate:  78 
+                Games:   4                 Games:   2 
+               Points:  21                Points:   5 
 
 
