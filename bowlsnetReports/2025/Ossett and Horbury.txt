@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Mon 18th Aug)
+=== Ossett & Horbury 2025 (as of Tue 19th Aug)
 === League Match Cards
 
          Division 3                   Tue 8th Apr          
@@ -5205,5 +5205,41 @@ Graham Bluff              21 Howard Riley                0
 Carl Bland                21 Lucas Manousios             7 
 Tony Hunter               17 Keith Hawes                21 
               Aggregate: 159                Aggregate:  90 
+
+         Division 3                  Mon 18th Aug          
+        Thornhill B                    Sandal C            
+David Tolson               8 Andrew Evison              21 
+Stephen Wainwright        19 Andrea Banham              21 
+Anne Graham               21 Roger Steel                10 
+Phil Gamble               21 Dawn Nicks                  7 
+Julie Makepeace           21 David Roscoe               16 
+Mandy Mitchell            21 Terry Weston               11 
+Jennifer Gray             10 John Packer                21 
+Derek Robinson            16 Paul Hawes                 21 
+              Aggregate: 137                Aggregate: 128 
+
+         Division 4                  Tue 19th Aug          
+        Slazenger C                  Smirthwaite C         
+Graham Bracewell          21 Gary Powis                 17 
+David Fox                 21 George Hall                16 
+Tricia Eastwood           10 L Evans                    21 
+Julie Dexter              21 D Watson                   20 
+Kathryn Redican           20 Michael Wood               21 
+Alan Shilito              21 Neil Clayton                9 
+David Griffiths            7 Craig Measham              21 
+Stuart Kelly              21 M Nowakowski               14 
+              Aggregate: 142                Aggregate: 139 
+
+         Division 5                  Tue 19th Aug          
+      Skelmanthorpe C                Outwood WMC B         
+Keith Jagger              21 Robert Race                16 
+Andrew McLaughlan         19 Wendy Bland                21 
+Trevor Brook              21 Alison Birkett             14 
+Brenda Ayre                9 John Wood                  21 
+Joanne McLaughlan         18 Christine Davis            21 
+Cerise Booth               8 Graham Bluff               21 
+Kevin Booth               12 Carl Bland                 21 
+Pamela Roys               21 John Birkett               16 
+              Aggregate: 129                Aggregate: 151 
 
 
