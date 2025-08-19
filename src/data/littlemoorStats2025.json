@@ -374,12 +374,12 @@
             }
         },
         "john armitage": {
-            "totalAgg": 1385,
-            "totalAggAgainst": 1052,
-            "availableAgg": 1491,
+            "totalAgg": 1406,
+            "totalAggAgainst": 1063,
+            "availableAgg": 1512,
             "availablePairsAgg": 42,
             "availableHomeAgg": 630,
-            "availableAwayAgg": 714,
+            "availableAwayAgg": 735,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 42,
@@ -388,13 +388,13 @@
             "totalHomeAggAgainst": 395,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 643,
-            "totalAwayAggAgainst": 566,
+            "totalAwayAgg": 664,
+            "totalAwayAggAgainst": 577,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 24,
             "homeLosses": 6,
-            "awayWins": 21,
+            "awayWins": 22,
             "awayLosses": 13,
             "cupWins": 6,
             "cupLosses": 1,
@@ -406,7 +406,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 2,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 71,
+            "totalGamesPlayed": 72,
             "results": [
                 "john armitage 17 - 21 dean scarth",
                 "john armitage 11 - 21 neil mylan",
@@ -441,6 +441,7 @@
                 "john armitage 21 - 16 joe wiltshire",
                 "john armitage 21 - 18 wayne moseley",
                 "john armitage 21 - 20 joseph cranston",
+                "john armitage 21 - 11 luke teale",
                 "john armitage 21 - 12 malcolm crotty",
                 "john armitage 21 - 14 peter barstow",
                 "john armitage 21 - 13 chris wilson",
@@ -491,9 +492,9 @@
                 "aggDiff": 14
             },
             "mirfield": {
-                "games": 15,
-                "wins": 11,
-                "aggDiff": 55
+                "games": 16,
+                "wins": 12,
+                "aggDiff": 65
             },
             "mirfield (b)": {
                 "games": 0,
@@ -907,6 +908,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "18/08/2025",
+    "lastUpdated": "19/08/2025",
     "statsYear": "2025"
 }

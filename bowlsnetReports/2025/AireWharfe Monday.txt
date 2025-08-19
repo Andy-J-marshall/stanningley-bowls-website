@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Mon 18th Aug)
+=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Tue 19th Aug)
 === League Match Cards
 
        Division 1                Mon 7th Apr        
@@ -5246,6 +5246,22 @@ Martin Fulton          21 Ken Lee                 7
                Games:   9                Games:   1 
               Points:  29               Points:   1 
 
+       Division 2               Mon 18th Aug        
+       Guiseley B                 Rawdon A          
+Lynn Ogden             16 Ken Garbett            21 
+Carolyn Matthewman     10 Ian Tindal             21 
+Graham Oliver          16 Steven Spurr           21 
+Jeremy Jones           21 Bernard Harrison       15 
+Peter Storey           17 Lindsay Rosendale      21 
+Andy Baxter            21 Dave Hill 'A'          14 
+Colin Matthewman        7 Roger French'A'        21 
+Billy Cater            20 George McLaren         21 
+Andrew Durkin          21 Gordon Longfellow      14 
+Bob Jeffrey            21 David Johnson 'A'      16 
+           Aggregate: 170            Aggregate: 185 
+               Games:   4                Games:   6 
+              Points:  12               Points:  18 
+
        Division 3               Mon 18th Aug        
       Greenbottom A        Burley in Wharfedale B   
 Janice Waite           21 Brian Wardle           14 
@@ -5310,6 +5326,22 @@ Stephen Crossley        8 David Lyons            21
                Games:   5                Games:   5 
               Points:  12               Points:  18 
 
+       Division 3               Mon 18th Aug        
+        Rawdon B                 Myrtle Park        
+Graham Hogg            17 Nick Gilleard          21 
+Ray Weldrand           20 Barbara Brook          21 
+Philip Leadbeater      21 Ken Pollard            18 
+Ken Chapman            14 Maureen Wood           21 
+Terry Waite-Pullan     18 Darren Armitage        21 
+Philip Jackson         18 Tom Barnes             21 
+Marlene Waite-Pullan   19 Christine Pollard      21 
+John Collins           21 Stephen Turner         17 
+Allan Sample           21 Chris Dickerson        11 
+Graham Hogg            14 Alan Wood              21 
+           Aggregate: 183            Aggregate: 193 
+               Games:   3                Games:   7 
+              Points:  12               Points:  18 
+
        Division 4               Mon 18th Aug        
       Yeadon Park B               Calverley         
 Adam Sample            21 Roy Whiteley           15 
@@ -5325,6 +5357,22 @@ Joan Baker             21 Richard Nudd           14
            Aggregate: 151            Aggregate: 176 
                Games:   4                Games:   6 
               Points:  11               Points:  19 
+
+       Division 4               Mon 18th Aug        
+       Holt Park B              Greenbottom B       
+Bruce Hetherington     21 Elinor Newhouse         9 
+John Tate              21 Michael Peel            9 
+Debbie Sandles         21 Fran Sutton             7 
+Michelle Norcliffe     21 Chris Warson           12 
+Betty Sparkes          13 Linda Summers          21 
+Andy Barclay           21 Kate Jukes             20 
+Brendan Clarke         21 Sandy Watson           17 
+Ray Boast              21 Bill Lovedale          17 
+Lois Horsfall          20 Allan Jukes            21 
+David Sadler           18 Trevor Dawson          21 
+           Aggregate: 198            Aggregate: 154 
+               Games:   7                Games:   3 
+              Points:  22               Points:   8 
 
        Division 4               Mon 18th Aug        
          Adel B                   Bramhope          
