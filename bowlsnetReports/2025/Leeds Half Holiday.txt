@@ -1,4 +1,4 @@
-=== Leeds & District (Half Holiday) 2025 (as of Tue 19th Aug)
+=== Leeds & District (Half Holiday) 2025 (as of Wed 20th Aug)
 === League Match Cards
 
         Div 1               Wed 2nd Apr       
@@ -33,6 +33,17 @@ Phil Hill           21 Alan Box             9
 Philip Hatch        21 Peter Linley        11 
         Aggregate: 101         Aggregate:  90 
            Points:  22            Points:  19 
+
+        Div 1               Wed 2nd Apr       
+    Rothwell BC B           Cross Flatts      
+Mark Hopps          13 Paul Hatch          21 
+Katie Turner        21 Jim Bootland        13 
+Lyn Owen            21 Stephanie Wood       4 
+Peter Burrows       21 Ian Wood            20 
+Lyn Best            21 Stacey Turner        2 
+Ron Owen            20 Jason Potter        21 
+        Aggregate: 117         Aggregate:  81 
+           Points:  26            Points:  16 
 
         Div 2               Wed 2nd Apr       
     Churwell Park              Colton         
@@ -2658,5 +2669,39 @@ Terry Astley        21 Neil Schofield      15
 Andy Best           13 Simon Hampshaw      21 
         Aggregate: 106         Aggregate: 111 
            Points:  23            Points:  23 
+
+        Div 4               Wed 20th Aug      
+    East End Park            New Armley       
+Thelma Lancaster    10 Dave Hurd           21 
+Andy Niddrie        12 Carol Butters       21 
+Helen Simms         21 Fred Hargreaves     15 
+Dave Howard         14 Ken Stockhill       21 
+Joesy Olivant       21 Richard Aspin        6 
+Darran Baker        21 Richard Stephen      4 
+        Aggregate:  99         Aggregate:  88 
+           Points:  21            Points:  19 
+
+     Semi-Finals            Wed 20th Aug      
+                          On Holbeck Moor     
+    Whitkirk BC A         Meanwood Park B     
+Phil Hill           21 John Hindle         16 
+Graham Hodder       19 Paul Dishman        21 
+Tony Green          21 Oliver Devaney      20 
+Graham Scholes      21 John King           12 
+Paul Hardy          21 Julie Keightley     15 
+Philip Hatch        21 Ian Macfarlaine     18 
+         Handicap: Scr          Handicap: +10 
+        Aggregate: 124         Aggregate: 112 
+
+     Semi-Finals            Wed 20th Aug      
+                         On Scatcherd Park    
+    Rothwell BC A         Meanwood Park A     
+Gareth Gidman       17 Chris Daysh         21 
+John Whiteley       21 Ian Howard          17 
+David Kaye          21 Karen Portman       15 
+Thomas Kaye          9 Tina Howard         21 
+Phil Wilsher        21 Rory Bligh          12 
+Alan Box            17 Jeff Blackburn      21 
+        Aggregate: 106         Aggregate: 107 
 
 
