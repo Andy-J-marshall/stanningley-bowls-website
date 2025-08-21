@@ -1,4 +1,4 @@
-=== Bradford (Half Holiday) 2025 (as of Wed 20th Aug)
+=== Bradford (Half Holiday) 2025 (as of Thu 21st Aug)
 === Comp. Match Cards
 
    Division 1 - Ed Foster           Wed 16th Apr        
@@ -2880,6 +2880,18 @@ Andrew Howie              21 Darren Goodall          19
               Aggregate: 103             Aggregate:  99 
                   Games:   3                 Games:   3 
                  Points:  14                Points:  12 
+
+   Division 1 - Ed Foster           Wed 20th Aug        
+        Littlemoor A                  Pudsey A          
+Glenn Miller              12 Ian Shaw                21 
+Brian Richards            21 Tom Morris              17 
+Philip A Richards         16 Matthew Leaf            21 
+Alan Mazurke              21 Pam Lindley             15 
+Thomas Powell             14 Gary Wike               21 
+Nicky Dewhirst            11 Dean Scarth             21 
+              Aggregate:  95             Aggregate: 116 
+                  Games:   2                 Games:   4 
+                 Points:   9                Points:  17 
 
    Division 1 - Ed Foster           Wed 20th Aug        
       West Bradford A               Littlemoor B        
