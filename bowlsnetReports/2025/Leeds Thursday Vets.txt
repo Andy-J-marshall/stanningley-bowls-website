@@ -1,4 +1,4 @@
-=== Leeds & District (Thursday Over 55s) 2025 (as of Wed 20th Aug)
+=== Leeds & District (Thursday Over 55s) 2025 (as of Thu 21st Aug)
 === League Match Cards
 
      Division 1            Thu 17th Apr       
@@ -1227,5 +1227,18 @@ Tommy Parr         21 Neil Hudson           7
 Steve Pickersgill  21 Malcolm Hallas       12 
 John Gilroy         5 Mick Harrison        21 
        Aggregate: 129          Aggregate: 137 
+
+     Division 1            Thu 21st Aug       
+     Burley Prk         Middleton Community   
+Pauline Stockdale  21 Brian Ragan          10 
+Malcolm Dacre      13 Neil Hudson          21 
+Pat Dacre          20 Mick Harrison        21 
+John Illingworh    21 Malcolm Hallas       12 
+Barry Palmer       13 Gordon Monk          21 
+Tommy Parr         14 Sue Harrison         21 
+John Gilroy        21 Terry Maher           9 
+Kevin Gilroy       21 Christine Glynne      6 
+       Aggregate: 144          Aggregate: 121 
+          Points:  30             Points:  26 
 
 

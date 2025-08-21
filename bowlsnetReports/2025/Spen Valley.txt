@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Wed 20th Aug)
+=== West Riding & Spen Valley 2025 (as of Thu 21st Aug)
 === Comp. Match Cards
 
          Premier                  Wed 16th Apr        
@@ -5202,6 +5202,19 @@ Nigel Marshall          17 Harry Seehra            21
                Points:   3                Points:   8 
 
          Premier                  Wed 20th Aug        
+     Heckmondwike - A          Spen Victoria - A      
+Tom Gilbert             11 Garry Walker            21 
+Graham Higgins          18 Andy Gallagher          21 
+Sean Carter             21 Philip Smith             8 
+Jacob Hatfield-Goodall  21 John Blackburn           9 
+Charlie Ripley          21 Conor Davies            13 
+Alex Wolfenden          21 Lewis Pember            13 
+Sam Beresford           21 Philip Bryant           15 
+Jude Hatfield-Goodall   21 Debi Davis              19 
+            Aggregate: 155             Aggregate: 119 
+               Points:   8                Points:   2 
+
+         Premier                  Wed 20th Aug        
       Pudsey BC - A                 Whitkirk          
 David Hilliam           21 Paul Hardy              12 
 Matthew Leaf            21 Thomas Johnson           4 
@@ -5254,6 +5267,32 @@ Bradley Throup          17 John Hopkinson          21
                Points:   7                Points:   3 
 
         Division 1                Wed 20th Aug        
+       Swillington             Spen Victoria - B      
+Adam Conlon             21 Phil Rayner              5 
+Chris Firth             15 Paul Warwick            21 
+Liam Massey             21 Ann Billington          15 
+Andrew Morris           21 Harry Brooke             9 
+Scott Normington        21 Richard Brooke          12 
+Thomas Scorah           21 Ian Gould                2 
+Guy Stewart             21 Paul Blackburn           1 
+David Waldron           21 David Billington         9 
+            Aggregate: 162             Aggregate:  74 
+               Points:   9                Points:   1 
+
+        Division 1                Wed 20th Aug        
+      Chapel Street           Brighouse Sports - B    
+David Walker            21 Tony Naylor              6 
+Dale Hardcastle         21 Peter Owen              13 
+Joe Ruddlesden          21 Jason Horsley           19 
+Paul Tobin              21 Nigel Briggs             9 
+Duncan Ruddlesden       21 Neal Hopper             19 
+Phil Vayro              21 Ian Moxon               18 
+Owen Laurie             21 John Horsley            13 
+Neil Wood Snr           21 Jamie Horsley           12 
+            Aggregate: 168             Aggregate: 109 
+               Points:  10                Points:   0 
+
+        Division 1                Wed 20th Aug        
      Harold Club - A             Littlemoor - B       
 Thomas Jagger            9 John Stocks             21 
 Nick Jagger             21 Alyssa Randell          12 
@@ -5265,6 +5304,19 @@ Ian Wilson              15 Philip Thornton         21
 Nigel Wormald           21 Thomas Powell           12 
             Aggregate: 133             Aggregate: 139 
                Points:   4                Points:   7 
+
+        Division 1                Wed 20th Aug        
+       Shipley - B              New Farnley - A       
+Andrew Walker           21 Harry Dixon             17 
+Cindy Rapinczuk         21 Ian Lynch               18 
+John Sample             18 Paul Wood               21 
+Michael Kane            19 Ian Worrall             21 
+Tony Spivey             21 Ryan Lynch              11 
+Garry Nellist           21 Simon Lavan             16 
+John Preston            16 Paul Jagger             21 
+Jason Bridge            13 Andrew Thompson         21 
+            Aggregate: 150             Aggregate: 146 
+               Points:   6                Points:   4 
 
         Division 2                Wed 20th Aug        
          Farsley                Harold Club - B       
@@ -5345,6 +5397,19 @@ Kevin Smales            21 Ryan Piercy              7
                Points:  10                Points:   0 
 
         Division 3                Wed 20th Aug        
+    Spen Victoria - C         Brighouse Sports - C    
+Mel Blackburn           21 Gordon Johnson          17 
+John Shackleton         21 Jodie Barraclough       17 
+Steve Kemp              21 Lewis Whalley           15 
+Lucas Wood              21 Peter McGowan            6 
+Michael Griffiths       21 Andy Mitchell           17 
+Paul Walker              7 Orla Horsey             21 
+Terry Varney            21 Ruby Whalley            13 
+John Smith              21 Simon Cresswell         12 
+            Aggregate: 154             Aggregate: 118 
+               Points:   9                Points:   1 
+
+        Division 3                Wed 20th Aug        
       Royds Park - A             Pudsey BC - C        
 David Broadhead         16 Melissa Morris          21 
 Mark Seed               21 Janice Connaleigh       15 
@@ -5356,6 +5421,19 @@ Steve Busz              21 Andy Barnatt             5
 Philip Rann             17 Gary Wike               21 
             Aggregate: 156             Aggregate: 116 
                Points:   7                Points:   3 
+
+        Division 3                Wed 20th Aug        
+      Scatcherd Park         Cleckheaton Sports - C   
+Billy Ward              17 Andrew Page             21 
+Steve Briggs            21 Kath Wilson             20 
+Martin Huxley            5 Janice Walton           21 
+Richard Stott           21 Chris Bray              13 
+Dawn Peters             12 Elaine Binns            21 
+Stuart Wardlaw          21 Greg Hutchinson         18 
+Jeff Holt               21 Nick Robinson           13 
+N Mark Ellis            18 Matthew Terry           21 
+            Aggregate: 136             Aggregate: 148 
+               Points:   4                Points:   7 
 
         Division 3                Wed 20th Aug        
        Rastrick - B              Royds Park - B       
@@ -5382,6 +5460,58 @@ Mark Prideaux           21 Sue Steward              7
 Ian Fitton              12 Jack Steward            21 
             Aggregate: 153             Aggregate: 115 
                Points:   8                Points:   2 
+
+        Division 4                Wed 20th Aug        
+    Spen Victoria - D           Heckmondwike - B      
+Harry Talbot            21 Danny Logan             12 
+Derek Warriner          21 Janet Firth             16 
+Ken Spencer              9 Daren Goodall           21 
+Laura Wood              11 Ash Harker              21 
+Brian Smith             21 Marie Franks            10 
+Archie Wood             17 Hayley Wood             21 
+Justine Wood            18 Eric Franks             21 
+Leigh Manton            16 Ross Ingham             21 
+            Aggregate: 134             Aggregate: 143 
+               Points:   3                Points:   8 
+
+        Division 4                Wed 20th Aug        
+       Drighlington              Gildersome - B       
+Philip Keating          21 Glenda Holmes           12 
+Steve Wrigglesworth     21 Frank Hales              6 
+Vicky Haigh             21 Kay Stewart              8 
+Graham Fuller           10 Michael Ross            21 
+Andrew Haigh             9 Barbara Hall            21 
+Judith Atkinson         21 Neil Schofield          16 
+Ian Fairhurst           21 David Holmes            18 
+Ken Oates               21 Tony Morris             11 
+            Aggregate: 145             Aggregate: 113 
+               Points:   8                Points:   2 
+
+        Division 4                Wed 20th Aug        
+  Cleckheaton Sports - D        Harold Club - C       
+Michael Binns           15 Jim Boocock             21 
+Andrea Brearley         11 Stephen Council         21 
+Alan Holmes             21 Ian Boldy               16 
+Chris Piercy            11 Carl Molineux           21 
+Linda Potter            21 Bryan Firth             12 
+David Holmes            12 Kelly Gummery           21 
+Alan Potter             21 Carl Maguire            14 
+Chris Watson            14 Martin Watson           21 
+            Aggregate: 126             Aggregate: 147 
+               Points:   3                Points:   8 
+
+        Division 4                Thu 21st Aug        
+  Cleckheaton Sports - E        Heckmondwike - C      
+Joe Brook               21 Kath Field              16 
+David Griffiths         21 Roger Jackson            2 
+Joe Bray                21 Steve Kidd               5 
+Rowena Oakey            21 Susan McMananamin       18 
+Callum Brook            21 *No Player*              0 
+Albert Bentley          21 *No Player*              0 
+Lynn Seddon             21 *No Player*              0 
+Graham Ward             21 *No Player*              0 
+            Aggregate: 168             Aggregate:  41 
+               Points:  10                Points:   0 
 
 
        Round of 32                   Sat 5th Apr           
