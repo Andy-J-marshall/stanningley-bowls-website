@@ -1,4 +1,4 @@
-=== Tadcaster Evening League 2025 (as of Thu 21st Aug)
+=== Tadcaster Evening League 2025 (as of Sat 23rd Aug)
 === League Match Cards
 
     Richardson Trophy           Thu 3rd Apr        
@@ -326,7 +326,7 @@
       BLACK SWAN B             COLTON SPORTS       
                Games:   3               Games:   1 
            Aggregate:  76           Aggregate:  69 
-              Points:  76              Points:  69 
+              Points:   5              Points:   1 
       Manual Result                                
 
     Richardson Trophy           Thu 17th Apr       
@@ -4560,6 +4560,21 @@ Peter Wilcox           15 Clare Howes           21
 
     Main League 2025            Thu 21st Aug       
           Div 1                                    
+     THORNER JOKERS              MAGNET OLD        
+Gareth Coates          21 Andrew Wood            4 
+Mick Cooper            12 Adam Hawkins          21 
+Peter Holmes            5 Jon Lucas             21 
+Jim Jordan              8 M Whittaker           21 
+Owen Laurie            21 Jordan Riley          18 
+Toni Laurie            19 D Bedford             21 
+Suzie Lawson           21 Andrew Green          15 
+John Mais              13 P Greenwood           21 
+              Points:   3              Points:   7 
+           Aggregate: 120           Aggregate: 142 
+               Games:   3               Games:   5 
+
+    Main League 2025            Thu 21st Aug       
+          Div 1                                    
       BLACK SWAN A             GARFORTH CC A       
 Dave Rowson            21 Stuart Cranston       13 
 David Hodgson          21 Les Hudson            11 
@@ -4571,6 +4586,21 @@ Roy Flynn              21 Philip S Lodge        10
 Tom Beecroft           21 Ian Doughty            6 
               Points:   8              Points:   2 
            Aggregate: 153           Aggregate: 110 
+               Games:   6               Games:   2 
+
+    Main League 2025            Thu 21st Aug       
+          Div 1                                    
+        WAYSIDE A             WHITKIRK KNIGHTS     
+Peter Darbyshire       21 Adam Varley           20 
+M Reynolds             21 Kristian Walder       11 
+Barry Sugden           21 Amy Tobin             18 
+Alan Whittaker         16 Emma Tobin            21 
+Paul Worsnop            8 P Hill                21 
+Alan Rothery           21 Tony Green            11 
+Chris Rigby            21 Terry Kelly           20 
+Vic Skaife Clarke      21 M Hebden              20 
+              Points:   8              Points:   2 
+           Aggregate: 150           Aggregate: 142 
                Games:   6               Games:   2 
 
     Main League 2025            Thu 21st Aug       
@@ -4602,6 +4632,21 @@ M Greenwood             6 Ian Wallbank          21
               Points:   3              Points:   7 
            Aggregate: 137           Aggregate: 145 
                Games:   3               Games:   5 
+
+    Main League 2025            Thu 21st Aug       
+          Div 2                                    
+     LOW HARROGATE A             SCHOLES B         
+Peter Hicks            21 Steven Proberts       12 
+David Clarke           14 G Dickinson           21 
+Graham Patrick         12 Dave White            21 
+Dave Moon              13 Philip Elliott        21 
+Ian Jarratt            21 Paul Ellis            14 
+Chris Olding           21 Stephen Copley         3 
+Cath Patrick           21 Jennifer Elliott       8 
+Jo Bonsels             20 John Pennock          21 
+              Points:   6              Points:   4 
+           Aggregate: 143           Aggregate: 121 
+               Games:   4               Games:   4 
 
     Main League 2025            Thu 21st Aug       
           Div 2                                    
@@ -4662,6 +4707,21 @@ Doug Fraser            18 Dennis Hobson         21
               Points:   3              Points:   7 
            Aggregate: 142           Aggregate: 145 
                Games:   3               Games:   5 
+
+    Main League 2025            Thu 21st Aug       
+          Div 3                                    
+    COLTON CRUSADERS         BOSTON SPARTANS A     
+Stuart Birch           21 Richard Widnall       15 
+Andy Wright            21 Alan Best             13 
+P Lawson               21 Larry Hoyle           11 
+David Ryder            21 Susan Farnsworth      15 
+A Rushfirth            14 William Shaw          21 
+Nick Ryder             21 Barry Ibbetson        17 
+M Wright               21 Dave Robinson         10 
+Robert Horner          14 John Potter           21 
+              Points:   8              Points:   2 
+           Aggregate: 154           Aggregate: 123 
+               Games:   6               Games:   2 
 
     Main League 2025            Thu 21st Aug       
           Div 4                                    
