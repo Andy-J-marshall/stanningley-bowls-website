@@ -1,4 +1,4 @@
-=== Leeds & District (Saturday) 2025 (as of Thu 21st Aug)
+=== Leeds & District (Saturday) 2025 (as of Sat 23rd Aug)
 === League Match Cards
 
    Saturday League          Sat 5th Apr       
@@ -1210,6 +1210,20 @@ Martin Huxley       16 Reece Pratt         21
 
    Saturday League          Sat 21st Jun      
      League Div 1                             
+     New Wortley              Meanwood        
+Stuart Reardon      21 John Hindle         12 
+Iain Baker          20 David L Miller      21 
+Angela Morley       21 Maureen Sheridan     8 
+Trevor Dawson       16 Oliver Devaney      21 
+Gerry Wood          21 Jeff Dumbrell       17 
+Stephen Morley      21 Jeff Blackburn      14 
+Andrew Cole         21 Julie Keightley     19 
+Danny Dawson        21 Paul Dishman         8 
+        Aggregate: 162         Aggregate: 120 
+           Points:  37            Points:  23 
+
+   Saturday League          Sat 21st Jun      
+     League Div 1                             
      Pudsey Park            New Farnley       
 James Drury         21 Bob Taylor           7 
 Maveen Tomlinson    21 Linda Taylor        18 
@@ -1639,6 +1653,20 @@ Alyssa Randell      20 James Drury         21
 Jim Swailes         21 Calum Birkin        15 
         Aggregate: 148         Aggregate:  89 
            Points:  33            Points:  19 
+
+   Saturday League          Sat 19th Jul      
+     League Div 2                             
+    Western Flatts          New Armley B      
+Granville Stoyles   21 Matthew Rollinson   13 
+Susan Reddyhoff     21 Alan Taylor         11 
+Anne Lucas          21 Maureen Morris       4 
+Hazel Goodall       21 Rob Jagger           7 
+Ron Lavan           21 Anne Gothard         6 
+Gary Reddyhoff      21 Jonathan Kaye       20 
+Gordon Stalker       1 Howard Gothard      21 
+Mary Horrocks       21 David Hurd          18 
+        Aggregate: 148         Aggregate: 100 
+           Points:  35            Points:  19 
 
    Saturday League          Sun 20th Jul      
      League Div 2                             
@@ -2071,6 +2099,33 @@ David Anker         11 Karl Chapman        21
 Anne Gothard         6 Karl Dutton         21 
         Aggregate:  91         Aggregate: 168 
            Points:  16            Points:  40 
+
+   Saturday League          Sat 23rd Aug      
+     League Div 2                             
+     New Armley A          Middleton Park     
+Mark Aspin          21 Dawn Robinson        4 
+Karl Chapman        21 Kath Burdett         5 
+Carol Butters       21 Val Darwin           8 
+Ken Stockhill       21 Trevor Sackett      15 
+Richard Aspin       21 John Goode          14 
+Mark Rollinson      21 James King          18 
+Walter Stockhill    21 Philip Rowe         14 
+Karl Dutton         21 Ian Dickinson        8 
+        Aggregate: 168         Aggregate:  86 
+           Points:  40            Points:  14 
+
+   YEN Cup (Div 1)          Sat 23rd Aug      
+                         On Middleton Comm    
+     New Farnley         Stanningley Park A   
+Andy Thompson       21 Paul Bowes          13 
+Linda Taylor        11 Steve Gardner       21 
+Dave Taylor         11 Martin Fulton       21 
+Graham Davison      15 David Eaton         21 
+Ian Worrall         11 Richard Hodgson     21 
+Paul Jagger         15 Stuart Potter       21 
+Harry Dixon         13 Jim Swailes         21 
+Ryan Lynch          21 Andrew Marshall     13 
+        Aggregate: 118         Aggregate: 152 
 
 
 === CrossFlatts results only (dropped out of league 14th)

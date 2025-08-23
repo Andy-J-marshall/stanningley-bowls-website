@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Thu 21st Aug)
+=== Ossett & Horbury 2025 (as of Sat 23rd Aug)
 === League Match Cards
 
          Division 3                   Tue 8th Apr          
@@ -5259,12 +5259,12 @@ Mandy Mitchell             3 James Hanson               21
 Joshua Eley                7 Jack Dyson                 21 
 Paul Hawes                 7 Ashley Daykin              21 
 John Packer               16 Chris Kelly                21 
-James Evison              17 Mark Booth                 21 
+James Evison              19 Mark Booth                 21 
 Darren Pitchforth         17 Andy Sorsby                21 
 Andrew Evison             18 Josh Brown                 21 
 Darren Crummack           21 Nick White                 13 
 Martin Eley               21 Harry Lumb                 11 
-              Aggregate: 124                Aggregate: 150 
+              Aggregate: 126                Aggregate: 150 
 
       Premier Division               Thu 21st Aug          
        Smirthwaite A                Ossett C & AC A        
@@ -5290,6 +5290,18 @@ Malcolm Preston           21 Calum Fennell              15
 Roger Birdsall            21 Dean Hopwood               16 
               Aggregate: 160                Aggregate: 131 
 
+      Premier Division               Thu 21st Aug          
+          Rothwell                   Spen Victoria         
+Kez Smith                 21 Neil Wood Jr               18 
+Matt Turner               12 Ash Tattersley             21 
+Charlotte Holmes          17 Richard Crowther           21 
+Thomas Scorah             20 Harley Tattersley          21 
+Gareth Lally              19 Ben Halliday               21 
+Mark Hughes               21 Andrew Wood                15 
+Garry Dennison            21 Andrew Gallagher           14 
+Josh Thomas               21 Mark Goodall               14 
+              Aggregate: 152                Aggregate: 145 
+
          Division 1                  Thu 21st Aug          
        Denby Grange A              Alverthorpe WMC A       
 Josh Broadhead             9 Darren Smith               21 
@@ -5301,6 +5313,18 @@ Sarah Fisher               6 Dave Cowsill               21
 David Fisher              21 Amanda Hagen               13 
 Danny Walker              16 Jeff Normanton             21 
               Aggregate: 109                Aggregate: 154 
+
+         Division 1                  Thu 21st Aug          
+       West Bretton A                 Dodworth MW          
+Tim Chadwick              14 Mark Bramall               21 
+Steven Sykes               9 Tom Marsland               21 
+James Szabo               19 Nigel McDermott            21 
+Steve Hall                 6 Micky Hague                21 
+Andy Stead                17 Debbie Talbot              21 
+Peter Rhodes              13 Jack Hill                  21 
+Richard Stead             21 Barry Holland              15 
+Kim Fisher                14 Josh Talbot                21 
+              Aggregate: 113                Aggregate: 162 
 
          Division 1                  Thu 21st Aug          
        Clayton West A                 Slazenger A          
@@ -5337,6 +5361,18 @@ Nigel Miller              17 Michael Sweeney            21
 Peter Lamb                21 Tom Gilbert                20 
 Mel Whitaker              21 Marcus Leach               10 
               Aggregate: 143                Aggregate: 150 
+
+         Division 2                  Thu 21st Aug          
+        Slazenger B                   Horbury WMC          
+Steve Powell              21 A Clarkson                 16 
+Gordon Fisher              1 John Stokes                21 
+Gary Denton               21 David Horan                19 
+Jack Teal                 20 David Purssell             21 
+Maureen Jennings          15 Den Law                    21 
+Angela Pursglove          17 Phillip Dunnill            21 
+Alwyn Cotton              18 Adrian Smart               21 
+David Griffiths           21 David Ingham               12 
+              Aggregate: 134                Aggregate: 152 
 
          Division 2                  Thu 21st Aug          
        Outwood WMC A                 Smirthwaite B         
@@ -5399,6 +5435,18 @@ Stewart Widdrington       10 David Tolson               21
               Aggregate: 143                Aggregate: 109 
 
          Division 3                  Thu 21st Aug          
+      Skelmanthorpe B               Wake Thornes A         
+Richard Auty              21 R Stables                   9 
+Stephen Auty              21 D Warwick                  13 
+Jamal Kelly               21 Delma Ashton               11 
+John Fisher                8 C Shipley                  21 
+Graham Roys               18 S Findlay                  21 
+Sam Seargent              21 D Guile                     2 
+Johnathon Taylor          17 Bob Holmes                 21 
+Lee Dobson                21 Gerry Taylor               20 
+              Aggregate: 148                Aggregate: 118 
+
+         Division 3                  Thu 21st Aug          
         Wrenthorpe A                  Earlsheaton          
 Paul Horrocks             21 Jenny Pitchforth           15 
 John Scholey              21 Malcolm Battye             19 
@@ -5423,6 +5471,18 @@ Stephen Haist             21 Charles Dews                5
               Aggregate: 155                Aggregate:  97 
 
          Division 4                  Thu 21st Aug          
+         Brookhouse                      B J D             
+Grenville Smith           17 Gerry Pickard              21 
+Mark Whittaker            15 David Shearstone           21 
+John Best                 21 Alan Mullins               18 
+Andrew Codner             21 Ken Channer                18 
+Tony Codner               21 Gillian Haigh               9 
+Richard Shackleton        21 Peter Richmond              9 
+Declan Brown              21 Les Conway                  6 
+Jennifer Dooler           14 Thomas Wright              21 
+              Aggregate: 151                Aggregate: 123 
+
+         Division 4                  Thu 21st Aug          
           Altofts                   Clayton West B         
 Geoff Mulvey              21 Sue Lindley                 4 
 Nigel Oakley              21 Kenneth Taylor              3 
@@ -5433,6 +5493,18 @@ Dave Cunniff              21 D Hallas                   19
 Graham Brook              15 Stuart England             21 
 Steve Newman              21 Mirel Buga                 20 
               Aggregate: 161                Aggregate: 101 
+
+         Division 4                  Thu 21st Aug          
+         Overthorpe                 West Bretton B         
+Geraldine Dickinson       20 Carol Stevenson            21 
+Heather Jewitt            16 Kate Moore                 21 
+Harvey Wilson             17 Anne Slawycz               21 
+Leah Wetherill            21 John Hepworth              16 
+Andy Wilson               14 Mathew Boud                21 
+Anthony Dickinson         21 Simon Geal                 20 
+Richard Sweeney           18 Mick Shaw                  21 
+Jack Bowes                21 Steve Slawycz              16 
+              Aggregate: 148                Aggregate: 157 
 
          Division 5                  Thu 21st Aug          
     West Yorks Sports B                Stanley B           
