@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Sat 23rd Aug)
+=== Bradford (Saturday) 2025 (as of Wed 27th Aug)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -4769,6 +4769,22 @@ Jason Watters              21 Andrew Howie              19
                   Points:  13                  Points:  17 
 
  Division 1 (Naylor Premier)          Sat 23rd Aug         
+          Pudsey A                    Hill Crest A         
+Ian Shaw                   15 Ben Halliday              21 
+Philip Wilsdon             17 David Barnes              21 
+Jamie Winterburn           21 Rebecca Woodhead          10 
+Oliver Mordue              21 Alan Bray                 16 
+Mason Lindley              21 Aaron Bottomley           20 
+Andrew Sykes               21 Gary Murphy               13 
+James Cosgrave             21 Robert Woodhead            5 
+James Hanson               21 Martin Murphy             14 
+Stuart Hanson              21 Scott Haynes              19 
+Stephen Walker             21 Stuart Carrol             11 
+                   Games:   8                   Games:   2 
+               Aggregate: 200               Aggregate: 150 
+                  Points:  23                  Points:   7 
+
+ Division 1 (Naylor Premier)          Sat 23rd Aug         
         Littlemoor A                      Wyke             
 Nathan Dobson              21 Nigel Swales               3 
 Will Bedford               21 Nigel Wormald              5 
@@ -4799,6 +4815,22 @@ Ash Tattersley             21 Daniel Teale              16
                    Games:   6                   Games:   4 
                Aggregate: 178               Aggregate: 166 
                   Points:  18                  Points:  12 
+
+ Division 1 (Naylor Premier)          Sat 23rd Aug         
+        Shipley Club               Brighouse Sports A      
+Scott Bloodworth           21 John Bloomer              19 
+Steve Cooper               21 John Horsley              15 
+Craig Fenton               21 Richard Hobson             7 
+Matthew Jacques 'A'        21 Graham Roberts            11 
+Chris Jacques              21 Helen Simpson             15 
+Ian Jacques                16 Micheal Wood              21 
+Daniel Metcalfe            21 Jon Gamble                16 
+John Sample                21 Robert Hopper             20 
+Neil Simpson               21 Jamie Horsley             12 
+Andrew Walker              21 Ryan Collins               9 
+                   Games:   9                   Games:   1 
+               Aggregate: 205               Aggregate: 145 
+                  Points:  25                  Points:   5 
 
  Division 1 (Naylor Premier)          Sat 23rd Aug         
           Whitkirk                      Cononley           
@@ -4865,6 +4897,22 @@ Peter Oliver               20 David Kirkbright          21
                   Points:  24                  Points:   6 
 
      Division 2 (Godwin)              Sat 23rd Aug         
+        Asa Briggs A                    Farsley            
+Stuart King                21 Peter Crowther            11 
+Jordan Brown               21 Duncan McPhail             6 
+Michael Frost              21 Derek Pickering           12 
+Clive Foord                21 Colin Rhodes              11 
+Glen McCafferty            21 Neil Nicholson            10 
+Andrew Heenan              21 Graham Petty               6 
+Scott Sansom               21 Ian Swinfield              7 
+Mark Hirst                 21 Stuart Brook              12 
+Jason Watters              21 Peter Scott                7 
+Andy Denton                20 Dean Helliwell            21 
+                   Games:   9                   Games:   1 
+               Aggregate: 209               Aggregate: 103 
+                  Points:  29                  Points:   1 
+
+     Division 2 (Godwin)              Sat 23rd Aug         
           Stainland                     Hightown           
 Michael Severn             21 Jacob Hatfield-Goodall    18 
 Ben Fisher                 13 Jude Hatfield-Goodall     21 
@@ -4927,6 +4975,20 @@ Harry Smith                21 Steve Peers               19
                    Games:   5                   Games:   5 
                Aggregate: 187               Aggregate: 175 
                   Points:  17                  Points:  13 
+
+Division 4 (Bartle) 8 Player          Sat 23rd Aug         
+        Hill Crest B                    Pudsey C           
+Gary Jackson               21 Sam Hunak                 18 
+Matt Bowe                  21 Janice Connaleigh          5 
+Mark Cartwright            21 David Cross                9 
+John Jackson               11 David McDonald            21 
+Craig Thomasson            21 Colin Dibb                16 
+Stephen Balmforth          14 David Elliott             21 
+Nikki Conway               13 Steve Harwood             21 
+Pamela Woodhead            21 Hannah Leaf                9 
+                   Games:   5                   Games:   3 
+               Aggregate: 143               Aggregate: 120 
+                  Points:  18                  Points:  10 
 
 Division 4 (Bartle) 8 Player          Sat 23rd Aug         
     Cleckheaton Sports A            West Bradford A        
@@ -4997,6 +5059,20 @@ Keith Walker               21 Tony Godfrey              10
                    Games:   7                   Games:   1 
                Aggregate: 164               Aggregate:  91 
                   Points:  25                  Points:   3 
+
+ Division 5 (Haigh) 8 Player          Sat 23rd Aug         
+        Asa Briggs C              Cleckheaton Sports B     
+Alan Standing              21 Andrea Brearley           15 
+Donna Hume                  8 Jacqui Bateson            21 
+Kathleen Sansom            21 Janet Inness               7 
+David Trudgill             21 Anne Watkinson             7 
+Lorraine Birch              3 Rowena Oakey              21 
+Neil Morritt                6 Geoff Thornton            21 
+James Klenk                19 David Griffiths           21 
+Bob Hiley                  16 Alex Green                21 
+                   Games:   3                   Games:   5 
+               Aggregate: 115               Aggregate: 134 
+                  Points:  11                  Points:  17 
 
  Division 5 (Haigh) 8 Player          Sat 23rd Aug         
        Bailiff Bridge                 Brackenhill          

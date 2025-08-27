@@ -1,4 +1,4 @@
-=== Tadcaster Evening League 2025 (as of Sat 23rd Aug)
+=== Tadcaster Evening League 2025 (as of Wed 27th Aug)
 === League Match Cards
 
     Richardson Trophy           Thu 3rd Apr        
@@ -195,7 +195,7 @@
 
     Richardson Trophy           Thu 10th Apr       
       Richardson E                                 
-       SWILLINGTON            WHITKIRK KNAVES      
+   SWILLINGTON SHARKS         WHITKIRK KNAVES      
                Games:   3               Games:   1 
            Aggregate:  83           Aggregate:  47 
               Points:   5              Points:   1 
@@ -291,7 +291,7 @@
 
     Richardson Trophy           Thu 17th Apr       
       Richardson E                                 
-       CROSSGATES               SWILLINGTON        
+       CROSSGATES            SWILLINGTON SHARKS    
                Games:   0               Games:   4 
            Aggregate:  54           Aggregate:  84 
               Points:   0              Points:   6 
@@ -410,7 +410,7 @@ Bill Harrison             Chris Wood
 
     Richardson Trophy           Thu 24th Apr       
       Richardson E                                 
-       SWILLINGTON            WHITKIRK KNIGHTS     
+   SWILLINGTON SHARKS         WHITKIRK KNIGHTS     
                Games:   2               Games:   2 
            Aggregate:  77           Aggregate:  74 
               Points:   4              Points:   2 
@@ -690,7 +690,7 @@ Cindy Cotton           21 Richard Smoothy        9
 
     Main League 2025            Thu 1st May        
           Div 4                                    
-      BLACK SWAN B              SWILLINGTON        
+      BLACK SWAN B           SWILLINGTON SHARKS    
 Jake Coker             21 Steve Clough          14 
 Gary Kinder            10 Duncan Hutchison      21 
 Dave Kinder            21 Matthew Lindley        1 
@@ -900,7 +900,7 @@ David Tinker           21 Neil Robinson          5
 
     Main League 2025            Thu 8th May        
           Div 4                                    
-       SWILLINGTON           KNARESBOROUGH ASH     
+   SWILLINGTON SHARKS        KNARESBOROUGH ASH     
 Steve Capitano         21 R Bushell              9 
 Duncan Hutchison       21 Eric Taylor           13 
 Matthew Lindley        21 Sue Massey            13 
@@ -1155,7 +1155,7 @@ Ian Jones              21 Steve Holmes          20
 
     Main League 2025            Thu 15th May       
           Div 4                                    
-      BARDSEY HAWKS             SWILLINGTON        
+      BARDSEY HAWKS          SWILLINGTON SHARKS    
 Martin Woolley         21 Guy Stewart           13 
 David Lewis            21 Duncan Hutchison      20 
 Ron Clark              21 Kieran Thurston       19 
@@ -1680,7 +1680,7 @@ Phil Bouic             21 John Lofthouse         7
 
     Main League 2025            Thu 29th May       
           Div 4                                    
-       SWILLINGTON             DRAGON HOPPERS      
+   SWILLINGTON SHARKS          DRAGON HOPPERS      
 Steve Clough           13 Colin Rudd            21 
 Duncan Hutchison       21 John Archer           18 
 Kieran Thurston        21 White Peter            5 
@@ -1920,7 +1920,7 @@ Alan Pickering         21 Graham Biggs          15
 
     Main League 2025            Thu 5th Jun        
           Div 4                                    
-     BARWICK BEAVERS            SWILLINGTON        
+     BARWICK BEAVERS         SWILLINGTON SHARKS    
 Jennifer Dodgson       12 Wayne Broadhead       21 
 Graham Clarke          21 Duncan Hutchison       5 
 Peter Harrison         21 Diane Jones            8 
@@ -2175,7 +2175,7 @@ Trevor Curtis          20 Alan Scorfield        21
 
     Main League 2025            Thu 12th Jun       
           Div 4                                    
-       SWILLINGTON             THORNER WANDS       
+   SWILLINGTON SHARKS          THORNER WANDS       
 Steve Clough           19 Christopher Cook      21 
 Robert Baines           9 Joyce Broadbent       21 
 Ian Walker             21 Alistair Warren       18 
@@ -2430,7 +2430,7 @@ William Shaw           21 Gary Mahoney          10
 
     Main League 2025            Thu 19th Jun       
           Div 4                                    
-     LOW HARROGATE B            SWILLINGTON        
+     LOW HARROGATE B         SWILLINGTON SHARKS    
 Dave Moon              21 Steve Capitano        10 
 Charlie Peacock        21 Duncan Hutchison       5 
 Julie Smith             9 Ian Walker            21 
@@ -2685,7 +2685,7 @@ Alan Best              19 Nigel Ware            21
 
     Main League 2025            Thu 26th Jun       
           Div 4                                    
-       SWILLINGTON             COLTON SPORTS       
+   SWILLINGTON SHARKS          COLTON SPORTS       
 Steve Clough           21 Sue Barker             1 
 Ian Walker             21 Elizabeth Loveday     15 
 Matthew Lindley        21 Anthony Fawcett       10 
@@ -2940,7 +2940,7 @@ P Lawson               21 Ian Thornhill         20
 
     Main League 2025            Thu 3rd Jul        
           Div 4                                    
-       SWILLINGTON              BLACK SWAN B       
+   SWILLINGTON SHARKS           BLACK SWAN B       
 Guy Stewart            21 Dave Kinder            0 
 Steve Clough           20 Sue Mitchell          21 
 Matthew Lindley        21 Stephen Westoby       19 
@@ -3195,7 +3195,7 @@ Joe Doughty             8 David Tinker          21
 
     Main League 2025            Thu 10th Jul       
           Div 4                                    
-    KNARESBOROUGH ASH           SWILLINGTON        
+    KNARESBOROUGH ASH        SWILLINGTON SHARKS    
 Bill Harrison          21 Steve Clough           7 
 Tony Pedel             21 Duncan Hutchison       5 
 Lynn Curl              21 Matthew Lindley       19 
@@ -3450,7 +3450,7 @@ Laura Love             21 Richard Widnall       10
 
     Main League 2025            Thu 17th Jul       
           Div 4                                    
-       SWILLINGTON             BARDSEY HAWKS       
+   SWILLINGTON SHARKS          BARDSEY HAWKS       
 John Walker            21 Ron Clark              6 
 Phoebe Hancock         21 Paul Matthews         19 
 Steve Clough           21 Rita Beadle            7 
@@ -3960,7 +3960,7 @@ Ian Jones              21 Geoff Saunders        13
 
     Main League 2025            Thu 31st Jul       
           Div 4                                    
-     DRAGON HOPPERS             SWILLINGTON        
+     DRAGON HOPPERS          SWILLINGTON SHARKS    
 John Archer             9 John Walker           21 
 Colin Rudd              8 Kieran Thurston       21 
 Philip Boreham         11 Steve Clough          21 
@@ -4215,7 +4215,7 @@ Alan Best              15 Nick Danby            21
 
     Main League 2025            Thu 7th Aug        
           Div 4                                    
-       SWILLINGTON            BARWICK BEAVERS      
+   SWILLINGTON SHARKS         BARWICK BEAVERS      
 Lee Stewart            21 Jennifer Dodgson       8 
 Kieran Thurston        21 Jack Finister          3 
 Steve Clough           17 Margaret Finister     21 
@@ -4470,7 +4470,7 @@ Alan Scorfield         21 Trevor Curtis          3
 
     Main League 2025            Thu 14th Aug       
           Div 4                                    
-      THORNER WANDS             SWILLINGTON        
+      THORNER WANDS          SWILLINGTON SHARKS    
 Joe Wilkinson           5 Kieran Thurston       21 
 Halle Moore             9 Guy Stewart           21 
 Richard Eshelby         2 John Walker           21 
@@ -4725,7 +4725,7 @@ Robert Horner          14 John Potter           21
 
     Main League 2025            Thu 21st Aug       
           Div 4                                    
-       SWILLINGTON            LOW HARROGATE B      
+   SWILLINGTON SHARKS         LOW HARROGATE B      
 John Walker            21 Adele Zagorski         5 
 Steve Clough           21 Bill Schlegel          3 
 Diane Jones            21 Charlie Peacock       18 
