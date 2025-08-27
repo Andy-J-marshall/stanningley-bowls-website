@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday) 2025 (as of Sat 23rd Aug)
+=== Leeds & District (Tuesday) 2025 (as of Wed 27th Aug)
 === League Match Cards
 
       Division 1            Tue 8th Apr       
@@ -2925,5 +2925,46 @@ Phil Lodge          21 Tina Howard         11
 Les Hudson          21 Jeff Blackburn      13 
         Aggregate: 166         Aggregate: 102 
            Points:  39            Points:  19 
+
+        Final               Tue 26th Aug      
+                           On Holbeck Ltd     
+    New Farnley A          Roundhay Pk A      
+Andy Thompson       21 Ralph Taylor         9 
+David Taylor        10 Andrew Lloyd        21 
+Harry Dixon         21 *No Player*          0 
+Andy Gardiner       21 Martin Lally        19 
+Paul Wood           20 Andrew Ford         21 
+Simon Lavan         21 Andy Sharratt       14 
+Paul Jagger         21 John Lucas           9 
+Ryan Lynch          12 John Bates          21 
+        Aggregate: 147         Aggregate: 114 
+
+     Semi-Finals            Tue 26th Aug      
+                         On East End Park 1   
+    Holbeck Ltd A        Chapel Allerton A    
+Alex Perry          21 Dave Hill           12 
+Andrew Dewhirst     12 David Burke         21 
+Paul Hainsworth     14 David Blackwell     21 
+Kyle Hainsworth     16 Mandy Wilson        21 
+Ian Wardle          20 Tommy Massey        21 
+James Cuffe          9 Royce Jackson       21 
+Daniel Owen         18 Steven Bottomley    21 
+Kian Hendry         21 Colin Wilson        11 
+         Handicap: Scr          Handicap: +20 
+        Aggregate: 131         Aggregate: 169 
+
+     Semi-Finals            Tue 26th Aug      
+                             On Colton        
+      Meanwood B             Holt Park        
+Pat Blackburn        2 Mike Cox            21 
+Phil McStay         21 Debbie Sandles      12 
+Graham Hey          21 Graham Hill         17 
+Jeff Dumbrell       21 Terry Cook          16 
+Jeff Blackburn      21 Peter Byford        20 
+Ian Macfarlane      20 Colin Chadwick      21 
+Oliver Devaney      21 John Patrick        18 
+Tina Howard         12 Sylvia Petty        21 
+         Handicap: +20          Handicap: Scr 
+        Aggregate: 159         Aggregate: 146 
 
 
