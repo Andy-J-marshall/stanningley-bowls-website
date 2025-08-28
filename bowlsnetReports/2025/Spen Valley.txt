@@ -1,4 +1,4 @@
-=== West Riding & Spen Valley 2025 (as of Wed 27th Aug)
+=== West Riding & Spen Valley 2025
 === Comp. Match Cards
 
          Premier                  Wed 16th Apr        
@@ -5540,6 +5540,19 @@ Stan Elwell             21 Graham Higgins           7
                Points:   7                Points:   3 
 
          Premier                  Wed 27th Aug        
+       Shipley - A            Brighouse Sports - A    
+Chris Bedford           21 John Bloomer             4 
+Richard Bloodworth      19 Graham Roberts          21 
+Steve Cooper            21 Dale Dyson              10 
+Chris Jacques           11 Jon Gamble              21 
+Ian Jacques             21 Stuart Fletcher         12 
+Matthew Jacques         21 Nigel Marshall          10 
+Neil Simpson            17 Daniel Dunkerley        21 
+David Bland             21 Robert Hopper            9 
+            Aggregate: 152             Aggregate: 108 
+               Points:   7                Points:   3 
+
+         Premier                  Wed 27th Aug        
     Spen Victoria - A            Littlemoor - A       
 John Blackburn          21 Paul Bowes               6 
 Debi Davis              21 Will Bedford            17 
@@ -5551,6 +5564,19 @@ Mark Ellis               5 Glen Pratt              21
 Peter Ellis              3 John Armitage           21 
             Aggregate: 131             Aggregate: 121 
                Points:   7                Points:   3 
+
+         Premier                  Wed 27th Aug        
+        Crossgates               Pudsey BC - A        
+Liam Griffin            21 Ian Shaw                13 
+Kez Smith               21 Chris Mordue            14 
+Jonathan Wood           21 Simon Metcalfe          14 
+Chris Broughton         21 Dave Smith              13 
+Garreth Lally           21 Alex Edmondson          20 
+Simon Walder            21 Jamie Winterburn        18 
+Nigel Cranston          21 Matthew Leaf             6 
+Harry Seehra            21 Sebastian Mordue        10 
+            Aggregate: 168             Aggregate: 108 
+               Points:  10                Points:   0 
 
         Division 1                Wed 27th Aug        
      New Farnley - A            Harold Club - A       
@@ -5589,6 +5615,19 @@ Andy Marshall           21 Richard Toulson          7
 Alan Mazurke            10 Bradley Throup          21 
 Philip Thornton         21 Michael Rhodes           9 
             Aggregate: 151             Aggregate: 109 
+               Points:   8                Points:   2 
+
+        Division 1                Wed 27th Aug        
+    Spen Victoria - B             Shipley - B         
+Harry Brooke            21 Jason Bridge            12 
+David Billington        21 John Sample              7 
+Paul Blackburn          21 Rachel Telford          16 
+Phil Rayner             21 Michael Kane            15 
+Ian Gould               10 Andrew Walker           21 
+Ann Billington          12 Garry Nellist           21 
+Richard Brooke          21 Tony Spivey              4 
+Paul Warwick            21 John Preston            20 
+            Aggregate: 148             Aggregate: 116 
                Points:   8                Points:   2 
 
         Division 1                Wed 27th Aug        
@@ -5722,6 +5761,32 @@ Martin Watson           14 Mark Bailey             21
                Points:   3                Points:   8 
 
         Division 4                Wed 27th Aug        
+      Gildersome - B           Spen Victoria - D      
+Kay Stewart             14 Derek Warriner          21 
+Glenda Holmes           21 Ken Spencer             14 
+Frank Hales             17 Justine Wood            21 
+John Ackroyd            21 Archie Wood             10 
+Barbara Hall            12 Laura Wood              21 
+Neil Schofield           9 Lexie Gould             21 
+David Holmes            12 Harry Talbot            21 
+Tony Morris             19 Leigh Manton            21 
+            Aggregate: 125             Aggregate: 150 
+               Points:   2                Points:   9 
+
+        Division 4                Wed 27th Aug        
+     Heckmondwike - C              Firth Park         
+Kath Field              21 Kevin Crowe             17 
+Steve Kidd              21 Michael Wood            13 
+George Tozer            13 Matty Mongan            21 
+Roger Jackson           16 Gary Morton             21 
+Paul Cooper             21 Ian Fitton              18 
+Darren Schofield        21 Steve Rhodes            19 
+*No Player*              0 Graham Pearce           21 
+*No Player*              0 Alan Parkin             21 
+            Aggregate: 113             Aggregate: 151 
+               Points:   4                Points:   7 
+
+        Division 4                Wed 27th Aug        
      Heckmondwike - B        Cleckheaton Sports - D   
 Daren Goodall           21 Michael Binns           14 
 Danny Logan             21 Alan Holmes              3 
@@ -5746,6 +5811,32 @@ Andrew Smith            19 Steve Wrigglesworth     21
 Melissa Gilroy          21 Philip Keating          13 
             Aggregate: 142             Aggregate: 134 
                Points:   6                Points:   4 
+
+        Division 3                Thu 28th Aug        
+      Pudsey BC - C            Spen Victoria - C      
+Angie Morris            21 John Shackleton          7 
+Steve Clayton            2 Mel Blackburn           21 
+David McDonald          21 Steve Kemp              18 
+Hannah Leaf             21 Paul Walker             15 
+Rick Pearson            21 Lucas Wood              10 
+Andy Barnatt            21 Michael Griffiths       14 
+Martin Bethell          11 Terry Varney            21 
+Paul Myers              18 John Smith              21 
+            Aggregate: 136             Aggregate: 127 
+               Points:   7                Points:   3 
+
+        Division 3                Thu 28th Aug        
+  Cleckheaton Sports - F         Royds Park - A       
+Mark Waite               6 Steve Busz              21 
+Richard Simpson          7 Gareth Harwood          21 
+Steve Smith             21 Richard Hemingway       12 
+Andy Porritt            21 Barbara Johnstone       18 
+Richard Oldroyd         13 Susan Bentley           21 
+Nick Robinson           21 David Broadhead         14 
+Neil Gillan             13 Tim Rann                21 
+Mark Wright             10 Philip Rann             21 
+            Aggregate: 112             Aggregate: 149 
+               Points:   3                Points:   8 
 
 
        Round of 32                   Sat 5th Apr           
