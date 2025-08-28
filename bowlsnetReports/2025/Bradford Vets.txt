@@ -1,4 +1,4 @@
-=== Bradford (Vets) 2025 (as of Wed 27th Aug)
+=== Bradford (Vets) 2025 (as of Thu 28th Aug)
 === Comp. Match Cards
 
 Division Four ( 6 Players)       Thu 10th Apr       
@@ -4954,5 +4954,65 @@ Philip Peel              21 Steve Tomkinson      14
              Aggregate: 124          Aggregate:  72 
                  Games:   5              Games:   1 
                 Points:  23             Points:   3 
+
+Division Four ( 6 Players)       Thu 28th Aug       
+       Bowling Park                 Wyke C          
+John Chisholm            14 Colin Fallows        21 
+Brian Metcalfe           21 Pam Wall             16 
+Keith Robertson          21 John Illingworth     11 
+John Ibbotson            12 John Winstanley      21 
+David Waggett            18 Ken Bairstow         21 
+Trevor Yeadon            21 Keith Stephenson      6 
+             Aggregate: 107          Aggregate:  96 
+                 Games:   3              Games:   3 
+                Points:  15             Points:  11 
+
+Division Four ( 6 Players)       Thu 28th Aug       
+      West Bradford B               Idle C          
+John Dale                21 Linda Brandon        16 
+Neville Wilson           21 Steve Horne           6 
+Geraldine Sephton        20 Margaret Austin      21 
+Anne Mullaney            21 Steve Miles-Turner   10 
+Malcolm Leeming          18 Sylvia Davies        21 
+Steven Bussingham        19 David Priestley      21 
+             Aggregate: 120          Aggregate:  95 
+                 Games:   3              Games:   3 
+                Points:  17             Points:   9 
+
+Division Four ( 6 Players)       Thu 28th Aug       
+        Calverley B                Clayton C        
+Alan Horsfield           21 Paul Emery           12 
+June Whittaker           21 Joe Midgley           8 
+Paul Hanson              14 Steve Edgley         21 
+David Burton             19 Ian Findlay          21 
+Margaret Whittaker       21 Peter Barker         18 
+Geoff Yewdall            21 Malcolm Riggs        12 
+             Aggregate: 117          Aggregate:  92 
+                 Games:   4              Games:   2 
+                Points:  18             Points:   8 
+
+Division Four ( 6 Players)       Thu 28th Aug       
+      Drighlington B             Queensbury B       
+Steve Wrigglesworth      14 Lorraine Birch       21 
+Sherron Newton           21 John Moore            5 
+Andy Brooke              21 Muriel Keighley      16 
+Duncan Newton            21 Geraldine Cooke       5 
+Peter Thompson            5 Peter Dennison       21 
+Judy Atkinson            21 Keith Turner         17 
+             Aggregate: 103          Aggregate:  85 
+                 Games:   4              Games:   2 
+                Points:  17             Points:   9 
+
+Division Four ( 6 Players)       Thu 28th Aug       
+         Thornton                   Tyersal         
+Steve Tomkinson          14 John Hainsworth      21 
+Sheila Farr              16 Edgar Rhodes         21 
+Alan Galloway            21 Christine Hillas     12 
+Karen Brame              21 Barry Clough         10 
+Anthony Lockwood         21 Colin Wright         18 
+Gordon Daniel            21 Keith Bedford         5 
+             Aggregate: 114          Aggregate:  87 
+                 Games:   4              Games:   2 
+                Points:  18             Points:   8 
 
 
