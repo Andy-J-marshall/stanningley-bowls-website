@@ -1,4 +1,4 @@
-=== Ossett & Horbury 2025 (as of Thu 28th Aug)
+=== Ossett & Horbury 2025 (as of Fri 29th Aug)
 === League Match Cards
 
          Division 3                   Tue 8th Apr          
@@ -5591,6 +5591,18 @@ Richard Crowther          21 Martin Shepherd            20
               Aggregate: 141                Aggregate: 143 
 
       Premier Division               Thu 28th Aug          
+      Castleford Town                  Sandal B            
+Dean Hopwood              21 Paul Simmonds              10 
+Calum Fennell             21 Paul Hawes                 19 
+Robert Lloyd              21 Steve Simmonds             13 
+S Williams                21 Darren Pitchforth          15 
+Mark Brain                21 Martin Eley                 8 
+Mark Hopwood              21 Andrew Evison              16 
+Daniel Revell             21 Joshua Eley                 5 
+David Watson              11 Sam Farmer                 21 
+              Aggregate: 158                Aggregate: 107 
+
+      Premier Division               Thu 28th Aug          
           Sandal A                  Ossett C & AC A        
 James Davison             21 Mick Scott                  7 
 Nigel Cranston            21 Chris Nuttall               8 
@@ -5675,6 +5687,18 @@ Graham Kirkaldy            8 Nathan Dobson              21
               Aggregate: 110                Aggregate: 162 
 
          Division 2                  Thu 28th Aug          
+      Hanging Heaton B             Alverthorpe WMC B       
+Peter Byrne               21 Anita Dack                 15 
+David Collinson           21 William Grayley            13 
+Paul Murphy               21 Abigail Tiler               7 
+Ian Taylor                21 Mick Dack                  13 
+Christine Lamb            17 Colin Quarmby              21 
+Michael Underhill         17 James Tiler                21 
+Tony Howland              21 Karl Dutton                19 
+Philip Crossland          11 Amanda Hagen               21 
+              Aggregate: 150                Aggregate: 130 
+
+         Division 2                  Thu 28th Aug          
         Savile Park                  Outwood WMC A         
 Steven Portman            21 Steve Goddard              20 
 Liam Massey               21 Peter Varley               10 
@@ -5709,6 +5733,18 @@ Jennifer Gray             18 Dave Gordon                21
 Ben Gibson                21 Eileen Wardman             19 
 Derek Robinson            21 Dave White                  4 
               Aggregate: 161                Aggregate: 136 
+
+         Division 3                  Thu 28th Aug          
+       Denby Grange B               Wake Thornes A         
+Graham Blythe             21 D Guile                     9 
+Josh Broadhead            15 Gerry Taylor               21 
+Malcolm Brown             21 Bob Holmes                 16 
+Ian Davis                 19 R Stables                  21 
+Keeling Ben               16 D Warwick                  21 
+Chris Shires              18 C Shipley                  21 
+Bryan Thomas              21 Sue Twohig                 17 
+David Wright              18 S Findlay                  21 
+              Aggregate: 149                Aggregate: 147 
 
          Division 3                  Thu 28th Aug          
         Earlsheaton                 Ossett C & AC C        

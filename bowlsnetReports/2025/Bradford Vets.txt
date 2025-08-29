@@ -1,4 +1,4 @@
-=== Bradford (Vets) 2025 (as of Thu 28th Aug)
+=== Bradford (Vets) 2025 (as of Fri 29th Aug)
 === Comp. Match Cards
 
 Division Four ( 6 Players)       Thu 10th Apr       
@@ -5014,5 +5014,17 @@ Gordon Daniel            21 Keith Bedford         5
              Aggregate: 114          Aggregate:  87 
                  Games:   4              Games:   2 
                 Points:  18             Points:   8 
+
+Division Four ( 6 Players)       Fri 29th Aug       
+          Wyke C                West Bradford B     
+Colin Fallows            21 Malcolm Leeming      12 
+Ken Bairstow             19 Geraldine Sephton    21 
+Keith Stephenson          0 Anne Mullaney        21 
+John Illingworth         21 Paul Wood            18 
+John Winstanley          21 Steven Bussingham    18 
+Stephen Wilks            21 *A.N.Other*           0 
+             Aggregate: 103          Aggregate:  90 
+                 Games:   4              Games:   2 
+                Points:  16             Points:  10 
 
 
