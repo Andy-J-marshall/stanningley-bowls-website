@@ -417,25 +417,25 @@
             }
         },
         "richard hodgson": {
-            "totalAgg": 784,
-            "totalAggAgainst": 609,
-            "availableAgg": 840,
+            "totalAgg": 805,
+            "totalAggAgainst": 624,
+            "availableAgg": 861,
             "availablePairsAgg": 21,
-            "availableHomeAgg": 399,
+            "availableHomeAgg": 420,
             "availableAwayAgg": 378,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 20,
             "totalPairsAggAgainst": 21,
-            "totalHomeAgg": 377,
-            "totalHomeAggAgainst": 251,
+            "totalHomeAgg": 398,
+            "totalHomeAggAgainst": 266,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 345,
             "totalAwayAggAgainst": 305,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 16,
+            "homeWins": 17,
             "homeLosses": 3,
             "awayWins": 11,
             "awayLosses": 7,
@@ -449,7 +449,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 40,
+            "totalGamesPlayed": 41,
             "results": [
                 "richard hodgson & thomas hanson 20 - 21 kevin siddle & nick bastow",
                 "richard hodgson 21 - 12 david pike",
@@ -490,7 +490,8 @@
                 "richard hodgson 21 - 12 colin fisher",
                 "richard hodgson 21 - 4 ryan piercy",
                 "richard hodgson 21 - 12 graham gaunt",
-                "richard hodgson 21 - 18 david smalley"
+                "richard hodgson 21 - 18 david smalley",
+                "richard hodgson 21 - 15 angela burnam"
             ],
             "airewharfe monday": {
                 "games": 1,
@@ -568,9 +569,9 @@
                 "aggDiff": 0
             },
             "bradford saturday (c)": {
-                "games": 1,
-                "wins": 1,
-                "aggDiff": 3
+                "games": 2,
+                "wins": 2,
+                "aggDiff": 9
             }
         },
         "stewart watson": {
@@ -744,6 +745,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "29/08/2025",
+    "lastUpdated": "30/08/2025",
     "statsYear": "2025"
 }
