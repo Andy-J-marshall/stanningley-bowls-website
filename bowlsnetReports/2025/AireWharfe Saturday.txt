@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Saturday) 2025 (as of Sat 30th Aug)
+=== AireDale & Wharfedale (Saturday) 2025 (as of Sun 31st Aug)
 === League Match Cards
 
            Premier                      Sat 5th Apr           
@@ -1417,7 +1417,7 @@ Garry Nellist               21 Michael Taylor 'Ab'         10
                     Games:   0                     Games:   0 
                 Aggregate:   0                 Aggregate:   0 
                    Points:  17                    Points:  10 
-        Manual Result                   Rules broken          
+        Manual Result                    Overridden           
 
           Division 3                    Sat 26th Apr          
          Rufford Park                     Bramhope            
@@ -7497,6 +7497,22 @@ Colin Spooner               11 Phil Clayton                21
                    Points:  12                    Points:  18 
 
           Division 1                    Sat 30th Aug          
+        Low Harrogate                     Salts A             
+Marion Frayne               15 John Greenwood'A'           21 
+David Hughan                14 Martin Sherred              21 
+Chris Olding                10 Cindy Rapinczuk             21 
+Cath Patrick                21 Lek Fletcher                19 
+Graham Patrick              16 Vanda Greenwood             21 
+Chris Robson                21 Lee Matthews                15 
+Alan Scorfield              21 Chris Womersley 'A'         16 
+Peter Syson                 15 Philip Peel                 21 
+Ann Wilson                  21 Thomas Kilminster           10 
+Derek Wilson                21 Sandra Womersley             8 
+                    Games:   5                     Games:   5 
+                Aggregate: 175                 Aggregate: 173 
+                   Points:  16                    Points:  14 
+
+          Division 1                    Sat 30th Aug          
         Shipley Club A                 Myrtle Park A          
 Wendy Spivey                13 Richard Berry               21 
 Kevin Cullerton             17 Neil Howlett                21 
@@ -7655,6 +7671,22 @@ Graham Hey                  21 David Priestley             13
                     Games:   6                     Games:   4 
                 Aggregate: 170                 Aggregate: 138 
                    Points:  20                    Points:  10 
+
+          Division 3                    Sat 30th Aug          
+           Ilkley C                   Wharfemeadows B         
+Andrew Hinchcliffe          21 Gill Godden                  5 
+Nick Pullan                 20 Brenda Appleyard            21 
+Sally Brennan               21 Corrine Thuilliez            4 
+John Brennan                21 Janet Warburton             19 
+Chris Henry                 19 Linda Smith                 21 
+Gordon Dick                 17 Malcolm Levi 'Ab'           21 
+Tracy Wild                  21 Jean Crawford               16 
+Philip Blackburn            21 Raymond Smith Snr           13 
+Kevin O'Connor               8 David Warburton             21 
+Alan Picken                 21 Michael Taylor 'Ab'          7 
+                    Games:   6                     Games:   4 
+                Aggregate: 190                 Aggregate: 148 
+                   Points:  21                    Points:   9 
 
           Division 3                    Sat 30th Aug          
     Burley in Wharfedale B              Rufford Park          

@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Sat 30th Aug)
+=== Bradford (Saturday) 2025 (as of Sun 31st Aug)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -5147,6 +5147,22 @@ Andrew Howie               18 Danny Fountain            21
                   Points:  13                  Points:  17 
 
  Division 1 (Naylor Premier)          Sat 30th Aug         
+       Spen Victoria A                  Whitkirk           
+Ash Tattersley             21 Adam Varley                5 
+Andrew Wood                16 Emma Tobin                21 
+Mally Fowler               21 Warren Wilson              5 
+Phil Bryant                15 Paul Tobin                21 
+Peter Ellis                 8 Tony Green                21 
+Andrew Gallagher           21 Adam Sharpe                9 
+Lewis Pember               21 Amy Tobin                 17 
+Garry Walker               19 Scott Bailey              21 
+Chris Ellis                19 Simon Cahill              21 
+Mark Goodall               21 Phil Hill                 14 
+                   Games:   5                   Games:   5 
+               Aggregate: 182               Aggregate: 155 
+                  Points:  18                  Points:  12 
+
+ Division 1 (Naylor Premier)          Sat 30th Aug         
          Guiseley A                   Littlemoor A         
 Bob Jeffrey                21 Danny Marsland             9 
 Colin Matthewman           17 Nicole Farrar             21 
@@ -5259,6 +5275,22 @@ Chris Cox                  17 Nicky Rooks               21
                   Points:   9                  Points:  21 
 
      Division 2 (Godwin)              Sat 30th Aug         
+          Pudsey B                    Asa Briggs A         
+Dave Smith                  5 Stuart King               21 
+Simon Metcalfe             21 Clive Foord                8 
+Taylor Smith               21 Michael Frost             20 
+Sebastian Mordue           16 Jason Watters             21 
+Wendy Shimbles             13 Jordan Brown              21 
+Lynn Noonan                19 Scott Sansom              21 
+Sue Chadwick               21 Mark Hirst                19 
+Pam Lindley                21 Andrew Heenan             13 
+Peter Simpson              12 Glen McCafferty           21 
+Matthew Leaf               21 Andy Denton               17 
+                   Games:   5                   Games:   5 
+               Aggregate: 170               Aggregate: 182 
+                  Points:  13                  Points:  17 
+
+     Division 2 (Godwin)              Sat 30th Aug         
            Farsley                      Hightown           
 Colin Rhodes               21 Paul Fox                   3 
 Daniel Beardsworth         21 Eddie Gilbert              6 
@@ -5273,6 +5305,22 @@ Jim Swailes                17 Jon Edmondson             21
                    Games:   7                   Games:   3 
                Aggregate: 196               Aggregate: 146 
                   Points:  22                  Points:   8 
+
+     Division 3 (Mellor)              Sat 30th Aug         
+        Eccleshill B                   Guiseley B          
+Ken Wilson                 21 Dennis Henderson          20 
+Diane Emery                21 Lynne Ogden               19 
+John Griffin               19 Roger Waite               21 
+Peter Howroyd              12 Maureen Javis             21 
+Martin Hayton              20 John French               21 
+Melissa Gilroy             21 Caroline Corbett          14 
+Lee Hicks                  21 Jeremy Jones               5 
+Peter Jefferson            18 Ralph Sissons             21 
+Ian Matthews               21 Paul Gains                 7 
+Andrew Howie               21 Peter Storey              10 
+                   Games:   6                   Games:   4 
+               Aggregate: 195               Aggregate: 159 
+                  Points:  20                  Points:  10 
 
      Division 3 (Mellor)              Sat 30th Aug         
         Littlemoor B                Spen Victoria B        
@@ -5393,16 +5441,16 @@ Andy Stocks                21 Michael Sansom            17
  Division 5 (Haigh) 8 Player          Sat 30th Aug         
     Cleckheaton Sports B            Spen Victoria C        
 Geoff Thornton             15 Leigh Manton              21 
-Andrea Brearley             2 Laura Wood                21 
-David Griffiths            21 Justine Wood              11 
+Andrea Brearley             2 Lucas Wood                21 
+David Griffiths            21 Justine Wood              13 
 Alex Green                 21 Archie Wood               16 
 Rowena Oakey               21 Chloe Morton              11 
 Janet Inness               14 Richard Morton            21 
 Lynn Seddon                21 Ken Spencer               14 
 Helen Seed                 21 Harry Talbot              19 
                    Games:   5                   Games:   3 
-               Aggregate: 136               Aggregate: 134 
-                  Points:  16                  Points:  12 
+               Aggregate: 136               Aggregate: 136 
+                  Points:  15                  Points:  13 
 
  Division 6 (Riley) 8 Player          Sat 30th Aug         
         Bowling Park                West Bradford B        
