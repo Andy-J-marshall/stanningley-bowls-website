@@ -1,4 +1,4 @@
-=== Leeds & District (Mon. Combined) 2025 (as of Sun 31st Aug)
+=== Leeds & District (Mon. Combined) 2025
 === League Match Cards
 
         Div 1                Mon 21st Apr        
@@ -1430,5 +1430,44 @@ Lynn Wilcox            Dave McGourty
 Mark Taylor         21 Jason Richards          7 
 Louie Taylor           M Sheerin                 
         Aggregate: 116            Aggregate:  99 
+
+        Div 1                 Mon 1st Sep        
+     Garforth C C            Crossgates BC       
+David Horsey         5 Luke Bellamy           21 
+Robert Beattie      21 Lynn Wilcox             9 
+Stuart Cranston     14 Natalie Sanderson      21 
+Ian Doughty         20 Rachel Wilcox          21 
+Joe Doughty         21 Grant Bartle           19 
+Phil Lodge             Will Bartle               
+Steve Barltrop      21 Tom Smith              18 
+Neil Robinson          Louie Taylor              
+        Aggregate: 102            Aggregate: 109 
+           Points:  22               Points:  24 
+
+        Div 1                 Mon 1st Sep        
+      Whitkirk A             Rothwell BC A       
+G Hodder            15 Charlotte Holmes       21 
+Thomas Johnson      21 Gary Haley             15 
+Jason Richards      10 Mark Hopps             21 
+S Cahill            21 Peter Burrows          19 
+P Hill              21 Lynne Best              2 
+T Green                John Wyard                
+Amy Tobin           21 Gary Dennison           2 
+E Tobin                Nicola Pearson            
+        Aggregate: 109            Aggregate:  80 
+           Points:  25               Points:  17 
+
+        Div 2                 Mon 1st Sep        
+    Rothwell BC B             Whitkirk B         
+Robert Leighton     21 Chloe Jackson           9 
+Peter Linley        21 Andy Johnson           20 
+John Hemingway      10 James Wright Green     21 
+Mark Scruton        15 P Hatch                21 
+Ellis Owen          21 Helen Johnson           8 
+Lyn Owen               S Worthington             
+Ron Owen            15 S Ellis                21 
+Mick Bagshaw           P Hardy                   
+        Aggregate: 103            Aggregate: 100 
+           Points:  23               Points:  21 
 
 
