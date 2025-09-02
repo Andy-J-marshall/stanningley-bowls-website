@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Mon 1st Sep)
+=== AireDale & Wharfedale (Mon. Evening) 2025 (as of Tue 2nd Sep)
 === League Match Cards
 
        Division 1                Mon 7th Apr        
@@ -5780,7 +5780,7 @@ Andy Thornton 'A'      21 Gary Whelan            14
 Robert Garth            6 Nick Bastow            21 
 Danny Barker           21 Thomas Cater           16 
 Dave Scott             21 James Teale            13 
-Darren Thompson        21 Carolyn Matthewman     20 
+Darren Thompson        21 Colin Matthewman       20 
 Steve Ackroyd          21 Andrew Durkin          20 
 Jamie Cunningham 'A'   21 Ian Howard'A'          15 
 Chris Bedford          21 Joe Stockdale 'A'      13 
@@ -5792,7 +5792,7 @@ Richard Garth 'A'      21 Luke Teale 'A'         20
 
        Division 2                Mon 1st Sep        
        Guiseley B               Eccleshill B        
-Colin Matthewman       21 John Griffin           16 
+Carolyn Matthewman     21 John Griffin           16 
 Lynn Ogden             14 Diane Emery            21 
 Ralph Sissons          21 Andrew Magoolagan      11 
 Jeremy Jones           18 Pauline Gilroy         21 
@@ -5979,6 +5979,38 @@ Mark Wilson            16 Malcolm Watts          21
 Marian Poole           20 John Tyson             21 
 Adam Sample            13 Geoff Hanson           21 
            Aggregate: 169            Aggregate: 188 
+               Games:   4                Games:   6 
+              Points:  12               Points:  18 
+
+       Division 4                Mon 1st Sep        
+       Holt Park B                Calverley         
+Terry Cook             21 Anne Townsley           9 
+Ray Boast              20 Malcolm Pratt          21 
+Bruce Hetherington     21 Susie Jarosz           13 
+Colin Kilner           21 Roy Whiteley           18 
+John Tate              15 Norma Whiteley         21 
+Brendan Clarke         13 David Burton           21 
+Debbie Sandles         21 Alan Horsfield         16 
+Michelle Norcliffe      6 Rory Bligh             21 
+Mark Swindlehurst      13 Richard Nudd           21 
+David Sadler           15 Clifford Wheatley      21 
+           Aggregate: 166            Aggregate: 182 
+               Games:   4                Games:   6 
+              Points:  12               Points:  18 
+
+       Division 4                Mon 1st Sep        
+         Adel B                 Greenbottom B       
+Gordon Robinson         8 Trevor Dawson          21 
+Paul Williams          18 Nicky Jeffrey          21 
+Christina Levy          7 Linda Summers          21 
+Pat Ellse              19 Jean Lees              21 
+John Auty              21 Fran Sutton            15 
+Lesley Williams        15 Anne Raw               21 
+Meryl Auty             21 Bill Lovedale          17 
+Keith Ellse            21 Elinor Newhouse        13 
+Kath Hynes             21 Margaret Adamson       15 
+Alan Wittrick          19 Allan Jukes            21 
+           Aggregate: 170            Aggregate: 186 
                Games:   4                Games:   6 
               Points:  12               Points:  18 
 
