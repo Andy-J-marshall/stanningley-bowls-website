@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday Over 55s) 2025 (as of Mon 1st Sep)
+=== Leeds & District (Tuesday Over 55s) 2025 (as of Tue 2nd Sep)
 === League Match Cards
 
                             Tue 1st Apr       
@@ -1599,5 +1599,83 @@ Kevin Smales       21 David Lyons           7
 Tony Morris        19 Graham Hey           21 
        Aggregate: 166          Aggregate:  81 
           Points:  39             Points:  15 
+
+                            Tue 2nd Sep       
+  Stanningley Park       Harehills Park A     
+Paul Bowes         10 Ian Vickers          21 
+Malvin Miller      15 Ralph Taylor         21 
+Andy Waller        18 Brian Thompson       21 
+Stewart Watson      6 Phil Hill            21 
+David Eaton        18 Jim Jordan           21 
+Duncan McPhail     21 Tony Green            8 
+Jim Moorin         21 Graham Hodder         9 
+John Armitage      21 Paul Hatch            4 
+       Aggregate: 130          Aggregate: 126 
+          Points:  29             Points:  27 
+
+                            Tue 2nd Sep       
+   Western Flatts          Sth Lds Cons       
+Gordon Stalker     21 Mal Collinson        10 
+Shirley Barker     21 Jackie Cross          5 
+Margaret McPhail   21 David Kellett         6 
+Lillian Pickles    12 Ged Healy            21 
+Anne Lucas         21 Trevor Precious       9 
+Stewart Wardlow    21 Barbara Wherret      18 
+David Turner       21 Neville Salmon       20 
+Granville Stoyles  21 Dave Brooke          17 
+       Aggregate: 159          Aggregate: 106 
+          Points:  37             Points:  21 
+
+                            Tue 2nd Sep       
+     Barwick BC            Bramley Park       
+David Wright       21 Malcolm Woodcock      5 
+Jane Boyd          21 Anthony Caywood       4 
+Jennifer Dodgson   21 Terry Astley         18 
+Chris Boyd         21 Peter Caine           9 
+Derek Harding      21 Shirley Allman       14 
+Ken Maxim           9 Bob Davison          21 
+Jack Finister      21 Barry Palmer         19 
+Margaret Finister  21 Jeffrey Allman       17 
+       Aggregate: 156          Aggregate: 107 
+          Points:  36             Points:  20 
+
+                            Tue 2nd Sep       
+    Drighlington             Cranmore         
+David Dowse         7 Peter Griffin        21 
+Duncan Newton      21 Peter Nicholson      15 
+Kenny Oates        21 Jeff Higgins          3 
+John Roberts       21 Paul Griffiths       12 
+Mick Warren        18 Donald Chadwick      21 
+Phil Keating       21 Graham Bluff         10 
+Graham Priestley   21 Barry Baldwin        16 
+Di Hoole           21 *No Player*           0 
+       Aggregate: 151          Aggregate:  98 
+          Points:  35             Points:  20 
+
+                            Tue 2nd Sep       
+ Horsforth Woodside.       Saville Park       
+Graham Hey         19 Ian Lewis            21 
+Anne Miller         8 Sylvia Bickerdike    21 
+Stuart Tennant     21 David Beck           18 
+Carol Matthews     21 David Steel           8 
+David Lyons        16 John Peacock         21 
+David Miller       10 Graham Bickerdike    21 
+Ian Tindal         21 Gary Haley            9 
+Martin McGowan     12 Steve Portman        21 
+       Aggregate: 128          Aggregate: 140 
+          Points:  27             Points:  31 
+
+                            Tue 2nd Sep       
+    Holbeck Moor            Gildersome        
+Jim Barker         10 Michael Ross         21 
+Carl Mahon         21 Frank Hales          15 
+John Harvey        21 Tony Morris          20 
+Lorraine Baker     12 Harvey Lockwood      21 
+Pat Parker          3 David Norton         21 
+Steve Brown        21 Neil Schofield        9 
+Steve Milton       15 Kevin Smales         21 
+Michael Stott      21 John Ackroyd         17 
+       Aggregate: 124          Aggregate: 145 
+          Points:  27             Points:  31 
 
 
