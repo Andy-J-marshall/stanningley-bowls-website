@@ -261,11 +261,11 @@
         },
         "linda barrand": {
             "totalAgg": 593,
-            "totalAggAgainst": 795,
-            "availableAgg": 903,
+            "totalAggAgainst": 816,
+            "availableAgg": 924,
             "availablePairsAgg": 0,
             "availableHomeAgg": 462,
-            "availableAwayAgg": 399,
+            "availableAwayAgg": 420,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
@@ -275,13 +275,13 @@
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 224,
-            "totalAwayAggAgainst": 379,
+            "totalAwayAggAgainst": 400,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 7,
             "homeLosses": 15,
             "awayWins": 3,
-            "awayLosses": 16,
+            "awayLosses": 17,
             "cupWins": 1,
             "cupLosses": 1,
             "pairWins": 0,
@@ -292,7 +292,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 43,
+            "totalGamesPlayed": 44,
             "results": [
                 "linda barrand 4 - 21 alan byers",
                 "linda barrand 21 - 10 dorcas kirk",
@@ -320,6 +320,7 @@
                 "linda barrand 14 - 21 john walsh",
                 "linda barrand 12 - 21 tony naylor",
                 "linda barrand 9 - 21 ray atkinson",
+                "linda barrand 0 - 21 jason greenwood",
                 "linda barrand 21 - 20 donald harrison",
                 "linda barrand 13 - 21 pat jagger",
                 "linda barrand 7 - 21 eddie prince",
@@ -374,9 +375,9 @@
                 "aggDiff": 0
             },
             "bradford half holiday (b)": {
-                "games": 8,
+                "games": 9,
                 "wins": 0,
-                "aggDiff": -67
+                "aggDiff": -88
             },
             "spen valley": {
                 "games": 0,
@@ -750,6 +751,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "02/09/2025",
+    "lastUpdated": "03/09/2025",
     "statsYear": "2025"
 }

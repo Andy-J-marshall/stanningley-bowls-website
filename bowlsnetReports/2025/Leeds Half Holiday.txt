@@ -1,4 +1,4 @@
-=== Leeds & District (Half Holiday) 2025 (as of Tue 2nd Sep)
+=== Leeds & District (Half Holiday) 2025 (as of Wed 3rd Sep)
 === League Match Cards
 
         Div 1               Wed 2nd Apr       
@@ -2846,5 +2846,126 @@ Ralph Thompson       5 Richard Aspin       21
 Carol Biscombe      14 Mark Aspin          21 
         Aggregate:  82         Aggregate: 119 
            Points:  17            Points:  27 
+
+        Div 1               Wed 3rd Sep       
+     Cross Flatts           Holbeck Moor      
+Jim Bootland         5 John Binns          21 
+Paul Hatch          21 Julie Mathews        5 
+Stephanie Wood       7 Brian Thompson      21 
+*No Player*          0 Steve Milton        21 
+*No Player*          0 Michael Stott       21 
+Ian Wood            14 Steve Brown         21 
+        Aggregate:  47         Aggregate: 110 
+           Points:   9            Points:  26 
+
+        Div 1               Wed 3rd Sep       
+    Rothwell BC B         Moor Allerton A     
+Ron Owen            18 John Alper          21 
+Mark Hopps          21 Martin Kaitcer      14 
+Katie Turner        21 Paul Shafar          6 
+Brian Burrows       13 Mike Gould          21 
+Lyn Owen            21 Geoff West          18 
+Peter Burrows       21 Blair Ross           6 
+        Aggregate: 115         Aggregate:  86 
+           Points:  26            Points:  18 
+
+        Div 1               Wed 3rd Sep       
+    Whitkirk BC A         Meanwood Park A     
+Graham Scholes      16 Ian Howard          21 
+Graham Hodder       21 Chris Daysh         16 
+Tony Green          21 Rory Bligh           4 
+Phil Hill           21 Jeff Blackburn       8 
+Philip Hatch        21 Tina Howard          9 
+Paul Hardy          21 Peter Whipp         17 
+        Aggregate: 121         Aggregate:  75 
+           Points:  28            Points:  13 
+
+        Div 2               Wed 3rd Sep       
+   Chapel Allerton       South Leeds Cons A   
+Alex McSheehy       20 Reece Pratt         21 
+Ian McMillin        21 Neville Salmon      11 
+Bird Steve          19 David Brooke        21 
+Graham Pickles      21 Jackie Cross         6 
+Chris Jones         21 Malcolm Collinson   11 
+Royce Jackson       21 Brenda Moscrop       5 
+        Aggregate: 123         Aggregate:  75 
+           Points:  28            Points:  16 
+
+        Div 2               Wed 3rd Sep       
+   Scatcherd Park A            Colton         
+Elliot Beddard      21 Mick Galley         11 
+Roy Kellet          21 Andrea Ryder        10 
+Peter Oldfield      21 Martin Dowling      18 
+Terry Dillon        16 Peter Griffin       21 
+Kevin Taylor         8 Tony Ward           21 
+Ray Ball             3 Michael Noble       21 
+        Aggregate:  90         Aggregate: 102 
+           Points:  19            Points:  23 
+
+        Div 2               Wed 3rd Sep       
+   Meanwood Park B         Churwell Park      
+Julie Keightley     12 Ann Lucas           21 
+John Hindle          2 Mick Harrison       21 
+Oliver Devaney      13 Sue Harrison        21 
+John King           13 Stewart Wardlaw     21 
+Graham Hey          21 Stephen Briggs      15 
+Ian Macfarlaine     16 Kath Andrews        21 
+        Aggregate:  77         Aggregate: 120 
+           Points:  14            Points:  28 
+
+        Div 3               Wed 3rd Sep       
+     Potternewton         Middleton Comm A    
+Frank Powell        15 Malcolm Cameron     21 
+David Curland        6 Mario Biiancardo    21 
+Valerie Bush         3 Christine Glynn     21 
+David Miller        21 Barbara Ragan       13 
+Alan Smith          21 Malcolm Hallas       4 
+Dennis Cole          4 Shirley Biancardo   21 
+        Aggregate:  70         Aggregate: 101 
+           Points:  14            Points:  22 
+
+        Div 3               Wed 3rd Sep       
+   Moor Allerton B         Whitkirk BC B      
+Gary Enkin          21 John Hardwick        5 
+Peter Aves          21 Tony Bond           18 
+Ian Lee             21 Terry Newsome       18 
+Ian Franklin        21 Hannah Risley        4 
+Rodney Cundle       21 Bill Newstead        7 
+George Ramsden      21 James Lancaster     12 
+        Aggregate: 126         Aggregate:  64 
+           Points:  30            Points:  12 
+
+        Div 4               Wed 3rd Sep       
+    New Wortley A           Gildersome B      
+Paul Shackleton     21 Bev Farrar           2 
+Angela Morley       21 Kay Stewart          0 
+Jerry Wood          21 Frank Hales         20 
+Valerie Dawson       2 John Ackroyd        21 
+Trevor Dawson       13 Neil Schofield      21 
+Stephen Morley      21 Simon Hampshaw      13 
+        Aggregate:  99         Aggregate:  77 
+           Points:  22            Points:  16 
+
+        Div 4               Wed 3rd Sep       
+    East End Park           Grove Road B      
+Dave Howard         21 Lyn Carr            11 
+Thelma Lancaster    21 Sylvia Bartlett     18 
+Richard Howlett     21 John Carr           13 
+Helen Simms         21 Pat Harrison         6 
+Paul Simms          21 *No Player*          0 
+Joesy Olivant       21 Carol Biscombe       1 
+        Aggregate: 126         Aggregate:  49 
+           Points:  30            Points:   9 
+
+        Div 4               Wed 3rd Sep       
+     Bramley Park         Scatcherd Park B    
+Lynn Beaumont       21 Wendy Leybourne     19 
+Sean Fish           21 Andrea Gardiner     16 
+Peter Caine         21 Sandra Foster       18 
+Terry Astley        15 Roy Mitchell        21 
+Peter Richie        21 Michael Geary       20 
+Jeff Allman         21 Chris Roy Stuart    13 
+        Aggregate: 120         Aggregate: 107 
+           Points:  28            Points:  22 
 
 
