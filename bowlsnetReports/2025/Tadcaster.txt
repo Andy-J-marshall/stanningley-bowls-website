@@ -1,4 +1,4 @@
-=== Tadcaster Evening League 2025 (as of Tue 2nd Sep)
+=== Tadcaster Evening League 2025 (as of Wed 3rd Sep)
 === League Match Cards
 
     Richardson Trophy           Thu 3rd Apr        
@@ -5037,5 +5037,13 @@ David Hughan           21 Anthony Marsden       19
               Points:   7              Points:   3 
            Aggregate: 159           Aggregate: 137 
                Games:   5               Games:   3 
+
+    Richardson Trophy           Thu 4th Sep        
+      Richardson E                                 
+       CROSSGATES             WHITKIRK KNAVES      
+               Games:   0               Games:   0 
+           Aggregate:   0           Aggregate:   0 
+              Points:   0              Points:   6 
+      Manual Result            Manual Result       
 
 
