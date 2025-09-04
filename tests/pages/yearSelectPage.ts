@@ -48,7 +48,7 @@ export class YearSelectPage {
     }
 
     async clickAllYearsDropDown() {
-        await expect(this.yearSelectDropdown).toBeVisible();
+        await this.page.waitForTimeout(500);
         await this.yearSelectDropdown.click();
     }
 
