@@ -2763,25 +2763,25 @@
             ]
         },
         "richard hodgson": {
-            "totalAgg": 1434,
-            "totalAggAgainst": 1059,
-            "availableAgg": 1533,
+            "totalAgg": 1455,
+            "totalAggAgainst": 1079,
+            "availableAgg": 1554,
             "availablePairsAgg": 21,
-            "availableHomeAgg": 714,
+            "availableHomeAgg": 735,
             "availableAwayAgg": 651,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 20,
             "totalPairsAggAgainst": 21,
-            "totalHomeAgg": 684,
-            "totalHomeAggAgainst": 437,
+            "totalHomeAgg": 705,
+            "totalHomeAggAgainst": 457,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 596,
             "totalAwayAggAgainst": 488,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 29,
+            "homeWins": 30,
             "homeLosses": 5,
             "awayWins": 21,
             "awayLosses": 10,
@@ -2795,7 +2795,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 73,
+            "totalGamesPlayed": 74,
             "results": [
                 "richard hodgson 21 - 12 beverley hampshaw",
                 "richard hodgson 16 - 21 malcolm collinson",
@@ -2868,6 +2868,7 @@
                 "richard hodgson 21 - 6 phil robinson",
                 "richard hodgson 21 - 13 peter howroyd",
                 "richard hodgson 21 - 9 malcolm crotty",
+                "richard hodgson 21 - 20 peter barstow",
                 "richard hodgson 21 - 18 david smalley",
                 "richard hodgson 21 - 15 angela burnam"
             ]
@@ -3595,6 +3596,6 @@
             ]
         }
     },
-    "lastUpdated": "03/09/2025",
+    "lastUpdated": "04/09/2025",
     "statsYear": "2025"
 }
