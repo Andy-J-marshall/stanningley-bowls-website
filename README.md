@@ -181,7 +181,3 @@ A number of manual changes are required at the end of each calendar year.
 
 1. Update the `clubCupWinners.json` file with the club cup winner
 2. Add fixtures to Google calendar for all teams
-
-## Tests
-
-1. Update `checkYearDropdownHasAllYearOptions` function in `yearSelectPage.tsx`

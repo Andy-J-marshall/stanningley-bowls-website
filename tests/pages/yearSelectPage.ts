@@ -33,23 +33,40 @@ export class YearSelectPage {
     }
 
     async selectAllYears() {
-        await this.yearSelectDropdown.click();
+        await this.clickAllYearsDropDown();
         await this.AllYears.click();
     }
 
     async selectYear(year: number) {
         const yearButton = this.yearButtons[year];
         if (yearButton) {
-            await this.yearSelectDropdown.click();
+            await this.clickAllYearsDropDown();
             await yearButton.click();
         } else {
             throw new Error(`Year ${year} button not found`);
         }
     }
 
-    async checkYearDropdownHasAllYearOptions(expectedNumber: number) {
+    async clickAllYearsDropDown() {
         await expect(this.yearSelectDropdown).toBeVisible();
         await this.yearSelectDropdown.click();
-        await expect(this.allYearsInDropdown).toHaveCount(expectedNumber);
+    }
+
+    async checkYearDropdownHasEveryYearOption() {
+        await this.clickAllYearsDropDown();
+        const numberOfYears = this.calculateNumberOfYearsSince2013();
+        await expect(this.allYearsInDropdown).toHaveCount(numberOfYears);
+    }
+
+    async checkYearDropdownHasEveryYearPlusAllYearsOption() {
+        await this.clickAllYearsDropDown();
+        const numberOfYears = this.calculateNumberOfYearsSince2013() + 1; // Adds 1 for extra 'All Years' option
+        await expect(this.allYearsInDropdown).toHaveCount(numberOfYears);
+    }
+
+    private calculateNumberOfYearsSince2013() {
+        const firstStatYear = 2013;
+        const currentYear = new Date().getFullYear();
+        return currentYear - firstStatYear; // Excludes 2020 as no stats due to lockdown
     }
 }

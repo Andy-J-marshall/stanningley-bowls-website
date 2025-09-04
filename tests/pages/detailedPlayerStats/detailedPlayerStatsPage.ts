@@ -41,6 +41,7 @@ export class DetailedPlayerStatsPage {
     }
 
     async clickWinsAndLossesAccordion() {
+        await this.page.waitForTimeout(500);
         await this.winLossAccordion.click();
     }
 

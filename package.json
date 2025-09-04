@@ -28,7 +28,7 @@
     "webfontloader": "^1.6.28"
   },
   "devDependencies": {
-    "@playwright/test": "^1.55.0",
+    "@playwright/test": "^1.49.0",
     "@types/chai": "^4.3.3",
     "@types/mocha": "^9.1.1",
     "@types/react": "^18.3.10",
