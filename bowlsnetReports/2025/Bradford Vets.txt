@@ -1,4 +1,4 @@
-=== Bradford (Vets) 2025 (as of Wed 3rd Sep)
+=== Bradford (Vets) 2025
 === Comp. Match Cards
 
 Division Four ( 6 Players)       Thu 10th Apr       
@@ -5026,5 +5026,65 @@ Stephen Wilks            21 *A.N.Other*           0
              Aggregate: 103          Aggregate:  90 
                  Games:   4              Games:   2 
                 Points:  16             Points:  10 
+
+Division Four ( 6 Players)        Thu 4th Sep       
+       Queensbury B             West Bradford B     
+Muriel Keighley          20 Geraldine Sephton    21 
+David Jarvis             21 John Dale            15 
+Keith Turner             21 Malcolm Leeming      14 
+John Moore               21 Anne Mullaney        20 
+Lorraine Birch           21 Steven Bussingham    20 
+Peter Cockroft           10 Paul Wood            21 
+             Aggregate: 114          Aggregate: 111 
+                 Games:   4              Games:   2 
+                Points:  15             Points:  11 
+
+Division Four ( 6 Players)        Thu 4th Sep       
+         Clayton C                  Salts B         
+Paul Emery               19 Anne Brown           21 
+Joe Midgley              21 Vanda Greenwood      13 
+Sue Findlay               8 Rosemary Cowley      21 
+Lee Greenwood            21 Maureen Adams        13 
+Ian Findlay              21 Julie Stead          10 
+Steve Edgley             14 Philip Peel          21 
+             Aggregate: 104          Aggregate:  99 
+                 Games:   3              Games:   3 
+                Points:  14             Points:  12 
+
+Division Four ( 6 Players)        Thu 4th Sep       
+          Wyke C                  Calverley B       
+John Illingworth         21 David Burton          5 
+Richard Bell             14 Margaret Whittaker   21 
+Ivor Rushforth            5 Geoff Yewdall        21 
+David Ramsden             6 Ken Paley            21 
+Keith Stephenson         21 June Whittaker        4 
+Stephen Wilks            21 Paul Hanson          18 
+             Aggregate:  88          Aggregate:  90 
+                 Games:   3              Games:   3 
+                Points:  12             Points:  14 
+
+Division Four ( 6 Players)        Thu 4th Sep       
+          Idle C                   Thornton         
+David Priestley          21 Anthony Lockwood      9 
+Margaret Austin          18 Karen Brame          21 
+Sylvia Davies            21 Gordon Daniel        19 
+Elizabeth Rawnsley        3 Barry Austin         21 
+Tekla England            21 Philip Ford           9 
+John Mellan              21 Sheila Farr          12 
+             Aggregate: 105          Aggregate:  91 
+                 Games:   4              Games:   2 
+                Points:  16             Points:  10 
+
+Division Four ( 6 Players)        Thu 4th Sep       
+      Drighlington B                Tyersal         
+Graham Fuller             6 Edgar Rhodes         21 
+Andy Brooke              21 Colin Wright         12 
+Judy Atkinson            21 John Hainsworth      19 
+Steve Wrigglesworth      21 Shiela Bairstow       0 
+Duncan Newton            21 Christine Hillas      4 
+Karl Denville            21 Barry Clough          8 
+             Aggregate: 111          Aggregate:  64 
+                 Games:   5              Games:   1 
+                Points:  22             Points:   4 
 
 
