@@ -95,7 +95,7 @@ function History() {
                 src={clubCupImg}
             ></img>
             <p>
-                From left to right: Rich Hodgson being presented the
+                From left to right: Richard Hodgson being presented the
                 conciliatory shield 2024, the entrants in the 2024 club cup and
                 John Armitage winning the club cup in 2024.
             </p>
@@ -129,6 +129,7 @@ function History() {
                         <ListGroupItem>1935</ListGroupItem>
                         <ListGroupItem>2023</ListGroupItem>
                         <ListGroupItem>2024</ListGroupItem>
+                        <ListGroupItem>2025</ListGroupItem>
                     </ListGroup>
                 </Col>
                 <Col>
@@ -146,6 +147,7 @@ function History() {
                         <ListGroupItem>1937</ListGroupItem>
                         <ListGroupItem>2023</ListGroupItem>
                         <ListGroupItem>2024</ListGroupItem>
+                        <ListGroupItem>2025</ListGroupItem>
                     </ListGroup>
                 </Col>
             </Row>
