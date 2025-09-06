@@ -219,7 +219,7 @@ Ian Davis                 15 Allan Poyser               21
 
          Division 3                  Thu 10th Apr          
       Skelmanthorpe B                 Thornhill B          
-Johnathon Taylor          21 Mandy Mitchell             13 
+Jonathan Taylor           21 Mandy Mitchell             13 
 Maureen Berry             14 Claire Price               21 
 Graham Roys               21 Derek Robinson             12 
 Sam Seargent              21 Jennifer Gray              13 
@@ -559,7 +559,7 @@ Adrian Lane               21 Liz Barden                 16
 Kevin Scott               21 Jamal Kelly                20 
 Mark Senior               21 Richard Auty               19 
 Marshall Coates           21 John Fisher                14 
-Peter Coates              11 Johnathon Taylor           21 
+Peter Coates              11 Jonathan Taylor            21 
 John Kilvington           21 Graham Roys                18 
 Geoff Close               21 Michael Kuszyk              3 
 Jim Liversidge            21 Sam Seargent               14 
@@ -872,7 +872,7 @@ Jamal Kelly               19 Dave Gordon                21
 Stephen Auty              21 Dave White                  7 
 Richard Auty              21 John Scholey                9 
 Graham Roys               11 Anthony Dixon              21 
-Johnathon Taylor          21 Eileen Wardman              5 
+Jonathan Taylor           21 Eileen Wardman              5 
 Sam Seargent              21 Paul Horrocks              10 
 Lee Dobson                21 Vernon Green               16 
               Aggregate: 142                Aggregate: 110 
@@ -1016,7 +1016,7 @@ Andrea Banham             21 Stephen Auty                5
 Doug Lawson               21 Jamal Kelly                17 
 David Roscoe              21 Richard Auty               11 
 David Bancroft            15 Martin Schofield           21 
-Colin Mackinder           12 Johnathon Taylor           21 
+Colin Mackinder           12 Jonathan Taylor            21 
 Joshua Eley               21 Sam Seargent               10 
 Terry Weston              16 Lee Dobson                 21 
               Aggregate: 148                Aggregate: 107 
@@ -1553,7 +1553,7 @@ Lee Crossland             13 Alan Smith                 21
       Ossett C & AC C               Skelmanthorpe B        
 Linda Callaghan           21 Martin Schofield            7 
 John Kellett              15 John Fisher                21 
-Karen Kellett             21 Johnathon Taylor           16 
+Karen Kellett             21 Jonathan Taylor            16 
 Nora Collier              11 Stephen Auty               21 
 Svajunas Kapitan          20 Sam Seargent               21 
 Alan Nash                 21 Jamal Kelly                15 
@@ -2564,7 +2564,7 @@ Martin Schofield          21 Christopher Gannon         10
 Jamal Kelly                7 Clive Sabey                21 
 Richard Auty              21 Sarah Dixon                15 
 John Fisher               21 Neil Anderson               9 
-Johnathon Taylor          21 John O'Hara                 7 
+Jonathan Taylor           21 John O'Hara                 7 
 Sam Seargent              21 David Dixon                12 
 Lee Dobson                21 Allan Poyser               12 
               Aggregate: 150                Aggregate: 107 
@@ -3347,7 +3347,7 @@ Ben Gibson                21 Jamal Kelly                 8
 Mandy Mitchell            21 John Fisher                12 
 Anne Graham               21 Martin Schofield           15 
 Derek Robinson            21 Sam Seargent               14 
-Jennifer Gray             15 Johnathon Taylor           21 
+Jennifer Gray             15 Jonathan Taylor            21 
 Phil Gamble               21 Lee Dobson                 17 
               Aggregate: 162                Aggregate: 104 
 
@@ -4055,7 +4055,7 @@ Dave White                18 Richard Auty               21
 Paul Horrocks             21 Martin Schofield           11 
 Jenny Berry               21 John Fisher                14 
 Brian Marden              18 Sam Seargent               21 
-Anthony Dixon             14 Johnathon Taylor           21 
+Anthony Dixon             14 Jonathan Taylor            21 
 Gary Dawson               21 Lee Dobson                  9 
               Aggregate: 151                Aggregate: 121 
 
@@ -4355,7 +4355,7 @@ Richard Auty              21 Colin Mackinder             8
 John Fisher               21 Mel Whittaker               9 
 Martin Schofield          17 Terry Weston               21 
 Sam Seargent              21 Rob Curzon                 13 
-Johnathon Taylor          17 Joshua Eley                21 
+Jonathan Taylor           17 Joshua Eley                21 
 Lee Dobson                19 John Packer                21 
               Aggregate: 144                Aggregate: 123 
 
@@ -4770,7 +4770,7 @@ Martin Schofield          21 Diane Pitchford            19
 Richard Auty              21 David Clarkson             11 
 John Fisher               21 Terence Fletcher           13 
 Sam Seargent              21 Pauline Clarkson            4 
-Johnathon Taylor          21 Stewart Widdrington         8 
+Jonathan Taylor           21 Stewart Widdrington         8 
 Lee Dobson                21 Alan Nash                   2 
               Aggregate: 168                Aggregate:  80 
 
@@ -5065,7 +5065,7 @@ Mark Lingard              21 Philip Berry               16
          Division 3                  Thu 14th Aug          
        Denby Grange B               Skelmanthorpe B        
 Josh Broadhead            11 Lee Dobson                 21 
-Malcolm Brown             13 Johnathon Taylor           21 
+Malcolm Brown             13 Jonathan Taylor            21 
 Andrea Daniels            15 Jamal Kelly                21 
 Bryan Thomas              20 Stephen Auty               21 
 Keeling Ben               21 Richard Auty               15 
@@ -5442,7 +5442,7 @@ Jamal Kelly               21 Delma Ashton               11
 John Fisher                8 C Shipley                  21 
 Graham Roys               18 S Findlay                  21 
 Sam Seargent              21 D Guile                     2 
-Johnathon Taylor          17 Bob Holmes                 21 
+Jonathan Taylor           17 Bob Holmes                 21 
 Lee Dobson                21 Gerry Taylor               20 
               Aggregate: 148                Aggregate: 118 
 
@@ -5718,7 +5718,7 @@ Patricia Ryder            19 Jamal Kelly                21
 Neil Anderson             12 Richard Auty               21 
 John O'Hara                7 Martin Schofield           21 
 David Dixon               21 Graham Roys                 6 
-Allan Poyser              21 Johnathon Taylor           20 
+Allan Poyser              21 Jonathan Taylor            20 
 Mark Lingard              13 Lee Dobson                 21 
               Aggregate: 122                Aggregate: 148 
 
@@ -5943,6 +5943,18 @@ Andrew McLaughlan         21 Sharon Scholey              4
               Aggregate: 159                Aggregate: 108 
 
       Premier Division                Thu 4th Sep          
+        Thornhill A                  Spen Victoria         
+Paul Sweeney              21 Andrew Gallagher           19 
+Stephen Wainwright        17 Chris Ellis                21 
+Phil Gamble               15 Ash Tattersley             21 
+Graham Hirst              12 Neil Wood Jr               21 
+James McNeil              10 Harley Tattersley          21 
+Kath Robinson             12 Danny Teale                21 
+Steve Davis                8 Mark Goodall               21 
+Ian Newby                 21 Richard Crowther            6 
+              Aggregate: 116                Aggregate: 151 
+
+      Premier Division                Thu 4th Sep          
        Smirthwaite A                Skelmanthorpe A        
 Marc Armitage             21 Mark Booth                 12 
 Peter Farrar              11 Richard Jackson            21 
@@ -6027,6 +6039,18 @@ Paul Mottram              21 Bryan Collier               6
               Aggregate: 147                Aggregate: 133 
 
          Division 1                   Thu 4th Sep          
+       West Bretton A                Morton House          
+Tim Chadwick              21 Harrison Messinger          9 
+Peter Rhodes              21 Charlie Ripley             19 
+Steven Sykes              11 Michael Sweeney            21 
+Joe Peckett                2 Adrian Leach               21 
+Kim Fisher                11 Marcus Leach               21 
+Richard Stead             16 Chris Sweeney              21 
+James Szabo               15 Tom Gilbert                21 
+Steve Hall                 6 Wayne Kemp                 21 
+              Aggregate: 103                Aggregate: 154 
+
+         Division 1                   Thu 4th Sep          
         Heckmondwike                  Slazenger A          
 Sean Carter               21 Wayne Bond                 18 
 Jon Edmondson             21 Gary Larner                 2 
@@ -6074,6 +6098,18 @@ David Wright              21 John Dudding               15
 Peter Varley              21 Peter Claven               13 
               Aggregate: 157                Aggregate: 113 
 
+         Division 2                   Thu 4th Sep          
+        Slazenger B                Hanging Heaton B        
+Maureen Jennings          21 David Collinson            14 
+Carol Boyer               10 Ian Taylor                 21 
+Stephen Boyer              9 Michael Underhill          21 
+Angela Pursglove           9 Jacob Amatt                21 
+Jack Teal                  9 Peter Byrne                21 
+Jeff Shaw                 12 Paul Murphy                21 
+Gordon Fisher              0 Gary Amatt                 21 
+Gary Denton               21 Tony Howland               13 
+              Aggregate:  91                Aggregate: 153 
+
          Division 3                   Thu 4th Sep          
        Wake Thornes A                 Thornhill B          
 D Warwick                  9 Ben Gibson                 21 
@@ -6087,8 +6123,20 @@ Gerry Taylor              21 Derek Robinson             16
               Aggregate: 152                Aggregate: 120 
 
          Division 3                   Thu 4th Sep          
+      Skelmanthorpe B                 Earlsheaton          
+Liz Barden                19 Jenny Pitchforth           21 
+Stephen Auty              21 Malcolm Battye             18 
+Jamal Kelly               21 Daniel Logan                9 
+John Fisher               13 Karen Ainley               21 
+Martin Schofield          12 David McNally              21 
+Graham Roys               21 Yvonne Ainley              16 
+Jonathan Taylor           21 Lee Crossland              14 
+Lee Dobson                21 Keith Pinchbeck             7 
+              Aggregate: 149                Aggregate: 127 
+
+         Division 3                   Thu 4th Sep          
         Wrenthorpe A                Horbury Bridge         
-Philip Berry              21 Adrian Lane                19 
+Philip Berry              21 Adrian Lane                18 
 Brian Marden              21 Kevin Scott                13 
 Paul Curtis               21 Geoff Close                19 
 John Scholey              16 Mark Senior                21 
@@ -6096,7 +6144,19 @@ Dave White                21 Peter Coates               19
 Anthony Dixon             21 Brian Beddow               15 
 Vernon Green              21 Martin Turner               9 
 Dave Gordon               16 John Kilvington            21 
-              Aggregate: 158                Aggregate: 136 
+              Aggregate: 158                Aggregate: 135 
+
+         Division 3                   Thu 4th Sep          
+      Ossett C & AC C               Denby Grange B         
+Stephen Briggs            21 Lynda Scott                 2 
+Karen Kellett             20 Graham Blythe              21 
+John Kellett              18 Ian Davis                  21 
+John Kennelly             18 David Wright               21 
+Nora Collier              21 Malcolm Brown              15 
+Alison Sykes              21 Josh Broadhead              4 
+David Clarkson            15 Phil Mack                  21 
+Linda Callaghan           21 Andrea Daniels              9 
+              Aggregate: 155                Aggregate: 114 
 
          Division 4                   Thu 4th Sep          
          Stanley A                  Clayton West B         
