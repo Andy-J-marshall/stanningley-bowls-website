@@ -161,25 +161,25 @@
             ]
         },
         "andrew marshall": {
-            "totalAgg": 1424,
-            "totalAggAgainst": 1085,
-            "availableAgg": 1554,
+            "totalAgg": 1445,
+            "totalAggAgainst": 1097,
+            "availableAgg": 1575,
             "availablePairsAgg": 42,
-            "availableHomeAgg": 672,
+            "availableHomeAgg": 693,
             "availableAwayAgg": 672,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 37,
             "totalPairsAggAgainst": 31,
-            "totalHomeAgg": 658,
-            "totalHomeAggAgainst": 409,
+            "totalHomeAgg": 679,
+            "totalHomeAggAgainst": 421,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 592,
             "totalAwayAggAgainst": 526,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 29,
+            "homeWins": 30,
             "homeLosses": 3,
             "awayWins": 18,
             "awayLosses": 14,
@@ -193,7 +193,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 74,
+            "totalGamesPlayed": 75,
             "results": [
                 "andrew marshall 21 - 17 alan procter",
                 "andrew marshall 21 - 19 mark raistrick",
@@ -268,7 +268,8 @@
                 "andrew marshall & paul bowes 16 - 21 lewis cooper & lee wider",
                 "andrew marshall 21 - 3 christine hughes",
                 "andrew marshall 21 - 8 jeremy gill",
-                "andrew marshall & alyssa randell 21 - 10 robert ramsden & dorothy walker"
+                "andrew marshall & alyssa randell 21 - 10 robert ramsden & dorothy walker",
+                "andrew marshall 21 - 12 rachel wilcox"
             ]
         },
         "andy hodgson": {

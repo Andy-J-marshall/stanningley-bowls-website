@@ -75,4 +75,8 @@ export const leagues = [
     day: "Tadcaster",
     url: "/Tadcaster",
   },
+  {
+    day: "Barkston Ash",
+    url: "/BarkstonAsh",
+  },
 ];
