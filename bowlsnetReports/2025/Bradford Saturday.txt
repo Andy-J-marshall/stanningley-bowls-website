@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Sat 6th Sep)
+=== Bradford (Saturday) 2025 (as of Sun 7th Sep)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -5481,6 +5481,22 @@ Vincent Bussingham         17 Earl Delany               21
                   Points:  19                  Points:   9 
 
  Division 1 (Naylor Premier)          Sat 6th Sep          
+          Pudsey A                     Guiseley A          
+Mason Lindley              17 Kevin Siddle              21 
+Ian Shaw                   21 Daniel Teale              16 
+Andrew Sykes               21 Thomas Cater              14 
+Jack Bowes                 21 Andrew Durkin             16 
+Jamie Winterburn           21 Colin Matthewman           8 
+Philip Wilsdon             21 Luke Teale                17 
+Gary Wike                  21 James Teale                7 
+Thomas Hanson              21 Joe Stockdale             14 
+Stuart Hanson              21 Gary Whelan               20 
+James Cosgrave             20 Bob Jeffrey               21 
+                   Games:   8                   Games:   2 
+               Aggregate: 205               Aggregate: 154 
+                  Points:  24                  Points:   6 
+
+ Division 1 (Naylor Premier)          Sat 6th Sep          
         Littlemoor A                Spen Victoria A        
 Lewis Cooper               21 Ian Gould                  8 
 Nicole Farrar              21 Lucas Wood                 8 
@@ -5511,6 +5527,22 @@ Daryl Wright                9 Alan Bray                 21
                    Games:   7                   Games:   3 
                Aggregate: 184               Aggregate: 156 
                   Points:  20                  Points:  10 
+
+ Division 1 (Naylor Premier)          Sat 6th Sep          
+        Shipley Club                      Wyke             
+Scott Bloodworth           21 David Craigie             18 
+Craig Fenton               21 Nigel Wormald              8 
+Matthew Jacques 'A'        21 Neil Tordoff              20 
+Chris Jacques              21 Darren Hickey              8 
+Ian Jacques                21 Mark Regan                 6 
+Daniel Metcalfe            17 Daniel Barker             21 
+John Sample                 6 Trevor Benn               21 
+Neil Simpson               21 Frank Cullen              12 
+Andrew Walker               8 Paul Metcalf              21 
+Stuart Wilson              18 Gareth Metcalf            21 
+                   Games:   6                   Games:   4 
+               Aggregate: 175               Aggregate: 156 
+                  Points:  18                  Points:  12 
 
  Division 1 (Naylor Premier)          Sat 6th Sep          
           Whitkirk                 Brighouse Sports A      
@@ -5545,6 +5577,54 @@ Andrew Howie               21 Glynn Goodyear             8
                   Points:  30                  Points:   0 
 
      Division 2 (Godwin)              Sat 6th Sep          
+         Hove Edge A                   Clayton A           
+Chloe Hirst                21 June Wilson               14 
+Linda Gledhill             21 Dave Jowett               17 
+Suzi Ladbrooke             19 Jack Summers              21 
+Lynn Carter                21 Paul Gill                 17 
+Jacquie Haigh              17 Andy Southwell            21 
+Stacey Dyson               21 Peter Oliver               9 
+Steve Mallinson            15 Chris Wilson              21 
+Nigel Firth                11 Paul Demetriades          21 
+Julie Best                 21 Myles Summers             19 
+Jean Winchcombe            20 Joe Bray                  21 
+                   Games:   5                   Games:   5 
+               Aggregate: 187               Aggregate: 181 
+                  Points:  16                  Points:  14 
+
+     Division 2 (Godwin)              Sat 6th Sep          
+          Stainland                     Farsley            
+Peter Hopkinson            21 Derek Pickering           16 
+Robert Senior              12 Daniel Beardsworth        21 
+Lynda Drury                17 Colin Rhodes              21 
+Carole Harpin               9 Duncan McPhail            21 
+Robert Dickinson           15 Neil Nicholson            21 
+Ben Fisher                 21 Graham Petty               9 
+Karen Gant                 21 Stuart Brook              15 
+Keith Hatzer               21 Peter Crowther            13 
+Jessica Sykes              21 Peter Scott               16 
+Jane Hollingworth          21 Dean Helliwell             8 
+                   Games:   6                   Games:   4 
+               Aggregate: 179               Aggregate: 161 
+                  Points:  18                  Points:  12 
+
+     Division 2 (Godwin)              Sat 6th Sep          
+          Hightown                      Pudsey B           
+Poppy Fox                  21 Peter Simpson             12 
+Jon Edmondson              21 Duncan Reeves             15 
+Jacob Hatfield-Goodall     21 Dave Smith                16 
+Tom Gilbert                20 Sue Chadwick              21 
+Eddie Gilbert              17 Matthew Leaf              21 
+Darren Goodall             19 Pam Lindley               21 
+David Rayner               18 Taylor Smith              21 
+Alex Edmondson             13 Lynn Noonan               21 
+Daren Munt                 11 Wendy Shimbles            21 
+Sean Carter                12 Jake Daggett              21 
+                   Games:   3                   Games:   7 
+               Aggregate: 173               Aggregate: 190 
+                  Points:  11                  Points:  19 
+
+     Division 2 (Godwin)              Sat 6th Sep          
         Asa Briggs A          Hipperholme & Lightcliffe A  
 Clive Foord                21 John Denham                7 
 Michael Frost              21 Sue Denham                13 
@@ -5559,6 +5639,22 @@ Stuart King                21 Chris Cox                  1
                    Games:  10                   Games:   0 
                Aggregate: 210               Aggregate: 113 
                   Points:  30                  Points:   0 
+
+     Division 3 (Mellor)              Sat 6th Sep          
+       Spen Victoria B                Eccleshill B         
+Mel Blackburn              12 Peter Jefferson           21 
+Richard Brooke             19 Lee Hicks                 21 
+Steve Kemp                 18 Vincent Bussingham        21 
+Ann Billington             21 Diane Emery                8 
+Phil Rayner                21 Martin Hayton             17 
+Derek Goor                 21 Theo Moyes                18 
+John Smith                 21 John Griffin              20 
+Paul Blackburn             21 Pauline Gilroy            12 
+David Billington           21 Ken Wilson                12 
+Harry Brooke               21 Peter Howroyd             14 
+                   Games:   7                   Games:   3 
+               Aggregate: 196               Aggregate: 164 
+                  Points:  21                  Points:   9 
 
      Division 3 (Mellor)              Sat 6th Sep          
         Harold Club A                 Asa Briggs B         

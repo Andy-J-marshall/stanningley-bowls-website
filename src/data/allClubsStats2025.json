@@ -898,12 +898,12 @@
             ]
         },
         "duncan mcphail": {
-            "totalAgg": 1148,
-            "totalAggAgainst": 989,
-            "availableAgg": 1302,
+            "totalAgg": 1169,
+            "totalAggAgainst": 998,
+            "availableAgg": 1323,
             "availablePairsAgg": 21,
             "availableHomeAgg": 651,
-            "availableAwayAgg": 504,
+            "availableAwayAgg": 525,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 21,
@@ -912,13 +912,13 @@
             "totalHomeAggAgainst": 458,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 388,
-            "totalAwayAggAgainst": 447,
+            "totalAwayAgg": 409,
+            "totalAwayAggAgainst": 456,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 24,
             "homeLosses": 7,
-            "awayWins": 9,
+            "awayWins": 10,
             "awayLosses": 15,
             "cupWins": 7,
             "cupLosses": 0,
@@ -930,7 +930,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 62,
+            "totalGamesPlayed": 63,
             "results": [
                 "duncan mcphail 21 - 7 graham hey",
                 "duncan mcphail 21 - 17 steve brown",
@@ -993,7 +993,8 @@
                 "duncan mcphail 13 - 21 linda gledhill",
                 "duncan mcphail 21 - 16 mark reynolds",
                 "duncan mcphail 6 - 21 jordan brown",
-                "duncan mcphail 21 - 14 hayley wood"
+                "duncan mcphail 21 - 14 hayley wood",
+                "duncan mcphail 21 - 9 carole harpin"
             ]
         },
         "eleanor graves": {
@@ -3617,6 +3618,6 @@
             ]
         }
     },
-    "lastUpdated": "06/09/2025",
+    "lastUpdated": "07/09/2025",
     "statsYear": "2025"
 }
