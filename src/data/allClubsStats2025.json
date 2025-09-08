@@ -355,9 +355,9 @@
             ]
         },
         "andy waller": {
-            "totalAgg": 1003,
-            "totalAggAgainst": 802,
-            "availableAgg": 1113,
+            "totalAgg": 1024,
+            "totalAggAgainst": 810,
+            "availableAgg": 1134,
             "availablePairsAgg": 0,
             "availableHomeAgg": 420,
             "availableAwayAgg": 546,
@@ -377,7 +377,7 @@
             "homeLosses": 4,
             "awayWins": 13,
             "awayLosses": 13,
-            "cupWins": 6,
+            "cupWins": 7,
             "cupLosses": 1,
             "pairWins": 0,
             "pairLosses": 0,
@@ -387,7 +387,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 53,
+            "totalGamesPlayed": 54,
             "results": [
                 "andy waller 21 - 12 ian lewis",
                 "andy waller 21 - 15 anne lucas",
@@ -441,7 +441,8 @@
                 "andy waller 20 - 21 barbara brook",
                 "andy waller 21 - 20 david keighley",
                 "andy waller 21 - 9 gary skeet",
-                "andy waller 21 - 6 richard kellett"
+                "andy waller 21 - 6 richard kellett",
+                "andy waller 21 - 8 robert north"
             ]
         },
         "bob marshall": {
@@ -592,9 +593,9 @@
             ]
         },
         "colin haque": {
-            "totalAgg": 814,
-            "totalAggAgainst": 1126,
-            "availableAgg": 1231,
+            "totalAgg": 793,
+            "totalAggAgainst": 1118,
+            "availableAgg": 1210,
             "availablePairsAgg": 286,
             "availableHomeAgg": 576,
             "availableAwayAgg": 503,
@@ -614,7 +615,7 @@
             "homeLosses": 16,
             "awayWins": 7,
             "awayLosses": 16,
-            "cupWins": 1,
+            "cupWins": 0,
             "cupLosses": 6,
             "pairWins": 4,
             "pairLosses": 7,
@@ -624,7 +625,7 @@
             "pairAwayLosses": 3,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 56,
+            "totalGamesPlayed": 55,
             "results": [
                 "colin haque 3 - 21 david norton",
                 "colin haque 6 - 21 reece pratt",
@@ -670,7 +671,6 @@
                 "colin haque 9 - 21 peter byford",
                 "colin haque 21 - 19 anne brown",
                 "colin haque 21 - 19 nick gilleard",
-                "colin haque 21 - 8 robert north",
                 "colin haque & tracey marshall 19 - 26 ken webb & duncan campbell",
                 "colin haque & tracey marshall 6 - 26 adam sample & mark sample",
                 "colin haque & tracey marshall 15 - 26 david gregory & walter stockhill",
