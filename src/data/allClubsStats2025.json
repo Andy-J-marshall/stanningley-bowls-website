@@ -161,9 +161,9 @@
             ]
         },
         "andrew marshall": {
-            "totalAgg": 1445,
-            "totalAggAgainst": 1097,
-            "availableAgg": 1575,
+            "totalAgg": 1466,
+            "totalAggAgainst": 1115,
+            "availableAgg": 1596,
             "availablePairsAgg": 42,
             "availableHomeAgg": 693,
             "availableAwayAgg": 672,
@@ -183,7 +183,7 @@
             "homeLosses": 3,
             "awayWins": 18,
             "awayLosses": 14,
-            "cupWins": 5,
+            "cupWins": 6,
             "cupLosses": 5,
             "pairWins": 1,
             "pairLosses": 1,
@@ -193,7 +193,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 1,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 75,
+            "totalGamesPlayed": 76,
             "results": [
                 "andrew marshall 21 - 17 alan procter",
                 "andrew marshall 21 - 19 mark raistrick",
@@ -268,14 +268,15 @@
                 "andrew marshall & paul bowes 16 - 21 lewis cooper & lee wider",
                 "andrew marshall 21 - 3 christine hughes",
                 "andrew marshall 21 - 8 jeremy gill",
+                "andrew marshall 21 - 18 david keighley",
                 "andrew marshall & alyssa randell 21 - 10 robert ramsden & dorothy walker",
                 "andrew marshall 21 - 12 rachel wilcox"
             ]
         },
         "andy hodgson": {
-            "totalAgg": 805,
-            "totalAggAgainst": 683,
-            "availableAgg": 903,
+            "totalAgg": 826,
+            "totalAggAgainst": 692,
+            "availableAgg": 924,
             "availablePairsAgg": 0,
             "availableHomeAgg": 357,
             "availableAwayAgg": 420,
@@ -295,7 +296,7 @@
             "homeLosses": 5,
             "awayWins": 11,
             "awayLosses": 9,
-            "cupWins": 3,
+            "cupWins": 4,
             "cupLosses": 3,
             "pairWins": 0,
             "pairLosses": 0,
@@ -305,7 +306,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 43,
+            "totalGamesPlayed": 44,
             "results": [
                 "andy hodgson 21 - 12 gavin johns",
                 "andy hodgson 21 - 10 ian franllin",
@@ -340,6 +341,7 @@
                 "andy hodgson 21 - 17 neill hargreaves",
                 "andy hodgson 18 - 21 gary whelan",
                 "andy hodgson 21 - 13 ken gilroy",
+                "andy hodgson 21 - 9 joe ullock",
                 "andy hodgson 21 - 6 kevin buckley",
                 "andy hodgson 10 - 21 peter crowther",
                 "andy hodgson 21 - 16 gerald bromley",
@@ -590,9 +592,9 @@
             ]
         },
         "colin haque": {
-            "totalAgg": 793,
-            "totalAggAgainst": 1118,
-            "availableAgg": 1210,
+            "totalAgg": 814,
+            "totalAggAgainst": 1126,
+            "availableAgg": 1231,
             "availablePairsAgg": 286,
             "availableHomeAgg": 576,
             "availableAwayAgg": 503,
@@ -612,7 +614,7 @@
             "homeLosses": 16,
             "awayWins": 7,
             "awayLosses": 16,
-            "cupWins": 0,
+            "cupWins": 1,
             "cupLosses": 6,
             "pairWins": 4,
             "pairLosses": 7,
@@ -622,7 +624,7 @@
             "pairAwayLosses": 3,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 55,
+            "totalGamesPlayed": 56,
             "results": [
                 "colin haque 3 - 21 david norton",
                 "colin haque 6 - 21 reece pratt",
@@ -668,6 +670,7 @@
                 "colin haque 9 - 21 peter byford",
                 "colin haque 21 - 19 anne brown",
                 "colin haque 21 - 19 nick gilleard",
+                "colin haque 21 - 8 robert north",
                 "colin haque & tracey marshall 19 - 26 ken webb & duncan campbell",
                 "colin haque & tracey marshall 6 - 26 adam sample & mark sample",
                 "colin haque & tracey marshall 15 - 26 david gregory & walter stockhill",
@@ -682,9 +685,9 @@
             ]
         },
         "craig clarkson": {
-            "totalAgg": 525,
-            "totalAggAgainst": 491,
-            "availableAgg": 630,
+            "totalAgg": 537,
+            "totalAggAgainst": 512,
+            "availableAgg": 651,
             "availablePairsAgg": 21,
             "availableHomeAgg": 294,
             "availableAwayAgg": 231,
@@ -705,7 +708,7 @@
             "awayWins": 5,
             "awayLosses": 6,
             "cupWins": 3,
-            "cupLosses": 2,
+            "cupLosses": 3,
             "pairWins": 0,
             "pairLosses": 1,
             "pairHomeWins": 0,
@@ -714,7 +717,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 30,
+            "totalGamesPlayed": 31,
             "results": [
                 "craig clarkson 21 - 9 harvey lockwood",
                 "craig clarkson 16 - 21 kevin smales",
@@ -745,7 +748,8 @@
                 "craig clarkson 21 - 13 laurie robinson",
                 "craig clarkson 21 - 10 terry waite-pullan",
                 "craig clarkson 9 - 21 james greenwood",
-                "craig clarkson 21 - 16 marie drysdale"
+                "craig clarkson 21 - 16 marie drysdale",
+                "craig clarkson 12 - 21 frank baker"
             ]
         },
         "dave eaton": {
@@ -1375,9 +1379,9 @@
             ]
         },
         "joey broadbent": {
-            "totalAgg": 344,
-            "totalAggAgainst": 224,
-            "availableAgg": 357,
+            "totalAgg": 365,
+            "totalAggAgainst": 241,
+            "availableAgg": 378,
             "availablePairsAgg": 0,
             "availableHomeAgg": 126,
             "availableAwayAgg": 168,
@@ -1397,7 +1401,7 @@
             "homeLosses": 0,
             "awayWins": 6,
             "awayLosses": 2,
-            "cupWins": 3,
+            "cupWins": 4,
             "cupLosses": 0,
             "pairWins": 0,
             "pairLosses": 0,
@@ -1407,7 +1411,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 17,
+            "totalGamesPlayed": 18,
             "results": [
                 "joey broadbent 21 - 20 alex perry",
                 "joey broadbent 21 - 10 angela morley",
@@ -1425,6 +1429,7 @@
                 "joey broadbent 21 - 14 gary poucher",
                 "joey broadbent 21 - 8 chris dickerson",
                 "joey broadbent 21 - 6 paul bullock",
+                "joey broadbent 21 - 17 tim nicholson",
                 "joey broadbent 21 - 18 richard briggs"
             ]
         },
@@ -2062,9 +2067,9 @@
             ]
         },
         "malvin miller": {
-            "totalAgg": 1216,
-            "totalAggAgainst": 1124,
-            "availableAgg": 1407,
+            "totalAgg": 1230,
+            "totalAggAgainst": 1145,
+            "availableAgg": 1428,
             "availablePairsAgg": 0,
             "availableHomeAgg": 651,
             "availableAwayAgg": 609,
@@ -2085,7 +2090,7 @@
             "awayWins": 16,
             "awayLosses": 13,
             "cupWins": 5,
-            "cupLosses": 2,
+            "cupLosses": 3,
             "pairWins": 0,
             "pairLosses": 0,
             "pairHomeWins": 0,
@@ -2094,7 +2099,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 67,
+            "totalGamesPlayed": 68,
             "results": [
                 "malvin miller 14 - 21 donald chadwick",
                 "malvin miller 15 - 21 ralph taylor",
@@ -2162,7 +2167,8 @@
                 "malvin miller 21 - 16 stephen turner",
                 "malvin miller 21 - 10 robert north",
                 "malvin miller 21 - 15 gail singh",
-                "malvin miller 21 - 15 andrew wilson"
+                "malvin miller 21 - 15 andrew wilson",
+                "malvin miller 14 - 21 reid haddow"
             ]
         },
         "martin fulton": {
@@ -2317,9 +2323,9 @@
             ]
         },
         "neil porter": {
-            "totalAgg": 1196,
-            "totalAggAgainst": 920,
-            "availableAgg": 1344,
+            "totalAgg": 1207,
+            "totalAggAgainst": 941,
+            "availableAgg": 1365,
             "availablePairsAgg": 0,
             "availableHomeAgg": 609,
             "availableAwayAgg": 588,
@@ -2340,7 +2346,7 @@
             "awayWins": 16,
             "awayLosses": 12,
             "cupWins": 6,
-            "cupLosses": 1,
+            "cupLosses": 2,
             "pairWins": 0,
             "pairLosses": 0,
             "pairHomeWins": 0,
@@ -2349,7 +2355,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 64,
+            "totalGamesPlayed": 65,
             "results": [
                 "neil porter 21 - 3 anne miller",
                 "neil porter 21 - 10 john manson",
@@ -2403,6 +2409,7 @@
                 "neil porter 21 - 5 ian robertson",
                 "neil porter 21 - 18 ian smith",
                 "neil porter 21 - 11 maureen poucher",
+                "neil porter 11 - 21 james greenwood",
                 "neil porter 21 - 12 andy matthews",
                 "neil porter 21 - 5 dave hill",
                 "neil porter 16 - 21 bryan harrison",
@@ -2489,9 +2496,9 @@
             ]
         },
         "paul bowes": {
-            "totalAgg": 1416,
-            "totalAggAgainst": 888,
-            "availableAgg": 1512,
+            "totalAgg": 1437,
+            "totalAggAgainst": 899,
+            "availableAgg": 1533,
             "availablePairsAgg": 21,
             "availableHomeAgg": 651,
             "availableAwayAgg": 672,
@@ -2511,7 +2518,7 @@
             "homeLosses": 5,
             "awayWins": 24,
             "awayLosses": 8,
-            "cupWins": 7,
+            "cupWins": 8,
             "cupLosses": 2,
             "pairWins": 0,
             "pairLosses": 1,
@@ -2521,7 +2528,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 72,
+            "totalGamesPlayed": 73,
             "results": [
                 "paul bowes 21 - 20 david lyons",
                 "paul bowes 21 - 14 karen portman",
@@ -2594,13 +2601,14 @@
                 "paul bowes 21 - 8 frank baker",
                 "paul bowes 21 - 13 gwen smith",
                 "paul bowes 21 - 9 brian wardle",
+                "paul bowes 21 - 11 john hutton",
                 "paul bowes 21 - 11 geoff hanson"
             ]
         },
         "paul leonard": {
-            "totalAgg": 1276,
-            "totalAggAgainst": 1137,
-            "availableAgg": 1483,
+            "totalAgg": 1297,
+            "totalAggAgainst": 1157,
+            "availableAgg": 1504,
             "availablePairsAgg": 328,
             "availableHomeAgg": 660,
             "availableAwayAgg": 629,
@@ -2620,7 +2628,7 @@
             "homeLosses": 9,
             "awayWins": 18,
             "awayLosses": 11,
-            "cupWins": 3,
+            "cupWins": 4,
             "cupLosses": 6,
             "pairWins": 9,
             "pairLosses": 4,
@@ -2630,7 +2638,7 @@
             "pairAwayLosses": 2,
             "pairCupWins": 1,
             "pairCupLosses": 2,
-            "totalGamesPlayed": 68,
+            "totalGamesPlayed": 69,
             "results": [
                 "paul leonard 21 - 10 ian stocks",
                 "paul leonard 10 - 21 julie cavalli",
@@ -2688,6 +2696,7 @@
                 "paul leonard 21 - 19 reid haddow",
                 "paul leonard 21 - 15 les schofield",
                 "paul leonard 21 - 17 michael mitchell",
+                "paul leonard 21 - 20 paul bullock",
                 "paul leonard & harvey leonard 21 - 13 christine ratcliffe & philip clifton",
                 "paul leonard & harvey leonard 26 - 9 andrea chiverton & anne idle",
                 "paul leonard & harvey leonard 26 - 14 barbara harrison & rosemary cowley",
@@ -3045,9 +3054,9 @@
             ]
         },
         "steve gardner": {
-            "totalAgg": 772,
-            "totalAggAgainst": 467,
-            "availableAgg": 840,
+            "totalAgg": 793,
+            "totalAggAgainst": 485,
+            "availableAgg": 861,
             "availablePairsAgg": 0,
             "availableHomeAgg": 420,
             "availableAwayAgg": 252,
@@ -3067,7 +3076,7 @@
             "homeLosses": 3,
             "awayWins": 9,
             "awayLosses": 3,
-            "cupWins": 7,
+            "cupWins": 8,
             "cupLosses": 1,
             "pairWins": 0,
             "pairLosses": 0,
@@ -3077,7 +3086,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 40,
+            "totalGamesPlayed": 41,
             "results": [
                 "steve gardner 21 - 7 stuart tennant",
                 "steve gardner 10 - 21 lynne hopps",
@@ -3118,6 +3127,7 @@
                 "steve gardner 21 - 12 john hutton",
                 "steve gardner 21 - 13 amrik singh",
                 "steve gardner 21 - 7 anthony postlethwaite",
+                "steve gardner 21 - 18 patrick campbell",
                 "steve gardner 21 - 9 derek bridge"
             ]
         },
@@ -3328,9 +3338,9 @@
             ]
         },
         "stuart potter": {
-            "totalAgg": 1040,
-            "totalAggAgainst": 940,
-            "availableAgg": 1218,
+            "totalAgg": 1061,
+            "totalAggAgainst": 950,
+            "availableAgg": 1239,
             "availablePairsAgg": 21,
             "availableHomeAgg": 546,
             "availableAwayAgg": 504,
@@ -3350,7 +3360,7 @@
             "homeLosses": 7,
             "awayWins": 11,
             "awayLosses": 13,
-            "cupWins": 5,
+            "cupWins": 6,
             "cupLosses": 3,
             "pairWins": 0,
             "pairLosses": 1,
@@ -3360,7 +3370,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 58,
+            "totalGamesPlayed": 59,
             "results": [
                 "stuart potter 19 - 21 steve milton",
                 "stuart potter 21 - 10 tony morris",
@@ -3419,6 +3429,7 @@
                 "stuart potter 21 - 19 martin slater",
                 "stuart potter 21 - 8 jeremy gill",
                 "stuart potter 21 - 14 john hardisty",
+                "stuart potter 21 - 10 david greenwood",
                 "stuart potter & clifford brogie 19 - 21 jim whittle & jason bridge"
             ]
         },
@@ -3619,6 +3630,6 @@
             ]
         }
     },
-    "lastUpdated": "07/09/2025",
+    "lastUpdated": "08/09/2025",
     "statsYear": "2025"
 }
