@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday) 2025 (as of Mon 8th Sep)
+=== Leeds & District (Tuesday) 2025 (as of Tue 9th Sep)
 === League Match Cards
 
       Division 1            Tue 8th Apr       
@@ -2926,6 +2926,19 @@ Les Hudson          21 Jeff Blackburn      13
         Aggregate: 166         Aggregate: 102 
            Points:  39            Points:  19 
 
+      Division 3            Tue 26th Aug      
+    New Farnley B          Middleton Comm     
+Pat Skelton         21 Karl Chapman        13 
+Jean Milner         20 Neil Hudson         21 
+Keith Skelton       19 Mark Aspin          21 
+Graham Davison      15 Shirley Biancardo   21 
+Roger Milner        21 Christine Glyn      18 
+Bob Taylor          21 Malcolm Cameron     12 
+Howard Fowler       17 Malcolm Hallas      21 
+John Ingham         21 Mario Biancardo     18 
+        Aggregate: 155         Aggregate: 145 
+           Points:  34            Points:  32 
+
         Final               Tue 26th Aug      
                            On Holbeck Ltd     
     New Farnley A          Roundhay Pk A      
@@ -3135,5 +3148,148 @@ Bill Pyett           7 Phil McStay         21
 David Milner         4 Oliver Devaney      21 
         Aggregate:  91         Aggregate: 149 
            Points:  17            Points:  34 
+
+      Division 1            Tue 9th Sep       
+    Churwell Park           Calverley YP      
+Lawrie Bairstow     21 Lindsey Rosendale   14 
+Mick Harrison       21 Clifford Wheatley   15 
+Sue Harrison        21 Michael Bennett     10 
+Martin Huxley       16 Stephen Spurr       21 
+Ellen Barraclough   16 Rory Bligh          21 
+Graham Goodall      14 Paul Haigh          21 
+Steve Briggs        14 Ricky Kearns        21 
+Robert Spink        15 Roger French        21 
+        Aggregate: 138         Aggregate: 144 
+           Points:  28            Points:  32 
+
+      Division 1            Tue 9th Sep       
+     Rothwell BC             Meanwood A       
+Katie Turner        21 Craig Goodall        7 
+Charlotte Holmes    21 Darren Cookson      12 
+Mick Goodhall       21 Michael Gregory     13 
+June Johnson        21 Douglas Blair       14 
+Geoff Newbould       3 Ian Howard          21 
+Georgina Holmes     14 Andy Webster        21 
+John Ainsley        10 Mickey Rennison     21 
+Lyn Owen            15 Oliver Devaney      21 
+        Aggregate: 126         Aggregate: 130 
+           Points:  27            Points:  27 
+
+      Division 1            Tue 9th Sep       
+    Holbeck Ltd A          New Farnley A      
+Paul Hatch          21 Ian Worrall         12 
+Alex Perry           8 Andy Gardiner       21 
+Andrew Dewhirst     16 Simon Lavan         21 
+Paul Hainsworth     21 David Taylor        16 
+Lance Greenwood     20 Ryan Lynch          21 
+Ian Wardle          16 Andy Thompson       21 
+James Cuffe          9 Ian Lynch           21 
+Daniel Owen         21 Harry Dixon         12 
+        Aggregate: 132         Aggregate: 145 
+           Points:  27            Points:  32 
+
+      Division 2            Tue 9th Sep       
+   Sth Leeds Cons A          Holt Park        
+Joe Adams           21 John Patrick        17 
+Michael Gore        21 Mike Cox            20 
+Chloe Grant         16 Colin Chadwick      21 
+Derek McCormack     21 Terry Cook           6 
+Gavin Johns          9 Sylvia Petty        21 
+David Brooke        21 Graham Hill         12 
+Tim Newton          21 Debbie Sandles      12 
+Mark Raistrick      17 Peter Byford        21 
+        Aggregate: 147         Aggregate: 130 
+           Points:  32            Points:  27 
+
+      Division 2            Tue 9th Sep       
+  Chapel Allerton A       Crossgates Rec A    
+Mandy Wilson        21 Bob Patterson       11 
+David Burke         14 Graham Scholes      21 
+Tommy Massey        21 James Tayolr        14 
+Matthew Watson      20 Dave Farman         21 
+Dave Hill           17 Alan Wood           21 
+Royce Jackson       17 Dave Sharp          21 
+Colin Wilson        21 Terry Rock          15 
+Steven Bottomley     7 Andy Walton         21 
+        Aggregate: 138         Aggregate: 145 
+           Points:  28            Points:  32 
+
+      Division 2            Tue 9th Sep       
+   East End Park A        Stanningley Park    
+Steve Olivant       21 Alyssa Randell      19 
+Dave Howard         21 Bob Marshall        19 
+Helen Simms         21 Phil Sutcliffe      12 
+Dave Smith          19 Malvin Miller       21 
+Josey Olivant       21 Colin Haque          7 
+Paul Reynard        21 Craig Clarkson      14 
+Sophie Olivant      11 Andy Hodgson        21 
+Darran Baker        21 Richard Hodgson     11 
+        Aggregate: 156         Aggregate: 124 
+           Points:  36            Points:  25 
+
+      Division 2            Tue 9th Sep       
+     Gildersome A            Manston Pk       
+Simon Hampshaw      21 Michael Monaghan    10 
+Alan Procter        21 Elizabeth Quigley   11 
+David Norton        21 Stephen Jackson     18 
+Graham Gaunt        21 Jim Jordan          16 
+Ian Stocks          18 Anthony Marsden     21 
+Beverley Hampshaw   21 John Wilson         20 
+Kevin Smales        21 John Townsend       18 
+Linda Gaunt         14 Jonathan Moriaty    21 
+        Aggregate: 158         Aggregate: 135 
+           Points:  36            Points:  29 
+
+      Division 3            Tue 9th Sep       
+     Garforth C C          Moor Allerton      
+Thomas Cranston     13 John Alper          21 
+Nigel Ware          21 Martin Kaitcer      20 
+Phil Lodge          21 Geoff West          15 
+Steve Barltrop      21 George Ramsden      15 
+Ann Doughty          9 Blair Ross          21 
+Sandra Pollard      21 Rodney Cundle       11 
+Helen Dickinson      8 Ian Franllin        21 
+Doughty Joe         21 Linda Greenland     15 
+        Aggregate: 135         Aggregate: 139 
+           Points:  29            Points:  30 
+
+      Division 3            Tue 9th Sep       
+     Holbeck Moor          Pudsey Park B      
+George Ellener      20 Maveen Tomlinson    21 
+Wayne Warburton     21 Derek Howell        10 
+Steve Milton        21 Peter Colley         1 
+Geoff Warbuton      21 Barbara Moss         6 
+Russell Porter      21 David Turner         6 
+Brian Thompson      21 Barbara Nellis      10 
+Steve Brown         21 Jane Hirst           8 
+John Binns          21 Maureen Bradshaw     6 
+        Aggregate: 167         Aggregate:  68 
+           Points:  39            Points:  13 
+
+      Division 3            Tue 9th Sep       
+      Meanwood B               Colton         
+Jeff Dumbrell       17 Mick Galley         21 
+Tina Howard         21 Brian Scholes       15 
+Graham Hey          21 James Watkins       16 
+Pat Prosser         11 John Malthouse      21 
+Jeff Blackburn      21 David Ryder          4 
+David L Miller      10 Nicholas Ryder      21 
+Ian Macfarlane      20 Stuart Birch        21 
+Pat Blackburn       21 Anthony Rushfirth    8 
+        Aggregate: 142         Aggregate: 127 
+           Points:  31            Points:  27 
+
+      Division 3            Tue 9th Sep       
+    Pudsey Park A           Gildersome B      
+Elaine Hill         18 Margaret Johnstone  21 
+Callum Birkin       21 Glenda Holmes       12 
+Brian Stevens       14 Tony Morris         21 
+Dennis Walters      21 Alison Lockwood     17 
+Frank Lindsay       21 Neil Schofield       6 
+Darren Lowe         19 Tracy Norton        21 
+Carl Birkin         21 Barbara Hall         4 
+James Drury         21 Kay Stewart          6 
+        Aggregate: 156         Aggregate: 108 
+           Points:  35            Points:  22 
 
 
