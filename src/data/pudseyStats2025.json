@@ -262,25 +262,25 @@
             }
         },
         "linda barrand": {
-            "totalAgg": 603,
-            "totalAggAgainst": 837,
-            "availableAgg": 945,
+            "totalAgg": 624,
+            "totalAggAgainst": 857,
+            "availableAgg": 966,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 483,
+            "availableHomeAgg": 504,
             "availableAwayAgg": 420,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 345,
-            "totalHomeAggAgainst": 404,
+            "totalHomeAgg": 366,
+            "totalHomeAggAgainst": 424,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 224,
             "totalAwayAggAgainst": 400,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
-            "homeWins": 7,
+            "homeWins": 8,
             "homeLosses": 16,
             "awayWins": 3,
             "awayLosses": 17,
@@ -294,7 +294,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 45,
+            "totalGamesPlayed": 46,
             "results": [
                 "linda barrand 4 - 21 alan byers",
                 "linda barrand 21 - 10 dorcas kirk",
@@ -324,6 +324,7 @@
                 "linda barrand 12 - 21 tony naylor",
                 "linda barrand 9 - 21 ray atkinson",
                 "linda barrand 0 - 21 jason greenwood",
+                "linda barrand 21 - 20 colin white",
                 "linda barrand 21 - 20 donald harrison",
                 "linda barrand 13 - 21 pat jagger",
                 "linda barrand 7 - 21 eddie prince",
@@ -378,9 +379,9 @@
                 "aggDiff": 0
             },
             "bradford half holiday (b)": {
-                "games": 9,
-                "wins": 0,
-                "aggDiff": -88
+                "games": 10,
+                "wins": 1,
+                "aggDiff": -87
             },
             "spen valley": {
                 "games": 0,
@@ -424,12 +425,12 @@
             }
         },
         "richard hodgson": {
-            "totalAgg": 847,
-            "totalAggAgainst": 662,
-            "availableAgg": 903,
+            "totalAgg": 865,
+            "totalAggAgainst": 683,
+            "availableAgg": 924,
             "availablePairsAgg": 21,
             "availableHomeAgg": 441,
-            "availableAwayAgg": 399,
+            "availableAwayAgg": 420,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 20,
@@ -438,14 +439,14 @@
             "totalHomeAggAgainst": 286,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
-            "totalAwayAgg": 366,
-            "totalAwayAggAgainst": 323,
+            "totalAwayAgg": 384,
+            "totalAwayAggAgainst": 344,
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 18,
             "homeLosses": 3,
             "awayWins": 12,
-            "awayLosses": 7,
+            "awayLosses": 8,
             "cupWins": 2,
             "cupLosses": 1,
             "pairWins": 0,
@@ -456,7 +457,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 43,
+            "totalGamesPlayed": 44,
             "results": [
                 "richard hodgson & thomas hanson 20 - 21 kevin siddle & nick bastow",
                 "richard hodgson 21 - 12 david pike",
@@ -486,6 +487,7 @@
                 "richard hodgson 21 - 13 peter howroyd",
                 "richard hodgson 21 - 9 malcolm crotty",
                 "richard hodgson 21 - 20 peter barstow",
+                "richard hodgson 18 - 21 nicola stocks",
                 "richard hodgson 21 - 5 richard whitaker",
                 "richard hodgson 17 - 21 lee collinson",
                 "richard hodgson 21 - 12 jan ingham",
@@ -533,9 +535,9 @@
                 "aggDiff": 10
             },
             "bradford half holiday": {
-                "games": 8,
+                "games": 9,
                 "wins": 7,
-                "aggDiff": 45
+                "aggDiff": 42
             },
             "bradford half holiday (b)": {
                 "games": 0,
@@ -755,6 +757,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "09/09/2025",
+    "lastUpdated": "10/09/2025",
     "statsYear": "2025"
 }
