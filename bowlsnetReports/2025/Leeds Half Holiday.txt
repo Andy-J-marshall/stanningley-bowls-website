@@ -1,4 +1,4 @@
-=== Leeds & District (Half Holiday) 2025 (as of Tue 9th Sep)
+=== Leeds & District (Half Holiday) 2025
 === League Match Cards
 
         Div 1               Wed 2nd Apr       
@@ -2967,5 +2967,38 @@ Peter Richie        21 Michael Geary       20
 Jeff Allman         21 Chris Roy Stuart    13 
         Aggregate: 120         Aggregate: 107 
            Points:  28            Points:  22 
+
+        Div 1               Wed 10th Sep      
+    Rothwell BC A          Rothwell BC B      
+Geoff Newbould      14 Mark Hopps          21 
+Phil Wilsher        20 Peter Burrows       21 
+David Kaye          19 Lyn Best            21 
+Peter Linley        21 Katie Turner        16 
+Thomas Kaye         21 Lyn Owen            20 
+Gareth Gidman       21 Ron Owen            16 
+        Aggregate: 116         Aggregate: 115 
+           Points:  25            Points:  25 
+
+        Div 2               Wed 10th Sep      
+     Grove Road A          Pudsey Park A      
+*No Player*          0 Janet Pearson       21 
+Peter Sully         19 Dennis Walters      21 
+Tony Boyes          21 Elaine Hill         14 
+John West           16 James Drury         21 
+Martin Murdoch      21 Frank Lindsay       13 
+Peter Nichols        4 Calum Birkin        21 
+        Aggregate:  81         Aggregate: 111 
+           Points:  17            Points:  24 
+
+        Final               Wed 10th Sep      
+                        On South Leeds Cons   
+    Whitkirk BC A         Meanwood Park A     
+Graham Scholes       4 Ian Howard          21 
+Phil Cox            21 Karen Portman       19 
+Tony Green          19 Chris Daysh         21 
+Philip Hatch        21 Tina Howard         12 
+Phil Hill           21 Rory Bligh           8 
+Graham Hodder       21 Jeff Blackburn      15 
+        Aggregate: 107         Aggregate:  96 
 
 
