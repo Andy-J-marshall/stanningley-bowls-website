@@ -46,7 +46,7 @@ function RecordsTableDisplay(props: RecordsTableDisplayProps) {
                     ) : null}
                     {bestWinPerc && bestWinPercPlayer && bestWinPerc > 0 ? (
                         <tr>
-                            <td>Win Percentage</td>
+                            <td>Win Percentage*</td>
                             <td id="bestWinPerc">{bestWinPerc.toFixed(0)}%</td>
                             <td id="bestWinPercPlayer">
                                 {capitalizeText(bestWinPercPlayer)}
@@ -55,7 +55,7 @@ function RecordsTableDisplay(props: RecordsTableDisplayProps) {
                     ) : null}
                     {bestAveragePlayer && bestAverage && bestAverage > -27 ? (
                         <tr>
-                            <td>Average</td>
+                            <td>Average*</td>
                             <td id="bestAverage">{bestAverage.toFixed(2)}</td>
                             <td id="bestAveragePlayer">
                                 {capitalizeText(bestAveragePlayer)}

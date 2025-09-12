@@ -23,6 +23,8 @@ function IndividualRecords(props: IndividualRecordsProps) {
             bestWinPercPlayer,
             bestAverage,
             bestAveragePlayer,
+            mostGames,
+            mostGamesPlayer,
         } = stats;
 
         return (
@@ -37,6 +39,8 @@ function IndividualRecords(props: IndividualRecordsProps) {
                     bestWinPercPlayer={bestWinPercPlayer}
                     bestAverage={bestAverage}
                     bestAveragePlayer={bestAveragePlayer}
+                    mostGames={mostGames}
+                    mostGamesPlayer={mostGamesPlayer}
                 />
             </div>
         );

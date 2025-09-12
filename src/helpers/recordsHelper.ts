@@ -35,6 +35,7 @@ export function findLeaguesAvailableInData(
                 mostWinsPlayer: [],
                 bestAveragePlayer: [],
                 bestWinPercPlayer: [],
+                mostGamesPlayer: [],
             };
         });
     });
@@ -94,6 +95,7 @@ export function findPlayerRecords(
 ) {
     const players = Object.keys(playerResults);
 
+    // TODO calculate these dynamically?
     const minGamesForOverallRecords = 18;
     const minGamesForTeamRecords = 12;
 
@@ -134,6 +136,14 @@ export function findPlayerRecords(
                     } else {
                         minTeamGames = mostTeamGames;
                     }
+                }
+
+                if (games >= mostTeamGames && games > 0) {
+                    if (games > mostTeamGames) {
+                        teamRecords[team].mostGamesPlayer = [];
+                        mostTeamGames = games;
+                    }
+                    teamRecords[team].mostGamesPlayer.push(player);
                 }
 
                 if (avg >= bestTeamAverage && games >= minTeamGames) {
