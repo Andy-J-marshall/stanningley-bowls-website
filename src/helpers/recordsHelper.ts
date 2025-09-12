@@ -95,9 +95,20 @@ export function findPlayerRecords(
 ) {
     const players = Object.keys(playerResults);
 
-    // TODO calculate these dynamically?
-    const minGamesForOverallRecords = 18;
-    const minGamesForTeamRecords = 12;
+    // Set minimum number of games to qualify for records based on a % of total games
+    const minGamesForOverallRecords =
+        highestTotalGames > 100
+            ? 75
+            : Math.max(1, Math.floor(highestTotalGames * 0.3));
+
+    const minGamesForTeamRecordsMap = Object.fromEntries(
+        teamsFound.map((team) => {
+            const maxGames = teamRecords[team]?.mostGames || 0;
+            const minGames =
+                maxGames > 60 ? 45 : Math.max(1, Math.floor(maxGames * 0.75));
+            return [team, minGames];
+        })
+    );
 
     let minGames = 1;
     let mostGamesPlayer: string[] = [];
@@ -116,7 +127,6 @@ export function findPlayerRecords(
         // Team specific stats
         teamsFound.forEach((team) => {
             const teamStats = p[team];
-
             const games = teamStats?.games;
             if (games > 0) {
                 const wins = teamStats.wins;
@@ -124,19 +134,11 @@ export function findPlayerRecords(
                 const winPerc = (wins / games) * 100;
 
                 let teamRecord = teamRecords[team];
-                let minTeamGames = teamRecord.minGames;
+                let minTeamGames = minGamesForTeamRecordsMap[team];
                 let mostTeamGames = teamRecord.mostGames;
                 let mostTeamWins = teamRecord.mostWins;
                 let bestTeamAverage = teamRecord.bestAverage;
                 let bestTeamWinPerc = teamRecord.bestWinPerc;
-
-                if (mostTeamGames && mostTeamGames > minTeamGames) {
-                    if (mostTeamGames >= minGamesForTeamRecords) {
-                        minTeamGames = minGamesForTeamRecords;
-                    } else {
-                        minTeamGames = mostTeamGames;
-                    }
-                }
 
                 if (games >= mostTeamGames && games > 0) {
                     if (games > mostTeamGames) {
@@ -186,13 +188,7 @@ export function findPlayerRecords(
         const winPerc = (totalWins / totalGames) * 100;
         const average = (p.totalAgg - p.totalAggAgainst) / totalGames;
 
-        if (highestTotalGames > minGames) {
-            if (highestTotalGames >= minGamesForOverallRecords) {
-                minGames = minGamesForOverallRecords;
-            } else {
-                minGames = highestTotalGames;
-            }
-        }
+        minGames = minGamesForOverallRecords;
         const playedMinGames = totalGames >= minGames ? true : false;
 
         if (totalGames >= mostGames) {
