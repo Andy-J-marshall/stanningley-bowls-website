@@ -16,6 +16,8 @@ export class RecordsPage {
     public readonly overallAverageRecord: Locator;
     public readonly overallAverageRecordPlayer: Locator;
 
+    public readonly tuesVetsGameRecord: Locator;
+    public readonly tuesVetsGamesRecordPlayer: Locator;
     public readonly tuesVetsWinRecord: Locator;
     public readonly tuesVetsWinsRecordPlayer: Locator;
     public readonly tuesVetsWinPercRecord: Locator;
@@ -23,6 +25,8 @@ export class RecordsPage {
     public readonly tuesVetsAverageRecord: Locator;
     public readonly tuesVetsAverageRecordPlayer: Locator;
 
+    public readonly thurVetsGameRecord: Locator;
+    public readonly thurVetsGamesRecordPlayer: Locator;
     public readonly thurVetsWinRecord: Locator;
     public readonly thurVetsWinsRecordPlayer: Locator;
     public readonly thurVetsWinPercRecord: Locator;
@@ -43,6 +47,7 @@ export class RecordsPage {
             '#team-select-tabs-tabpane-mon .team-records'
         );
 
+        // Overall locators
         this.overallGamesRecord = page.locator(
             '#team-select-tabs-tabpane-Combined #mostGames'
         );
@@ -68,6 +73,13 @@ export class RecordsPage {
             '#team-select-tabs-tabpane-Combined #bestAveragePlayer'
         );
 
+        // Tuesday Vets locators
+        this.tuesVetsGameRecord = page.locator(
+            '#team-select-tabs-tabpane-tuevets #mostGames'
+        );
+        this.tuesVetsGamesRecordPlayer = page.locator(
+            '#team-select-tabs-tabpane-tuevets #mostGamesPlayer'
+        );
         this.tuesVetsWinRecord = page.locator(
             '#team-select-tabs-tabpane-tuevets #mostWins'
         );
@@ -87,6 +99,13 @@ export class RecordsPage {
             '#team-select-tabs-tabpane-tuevets #bestAveragePlayer'
         );
 
+        // Thursday Vets locators
+        this.thurVetsGameRecord = page.locator(
+            '#team-select-tabs-tabpane-thuvets #mostGames'
+        );
+        this.thurVetsGamesRecordPlayer = page.locator(
+            '#team-select-tabs-tabpane-thuvets #mostGamesPlayer'
+        );
         this.thurVetsWinRecord = page.locator(
             '#team-select-tabs-tabpane-thuvets #mostWins'
         );

@@ -360,7 +360,7 @@ export interface TeamRecords {
 
 export interface RecordStats {
     mostGames: number;
-    mostGamesPlayer?: string[];
+    mostGamesPlayer: string[];
     minGames: number;
     mostWins: number;
     mostWinsPlayer: string[];

@@ -29,6 +29,7 @@ export class YearSelectPage {
             '2022': page.getByRole('button', { name: '2022' }),
             '2023': page.getByRole('button', { name: '2023' }),
             '2024': page.getByRole('button', { name: '2024' }),
+            '2025': page.getByRole('button', { name: '2025' }),
         };
     }
 

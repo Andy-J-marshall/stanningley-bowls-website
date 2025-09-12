@@ -44,6 +44,10 @@ test.describe('Records', () => {
         expect(recordsPage.thurVetsWinRecord).toBeVisible();
         expect(recordsPage.overallGamesRecord).toBeVisible({ visible: false });
 
+        expect(recordsPage.thurVetsGameRecord).toContainText('13');
+        expect(recordsPage.thurVetsGamesRecordPlayer).toContainText(
+            'Dave Eaton, Mario Biancardo'
+        );
         expect(recordsPage.thurVetsWinRecord).toContainText('12');
         expect(recordsPage.thurVetsWinsRecordPlayer).toContainText(
             'Mario Biancardo'
@@ -69,6 +73,10 @@ test.describe('Records', () => {
         expect(recordsPage.tuesVetsWinRecord).toBeVisible();
         expect(recordsPage.overallGamesRecord).toBeVisible({ visible: false });
 
+        expect(recordsPage.tuesVetsGameRecord).toContainText('17');
+        expect(recordsPage.tuesVetsGamesRecordPlayer).toContainText(
+            'Duncan Mcphail, Jim Moorin, Mario Biancardo, Shirley Biancardo, Stewart Watson'
+        );
         expect(recordsPage.tuesVetsWinRecord).toContainText('15');
         expect(recordsPage.tuesVetsWinsRecordPlayer).toContainText(
             'Jim Moorin, Shirley Biancardo, Stewart Watson'
@@ -110,15 +118,12 @@ test.describe('Records', () => {
         await expect(recordsPage.mondayTeamRecords).toHaveCount(1);
     });
 
-    test('Records overview displays for all years if user navigates from player stats', async ({
-        playerSummaryPage,
+    test('Records overview displays for all years', async ({
         recordsPage,
         yearSelectPage,
     }) => {
-        // Note: this page is only accessible if All Years is selected in Player Stats
-        await playerSummaryPage.goto();
-        await yearSelectPage.selectAllYears();
         await recordsPage.goto();
+        await yearSelectPage.selectAllYears();
 
         expect(recordsPage.overallGamesRecord).toBeVisible();
         expect(recordsPage.overallGamesRecordPlayer).toContainText(
@@ -129,6 +134,6 @@ test.describe('Records', () => {
     test(`Records year dropdown appears if there are multiple years of records available`, async ({
         yearSelectPage,
     }) => {
-        await yearSelectPage.checkYearDropdownHasEveryYearOption();
+        await yearSelectPage.checkYearDropdownHasEveryYearPlusAllYearsOption();
     });
 });
