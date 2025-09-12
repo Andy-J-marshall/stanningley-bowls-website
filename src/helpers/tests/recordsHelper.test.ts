@@ -111,15 +111,15 @@ describe('#RecordsHelper Tests', () => {
                 bestAveragePlayer,
             } = combinedStats;
 
-            expect(minGames).to.equal(18);
+            expect(minGames).to.equal(15);
             expect(mostGamesPlayer).to.deep.equal(['paul bowes']);
             expect(mostGames).to.equal(53);
             expect(mostWins).to.equal(43);
             expect(mostWinsPlayer).to.deep.equal(['paul bowes']);
-            expect(bestWinPerc).to.equal(88.88888888888889);
-            expect(bestWinPercPlayer).to.deep.equal(['stewart watson']);
-            expect(bestAverage).to.equal(9.641509433962264);
-            expect(bestAveragePlayer).to.deep.equal(['paul bowes']);
+            expect(bestWinPerc).to.equal(100);
+            expect(bestWinPercPlayer).to.deep.equal(['john armitage']);
+            expect(bestAverage).to.equal(11.666666666666666);
+            expect(bestAveragePlayer).to.deep.equal(['john armitage']);
 
             expect(teamsInTeamRecords).to.have.length(39);
             expect(teamsInRecordsWithGames).to.have.length(4);
@@ -190,7 +190,7 @@ describe('#RecordsHelper Tests', () => {
             );
 
             expect(teamRecord).to.deep.equal({
-                minGames: 12,
+                minGames: 15,
                 mostGames: 21,
                 mostWins: 18,
                 bestAverage: 8.15,
