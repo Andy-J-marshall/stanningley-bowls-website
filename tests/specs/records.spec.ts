@@ -23,9 +23,9 @@ test.describe('Records', () => {
         expect(recordsPage.overallWinsRecordPlayer).toContainText(
             'Shirley Biancardo'
         );
-        expect(recordsPage.overallWinPercRecord).toContainText('89%');
+        expect(recordsPage.overallWinPercRecord).toContainText('88%');
         expect(recordsPage.overallWinPercRecordPlayer).toContainText(
-            'Peter Crowther'
+            'Shirley Biancardo'
         );
         expect(recordsPage.overallAverageRecord).toContainText('9.11');
         expect(recordsPage.overallAverageRecordPlayer).toContainText(
