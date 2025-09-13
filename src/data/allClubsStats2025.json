@@ -1010,9 +1010,9 @@
             ]
         },
         "eleanor graves": {
-            "totalAgg": 283,
-            "totalAggAgainst": 605,
-            "availableAgg": 609,
+            "totalAgg": 290,
+            "totalAggAgainst": 626,
+            "availableAgg": 630,
             "availablePairsAgg": 0,
             "availableHomeAgg": 273,
             "availableAwayAgg": 273,
@@ -1033,7 +1033,7 @@
             "awayWins": 1,
             "awayLosses": 12,
             "cupWins": 0,
-            "cupLosses": 3,
+            "cupLosses": 4,
             "pairWins": 0,
             "pairLosses": 0,
             "pairHomeWins": 0,
@@ -1042,7 +1042,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 29,
+            "totalGamesPlayed": 30,
             "results": [
                 "eleanor graves 19 - 21 caroline coop",
                 "eleanor graves 6 - 21 maureen poucher",
@@ -1056,6 +1056,7 @@
                 "eleanor graves 8 - 21 ruth owen",
                 "eleanor graves 6 - 21 sue newell",
                 "eleanor graves 16 - 21 jean milner",
+                "eleanor graves 7 - 21 barbara harrison",
                 "eleanor graves 14 - 21 janet warburton",
                 "eleanor graves 5 - 21 david kirk",
                 "eleanor graves 6 - 21 trevor baranovsky",
@@ -1586,9 +1587,9 @@
             ]
         },
         "karen uttley": {
-            "totalAgg": 293,
-            "totalAggAgainst": 550,
-            "availableAgg": 580,
+            "totalAgg": 301,
+            "totalAggAgainst": 571,
+            "availableAgg": 601,
             "availablePairsAgg": 286,
             "availableHomeAgg": 225,
             "availableAwayAgg": 308,
@@ -1609,7 +1610,7 @@
             "awayWins": 2,
             "awayLosses": 11,
             "cupWins": 0,
-            "cupLosses": 2,
+            "cupLosses": 3,
             "pairWins": 1,
             "pairLosses": 10,
             "pairHomeWins": 1,
@@ -1618,7 +1619,7 @@
             "pairAwayLosses": 7,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 25,
+            "totalGamesPlayed": 26,
             "results": [
                 "karen uttley 10 - 21 maureen morris",
                 "karen uttley 9 - 21 jan mguiness",
@@ -1634,6 +1635,7 @@
                 "karen uttley 0 - 21 sabrina piggot",
                 "karen uttley 10 - 21 adele hart-woods",
                 "karen uttley 8 - 21 catherine crane",
+                "karen uttley 8 - 21 linda summers",
                 "karen uttley & alyssa randell 21 - 26 peter gaston & jean shepherd",
                 "karen uttley & nicola bona 6 - 26 david hurd & carol robinson",
                 "karen uttley & laila packer 12 - 26 mark paxton & steve horne",
@@ -1648,9 +1650,9 @@
             ]
         },
         "kate hall": {
-            "totalAgg": 108,
-            "totalAggAgainst": 247,
-            "availableAgg": 252,
+            "totalAgg": 116,
+            "totalAggAgainst": 268,
+            "availableAgg": 273,
             "availablePairsAgg": 0,
             "availableHomeAgg": 105,
             "availableAwayAgg": 126,
@@ -1671,7 +1673,7 @@
             "awayWins": 0,
             "awayLosses": 6,
             "cupWins": 0,
-            "cupLosses": 1,
+            "cupLosses": 2,
             "pairWins": 0,
             "pairLosses": 0,
             "pairHomeWins": 0,
@@ -1680,7 +1682,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 12,
+            "totalGamesPlayed": 13,
             "results": [
                 "kate hall 9 - 21 christine scott",
                 "kate hall 14 - 21 michelle norcliffe",
@@ -1693,7 +1695,8 @@
                 "kate hall 4 - 21 betty sparkes",
                 "kate hall 6 - 21 kath crompton",
                 "kate hall 21 - 16 gabby parker",
-                "kate hall 8 - 21 barbara taylor"
+                "kate hall 8 - 21 barbara taylor",
+                "kate hall 8 - 21 gwen smith"
             ]
         },
         "ken green": {
@@ -1828,9 +1831,9 @@
             ]
         },
         "linda barrand": {
-            "totalAgg": 1003,
-            "totalAggAgainst": 1303,
-            "availableAgg": 1464,
+            "totalAgg": 1019,
+            "totalAggAgainst": 1324,
+            "availableAgg": 1485,
             "availablePairsAgg": 78,
             "availableHomeAgg": 745,
             "availableAwayAgg": 635,
@@ -1851,7 +1854,7 @@
             "awayWins": 6,
             "awayLosses": 24,
             "cupWins": 2,
-            "cupLosses": 2,
+            "cupLosses": 3,
             "pairWins": 0,
             "pairLosses": 3,
             "pairHomeWins": 0,
@@ -1860,7 +1863,7 @@
             "pairAwayLosses": 1,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 69,
+            "totalGamesPlayed": 70,
             "results": [
                 "linda barrand 12 - 21 trevor sackett",
                 "linda barrand 21 - 9 alan taylor",
@@ -1882,6 +1885,7 @@
                 "linda barrand 21 - 17 marion rider",
                 "linda barrand 21 - 16 lynsey gregson",
                 "linda barrand 21 - 16 emma dixon",
+                "linda barrand 16 - 21 annetta kingham",
                 "linda barrand & rob packer 5 - 26 terry archer & denis collet",
                 "linda barrand & stephen tiernan 18 - 26 mike ripley & joyce bishop",
                 "linda barrand & stephen tiernan 14 - 26 geoff megson & brendan clarke",
@@ -2284,9 +2288,9 @@
             ]
         },
         "mary spears": {
-            "totalAgg": 212,
-            "totalAggAgainst": 399,
-            "availableAgg": 408,
+            "totalAgg": 213,
+            "totalAggAgainst": 420,
+            "availableAgg": 429,
             "availablePairsAgg": 156,
             "availableHomeAgg": 199,
             "availableAwayAgg": 188,
@@ -2307,7 +2311,7 @@
             "awayWins": 1,
             "awayLosses": 7,
             "cupWins": 0,
-            "cupLosses": 1,
+            "cupLosses": 2,
             "pairWins": 0,
             "pairLosses": 6,
             "pairHomeWins": 0,
@@ -2316,7 +2320,7 @@
             "pairAwayLosses": 4,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 18,
+            "totalGamesPlayed": 19,
             "results": [
                 "mary spears 1 - 21 walter stockhill",
                 "mary spears 7 - 21 janice dickinson",
@@ -2330,6 +2334,7 @@
                 "mary spears 10 - 21 helen mylan",
                 "mary spears 17 - 21 sheila hudson",
                 "mary spears 4 - 21 sophie worrall",
+                "mary spears 1 - 21 karen whitelaw",
                 "mary spears & karen uttley 5 - 26 david poole & marian poole",
                 "mary spears & karen uttley 23 - 26 walter stockhill & david gregory",
                 "mary spears & karen uttley 6 - 26 michelle norcliffe & debbie sandles",
@@ -2441,9 +2446,9 @@
             ]
         },
         "nicola bona": {
-            "totalAgg": 498,
-            "totalAggAgainst": 725,
-            "availableAgg": 764,
+            "totalAgg": 519,
+            "totalAggAgainst": 745,
+            "availableAgg": 785,
             "availablePairsAgg": 260,
             "availableHomeAgg": 335,
             "availableAwayAgg": 382,
@@ -2463,7 +2468,7 @@
             "homeLosses": 13,
             "awayWins": 7,
             "awayLosses": 10,
-            "cupWins": 0,
+            "cupWins": 1,
             "cupLosses": 2,
             "pairWins": 2,
             "pairLosses": 8,
@@ -2473,7 +2478,7 @@
             "pairAwayLosses": 3,
             "pairCupWins": 0,
             "pairCupLosses": 1,
-            "totalGamesPlayed": 34,
+            "totalGamesPlayed": 35,
             "results": [
                 "nicola bona 6 - 21 daphne scott",
                 "nicola bona 18 - 21 neil hudson",
@@ -2499,6 +2504,7 @@
                 "nicola bona 15 - 21 anne brown",
                 "nicola bona 13 - 21 ann hibbit",
                 "nicola bona 13 - 21 pat skelton",
+                "nicola bona 21 - 20 kate jukes",
                 "nicola bona & karen uttley 6 - 26 carol robinson & david hurd",
                 "nicola bona & phil sutcliffe 20 - 26 peter byford & kathleen haley",
                 "nicola bona & phil sutcliffe 26 - 21 alan wittrick & phil hayward",
@@ -2980,9 +2986,9 @@
             ]
         },
         "sarah connolly": {
-            "totalAgg": 66,
-            "totalAggAgainst": 210,
-            "availableAgg": 210,
+            "totalAgg": 78,
+            "totalAggAgainst": 231,
+            "availableAgg": 231,
             "availablePairsAgg": 0,
             "availableHomeAgg": 84,
             "availableAwayAgg": 126,
@@ -3003,7 +3009,7 @@
             "awayWins": 0,
             "awayLosses": 6,
             "cupWins": 0,
-            "cupLosses": 0,
+            "cupLosses": 1,
             "pairWins": 0,
             "pairLosses": 0,
             "pairHomeWins": 0,
@@ -3012,7 +3018,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 10,
+            "totalGamesPlayed": 11,
             "results": [
                 "sarah connolly 2 - 21 anne gothard",
                 "sarah connolly 11 - 21 susan whelan",
@@ -3023,7 +3029,8 @@
                 "sarah connolly 11 - 21 julie keightley",
                 "sarah connolly 3 - 21 christine fountain",
                 "sarah connolly 2 - 21 ruth sutcliffe",
-                "sarah connolly 8 - 21 cora dove"
+                "sarah connolly 8 - 21 cora dove",
+                "sarah connolly 12 - 21 fiona haxby"
             ]
         },
         "stephen tiernan": {
@@ -3603,9 +3610,9 @@
             ]
         },
         "vanessa lancaster": {
-            "totalAgg": 241,
-            "totalAggAgainst": 247,
-            "availableAgg": 302,
+            "totalAgg": 258,
+            "totalAggAgainst": 268,
+            "availableAgg": 323,
             "availablePairsAgg": 260,
             "availableHomeAgg": 172,
             "availableAwayAgg": 130,
@@ -3626,7 +3633,7 @@
             "awayWins": 4,
             "awayLosses": 1,
             "cupWins": 0,
-            "cupLosses": 0,
+            "cupLosses": 1,
             "pairWins": 6,
             "pairLosses": 4,
             "pairHomeWins": 2,
@@ -3635,10 +3642,11 @@
             "pairAwayLosses": 1,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 12,
+            "totalGamesPlayed": 13,
             "results": [
                 "vanessa lancaster 10 - 21 pam ratcliffe",
                 "vanessa lancaster 21 - 15 julie stead",
+                "vanessa lancaster 17 - 21 margaret adamson",
                 "vanessa lancaster & ken green 11 - 26 michael dennison & richard handford",
                 "vanessa lancaster & ken green 26 - 17 stuart davies & christine asquith",
                 "vanessa lancaster & ken green 24 - 26 shirley nicholson & tim nicholson",
@@ -3652,6 +3660,6 @@
             ]
         }
     },
-    "lastUpdated": "12/09/2025",
+    "lastUpdated": "13/09/2025",
     "statsYear": "2025"
 }

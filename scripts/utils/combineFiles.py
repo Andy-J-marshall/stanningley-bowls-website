@@ -19,6 +19,10 @@ files_to_update = [
         "input_file": f"bowlsnetReports/{year}/Leeds Saturday CrossFlatts.txt",
         "output_file": f"bowlsnetReports/{year}/Leeds Saturday.txt",
     },
+    {
+        "input_file": f"bowlsnetReports/{year}/Leeds Ladies Cup.txt",
+        "output_file": f"bowlsnetReports/{year}/Leeds Ladies.txt",
+    },
 ]
 
 for file_pair in files_to_update:
