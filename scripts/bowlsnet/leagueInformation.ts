@@ -79,4 +79,8 @@ export const leagues = [
     day: "Barkston Ash",
     url: "/BarkstonAsh",
   },
+  {
+    day: "North East Leeds Vets",
+    url: "/NELeedsVets",
+  },
 ];

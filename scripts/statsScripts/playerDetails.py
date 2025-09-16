@@ -68,6 +68,7 @@ allLeagues = [
     "Bradford Vets",
     "Bradford Saturday",
     "Barkston Ash",
+    "North East Leeds Vets",
 ]
 
 allClubs = [
