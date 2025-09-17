@@ -28,54 +28,46 @@ function TeamStats(props: TeamStatsProps) {
     });
 
     function returnTeamComponents() {
-        return config.historicTeamInfo.map((teamData) => {
-            const displayname = returnTabName(teamData.teamNames[0]);
-            const { teamName, teamStats, bTeamStats } = findTeamStats(
-                teamData,
-                teamResults
-            );
+        return config.historicTeamInfo
+            .map((teamData) => {
+                const displayname = returnTabName(teamData.teamNames[0]);
+                const { teamName, teamStats, bTeamStats } = findTeamStats(
+                    teamData,
+                    teamResults
+                );
 
-            if (teamStats || bTeamStats) {
-                return (
-                    <TeamTabsWrapper
-                        displayname={displayname}
-                        children={
-                            <div>
-                                {teamStats && (
-                                    <IndividualTeamStats
-                                        day={teamName}
-                                        stats={teamStats}
-                                        bTeam={false}
-                                    />
-                                )}
-                                {bTeamStats && (
-                                    <IndividualTeamStats
-                                        day={
-                                            teamName.replace(' (a)', '') +
-                                            ' (b)'
-                                        }
-                                        stats={bTeamStats}
-                                        bTeam={true}
-                                    />
-                                )}
-                            </div>
-                        }
-                    ></TeamTabsWrapper>
-                );
-            } else {
-                return (
-                    <TeamTabsWrapper
-                        displayname={displayname}
-                        children={
-                            <p className="center" style={{ width: '95%' }}>
-                                {config.teamNames.shortName} did not play on
-                                this day for the selected year
-                            </p>
-                        }
-                    ></TeamTabsWrapper>
-                );
-            }
-        });
+                if (teamStats || bTeamStats) {
+                    return (
+                        <TeamTabsWrapper
+                            displayname={displayname}
+                            children={
+                                <div>
+                                    {teamStats && (
+                                        <IndividualTeamStats
+                                            day={teamName}
+                                            stats={teamStats}
+                                            bTeam={false}
+                                        />
+                                    )}
+                                    {bTeamStats && (
+                                        <IndividualTeamStats
+                                            day={
+                                                teamName.replace(' (a)', '') +
+                                                ' (b)'
+                                            }
+                                            stats={bTeamStats}
+                                            bTeam={true}
+                                        />
+                                    )}
+                                </div>
+                            }
+                        ></TeamTabsWrapper>
+                    );
+                }
+                // If no data, return null (no tab)
+                return null;
+            })
+            .filter(Boolean) as React.ReactElement<{ displayname: string }>[]; // Remove nulls so only tabs with data are rendered
     }
 
     if (teamResults && anyGamesPlayed) {
