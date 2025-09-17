@@ -47,7 +47,7 @@ function Records(props: RecordsProps) {
     function returnAllComponentsForTeams() {
         return config.historicTeamInfo
             .map((teamData) => {
-                let displayname = returnTabName(teamData.teamNames[0]);
+                let displayname = returnTabName(teamData[0]);
 
                 const { teamName, teamRecord, bTeamRecord } = findTeamRecords(
                     teamData,

@@ -100,7 +100,7 @@ describe('#teamStatsHelper Tests', () => {
 
         it('Team name should be correctly returned', () => {
             const teamInfo = config.historicTeamInfo.find((t) =>
-                t.teamNames.includes('leeds monday combined')
+                t.includes('leeds monday combined')
             );
 
             if (!teamInfo) {
@@ -118,7 +118,7 @@ describe('#teamStatsHelper Tests', () => {
             );
 
             const teamInfo = config.historicTeamInfo.find((t) =>
-                t.teamNames.includes('leeds saturday')
+                t.includes('leeds saturday')
             );
 
             if (!teamInfo) {
@@ -138,7 +138,7 @@ describe('#teamStatsHelper Tests', () => {
             );
 
             const teamInfo = config.historicTeamInfo.find((t) =>
-                t.teamNames.includes('leeds saturday')
+                t.includes('leeds saturday')
             );
 
             if (!teamInfo) {
