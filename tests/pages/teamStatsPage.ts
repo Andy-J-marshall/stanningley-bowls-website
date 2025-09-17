@@ -3,7 +3,6 @@ import { Locator, Page } from '@playwright/test';
 export class TeamStatsPage {
     public readonly page: Page;
 
-    public readonly noGamesMessage: Locator;
     public readonly noStatsMessage: Locator;
 
     public readonly mondayTeamStats: Locator;
@@ -38,11 +37,6 @@ export class TeamStatsPage {
     constructor(page: Page) {
         this.page = page;
 
-        this.noGamesMessage = page
-            .getByText(
-                'Stanningley did not play on this day for the selected year'
-            )
-            .first();
         this.noStatsMessage = page.getByText(
             'No stats available for the selected year'
         );
