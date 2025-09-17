@@ -30,7 +30,7 @@ function TeamStats(props: TeamStatsProps) {
     function returnTeamComponents() {
         return config.historicTeamInfo
             .map((teamData) => {
-                const displayname = returnTabName(teamData[0]);
+                const tabDisplayname = returnTabName(teamData[0]);
                 const { teamName, teamStats, bTeamStats } = findTeamStats(
                     teamData,
                     teamResults
@@ -39,7 +39,7 @@ function TeamStats(props: TeamStatsProps) {
                 if (teamStats || bTeamStats) {
                     return (
                         <TeamTabsWrapper
-                            displayname={displayname}
+                            displayname={tabDisplayname}
                             children={
                                 <div>
                                     {teamStats && (
