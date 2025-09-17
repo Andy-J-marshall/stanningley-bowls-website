@@ -70,14 +70,14 @@ test.describe('Team Stats', () => {
     });
 
     test('Team stats not show for Wednesday Pairs in 2023 as team did not exist', async ({
-        teamStatsPage,
         teamTabsPage,
         yearSelectPage,
     }) => {
-        await yearSelectPage.selectYear(2023);
+        await yearSelectPage.selectYear(2024);
         await teamTabsPage.selectWedPairsTeamTab();
 
-        await expect(teamStatsPage.noGamesMessage).toBeVisible();
+        await yearSelectPage.selectYear(2023);
+        await expect(teamTabsPage.wedPairsTab).not.toBeVisible();
     });
 
     test('Team stats show B team if there is one', async ({

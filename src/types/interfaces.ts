@@ -282,10 +282,6 @@ export interface PlayerStatsTeamsProps {
     };
 }
 
-export interface ConfigTeamData {
-    teamNames: string[];
-}
-
 export interface FullStatsFile {
     playerResults: PlayerResultsStatsFile;
     teamResults?: TeamResultsStatsFile[];

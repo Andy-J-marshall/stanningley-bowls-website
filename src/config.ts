@@ -61,27 +61,13 @@ export const config = {
         'bradford vets (b)',
     ],
     historicTeamInfo: [
-        {
-            teamNames: ['leeds monday combined', 'airewharfe monday'],
-        },
-        {
-            teamNames: ['leeds tuesday vets'],
-        },
-        {
-            teamNames: ['leeds tuesday'],
-        },
-        {
-            teamNames: ['leeds half holiday', 'bradford half holiday'],
-        },
-        {
-            teamNames: ['airewharfe wednesday pairs'],
-        },
-        {
-            teamNames: ['leeds thursday vets'],
-        },
-        { teamNames: ['leeds ladies'] },
-        {
-            teamNames: ['leeds saturday', 'bradford saturday'],
-        },
+        ['leeds monday combined', 'airewharfe monday'],
+        ['leeds tuesday vets'],
+        ['leeds tuesday'],
+        ['leeds half holiday', 'bradford half holiday'],
+        ['airewharfe wednesday pairs'],
+        ['leeds thursday vets'],
+        ['leeds ladies'],
+        ['leeds saturday', 'bradford saturday'],
     ],
 };

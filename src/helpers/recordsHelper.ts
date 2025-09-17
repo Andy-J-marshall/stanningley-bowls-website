@@ -2,7 +2,6 @@ import { config } from '../config';
 import {
     TeamRecords,
     PlayerResultsStatsFile,
-    ConfigTeamData,
     RecordStats,
 } from '../types/interfaces';
 
@@ -239,15 +238,12 @@ export function findPlayerRecords(
     };
 }
 
-export function findTeamRecords(
-    teamData: ConfigTeamData,
-    teamRecords: TeamRecords
-) {
+export function findTeamRecords(teamNames: string[], teamRecords: TeamRecords) {
     let teamName = '';
     let teamRecord = null;
 
     // Find A team stats
-    for (const team of teamData.teamNames) {
+    for (const team of teamNames) {
         const nameLowerCase = team.toLowerCase();
         const tr = teamRecords[nameLowerCase];
         if (tr) {

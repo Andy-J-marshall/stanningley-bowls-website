@@ -5,7 +5,7 @@ export class TeamTabsPage {
 
     private readonly mondayTeamTab: Locator;
     private readonly tuesVetsTab: Locator;
-    private readonly wedPairsTab: Locator;
+    public readonly wedPairsTab: Locator;
     private readonly thurVetsTab: Locator;
 
     constructor(page: Page) {

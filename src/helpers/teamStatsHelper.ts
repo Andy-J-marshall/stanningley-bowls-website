@@ -1,6 +1,5 @@
 import { config } from '../config';
 import {
-    ConfigTeamData,
     PlayerResultsStatsFile,
     TeamResultsStatsFile,
 } from '../types/interfaces';
@@ -102,7 +101,7 @@ export function returnPlayerStatsForTeam(
 }
 
 export function findTeamStats(
-    teamData: ConfigTeamData,
+    teamData: string[],
     teamResults: TeamResultsStatsFile[] | undefined
 ) {
     let teamName = '';
@@ -110,7 +109,7 @@ export function findTeamStats(
     let bTeamStats = null;
 
     // Find A team stats
-    for (const team of teamData.teamNames) {
+    for (const team of teamData) {
         const teamLowerCase = team.toLowerCase();
         const teamResult = teamResults?.find((team: TeamResultsStatsFile) => {
             return team.day.toLowerCase() === teamLowerCase;

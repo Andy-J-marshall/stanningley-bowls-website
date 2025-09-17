@@ -146,7 +146,7 @@ describe('#RecordsHelper Tests', () => {
 
         it('B team records should be null when there is no B team on that day', () => {
             const teamInfo = config.historicTeamInfo.find((t) =>
-                t.teamNames.includes('leeds tuesday')
+                t.includes('leeds tuesday')
             );
 
             if (!teamInfo) {
@@ -163,7 +163,7 @@ describe('#RecordsHelper Tests', () => {
 
         it('Team name should be correctly returned', () => {
             const teamInfo = config.historicTeamInfo.find((t) =>
-                t.teamNames.includes('leeds saturday')
+                t.includes('leeds saturday')
             );
 
             if (!teamInfo) {
@@ -177,7 +177,7 @@ describe('#RecordsHelper Tests', () => {
 
         it('Team records should be correct', () => {
             const teamInfo = config.historicTeamInfo.find((t) =>
-                t.teamNames.includes('leeds saturday')
+                t.includes('leeds saturday')
             );
 
             if (!teamInfo) {
@@ -204,7 +204,7 @@ describe('#RecordsHelper Tests', () => {
 
         it('B team records should be correct', () => {
             const teamInfo = config.historicTeamInfo.find((t) =>
-                t.teamNames.includes('leeds saturday')
+                t.includes('leeds saturday')
             );
 
             if (!teamInfo) {

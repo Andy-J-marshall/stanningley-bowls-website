@@ -32,7 +32,7 @@ function IndividualTeamStats(props: IndividualTeamStatsProps) {
 
     if (totalGames > 0) {
         return (
-            <div className='team-stats' id={id}>
+            <div className="team-stats" id={id}>
                 {bTeam && <br />}
                 {bTeam && <hr />}
                 <h4>{day.toLowerCase()}</h4>

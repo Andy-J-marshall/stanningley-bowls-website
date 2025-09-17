@@ -45,52 +45,46 @@ function Records(props: RecordsProps) {
     );
 
     function returnAllComponentsForTeams() {
-        return config.historicTeamInfo.map((teamData) => {
-            let displayname = returnTabName(teamData.teamNames[0]);
+        return config.historicTeamInfo
+            .map((teamNames) => {
+                let tabDisplayname = returnTabName(teamNames[0]);
 
-            const { teamName, teamRecord, bTeamRecord } = findTeamRecords(
-                teamData,
-                teamRecords
-            );
+                const { teamName, teamRecord, bTeamRecord } = findTeamRecords(
+                    teamNames,
+                    teamRecords
+                );
 
-            if (teamRecord || bTeamRecord) {
-                return (
-                    <TeamTabsWrapper
-                        displayname={displayname}
-                        children={
-                            <div>
-                                {teamRecord && (
-                                    <IndividualRecords
-                                        stats={teamRecord}
-                                        teamName={teamName}
-                                        bTeam={false}
-                                    />
-                                )}
-                                {bTeamRecord && (
-                                    <IndividualRecords
-                                        stats={bTeamRecord}
-                                        teamName={teamName}
-                                        bTeam={true}
-                                    />
-                                )}
-                            </div>
-                        }
-                    ></TeamTabsWrapper>
-                );
-            } else {
-                return (
-                    <TeamTabsWrapper
-                        displayname={displayname}
-                        children={
-                            <p className="center" style={{ width: '95%' }}>
-                                {config.teamNames.shortName} did not play on
-                                this day for the selected year
-                            </p>
-                        }
-                    ></TeamTabsWrapper>
-                );
-            }
-        });
+                if (teamRecord || bTeamRecord) {
+                    console.log({ teamRecord });
+
+                    return (
+                        <TeamTabsWrapper
+                            displayname={tabDisplayname}
+                            children={
+                                <div>
+                                    {teamRecord && (
+                                        <IndividualRecords
+                                            stats={teamRecord}
+                                            teamName={teamName}
+                                            bTeam={false}
+                                        />
+                                    )}
+                                    {bTeamRecord && (
+                                        <IndividualRecords
+                                            stats={bTeamRecord}
+                                            teamName={teamName}
+                                            bTeam={true}
+                                        />
+                                    )}
+                                </div>
+                            }
+                        ></TeamTabsWrapper>
+                    );
+                }
+
+                return null;
+            })
+            .filter(Boolean) as React.ReactElement<{ displayname: string }>[]; // Remove nulls so only tabs with data are rendered
     }
 
     if (combinedStats?.mostGames > 0) {

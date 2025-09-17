@@ -92,7 +92,6 @@ test.describe('Records', () => {
     });
 
     test('Records not show for Wednesday Pairs in 2023 as team did not exist', async ({
-        recordsPage,
         teamTabsPage,
         yearSelectPage,
     }) => {
@@ -100,7 +99,7 @@ test.describe('Records', () => {
         await teamTabsPage.selectWedPairsTeamTab();
 
         await yearSelectPage.selectYear(2023);
-        await expect(recordsPage.noGamesMessage).toBeVisible();
+        await expect(teamTabsPage.wedPairsTab).not.toBeVisible();
     });
 
     test('Team records show B team if there is one', async ({
