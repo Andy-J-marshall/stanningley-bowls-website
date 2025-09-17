@@ -6,6 +6,7 @@
     "update-stats": "python3 ./scripts/statsScripts/bowlsClubStats.py --club stanningley && python3 ./scripts/statsScripts/bowlsClubStats.py --club littlemoor && python3 ./scripts/statsScripts/bowlsClubStats.py --club pudsey && python3 ./scripts/statsScripts/bowlsAllClubsStats.py",
     "sanitise-stats-files": "python3 ./scripts/utils/combineFiles.py && python3 ./scripts/utils/removeBlankResults.py",
     "get-stats-and-update": "npm run get-stats && npm run sanitise-stats-files && npm run update-stats",
+    "compile-typescript": "npx tsc",
     "start": "vite",
     "build": "vite build",
     "deploy": "gh-pages -d dist",
