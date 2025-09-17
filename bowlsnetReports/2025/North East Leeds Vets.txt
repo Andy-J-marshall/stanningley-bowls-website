@@ -1,4 +1,4 @@
-=== North East Leeds Vets 2025 (as of Tue 16th Sep)
+=== North East Leeds Vets 2025 (as of Wed 17th Sep)
 === League Match Cards
 
        Division 1               Thu 10th Apr        
@@ -3521,5 +3521,29 @@ Nigel Richardson       12 Ian Lee                21
 John Ainsley           17 Rodney Cundle          21 
             Handicap:  +4             Handicap: +14 
            Aggregate: 145            Aggregate: 147 
+
+       Division 1               Wed 17th Sep        
+      Chapel Street             Rothwell BC A       
+Dennis Clarke          13 Paul Hatch             21 
+Ray Dev                21 June Johnson           14 
+John Lucas             16 John Whiteley 'A'      21 
+Paul Lawson             9 Gordon Hird            21 
+John Mais              21 Geoff Newbould         18 
+Ian Vickers            21 Bob Dalby              12 
+Steve Hartley          10 David Kaye             21 
+Mick Cooper            17 Gary Haley 'A'         21 
+           Aggregate: 128            Aggregate: 149 
+
+       Division 2               Wed 17th Sep        
+       Grove Road               Holbeck Moor        
+Christine Murdoch      21 Lorraine Barker        16 
+Martin Murdoch         14 John Harvey            21 
+Peter Nichols           7 Steve Brown            21 
+John Carr              14 Carl Mahon             21 
+John West               8 Steve Milton           21 
+Carol Biscombe         21 George Ellener         14 
+Peter Allanson         21 Micheal Stott          19 
+Tony Boyes             21 Jim Barker             13 
+           Aggregate: 127            Aggregate: 146 
 
 
