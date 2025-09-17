@@ -29,10 +29,10 @@ function TeamStats(props: TeamStatsProps) {
 
     function returnTeamComponents() {
         return config.historicTeamInfo
-            .map((teamData) => {
-                const tabDisplayname = returnTabName(teamData[0]);
+            .map((teamNames) => {
+                const tabDisplayname = returnTabName(teamNames[0]);
                 const { teamName, teamStats, bTeamStats } = findTeamStats(
-                    teamData,
+                    teamNames,
                     teamResults
                 );
 
