@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Saturday) 2025 (as of Tue 16th Sep)
+=== AireDale & Wharfedale (Saturday) 2025 (as of Wed 17th Sep)
 === League Match Cards
 
            Premier                      Sat 5th Apr           
@@ -7785,10 +7785,10 @@ Barry Slater                21 Stuart Davies               14
 Julie Watson                21 Peter Gaston                19 
 Allen Hardcastle            21 Barbara Harrison            20 
 Michael Burnett             21 Monty Navias                11 
-Tracy Wilson                12 Ian Smith                   21 
-                    Games:   5                     Games:   3 
-                Aggregate: 136                 Aggregate: 142 
-                   Points:  14                    Points:  14 
+Tracy Wilson                21 *No Player*                  0 
+                    Games:   6                     Games:   2 
+                Aggregate: 145                 Aggregate: 121 
+                   Points:  19                    Points:   9 
 
           Division 4                    Sat 30th Aug          
        Wharfemeadows C                     Adel B             
