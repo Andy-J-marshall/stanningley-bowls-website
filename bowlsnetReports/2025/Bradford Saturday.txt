@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Wed 17th Sep)
+=== Bradford (Saturday) 2025 (as of Thu 18th Sep)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -6183,5 +6183,19 @@ Barry Clough                0 Mark Durrans 'A'          21
                    Games:   2                   Games:   6 
                Aggregate: 100               Aggregate: 133 
                   Points:   8                  Points:  20 
+
+ Division 6 (Riley) 8 Player          Thu 18th Sep         
+           Tyersal                  West Bradford B        
+Christine Hillas           21 Anne Mullaney             11 
+Colin Wright               21 Geraldine Sephton         15 
+Terry King                 21 Steven Bussingham         15 
+John Hainsworth            13 Lesley Lalor              21 
+Brenda Hudson              13 Sharon Queripel           21 
+Russell Hudson             21 Colin Isles               16 
+Edgar Rhodes               21 Malcolm Leeming           17 
+Barry Clough                7 Paul Wood                 21 
+                   Games:   5                   Games:   3 
+               Aggregate: 138               Aggregate: 137 
+                  Points:  16                  Points:  12 
 
 
