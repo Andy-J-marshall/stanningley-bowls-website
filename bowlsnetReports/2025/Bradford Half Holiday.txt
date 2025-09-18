@@ -1,4 +1,4 @@
-=== Bradford (Half Holiday) 2025
+=== Bradford (Half Holiday) 2025 (as of Thu 18th Sep)
 === Comp. Match Cards
 
    Division 1 - Ed Foster           Wed 16th Apr        
@@ -3552,6 +3552,18 @@ Jack Summers              21 Stuart Graham           10
               Aggregate: 126             Aggregate:  73 
                   Games:   6                 Games:   0 
                  Points:  24                Points:   2 
+
+   Division 1 - Ed Foster           Wed 17th Sep        
+         Asa Briggs                 Littlemoor A        
+Alan Standing              8 Steve Bowes             21 
+Steve Fleming             21 Kath Mazurke             7 
+Michael Sansom            14 Glenn Miller            21 
+Scott Sansom              12 Alan Mazurke            21 
+Kevin Burrage             17 Nicky Dewhirst          21 
+James Klenk               21 Thomas Powell           11 
+              Aggregate:  93             Aggregate: 102 
+                  Games:   2                 Games:   4 
+                 Points:  10                Points:  16 
 
    Division 1 - Ed Foster           Wed 17th Sep        
        Crowghyll Park                Eccleshill         
