@@ -1,4 +1,4 @@
-=== North East Leeds Vets 2025 (as of Thu 18th Sep)
+=== North East Leeds Vets 2025 (as of Fri 19th Sep)
 === League Match Cards
 
        Division 1               Thu 10th Apr        
@@ -3619,6 +3619,18 @@ Bill Robinson          21 Robert Leighton         5
            Aggregate: 145            Aggregate: 101 
 
        Division 2               Thu 18th Sep        
+     Chapel Allerton           Meanwood Park B      
+Royce Jackson          18 Ian Macfarlane         21 
+Dave Blackwell         21 Graham Hey              5 
+Trevor Beeton          13 Julie Keightley        21 
+Graham Pickles         21 John Hindle             7 
+Susan Thomas           12 Lynda Heath            21 
+Alex McSheehy          21 Jenny Holiday          11 
+Colin Wilson           21 Maureen Sheridan       11 
+Adrienne Blackwell     21 Kathy Hey              17 
+           Aggregate: 148            Aggregate: 114 
+
+       Division 2               Thu 18th Sep        
       Holbeck Moor               Fearnville         
 Jeff Warburton         19 Karen Lewis            21 
 Hilary Campbell         8 Mary Black             21 
@@ -3689,6 +3701,18 @@ Roy Norcliffe          17 Mark Somers            21
 Craig White            17 Trevor Haynes          21 
 Stewart Tyson          18 Paul Mitchell          21 
            Aggregate: 148            Aggregate: 125 
+
+       Division 3               Thu 18th Sep        
+         Adel B                Manston Park B       
+Barry Driscoll         21 Edward Gerngross       10 
+Pat Ellse              12 Helen Simms            21 
+Phil Hayward           21 Mary German             6 
+Sue Pagdin             19 Michael Monaghan       21 
+Christina Levy          5 Anthony Marsden        21 
+Pran Bhattacharyya     12 Paul Simms             21 
+Trevor Sargison        21 Elizabeth Quigley      18 
+Graham Clough          21 *No Player*             0 
+           Aggregate: 132            Aggregate: 118 
 
        Division 3               Thu 18th Sep        
         Whinmoor               Moor Allerton B      
