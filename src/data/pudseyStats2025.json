@@ -129,18 +129,18 @@
             }
         },
         "eleanor graves": {
-            "totalAgg": 173,
-            "totalAggAgainst": 374,
-            "availableAgg": 378,
+            "totalAgg": 184,
+            "totalAggAgainst": 395,
+            "availableAgg": 399,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 147,
+            "availableHomeAgg": 168,
             "availableAwayAgg": 189,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 68,
-            "totalHomeAggAgainst": 146,
+            "totalHomeAgg": 79,
+            "totalHomeAggAgainst": 167,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 81,
@@ -148,7 +148,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 1,
-            "homeLosses": 6,
+            "homeLosses": 7,
             "awayWins": 1,
             "awayLosses": 8,
             "cupWins": 0,
@@ -161,7 +161,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 18,
+            "totalGamesPlayed": 19,
             "results": [
                 "eleanor graves 14 - 21 janet warburton",
                 "eleanor graves 5 - 21 david kirk",
@@ -180,7 +180,8 @@
                 "eleanor graves 6 - 21 pauline ingleson",
                 "eleanor graves 12 - 21 roger morgan-williams",
                 "eleanor graves 3 - 21 alan hansford",
-                "eleanor graves 3 - 21 christine boyd"
+                "eleanor graves 3 - 21 christine boyd",
+                "eleanor graves 11 - 21 catherine smalley"
             ],
             "airewharfe monday": {
                 "games": 0,
@@ -193,9 +194,9 @@
                 "aggDiff": 0
             },
             "airewharfe vets": {
-                "games": 18,
+                "games": 19,
                 "wins": 2,
-                "aggDiff": -201
+                "aggDiff": -211
             },
             "mirfield": {
                 "games": 0,
@@ -264,18 +265,18 @@
             }
         },
         "linda barrand": {
-            "totalAgg": 641,
-            "totalAggAgainst": 878,
-            "availableAgg": 987,
+            "totalAgg": 649,
+            "totalAggAgainst": 899,
+            "availableAgg": 1008,
             "availablePairsAgg": 0,
-            "availableHomeAgg": 504,
+            "availableHomeAgg": 525,
             "availableAwayAgg": 441,
             "availablePairsHomeAgg": 0,
             "availablePairsAwayAgg": 0,
             "totalPairsAgg": 0,
             "totalPairsAggAgainst": 0,
-            "totalHomeAgg": 366,
-            "totalHomeAggAgainst": 424,
+            "totalHomeAgg": 374,
+            "totalHomeAggAgainst": 445,
             "totalPairsHomeAgg": 0,
             "totalPairsHomeAggAgainst": 0,
             "totalAwayAgg": 241,
@@ -283,7 +284,7 @@
             "totalPairsAwayAgg": 0,
             "totalPairsAwayAggAgainst": 0,
             "homeWins": 8,
-            "homeLosses": 16,
+            "homeLosses": 17,
             "awayWins": 3,
             "awayLosses": 18,
             "cupWins": 1,
@@ -296,7 +297,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 47,
+            "totalGamesPlayed": 48,
             "results": [
                 "linda barrand 4 - 21 alan byers",
                 "linda barrand 21 - 10 dorcas kirk",
@@ -318,6 +319,7 @@
                 "linda barrand 21 - 20 margaret austin",
                 "linda barrand 10 - 21 jo bonsels",
                 "linda barrand 17 - 21 anne brown",
+                "linda barrand 8 - 21 joan baker",
                 "linda barrand 17 - 21 charles fell",
                 "linda barrand 12 - 21 ian fairhurst",
                 "linda barrand 17 - 21 david glass",
@@ -357,9 +359,9 @@
                 "aggDiff": 0
             },
             "airewharfe vets": {
-                "games": 20,
+                "games": 21,
                 "wins": 7,
-                "aggDiff": -60
+                "aggDiff": -73
             },
             "mirfield": {
                 "games": 0,
@@ -762,6 +764,6 @@
         }
     },
     "teamResults": [],
-    "lastUpdated": "21/09/2025",
+    "lastUpdated": "23/09/2025",
     "statsYear": "2025"
 }

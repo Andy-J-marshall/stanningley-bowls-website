@@ -1,4 +1,4 @@
-=== Mirfield District Bowling Association 2025 (as of Sun 21st Sep)
+=== Mirfield District Bowling Association 2025 (as of Tue 23rd Sep)
 === League Match Cards
 
         Division 1                Tue 15th Apr        
@@ -8544,5 +8544,61 @@ Adam Mellor             21 Jason Townend           11
 Mark Dobson             21 Roger Birdsall          10 
              Handicap: +12              Handicap: +20 
             Aggregate: 153             Aggregate: 149 
+
+       Semi-Finals                Tue 23rd Sep        
+                              On THORNHILL C & BC     
+      Pudsey BC 'B'                Eccleshill         
+Dave Smith              14 Luke Teale              21 
+Stuart Hanson           21 Ryan Benson             17 
+Philip Wilsdon          21 John Benson             20 
+David Hilliam           21 Paul Rooks              14 
+Dean Scarth             19 Danny Teale             21 
+Tom Lawrence             7 Chris Daysh             21 
+James Cosgrave          20 Nicky Bastow            21 
+Andrew Sykes            21 Joe Stockdale           17 
+             Handicap: +24              Handicap: +20 
+            Aggregate: 168             Aggregate: 172 
+
+       Semi-Finals                Tue 23rd Sep        
+                                 On BRIGHOUSE 1       
+   Lower Hopton WMC 'A'          Pudsey BC 'A'        
+Ryan Clark               9 Jack Bowes              21 
+Ben Halliday             8 Tom Hanson              21 
+Wayne Hirst             21 James Hanson            19 
+Robert Hitchen          19 Chris Mordue            21 
+Sam Millward            14 Gary Wike               21 
+Ashley Tattersley       21 Stuart King              6 
+Rob Wiltshire           19 Josh Mordue             21 
+Ben Stapleton           21 Ian Shaw                12 
+             Handicap:  +8              Handicap: Scr 
+            Aggregate: 140             Aggregate: 142 
+
+       Semi-Finals                Tue 23rd Sep        
+                              On HECKMONDWIKE No.1    
+      Littlemoor 'B'               Farsley BC         
+Lewis Cooper            15 Dean Helliwell          21 
+Mark Dobson             21 Andy Swain              17 
+Simon Wider             21 Peter Scott             14 
+Adam Mellor             16 Andy Howie              21 
+Ben Falkingham          21 Mark Barker             14 
+Lee Wider               21 Stuart Brook             3 
+Will Bedford            21 Neil Nicholson          19 
+Kevin Siddle            19 Daniel Beardsworth      21 
+             Handicap: +12              Handicap: +28 
+            Aggregate: 167             Aggregate: 158 
+
+       Semi-Finals                Tue 23rd Sep        
+                                 On OSSETT F H        
+     Thornhill C & BC          Spen Victoria 'A'      
+Steve Davis             19 Chris Ellis             21 
+Aiden Fox               15 Peter Ellis             21 
+Nathan Jewitt           10 Andrew Wood             21 
+James McNeill           18 Phil Bryant             21 
+Andy Mitchell           21 Connor Davis            12 
+Gary Mountain           19 Lewis Pember            21 
+Graham Sheard           21 Neil Wood Snr           20 
+Johny Smith             18 Lucas Wood              21 
+             Handicap: +18              Handicap: +12 
+            Aggregate: 159             Aggregate: 170 
 
 

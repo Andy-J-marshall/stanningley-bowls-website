@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Sun 21st Sep)
+=== Bradford (Saturday) 2025 (as of Tue 23rd Sep)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -6531,5 +6531,21 @@ Steven Bussingham           7 Kevin Ackroyd             21
                    Games:   5                   Games:   3 
                Aggregate: 139               Aggregate: 133 
                   Points:  16                  Points:  12 
+
+ Division 1 (Naylor Premier)          Mon 22nd Sep         
+     Brighouse Sports A                   Wyke             
+Stuart Fletcher            20 Trevor Benn               21 
+John Horsley               21 Ian Wilson                10 
+Daniel Dunkerley           21 Nigel Wormald             11 
+Ian Moxon                  11 Martin Atkinson           21 
+John Bloomer               21 Paul Metcalf              13 
+Graham Roberts             21 Neil Tordoff              20 
+Helen Simpson              21 Gareth Metcalf            18 
+Dale Dyson                 14 Mark Regan                21 
+Bailey Dawson              21 Daniel Barker             14 
+Robert Hopper              21 David Craigie             20 
+                   Games:   7                   Games:   3 
+               Aggregate: 192               Aggregate: 169 
+                  Points:  20                  Points:  10 
 
 
