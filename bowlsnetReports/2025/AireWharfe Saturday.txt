@@ -1,4 +1,4 @@
-=== AireDale & Wharfedale (Saturday) 2025 (as of Wed 24th Sep)
+=== AireDale & Wharfedale (Saturday) 2025 (as of Thu 25th Sep)
 === League Match Cards
 
            Premier                      Sat 5th Apr           
@@ -8905,5 +8905,21 @@ Geoff Winter                 8 Alan Jukes                  21
                     Games:   4                     Games:   4 
                 Aggregate: 127                 Aggregate: 139 
                    Points:  12                    Points:  16 
+
+           Premier                      Thu 25th Sep          
+          Wayside A                      Menston A            
+Alan Rothery                21 Rosemary Cowley             15 
+Rich Gundich                21 Gail Singh                  10 
+Jason Worsnop 'A'           21 Peter Hammond                3 
+David Singleton'A'          21 Gary Skeet                  13 
+Greggan Johnstone 'A'       21 Amrik Singh                 14 
+Colin Rigby                 21 Laurie Robinson'A'           9 
+Steve Cochrane              21 Ian Smith                   14 
+Vic Scaiffe-Clarke          21 Simon Cowley'A'              7 
+Lee Singleton               21 Nigel Buckley                5 
+Barry Sugden                21 Shaun Johnson 'A'           10 
+                    Games:  10                     Games:   0 
+                Aggregate: 210                 Aggregate: 100 
+                   Points:  30                    Points:   0 
 
 
