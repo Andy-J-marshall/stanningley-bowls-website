@@ -2373,9 +2373,9 @@
             ]
         },
         "neil porter": {
-            "totalAgg": 1486,
-            "totalAggAgainst": 1123,
-            "availableAgg": 1659,
+            "totalAgg": 1501,
+            "totalAggAgainst": 1144,
+            "availableAgg": 1680,
             "availablePairsAgg": 0,
             "availableHomeAgg": 714,
             "availableAwayAgg": 714,
@@ -2396,7 +2396,7 @@
             "awayWins": 20,
             "awayLosses": 14,
             "cupWins": 8,
-            "cupLosses": 3,
+            "cupLosses": 4,
             "pairWins": 0,
             "pairLosses": 0,
             "pairHomeWins": 0,
@@ -2405,7 +2405,7 @@
             "pairAwayLosses": 0,
             "pairCupWins": 0,
             "pairCupLosses": 0,
-            "totalGamesPlayed": 79,
+            "totalGamesPlayed": 80,
             "results": [
                 "neil porter 21 - 3 anne miller",
                 "neil porter 21 - 10 john manson",
@@ -2485,7 +2485,8 @@
                 "neil porter 21 - 16 howard rew",
                 "neil porter 21 - 13 trevor curtis",
                 "neil porter 21 - 8 brenda pennock",
-                "neil porter 21 - 18 graham hodder"
+                "neil porter 21 - 18 graham hodder",
+                "neil porter 15 - 21 karen lewis"
             ]
         },
         "nicola bona": {
@@ -3718,6 +3719,6 @@
             ]
         }
     },
-    "lastUpdated": "24/09/2025",
+    "lastUpdated": "25/09/2025",
     "statsYear": "2025"
 }

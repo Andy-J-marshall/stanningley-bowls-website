@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Wed 24th Sep)
+=== Bradford (Saturday) 2025 (as of Thu 25th Sep)
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -6547,5 +6547,21 @@ Robert Hopper              21 David Craigie             20
                    Games:   7                   Games:   3 
                Aggregate: 192               Aggregate: 169 
                   Points:  20                  Points:  10 
+
+ Division 1 (Naylor Premier)          Wed 24th Sep         
+        Shipley Club                Spen Victoria A        
+David Bland                21 Kevin Wood                 5 
+Scott Bloodworth           21 Mally Fowler              13 
+Richard Bloodworth         19 Chris Ellis               21 
+Craig Fenton               18 Phil Bryant               21 
+Matthew Jacques 'A'        21 Garry Walker              16 
+Chris Jacques              21 Lucas Wood                12 
+Ian Jacques                21 Lewis Pember              15 
+Daniel Metcalfe            21 Debi Davis                 7 
+John Sample                21 Andrew Gallagher          16 
+Andrew Walker              17 Peter Ellis               21 
+                   Games:   7                   Games:   3 
+               Aggregate: 201               Aggregate: 147 
+                  Points:  23                  Points:   7 
 
 
