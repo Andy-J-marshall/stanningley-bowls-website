@@ -1,4 +1,4 @@
-=== Bradford (Saturday) 2025 (as of Sat 27th Sep)
+=== Bradford (Saturday) 2025
 === Comp. Match Cards
 
  Division 1 (Naylor Premier)          Sat 12th Apr         
@@ -6592,5 +6592,19 @@ Phil Rayner                21 Andrew Mackrill           11
                    Games:   4                   Games:   4 
                Aggregate: 150               Aggregate: 131 
                   Points:  16                  Points:  12 
+
+Division 4 (Bartle) 8 Player          Sun 28th Sep         
+ Hipperholme & Lightcliffe B            Pudsey C           
+Chris Peever               18 Rick Pearson              21 
+Robin Sugden               21 Melissa Morris            13 
+Alan Jacques               21 Hannah Leaf               15 
+Karen Healey               21 Steve Harwood             18 
+Rob Sandie                 21 David Elliott             13 
+Chris Marlow               21 Sam Hunak                  7 
+David Healey               21 David McDonald            14 
+Steve Oakes                15 Colin Dibb                21 
+                   Games:   6                   Games:   2 
+               Aggregate: 159               Aggregate: 122 
+                  Points:  20                  Points:   8 
 
 
