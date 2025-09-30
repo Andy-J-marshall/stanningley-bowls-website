@@ -1,4 +1,4 @@
-=== Leeds & District (Tuesday Over 55s) 2025 (as of Mon 29th Sep)
+=== Leeds & District (Tuesday Over 55s) 2025
 === League Match Cards
 
                             Tue 1st Apr       
@@ -1846,5 +1846,18 @@ Andy Waller        19 Brian Thompson       21
 David Eaton         8 Ralph Taylor         21 
 Duncan McPhail     10 Ian Vickers          21 
        Aggregate:  99          Aggregate: 168 
+
+                           Tue 30th Sep       
+  Stanningley Park         Saville Park       
+Malvin Miller      21 David Steel          13 
+David Eaton        21 Sylvia Bickerdike    18 
+Stewart Watson     21 John Peacock          5 
+Paul Bowes         21 Mark Hopps           10 
+Jim Swailes        14 Steve Portman        21 
+John Armitage      21 David Beck           12 
+Martin Fulton      21 Karen Portman         9 
+Andy Waller        21 Graham Bickerdike     8 
+       Aggregate: 161          Aggregate:  96 
+          Points:  37             Points:  18 
 
 
