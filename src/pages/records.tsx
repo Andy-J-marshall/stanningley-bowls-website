@@ -4,12 +4,11 @@ import TeamTabsWrapper from '../components/teams/teamTabsWrapper';
 import CombinedRecords from '../components/teams/records/combinedRecords';
 import IndividualRecords from '../components/teams/records/individualRecords';
 import { RecordsProps } from '../types/interfaces';
-import { returnTabName } from '../helpers/statsHelper';
 import {
     findLeaguesAvailableInData,
     findMinNumberOfGames,
     findPlayerRecords,
-    findTeamRecords,
+    findAllTeamRecords,
 } from '../helpers/recordsHelper';
 import { config } from '../config';
 
@@ -45,36 +44,43 @@ function Records(props: RecordsProps) {
     );
 
     function returnAllComponentsForTeams() {
-        return config.historicTeamInfo
-            .map((teamNames) => {
-                let tabDisplayname = returnTabName(teamNames[0]);
+        return Object.entries(config.historicTeamInfo)
+            .map(([teamKey, teamNames]) => {
+                const tabDisplayname = teamKey.toUpperCase();
+                const teamsFound = findAllTeamRecords(teamNames, teamRecords);
 
-                const { teamName, teamRecord, bTeamRecord } = findTeamRecords(
-                    teamNames,
-                    teamRecords
-                );
-
-                if (teamRecord || bTeamRecord) {
-                    console.log({ teamRecord });
-
+                if (teamsFound.length > 0) {
                     return (
                         <TeamTabsWrapper
                             displayname={tabDisplayname}
                             children={
                                 <div>
-                                    {teamRecord && (
-                                        <IndividualRecords
-                                            stats={teamRecord}
-                                            teamName={teamName}
-                                            bTeam={false}
-                                        />
-                                    )}
-                                    {bTeamRecord && (
-                                        <IndividualRecords
-                                            stats={bTeamRecord}
-                                            teamName={teamName}
-                                            bTeam={true}
-                                        />
+                                    {teamsFound.map(
+                                        (
+                                            {
+                                                teamName,
+                                                teamRecord,
+                                                bTeamRecord,
+                                            },
+                                            index
+                                        ) => (
+                                            <div key={`${teamName}-${index}`}>
+                                                {teamRecord && (
+                                                    <IndividualRecords
+                                                        stats={teamRecord}
+                                                        teamName={teamName}
+                                                        bTeam={false}
+                                                    />
+                                                )}
+                                                {bTeamRecord && (
+                                                    <IndividualRecords
+                                                        stats={bTeamRecord}
+                                                        teamName={teamName}
+                                                        bTeam={true}
+                                                    />
+                                                )}
+                                            </div>
+                                        )
                                     )}
                                 </div>
                             }

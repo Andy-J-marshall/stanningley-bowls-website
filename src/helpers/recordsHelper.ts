@@ -20,9 +20,15 @@ export function findLeaguesAvailableInData(
         const possibleTeamNames = config.allTeamsInLeaguesSince2013;
 
         const propertyNames = Object.keys(p);
-        teamsFound = propertyNames.filter((property) =>
+        const foundTeams = propertyNames.filter((property) =>
             possibleTeamNames.includes(property.toLowerCase())
         );
+
+        foundTeams.forEach((team) => {
+            if (!teamsFound.includes(team)) {
+                teamsFound.push(team);
+            }
+        });
 
         possibleTeamNames.forEach((team) => {
             initialTeamRecords[team] = {
@@ -272,4 +278,45 @@ export function findTeamRecords(teamNames: string[], teamRecords: TeamRecords) {
     }
 
     return { teamName, teamRecord, bTeamRecord };
+}
+
+export function findAllTeamRecords(
+    teamNames: string[],
+    teamRecords: TeamRecords
+) {
+    const teamsWithRecords: {
+        teamName: string;
+        teamRecord: RecordStats;
+        bTeamRecord: RecordStats | null;
+    }[] = [];
+
+    for (const team of teamNames) {
+        const nameLowerCase = team.toLowerCase();
+        let teamRecord = null;
+        let bTeamRecord = null;
+        let teamName = '';
+
+        // Find A team records
+        const tr = teamRecords[nameLowerCase];
+        if (tr && tr.bestAverage > -21) {
+            teamRecord = tr;
+            teamName = nameLowerCase;
+        } else {
+            // Check for a team with an (a) suffix if no team found
+            const trWithASuffix = teamRecords[nameLowerCase + ' (a)'];
+            if (trWithASuffix && trWithASuffix.bestAverage > -21) {
+                teamRecord = trWithASuffix;
+                teamName = nameLowerCase;
+            }
+        }
+
+        // If we found a team with records, look for B team
+        if (teamRecord) {
+            bTeamRecord =
+                teamRecords[teamName.replace(' (a)', '') + ' (b)'] || null;
+            teamsWithRecords.push({ teamName, teamRecord, bTeamRecord });
+        }
+    }
+
+    return teamsWithRecords;
 }

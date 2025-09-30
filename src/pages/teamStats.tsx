@@ -4,8 +4,7 @@ import CombinedTeamStats from '../components/teams/teamStats/combinedTeamStats';
 import TeamTabs from '../components/teams/teamTabs';
 import TeamTabsWrapper from '../components/teams/teamTabsWrapper';
 import { TeamStatsProps } from '../types/interfaces';
-import { returnTabName } from '../helpers/statsHelper';
-import { findTeamStats } from '../helpers/teamStatsHelper';
+import { findAllTeamStats } from '../helpers/teamStatsHelper';
 import { config } from '../config';
 
 function TeamStats(props: TeamStatsProps) {
@@ -28,36 +27,44 @@ function TeamStats(props: TeamStatsProps) {
     });
 
     function returnTeamComponents() {
-        return config.historicTeamInfo
-            .map((teamNames) => {
-                const tabDisplayname = returnTabName(teamNames[0]);
-                const { teamName, teamStats, bTeamStats } = findTeamStats(
-                    teamNames,
-                    teamResults
-                );
+        return Object.entries(config.historicTeamInfo)
+            .map(([teamKey, teamNames]) => {
+                const tabDisplayname = teamKey.toUpperCase();
+                const teamsFound = findAllTeamStats(teamNames, teamResults);
 
-                if (teamStats || bTeamStats) {
+                if (teamsFound.length > 0) {
                     return (
                         <TeamTabsWrapper
                             displayname={tabDisplayname}
                             children={
                                 <div>
-                                    {teamStats && (
-                                        <IndividualTeamStats
-                                            day={teamName}
-                                            stats={teamStats}
-                                            bTeam={false}
-                                        />
-                                    )}
-                                    {bTeamStats && (
-                                        <IndividualTeamStats
-                                            day={
-                                                teamName.replace(' (a)', '') +
-                                                ' (b)'
-                                            }
-                                            stats={bTeamStats}
-                                            bTeam={true}
-                                        />
+                                    {teamsFound.map(
+                                        (
+                                            { teamName, teamStats, bTeamStats },
+                                            index
+                                        ) => (
+                                            <div key={`${teamName}-${index}`}>
+                                                {teamStats && (
+                                                    <IndividualTeamStats
+                                                        day={teamName}
+                                                        stats={teamStats}
+                                                        bTeam={false}
+                                                    />
+                                                )}
+                                                {bTeamStats && (
+                                                    <IndividualTeamStats
+                                                        day={
+                                                            teamName.replace(
+                                                                ' (a)',
+                                                                ''
+                                                            ) + ' (b)'
+                                                        }
+                                                        stats={bTeamStats}
+                                                        bTeam={true}
+                                                    />
+                                                )}
+                                            </div>
+                                        )
                                     )}
                                 </div>
                             }

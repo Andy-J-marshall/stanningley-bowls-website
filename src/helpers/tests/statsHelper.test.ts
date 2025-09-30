@@ -1,34 +1,8 @@
 import { expect } from 'chai';
-import { orderBy, returnTabName } from '../statsHelper';
+import { orderBy } from '../statsHelper';
 import { checkAllWinPercAndAverageAreNumbers } from '../statsHelper';
 
 describe('#StatsHelper Tests', () => {
-    describe('returnTabName', () => {
-        it('should return the display name without any modifications when team has 1 word', () => {
-            const teamName = 'Bradford Saturday';
-            const displayName = returnTabName(teamName);
-            expect(displayName).to.equal('SAT');
-        });
-
-        it('should return the display name without any modifications when team has 1 word', () => {
-            const teamName = 'Mirfield';
-            const displayName = returnTabName(teamName);
-            expect(displayName).to.equal('MIR');
-        });
-
-        it('should append "(VETS)" to the display name if team name includes "vets"', () => {
-            const teamName = 'Leeds Tuesday Vets';
-            const displayName = returnTabName(teamName);
-            expect(displayName).to.equal('TUE (VETS)');
-        });
-
-        it('should append "(PAIRS)" to the display name if team name includes "pairs"', () => {
-            const teamName = 'AireWharfe Wednesday Pairs';
-            const displayName = returnTabName(teamName);
-            expect(displayName).to.equal('WED (PAIRS)');
-        });
-    });
-
     describe('checkWinPercAndAverageAreNumbers', () => {
         it('should verify win percentage and average are numbers and set defaults if not', () => {
             const stats = {
