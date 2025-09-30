@@ -26,6 +26,8 @@ function TeamStats(props: TeamStatsProps) {
         window.scrollTo(0, 0);
     });
 
+    // TODO add dividers to team stats and records to split up sections
+
     function returnTeamComponents() {
         return Object.entries(config.historicTeamInfo)
             .map(([teamKey, teamNames]) => {
