@@ -33,8 +33,6 @@ function IndividualTeamStats(props: IndividualTeamStatsProps) {
     if (totalGames > 0) {
         return (
             <div className="team-stats" id={id}>
-                {bTeam && <br />}
-                {bTeam && <hr />}
                 <h4>{day.toLowerCase()}</h4>
                 <TeamStatsTable
                     totalGames={totalGames}
@@ -50,6 +48,8 @@ function IndividualTeamStats(props: IndividualTeamStatsProps) {
                     homeDraws={homeDraws}
                     awayDraws={awayDraws}
                 />
+                <br />
+                <hr />
             </div>
         );
     } else {

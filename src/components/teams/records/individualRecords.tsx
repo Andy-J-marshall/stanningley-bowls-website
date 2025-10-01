@@ -29,7 +29,6 @@ function IndividualRecords(props: IndividualRecordsProps) {
 
         return (
             <div className="team-records">
-                {bTeam && <hr />}
                 <RecordsTableDisplay
                     teamName={displayName}
                     minGames={minGames}
@@ -42,6 +41,7 @@ function IndividualRecords(props: IndividualRecordsProps) {
                     mostGames={mostGames}
                     mostGamesPlayer={mostGamesPlayer}
                 />
+                <hr />
             </div>
         );
     } else {
