@@ -336,7 +336,7 @@ export interface TeamResultsStatsFile {
     cupLosses: number;
     losses: number;
     totalGamesPlayed: number;
-    results: string[];
+    results?: string[];
 }
 
 export interface Result {

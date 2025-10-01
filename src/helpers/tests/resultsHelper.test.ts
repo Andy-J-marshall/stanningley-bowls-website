@@ -151,5 +151,74 @@ describe('#ResultsHelper Tests', () => {
             const results = returnResultsArrayForTeamsWithGames(teamResults);
             expect(results).to.deep.equal([]);
         });
+
+        it('Returns an empty array when teamResults is undefined', () => {
+            const results = returnResultsArrayForTeamsWithGames(undefined);
+            expect(results).to.deep.equal([]);
+        });
+
+        it('Handles teams with missing results property', () => {
+            const teamResults = [
+                {
+                    day: 'Monday',
+                    awayWins: 0,
+                    homeWins: 0,
+                    wins: 0,
+                    awayLosses: 0,
+                    homeLosses: 0,
+                    homeDraws: 0,
+                    awayDraws: 0,
+                    draws: 0,
+                    cupWins: 0,
+                    cupLosses: 0,
+                    losses: 0,
+                    totalGamesPlayed: 0,
+                },
+            ];
+
+            const results = returnResultsArrayForTeamsWithGames(teamResults);
+            expect(results).to.deep.equal([]);
+        });
+
+        it('Filters out teams with empty results arrays', () => {
+            const teamResults = [
+                {
+                    day: 'Monday',
+                    results: ['Team A 21 - 10 Team B'],
+                    awayWins: 0,
+                    homeWins: 0,
+                    wins: 0,
+                    awayLosses: 0,
+                    homeLosses: 0,
+                    homeDraws: 0,
+                    awayDraws: 0,
+                    draws: 0,
+                    cupWins: 0,
+                    cupLosses: 0,
+                    losses: 0,
+                    totalGamesPlayed: 0,
+                },
+                {
+                    day: 'Tuesday',
+                    results: [],
+                    awayWins: 0,
+                    homeWins: 0,
+                    wins: 0,
+                    awayLosses: 0,
+                    homeLosses: 0,
+                    homeDraws: 0,
+                    awayDraws: 0,
+                    draws: 0,
+                    cupWins: 0,
+                    cupLosses: 0,
+                    losses: 0,
+                    totalGamesPlayed: 0,
+                },
+            ];
+
+            const results = returnResultsArrayForTeamsWithGames(teamResults);
+            expect(results).to.have.lengthOf(1);
+            expect(results[0].results).to.have.lengthOf(1);
+        });
     });
 });
