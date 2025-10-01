@@ -8,8 +8,9 @@ import {
 import { config } from '../../config';
 import stats2022 from '../../data/stanningleyStats2022.json';
 import stats2024 from '../../data/stanningleyStats2024.json';
-const playerResults22 = stats2022.playerResults;
-const playerResults24 = stats2024.playerResults;
+
+const playerResults22 = JSON.parse(JSON.stringify(stats2022.playerResults));
+const playerResults24 = JSON.parse(JSON.stringify(stats2024.playerResults));
 
 describe('#RecordsHelper Tests', () => {
     describe('findLeaguesAvailableInData', () => {
@@ -121,7 +122,7 @@ describe('#RecordsHelper Tests', () => {
             expect(bestAverage).to.equal(11.666666666666666);
             expect(bestAveragePlayer).to.deep.equal(['john armitage']);
 
-            expect(teamsInTeamRecords).to.have.length(39);
+            expect(teamsInTeamRecords).to.have.length(39);            
             expect(teamsInRecordsWithGames).to.have.length(4);
         });
     });
@@ -145,7 +146,7 @@ describe('#RecordsHelper Tests', () => {
         );
 
         it('B team records should be null when there is no B team on that day', () => {
-            const teamInfo = config.historicTeamInfo.find((t) =>
+            const teamInfo = Object.values(config.historicTeamInfo).find((t) =>
                 t.includes('leeds tuesday')
             );
 
@@ -162,7 +163,7 @@ describe('#RecordsHelper Tests', () => {
         });
 
         it('Team name should be correctly returned', () => {
-            const teamInfo = config.historicTeamInfo.find((t) =>
+            const teamInfo = Object.values(config.historicTeamInfo).find((t) =>
                 t.includes('leeds saturday')
             );
 
@@ -176,7 +177,7 @@ describe('#RecordsHelper Tests', () => {
         });
 
         it('Team records should be correct', () => {
-            const teamInfo = config.historicTeamInfo.find((t) =>
+            const teamInfo = Object.values(config.historicTeamInfo).find((t) =>
                 t.includes('leeds saturday')
             );
 
@@ -203,7 +204,7 @@ describe('#RecordsHelper Tests', () => {
         });
 
         it('B team records should be correct', () => {
-            const teamInfo = config.historicTeamInfo.find((t) =>
+            const teamInfo = Object.values(config.historicTeamInfo).find((t) =>
                 t.includes('leeds saturday')
             );
 

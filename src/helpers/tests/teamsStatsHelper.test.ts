@@ -87,7 +87,7 @@ describe('#teamStatsHelper Tests', () => {
 
     describe('#findTeamStats()', () => {
         it('B team stats should be null when there is no B team on that day', () => {
-            for (const teamInfo of config.historicTeamInfo) {
+            for (const teamInfo of Object.values(config.historicTeamInfo)) {
                 // There were no B teams in 2022
                 const teamStats = findTeamStats(
                     teamInfo,
@@ -99,7 +99,7 @@ describe('#teamStatsHelper Tests', () => {
         });
 
         it('Team name should be correctly returned', () => {
-            const teamInfo = config.historicTeamInfo.find((t) =>
+            const teamInfo = Object.values(config.historicTeamInfo).find((t) =>
                 t.includes('leeds monday combined')
             );
 
@@ -117,7 +117,7 @@ describe('#teamStatsHelper Tests', () => {
                 t.day.toLowerCase().includes('leeds saturday')
             );
 
-            const teamInfo = config.historicTeamInfo.find((t) =>
+            const teamInfo = Object.values(config.historicTeamInfo).find((t) =>
                 t.includes('leeds saturday')
             );
 
@@ -137,7 +137,7 @@ describe('#teamStatsHelper Tests', () => {
                 t.day.toLowerCase().includes('leeds saturday (b)')
             );
 
-            const teamInfo = config.historicTeamInfo.find((t) =>
+            const teamInfo = Object.values(config.historicTeamInfo).find((t) =>
                 t.includes('leeds saturday')
             );
 

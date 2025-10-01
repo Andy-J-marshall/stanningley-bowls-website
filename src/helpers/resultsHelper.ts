@@ -32,7 +32,6 @@ export function returnStructuredResultsArray(results: string[]) {
     return resultsArray;
 }
 
-// TODO add a test for this function
 export function returnResultsArrayForTeamsWithGames(
     teamResults: TeamResultsStatsFile[] | undefined
 ) {
