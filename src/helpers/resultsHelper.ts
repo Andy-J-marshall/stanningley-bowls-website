@@ -32,22 +32,26 @@ export function returnStructuredResultsArray(results: string[]) {
     return resultsArray;
 }
 
+// TODO add a test for this function
 export function returnResultsArrayForTeamsWithGames(
     teamResults: TeamResultsStatsFile[] | undefined
 ) {
-    const allTeamResultsArray = teamResults?.map((team) => {
-        const results: Result[] = returnStructuredResultsArray(team.results);
-        return {
-            name: config.allTeamsInLeaguesSince2013.find((t) =>
+    if (!teamResults) return [];
+
+    return teamResults
+        .map((team) => {
+            const teamName = config.allTeamsInLeaguesSince2013.find((t) =>
                 t.toLowerCase().endsWith(team.day.toLowerCase())
-            ),
-            results,
-        };
-    });
+            );
 
-    const resultsArray = allTeamResultsArray?.filter(
-        (team) => team?.results?.length > 0
-    );
+            const results: Result[] = team.results
+                ? returnStructuredResultsArray(team.results)
+                : [];
 
-    return resultsArray;
+            return {
+                name: teamName,
+                results,
+            };
+        })
+        .filter((team) => team.results.length > 0);
 }

@@ -218,7 +218,6 @@ export function returnPlayerStatsForAllYears(statsArray: FullStatsFile[]) {
     const collatedStats: PlayerResultsStatsFile = {};
     const collatedTeamStats: any[] = [];
 
-    // TODO need to stop results trying to show all years
     // TODO update tests
     // TODO what to do with this?
     // Create a map to track teams by name for easier processing
@@ -406,7 +405,6 @@ export function returnPlayerStatsForAllYears(statsArray: FullStatsFile[]) {
                       100
                   ).toFixed(1)
                 : 0;
-
 
         collatedTeamStats.push(team);
     });
