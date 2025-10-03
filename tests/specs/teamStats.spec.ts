@@ -103,6 +103,19 @@ test.describe('Team Stats', () => {
         await yearSelectPage.selectAllYears();
         await expect(teamStatsPage.totalWinsValue).toBeVisible();
 
+        const totalGames = await teamStatsPage.totalGamesValue.textContent();
+        expect(Number(totalGames)).toBeGreaterThan(1700);
+        const totalWins = await teamStatsPage.totalWinsValue.textContent();
+        expect(Number(totalWins)).toBeGreaterThan(950);
+        const totalLosses = await teamStatsPage.totalLossesValue.textContent();
+        expect(Number(totalLosses)).toBeGreaterThan(650);
+        const totalDraws = await teamStatsPage.totalDrawsValue.textContent();
+        expect(Number(totalDraws)).toBeGreaterThan(40);
+        expect(teamStatsPage.totalWinPercValue).toContainText('%');
+        expect(teamStatsPage.totalHomeWinPercValue).toContainText('%');
+        expect(teamStatsPage.totalAwayWinPercValue).toContainText('%');
+        expect(teamStatsPage.totalCupWinPercValue).toContainText('%');
+
         await teamTabsPage.selectMondayTab();
         await expect(teamStatsPage.mondayTeamStats).toHaveCount(3);
     });

@@ -124,7 +124,7 @@ test.describe('Records', () => {
     }) => {
         await yearSelectPage.selectAllYears();
         await expect(recordsPage.overallAverageRecord).toBeVisible();
-        
+
         await teamTabsPage.selectMondayTab();
         await expect(recordsPage.mondayTeamRecords).toHaveCount(3);
     });
@@ -136,8 +136,16 @@ test.describe('Records', () => {
         await recordsPage.goto();
         await yearSelectPage.selectAllYears();
 
-        expect(recordsPage.overallGamesRecord).toBeVisible();
+        expect(
+            Number(await recordsPage.overallGamesRecord.textContent())
+        ).toBeGreaterThan(650);
         expect(recordsPage.overallGamesRecordPlayer).toContainText(
+            'Donald Shaw'
+        );
+        expect(
+            Number(await recordsPage.overallWinRecord.textContent())
+        ).toBeGreaterThan(400);
+        expect(recordsPage.overallWinsRecordPlayer).toContainText(
             'Donald Shaw'
         );
     });
