@@ -33,7 +33,7 @@ test.describe('Team Stats', () => {
         yearSelectPage,
     }) => {
         await yearSelectPage.selectYear(2023);
-        await teamTabsPage.selectTuesVetsTeamTab();
+        await teamTabsPage.selectTuesdayTab();
 
         expect(teamStatsPage.tuesVetsGamesValue).toBeVisible();
         expect(teamStatsPage.totalGamesValue).toBeVisible({ visible: false });
@@ -54,7 +54,7 @@ test.describe('Team Stats', () => {
         yearSelectPage,
     }) => {
         await yearSelectPage.selectYear(2022);
-        await teamTabsPage.selectMondayTeamTab();
+        await teamTabsPage.selectMondayTab();
 
         expect(teamStatsPage.mondayGamesValue).toBeVisible();
         expect(teamStatsPage.totalGamesValue).toBeVisible({ visible: false });
@@ -69,15 +69,15 @@ test.describe('Team Stats', () => {
         expect(teamStatsPage.mondayCupWinPercValue).toHaveCount(0);
     });
 
-    test('Team stats not show for Wednesday Pairs in 2023 as team did not exist', async ({
+    test('Team stats dot not show for Wednesday in 2023 as teams did not exist', async ({
         teamTabsPage,
         yearSelectPage,
     }) => {
         await yearSelectPage.selectYear(2024);
-        await teamTabsPage.selectWedPairsTeamTab();
+        await teamTabsPage.selectWednesdayTab();
 
-        await yearSelectPage.selectYear(2023);
-        await expect(teamTabsPage.wedPairsTab).not.toBeVisible();
+        await yearSelectPage.selectYear(2022);
+        await expect(teamTabsPage.wednesdayTab).not.toBeVisible();
     });
 
     test('Team stats show B team if there is one', async ({
@@ -86,7 +86,7 @@ test.describe('Team Stats', () => {
         yearSelectPage,
     }) => {
         await yearSelectPage.selectYear(2024);
-        await teamTabsPage.selectMondayTeamTab();
+        await teamTabsPage.selectMondayTab();
 
         await yearSelectPage.selectYear(2013);
         await expect(teamStatsPage.mondayTeamStats).toHaveCount(2);
@@ -95,22 +95,21 @@ test.describe('Team Stats', () => {
         await expect(teamStatsPage.mondayTeamStats).toHaveCount(1);
     });
 
-    test('Team stats do not appear if All Years is selected', async ({
-        playerSummaryPage,
+    test('All Team stats show when all years is selected', async ({
         teamStatsPage,
+        teamTabsPage,
         yearSelectPage,
     }) => {
-        // Note: the All Years dropdown is only accessible in PlayerStats
-        await playerSummaryPage.goto();
         await yearSelectPage.selectAllYears();
-        await teamStatsPage.goto();
+        await expect(teamStatsPage.totalWinsValue).toBeVisible();
 
-        await expect(teamStatsPage.noStatsMessage).toBeVisible();
+        await teamTabsPage.selectMondayTab();
+        await expect(teamStatsPage.mondayTeamStats).toHaveCount(3);
     });
 
     test(`Stats year dropdown appears if there are multiple years of stats available`, async ({
         yearSelectPage,
     }) => {
-        await yearSelectPage.checkYearDropdownHasEveryYearOption();
+        await yearSelectPage.checkYearDropdownHasEveryYearPlusAllYearsOption();
     });
 });

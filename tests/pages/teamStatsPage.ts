@@ -42,7 +42,7 @@ export class TeamStatsPage {
         );
 
         this.mondayTeamStats = page.locator(
-            '#team-select-tabs-tabpane-mon .team-stats'
+            '#team-select-tabs-tabpane-monday .team-stats'
         );
 
         this.totalGamesValue = page.locator(
@@ -71,53 +71,53 @@ export class TeamStatsPage {
         );
 
         this.mondayGamesValue = page.locator(
-            '#leedsmondaycombined-team-results #totalGamesValue'
+            '#leeds-monday-combined-stats #totalGamesValue'
         );
         this.mondayWinsValue = page.locator(
-            '#leedsmondaycombined-team-results #totalWinsValue'
+            '#leeds-monday-combined-stats #totalWinsValue'
         );
         this.mondayLossesValue = page.locator(
-            '#leedsmondaycombined-team-results #totalLossesValue'
+            '#leeds-monday-combined-stats #totalLossesValue'
         );
         this.mondayDrawsValue = page.locator(
-            '#leedsmondaycombined-team-results #totalDrawsValue'
+            '#leeds-monday-combined-stats #totalDrawsValue'
         );
         this.mondayWinPercValue = page.locator(
-            '#leedsmondaycombined-team-results #totalWinPercValue'
+            '#leeds-monday-combined-stats #totalWinPercValue'
         );
         this.mondayHomeWinPercValue = page.locator(
-            '#leedsmondaycombined-team-results #totalHomeWinPercValue'
+            '#leeds-monday-combined-stats #totalHomeWinPercValue'
         );
         this.mondayAwayWinPercValue = page.locator(
-            '#leedsmondaycombined-team-results #totalAwayWinPercValue'
+            '#leeds-monday-combined-stats #totalAwayWinPercValue'
         );
         this.mondayCupWinPercValue = page.locator(
-            '#leedsmondaycombined-team-results #totalCupWinPercValue'
+            '#leeds-monday-combined-stats #totalCupWinPercValue'
         );
 
         this.tuesVetsGamesValue = page.locator(
-            '#leedstuesdayvets-team-results #totalGamesValue'
+            '#leeds-tuesday-vets-stats #totalGamesValue'
         );
         this.tuesVetsWinsValue = page.locator(
-            '#leedstuesdayvets-team-results #totalWinsValue'
+            '#leeds-tuesday-vets-stats #totalWinsValue'
         );
         this.tuesVetsLossesValue = page.locator(
-            '#leedstuesdayvets-team-results #totalLossesValue'
+            '#leeds-tuesday-vets-stats #totalLossesValue'
         );
         this.tuesVetsDrawsValue = page.locator(
-            '#leedstuesdayvets-team-results #totalDrawsValue'
+            '#leeds-tuesday-vets-stats #totalDrawsValue'
         );
         this.tuesVetsWinPercValue = page.locator(
-            '#leedstuesdayvets-team-results #totalWinPercValue'
+            '#leeds-tuesday-vets-stats #totalWinPercValue'
         );
         this.tuesVetsHomeWinPercValue = page.locator(
-            '#leedstuesdayvets-team-results #totalHomeWinPercValue'
+            '#leeds-tuesday-vets-stats #totalHomeWinPercValue'
         );
         this.tuesVetsAwayWinPercValue = page.locator(
-            '#leedstuesdayvets-team-results #totalAwayWinPercValue'
+            '#leeds-tuesday-vets-stats #totalAwayWinPercValue'
         );
         this.tuesVetsCupWinPercValue = page.locator(
-            '#leedstuesdayvets-team-results #totalCupWinPercValue'
+            '#leeds-tuesday-vets-stats #totalCupWinPercValue'
         );
     }
 
