@@ -4,6 +4,7 @@ import {
     findTeamStats,
     returnPlayerStatsForTeam,
     returnTeamNamesWithGames,
+    findAllTeamStats,
 } from '../teamStatsHelper';
 import { PlayerResultsStatsFile } from '../../types/interfaces';
 import { config } from '../../config';
@@ -150,6 +151,74 @@ describe('#teamStatsHelper Tests', () => {
             const stats = teamStats.bTeamStats;
 
             expect(stats).to.deep.equal(teamStatsJson);
+        });
+    });
+
+    describe('#findAllTeamStats()', () => {
+        const teams = [
+            'leeds monday combined',
+            'leeds saturday',
+            'leeds tuesday',
+            'leeds thursday vets',
+            'leeds tuesday vets',
+            'leeds half holiday',
+        ];
+
+        it('Should return stats for all teams with data', () => {
+            const allStats = findAllTeamStats(teams, stats2024.teamResults);
+
+            expect(allStats).to.be.an('array');
+            expect(allStats.length).to.be.greaterThan(0);
+
+            // Check that each item has the expected structure
+            allStats.forEach((teamStat) => {
+                expect(teamStat).to.have.property('teamName');
+                expect(teamStat).to.have.property('teamStats');
+                expect(teamStat).to.have.property('bTeamStats');
+                expect(teamStat.teamName).to.be.a('string');
+            });
+        });
+
+        it('Should include both A and B team stats when B teams exist', () => {
+            const allStats = findAllTeamStats(teams, stats2024.teamResults);
+
+            const saturdayTeam = allStats.find(
+                (team) => team.teamName === 'leeds saturday'
+            );
+
+            expect(saturdayTeam).to.not.be.undefined;
+            expect(saturdayTeam!.teamStats).to.not.be.null;
+            expect(saturdayTeam!.bTeamStats).to.not.be.null;
+        });
+
+        it('Should have null B team stats when no B team exists', () => {
+            const allStats = findAllTeamStats(teams, stats2022.teamResults);
+
+            allStats.forEach((teamStat) => {
+                expect(teamStat.bTeamStats).to.be.null;
+            });
+        });
+
+        it('Should return correct team names based on historic team info', () => {
+            const allStats = findAllTeamStats(teams, stats2023.teamResults);
+            const teamNames = allStats.map((stat) => stat.teamName);
+
+            expect(teamNames).to.include('leeds half holiday');
+            expect(teamNames).to.include('leeds monday combined');
+            expect(teamNames).to.include('leeds saturday');
+            expect(teamNames).to.include('leeds thursday vets');
+            expect(teamNames).to.include('leeds tuesday');
+            expect(teamNames).to.include('leeds tuesday vets');
+        });
+
+        it('Should handle empty team results gracefully', () => {
+            const allStats = findAllTeamStats(['leeds monday combined'], []);
+
+            expect(allStats).to.be.an('array');
+            allStats.forEach((teamStat) => {
+                expect(teamStat.teamStats).to.be.null;
+                expect(teamStat.bTeamStats).to.be.null;
+            });
         });
     });
 });
