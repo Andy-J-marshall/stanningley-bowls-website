@@ -207,7 +207,6 @@ export function returnStatsForAllYears(statsArray: FullStatsFile[]) {
     return statsToDisplayArray;
 }
 
-// TODO create a test for this
 export function returnTeamStatsForAllYears(statsArray: FullStatsFile[]) {
     const teamStatsMap: { [key: string]: any } = {};
 
