@@ -43,9 +43,9 @@ export function returnResultsArrayForTeamsWithGames(
                 t.toLowerCase().endsWith(team.day.toLowerCase())
             );
 
-            const results: Result[] = team.results
-                ? returnStructuredResultsArray(team.results)
-                : [];
+            const results: Result[] = returnStructuredResultsArray(
+                team.results
+            );
 
             return {
                 name: teamName,

@@ -340,6 +340,7 @@ export function returnPlayerStatsForAllYears(statsArray: FullStatsFile[]) {
                         cupWins: 0,
                         cupLosses: 0,
                         totalGamesPlayed: 0,
+                        results: [],
                         yearlyResults: {},
                     };
                 }
