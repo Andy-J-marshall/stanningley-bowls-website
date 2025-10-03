@@ -82,7 +82,7 @@ export interface PlayerStatAggregatesTilesProps {
 export interface YearSelectDropdownProps {
     statsCallback: (year: string) => void;
     yearToDisplay: string;
-    displayAllYearsOption?: boolean;
+    displayAllYearsOption: boolean;
 }
 
 export interface TeamTabsProps {
