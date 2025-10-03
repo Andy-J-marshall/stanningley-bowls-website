@@ -1,7 +1,7 @@
 import { expect } from 'chai';
 import {
     returnPlayerStatsForAllYears,
-    returnPlayerStatSummaryForAllYears,
+    returnStatsForAllYears,
     returnTeamPlayerStatsForAllYears,
 } from '../allYearPlayerStatsHelper';
 import { FullStatsFile } from '../../types/interfaces';
@@ -10,10 +10,10 @@ import stats2023 from '../../data/stanningleyStats2023.json';
 import stats2024 from '../../data/stanningleyStats2024.json';
 
 describe('#allYearPlayerStatsHelper Tests', () => {
-    describe('#returnPlayerStatSummaryForAllYears()', () => {
-        it('Correctly aggregates stats for players across multiple years', () => {
+    describe('#returnStatsForAllYears()', () => {
+        it('Correctly aggregates stats for stats across multiple years', () => {
             const statsArray = [stats2022, stats2023];
-            const result = returnPlayerStatSummaryForAllYears(statsArray);
+            const result = returnStatsForAllYears(statsArray);
 
             expect(result.length).to.equal(36);
             const player = result.find(
@@ -110,7 +110,7 @@ describe('#allYearPlayerStatsHelper Tests', () => {
 
         it('Handles empty stats array', () => {
             const statsArray: FullStatsFile[] = [];
-            const result = returnPlayerStatSummaryForAllYears(statsArray);
+            const result = returnStatsForAllYears(statsArray);
             expect(result).to.deep.equal([]);
         });
 
@@ -122,7 +122,7 @@ describe('#allYearPlayerStatsHelper Tests', () => {
                     playerResults: {},
                 },
             ];
-            const result = returnPlayerStatSummaryForAllYears(statsArray);
+            const result = returnStatsForAllYears(statsArray);
             expect(result).to.deep.equal([]);
         });
     });
