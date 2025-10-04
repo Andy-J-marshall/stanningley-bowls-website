@@ -3,7 +3,6 @@ import {
     findLeaguesAvailableInData,
     findMinNumberOfGames,
     findPlayerRecords,
-    findTeamRecords,
     findAllTeamRecords,
 } from '../recordsHelper';
 import { config } from '../../config';
@@ -125,110 +124,6 @@ describe('#RecordsHelper Tests', () => {
 
             expect(teamsInTeamRecords).to.have.length(39);
             expect(teamsInRecordsWithGames).to.have.length(4);
-        });
-    });
-
-    describe('findTeamRecords', () => {
-        const { initialTeamRecords, teamsFound } =
-            findLeaguesAvailableInData(playerResults24);
-
-        const { teamRecordsWithMinGames, highestTotalGames } =
-            findMinNumberOfGames(
-                playerResults24,
-                teamsFound,
-                initialTeamRecords
-            );
-
-        const { teamRecords } = findPlayerRecords(
-            playerResults24,
-            teamsFound,
-            teamRecordsWithMinGames,
-            highestTotalGames
-        );
-
-        it('B team records should be null when there is no B team on that day', () => {
-            const teamInfo = Object.values(config.historicTeamInfo).find((t) =>
-                t.includes('leeds tuesday')
-            );
-
-            if (!teamInfo) {
-                assert.fail('Team info not found in config file');
-            }
-
-            const { bTeamRecord } = findTeamRecords(
-                teamInfo,
-                teamRecordsWithMinGames
-            );
-
-            expect(bTeamRecord).to.be.null;
-        });
-
-        it('Team name should be correctly returned', () => {
-            const teamInfo = Object.values(config.historicTeamInfo).find((t) =>
-                t.includes('leeds saturday')
-            );
-
-            if (!teamInfo) {
-                assert.fail('Team info not found in config file');
-            }
-
-            const { teamName } = findTeamRecords(teamInfo, teamRecords);
-
-            expect(teamName).to.equal('leeds saturday');
-        });
-
-        it('Team records should be correct', () => {
-            const teamInfo = Object.values(config.historicTeamInfo).find((t) =>
-                t.includes('leeds saturday')
-            );
-
-            if (!teamInfo) {
-                assert.fail('Team info not found in config file');
-            }
-
-            const { teamRecord } = findTeamRecords(
-                teamInfo!,
-                teamRecordsWithMinGames
-            );
-
-            expect(teamRecord).to.deep.equal({
-                minGames: 15,
-                mostGames: 21,
-                mostWins: 18,
-                bestAverage: 8.15,
-                bestWinPerc: 85.71428571428571,
-                mostGamesPlayer: ['andrew marshall'],
-                mostWinsPlayer: ['andrew marshall'],
-                bestAveragePlayer: ['paul bowes'],
-                bestWinPercPlayer: ['andrew marshall'],
-            });
-        });
-
-        it('B team records should be correct', () => {
-            const teamInfo = Object.values(config.historicTeamInfo).find((t) =>
-                t.includes('leeds saturday')
-            );
-
-            if (!teamInfo) {
-                assert.fail('Team info not found in config file');
-            }
-
-            const { bTeamRecord } = findTeamRecords(
-                teamInfo!,
-                teamRecordsWithMinGames
-            );
-
-            expect(bTeamRecord).to.deep.equal({
-                minGames: 12,
-                mostGames: 17,
-                mostWins: 13,
-                bestAverage: 6.4,
-                bestWinPerc: 81.25,
-                mostGamesPlayer: ['colin haque'],
-                mostWinsPlayer: ['paul leonard'],
-                bestAveragePlayer: ['alison woodfine'],
-                bestWinPercPlayer: ['paul leonard'],
-            });
         });
     });
 

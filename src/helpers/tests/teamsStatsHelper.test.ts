@@ -1,7 +1,6 @@
 import { assert, expect } from 'chai';
 import {
     combineTeamStats,
-    findTeamStats,
     returnPlayerStatsForTeam,
     returnTeamNamesWithGames,
     findAllTeamStats,
@@ -83,74 +82,6 @@ describe('#teamStatsHelper Tests', () => {
                 'leeds tuesday',
                 'leeds tuesday vets',
             ]);
-        });
-    });
-
-    describe('#findTeamStats()', () => {
-        it('B team stats should be null when there is no B team on that day', () => {
-            for (const teamInfo of Object.values(config.historicTeamInfo)) {
-                // There were no B teams in 2022
-                const teamStats = findTeamStats(
-                    teamInfo,
-                    stats2022.teamResults
-                );
-
-                expect(teamStats.bTeamStats).to.be.null;
-            }
-        });
-
-        it('Team name should be correctly returned', () => {
-            const teamInfo = Object.values(config.historicTeamInfo).find((t) =>
-                t.includes('leeds monday combined')
-            );
-
-            if (!teamInfo) {
-                assert.fail('Team info not found in config file');
-            }
-
-            const teamStats = findTeamStats(teamInfo!, stats2024.teamResults);
-
-            expect(teamStats.teamName).to.equal('leeds monday combined');
-        });
-
-        it('Team stats should be correct', () => {
-            const teamStatsJson = stats2024.teamResults.find((t) =>
-                t.day.toLowerCase().includes('leeds saturday')
-            );
-
-            const teamInfo = Object.values(config.historicTeamInfo).find((t) =>
-                t.includes('leeds saturday')
-            );
-
-            if (!teamInfo) {
-                assert.fail('Team info not found in config file');
-            }
-
-            const teamStats = findTeamStats(teamInfo!, stats2024.teamResults);
-
-            const stats = teamStats.teamStats;
-
-            expect(stats).to.deep.equal(teamStatsJson);
-        });
-
-        it('B team stats should be correct', () => {
-            const teamStatsJson = stats2024.teamResults.find((t) =>
-                t.day.toLowerCase().includes('leeds saturday (b)')
-            );
-
-            const teamInfo = Object.values(config.historicTeamInfo).find((t) =>
-                t.includes('leeds saturday')
-            );
-
-            if (!teamInfo) {
-                assert.fail('Team info not found in config file');
-            }
-
-            const teamStats = findTeamStats(teamInfo!, stats2024.teamResults);
-
-            const stats = teamStats.bTeamStats;
-
-            expect(stats).to.deep.equal(teamStatsJson);
         });
     });
 

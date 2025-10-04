@@ -244,42 +244,6 @@ export function findPlayerRecords(
     };
 }
 
-export function findTeamRecords(teamNames: string[], teamRecords: TeamRecords) {
-    let teamName = '';
-    let teamRecord = null;
-
-    // Find A team stats
-    for (const team of teamNames) {
-        const nameLowerCase = team.toLowerCase();
-        const tr = teamRecords[nameLowerCase];
-        if (tr) {
-            if (tr.bestAverage > -21) {
-                teamRecord = tr;
-                teamName = nameLowerCase;
-                break;
-            }
-        }
-
-        // Check for a team with an (a) suffix if no team found
-        const trWithASuffix = teamRecords[nameLowerCase + ' (a)'];
-        if (trWithASuffix && trWithASuffix.bestAverage > -21) {
-            teamRecord = trWithASuffix;
-            teamName = nameLowerCase;
-            break;
-        }
-    }
-
-    // Find B team stats if they exist
-    let bTeamRecord: RecordStats | null =
-        teamRecords[teamName.replace(' (a)', '') + ' (b)'];
-
-    if (!bTeamRecord) {
-        bTeamRecord = null;
-    }
-
-    return { teamName, teamRecord, bTeamRecord };
-}
-
 export function findAllTeamRecords(
     teamNames: string[],
     teamRecords: TeamRecords
