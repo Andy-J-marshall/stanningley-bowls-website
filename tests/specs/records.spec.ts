@@ -39,7 +39,7 @@ test.describe('Records', () => {
         yearSelectPage,
     }) => {
         await yearSelectPage.selectYear(2023);
-        await teamTabsPage.selectThurVetsTeamTab();
+        await teamTabsPage.selectThursdayTab();
 
         expect(recordsPage.thurVetsWinRecord).toBeVisible();
         expect(recordsPage.overallGamesRecord).toBeVisible({ visible: false });
@@ -68,7 +68,7 @@ test.describe('Records', () => {
         yearSelectPage,
     }) => {
         await yearSelectPage.selectYear(2022);
-        await teamTabsPage.selectTuesVetsTeamTab();
+        await teamTabsPage.selectTuesdayTab();
 
         expect(recordsPage.tuesVetsWinRecord).toBeVisible();
         expect(recordsPage.overallGamesRecord).toBeVisible({ visible: false });
@@ -91,15 +91,15 @@ test.describe('Records', () => {
         );
     });
 
-    test('Records not show for Wednesday Pairs in 2023 as team did not exist', async ({
+    test('Records not show for Wednesday in 2022 as teams did not exist', async ({
         teamTabsPage,
         yearSelectPage,
     }) => {
         await yearSelectPage.selectYear(2024);
-        await teamTabsPage.selectWedPairsTeamTab();
+        await teamTabsPage.selectWednesdayTab();
 
-        await yearSelectPage.selectYear(2023);
-        await expect(teamTabsPage.wedPairsTab).not.toBeVisible();
+        await yearSelectPage.selectYear(2022);
+        await expect(teamTabsPage.wednesdayTab).not.toBeVisible();
     });
 
     test('Team records show B team if there is one', async ({
@@ -108,13 +108,25 @@ test.describe('Records', () => {
         yearSelectPage,
     }) => {
         await yearSelectPage.selectYear(2024);
-        await teamTabsPage.selectMondayTeamTab();
+        await teamTabsPage.selectMondayTab();
 
         await yearSelectPage.selectYear(2018);
         await expect(recordsPage.mondayTeamRecords).toHaveCount(2);
 
         await yearSelectPage.selectYear(2021);
         await expect(recordsPage.mondayTeamRecords).toHaveCount(1);
+    });
+
+    test('All Team records show when all years is selected', async ({
+        recordsPage,
+        teamTabsPage,
+        yearSelectPage,
+    }) => {
+        await yearSelectPage.selectAllYears();
+        await expect(recordsPage.overallAverageRecord).toBeVisible();
+
+        await teamTabsPage.selectMondayTab();
+        await expect(recordsPage.mondayTeamRecords).toHaveCount(3);
     });
 
     test('Records overview displays for all years', async ({
@@ -124,8 +136,16 @@ test.describe('Records', () => {
         await recordsPage.goto();
         await yearSelectPage.selectAllYears();
 
-        expect(recordsPage.overallGamesRecord).toBeVisible();
+        expect(
+            Number(await recordsPage.overallGamesRecord.textContent())
+        ).toBeGreaterThan(650);
         expect(recordsPage.overallGamesRecordPlayer).toContainText(
+            'Donald Shaw'
+        );
+        expect(
+            Number(await recordsPage.overallWinRecord.textContent())
+        ).toBeGreaterThan(400);
+        expect(recordsPage.overallWinsRecordPlayer).toContainText(
             'Donald Shaw'
         );
     });

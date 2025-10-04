@@ -1,8 +1,9 @@
 import { expect } from 'chai';
 import {
     returnPlayerStatsForAllYears,
-    returnPlayerStatSummaryForAllYears,
+    returnStatsForAllYears,
     returnTeamPlayerStatsForAllYears,
+    returnTeamStatsForAllYears,
 } from '../allYearPlayerStatsHelper';
 import { FullStatsFile } from '../../types/interfaces';
 import stats2022 from '../../data/stanningleyStats2022.json';
@@ -10,10 +11,10 @@ import stats2023 from '../../data/stanningleyStats2023.json';
 import stats2024 from '../../data/stanningleyStats2024.json';
 
 describe('#allYearPlayerStatsHelper Tests', () => {
-    describe('#returnPlayerStatSummaryForAllYears()', () => {
-        it('Correctly aggregates stats for players across multiple years', () => {
+    describe('#returnStatsForAllYears()', () => {
+        it('Correctly aggregates stats for stats across multiple years', () => {
             const statsArray = [stats2022, stats2023];
-            const result = returnPlayerStatSummaryForAllYears(statsArray);
+            const result = returnStatsForAllYears(statsArray);
 
             expect(result.length).to.equal(36);
             const player = result.find(
@@ -110,7 +111,7 @@ describe('#allYearPlayerStatsHelper Tests', () => {
 
         it('Handles empty stats array', () => {
             const statsArray: FullStatsFile[] = [];
-            const result = returnPlayerStatSummaryForAllYears(statsArray);
+            const result = returnStatsForAllYears(statsArray);
             expect(result).to.deep.equal([]);
         });
 
@@ -122,7 +123,7 @@ describe('#allYearPlayerStatsHelper Tests', () => {
                     playerResults: {},
                 },
             ];
-            const result = returnPlayerStatSummaryForAllYears(statsArray);
+            const result = returnStatsForAllYears(statsArray);
             expect(result).to.deep.equal([]);
         });
     });
@@ -271,6 +272,208 @@ describe('#allYearPlayerStatsHelper Tests', () => {
             'leeds tuesday': { aggDiff: -44, games: 23, wins: 10 },
             'airewharfe wednesday pairs': { aggDiff: 7, games: 6, wins: 3 },
             'leeds saturday (b)': { aggDiff: 20, games: 3, wins: 3 },
+        });
+    });
+
+    describe('#returnTeamStatsForAllYears()', () => {
+        it('Correctly aggregates team stats across multiple years', () => {
+            const statsArray = [stats2022, stats2023, stats2024];
+            const result = returnTeamStatsForAllYears(statsArray);
+
+            expect(result.length).to.be.greaterThan(0);
+
+            const leedsMondayTeam = result.find(
+                (team) => team.day === 'Leeds Monday Combined'
+            );
+            expect(leedsMondayTeam).to.exist;
+            expect(leedsMondayTeam.wins).to.equal(43);
+            expect(leedsMondayTeam.losses).to.equal(16);
+            expect(leedsMondayTeam.draws).to.equal(3);
+            expect(leedsMondayTeam.totalGamesPlayed).to.equal(62);
+            expect(leedsMondayTeam.winPercentage).to.equal('69.4');
+            expect(leedsMondayTeam.yearlyResults).to.be.an('object');
+        });
+
+        it('Handles empty stats array', () => {
+            const statsArray: FullStatsFile[] = [];
+            const result = returnTeamStatsForAllYears(statsArray);
+            expect(result).to.deep.equal([]);
+        });
+
+        it('Handles stats with no team results', () => {
+            const statsArray = [
+                {
+                    statsYear: '2021',
+                    lastUpdated: '2021-12-31',
+                    playerResults: {},
+                },
+            ];
+            const result = returnTeamStatsForAllYears(statsArray);
+            expect(result).to.deep.equal([]);
+        });
+
+        it('Correctly calculates win percentages', () => {
+            const statsArray = [
+                {
+                    statsYear: '2021',
+                    lastUpdated: '2021-12-31',
+                    playerResults: {},
+                    teamResults: [
+                        {
+                            day: 'test team',
+                            wins: 5,
+                            losses: 3,
+                            draws: 2,
+                            homeWins: 3,
+                            homeLosses: 1,
+                            homeDraws: 1,
+                            awayWins: 2,
+                            awayLosses: 2,
+                            awayDraws: 1,
+                            cupWins: 0,
+                            cupLosses: 0,
+                            totalGamesPlayed: 10,
+                            results: [],
+                        },
+                    ],
+                },
+            ];
+            const result = returnTeamStatsForAllYears(statsArray);
+
+            expect(result.length).to.equal(1);
+            const team = result[0];
+            expect(team.day).to.equal('test team');
+            expect(team.wins).to.equal(5);
+            expect(team.losses).to.equal(3);
+            expect(team.draws).to.equal(2);
+            expect(team.totalGamesPlayed).to.equal(10);
+            expect(team.winPercentage).to.equal('50.0');
+            expect(team.homeWinPercentage).to.equal('60.0');
+            expect(team.awayWinPercentage).to.equal('40.0');
+        });
+
+        it('Handles teams with zero games played', () => {
+            const statsArray = [
+                {
+                    statsYear: '2021',
+                    lastUpdated: '2021-12-31',
+                    playerResults: {},
+                    teamResults: [
+                        {
+                            day: 'inactive team',
+                            wins: 0,
+                            losses: 0,
+                            draws: 0,
+                            homeWins: 0,
+                            homeLosses: 0,
+                            homeDraws: 0,
+                            awayWins: 0,
+                            awayLosses: 0,
+                            awayDraws: 0,
+                            cupWins: 0,
+                            cupLosses: 0,
+                            totalGamesPlayed: 0,
+                            results: [],
+                        },
+                    ],
+                },
+            ];
+            const result = returnTeamStatsForAllYears(statsArray);
+
+            expect(result.length).to.equal(1);
+            const team = result[0];
+            expect(team.winPercentage).to.equal(0);
+            expect(team.homeWinPercentage).to.equal(0);
+            expect(team.awayWinPercentage).to.equal(0);
+        });
+
+        it('Aggregates stats for same team across multiple years', () => {
+            const statsArray = [
+                {
+                    statsYear: '2022',
+                    lastUpdated: '2022-12-31',
+                    playerResults: {},
+                    teamResults: [
+                        {
+                            day: 'multi year team',
+                            wins: 3,
+                            losses: 2,
+                            draws: 0,
+                            homeWins: 2,
+                            homeLosses: 1,
+                            homeDraws: 0,
+                            awayWins: 1,
+                            awayLosses: 1,
+                            awayDraws: 0,
+                            cupWins: 0,
+                            cupLosses: 0,
+                            totalGamesPlayed: 5,
+                            results: [],
+                        },
+                    ],
+                },
+                {
+                    statsYear: '2023',
+                    lastUpdated: '2023-12-31',
+                    playerResults: {},
+                    teamResults: [
+                        {
+                            day: 'multi year team',
+                            wins: 4,
+                            losses: 1,
+                            draws: 0,
+                            homeWins: 2,
+                            homeLosses: 0,
+                            homeDraws: 0,
+                            awayWins: 2,
+                            awayLosses: 1,
+                            awayDraws: 0,
+                            cupWins: 0,
+                            cupLosses: 0,
+                            totalGamesPlayed: 5,
+                            results: [],
+                        },
+                    ],
+                },
+            ];
+            const result = returnTeamStatsForAllYears(statsArray);
+
+            expect(result.length).to.equal(1);
+            const team = result[0];
+            expect(team.day).to.equal('multi year team');
+            expect(team.wins).to.equal(7);
+            expect(team.losses).to.equal(3);
+            expect(team.totalGamesPlayed).to.equal(10);
+            expect(team.homeWins).to.equal(4);
+            expect(team.awayWins).to.equal(3);
+            expect(team.yearlyResults['2022']).to.deep.equal({
+                wins: 3,
+                losses: 2,
+                draws: 0,
+                homeWins: 2,
+                homeLosses: 1,
+                homeDraws: 0,
+                awayWins: 1,
+                awayLosses: 1,
+                awayDraws: 0,
+                cupWins: 0,
+                cupLosses: 0,
+                totalGamesPlayed: 5,
+            });
+            expect(team.yearlyResults['2023']).to.deep.equal({
+                wins: 4,
+                losses: 1,
+                draws: 0,
+                homeWins: 2,
+                homeLosses: 0,
+                homeDraws: 0,
+                awayWins: 2,
+                awayLosses: 1,
+                awayDraws: 0,
+                cupWins: 0,
+                cupLosses: 0,
+                totalGamesPlayed: 5,
+            });
         });
     });
 });

@@ -20,7 +20,6 @@ function Results(props: ResultsProps) {
     });
 
     const resultsArray = returnResultsArrayForTeamsWithGames(teamResults);
-
     const hasResults = resultsArray && resultsArray?.length > 0;
 
     if (!hasResults) {

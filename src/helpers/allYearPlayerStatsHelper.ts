@@ -14,9 +14,7 @@ import {
     checkWinPercAndAverageAreNumbers,
 } from './statsHelper';
 
-export function returnPlayerStatSummaryForAllYears(
-    statsArray: FullStatsFile[]
-) {
+export function returnStatsForAllYears(statsArray: FullStatsFile[]) {
     const statsToDisplayArray: PlayerStatsSummary[] = [];
 
     let playerNames: string[] = [];
@@ -209,6 +207,99 @@ export function returnPlayerStatSummaryForAllYears(
     return statsToDisplayArray;
 }
 
+export function returnTeamStatsForAllYears(statsArray: FullStatsFile[]) {
+    const teamStatsMap: { [key: string]: any } = {};
+
+    statsArray.forEach((yearStats) => {
+        if (yearStats.teamResults && Array.isArray(yearStats.teamResults)) {
+            yearStats.teamResults.forEach((teamResult) => {
+                const teamName = teamResult.day;
+
+                if (!teamStatsMap[teamName]) {
+                    teamStatsMap[teamName] = {
+                        day: teamName,
+                        awayWins: 0,
+                        homeWins: 0,
+                        wins: 0,
+                        awayLosses: 0,
+                        homeLosses: 0,
+                        losses: 0,
+                        homeDraws: 0,
+                        awayDraws: 0,
+                        draws: 0,
+                        cupWins: 0,
+                        cupLosses: 0,
+                        totalGamesPlayed: 0,
+                        results: [],
+                        yearlyResults: {},
+                    };
+                }
+
+                teamStatsMap[teamName].yearlyResults[yearStats.statsYear] = {
+                    awayWins: teamResult.awayWins || 0,
+                    homeWins: teamResult.homeWins || 0,
+                    wins: teamResult.wins || 0,
+                    awayLosses: teamResult.awayLosses || 0,
+                    homeLosses: teamResult.homeLosses || 0,
+                    losses: teamResult.losses || 0,
+                    homeDraws: teamResult.homeDraws || 0,
+                    awayDraws: teamResult.awayDraws || 0,
+                    draws: teamResult.draws || 0,
+                    cupWins: teamResult.cupWins || 0,
+                    cupLosses: teamResult.cupLosses || 0,
+                    totalGamesPlayed: teamResult.totalGamesPlayed || 0,
+                };
+
+                teamStatsMap[teamName].awayWins += teamResult.awayWins || 0;
+                teamStatsMap[teamName].homeWins += teamResult.homeWins || 0;
+                teamStatsMap[teamName].wins += teamResult.wins || 0;
+                teamStatsMap[teamName].awayLosses += teamResult.awayLosses || 0;
+                teamStatsMap[teamName].homeLosses += teamResult.homeLosses || 0;
+                teamStatsMap[teamName].losses += teamResult.losses || 0;
+                teamStatsMap[teamName].homeDraws += teamResult.homeDraws || 0;
+                teamStatsMap[teamName].awayDraws += teamResult.awayDraws || 0;
+                teamStatsMap[teamName].draws += teamResult.draws || 0;
+                teamStatsMap[teamName].cupWins += teamResult.cupWins || 0;
+                teamStatsMap[teamName].cupLosses += teamResult.cupLosses || 0;
+                teamStatsMap[teamName].totalGamesPlayed +=
+                    teamResult.totalGamesPlayed || 0;
+            });
+        }
+    });
+
+    const collatedTeamStats: any[] = [];
+    Object.keys(teamStatsMap).forEach((teamName) => {
+        const team = teamStatsMap[teamName];
+
+        team.winPercentage =
+            team.totalGamesPlayed > 0
+                ? ((team.wins / team.totalGamesPlayed) * 100).toFixed(1)
+                : 0;
+
+        team.homeWinPercentage =
+            team.homeWins + team.homeLosses + team.homeDraws > 0
+                ? (
+                      (team.homeWins /
+                          (team.homeWins + team.homeLosses + team.homeDraws)) *
+                      100
+                  ).toFixed(1)
+                : 0;
+
+        team.awayWinPercentage =
+            team.awayWins + team.awayLosses + team.awayDraws > 0
+                ? (
+                      (team.awayWins /
+                          (team.awayWins + team.awayLosses + team.awayDraws)) *
+                      100
+                  ).toFixed(1)
+                : 0;
+
+        collatedTeamStats.push(team);
+    });
+
+    return collatedTeamStats;
+}
+
 export function returnPlayerStatsForAllYears(statsArray: FullStatsFile[]) {
     // Create a deep copy of the statsArray to avoid modifying the original
     const statsArrayCopy: FullStatsFile[] = JSON.parse(
@@ -314,11 +405,14 @@ export function returnPlayerStatsForAllYears(statsArray: FullStatsFile[]) {
         });
     });
 
+    const collatedTeamStats = returnTeamStatsForAllYears(statsArrayCopy);
+
     const statsObject: FullStatsFile = {
         playerResults: collatedStats,
+        teamResults: collatedTeamStats,
         lastUpdated: statsArrayCopy[0].lastUpdated,
         statsYear: 'All Years',
-    }
+    };
 
     return statsObject;
 }

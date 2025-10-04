@@ -36,7 +36,7 @@ export class RecordsPage {
         this.page = page;
 
         this.mondayTeamRecords = page.locator(
-            '#team-select-tabs-tabpane-mon .team-records'
+            '#team-select-tabs-tabpane-monday .team-records'
         );
 
         // Overall locators
@@ -67,54 +67,54 @@ export class RecordsPage {
 
         // Tuesday Vets locators
         this.tuesVetsGameRecord = page.locator(
-            '#team-select-tabs-tabpane-tuevets #mostGames'
+            '#leeds-tuesday-vets-records #mostGames'
         );
         this.tuesVetsGamesRecordPlayer = page.locator(
-            '#team-select-tabs-tabpane-tuevets #mostGamesPlayer'
+            '#leeds-tuesday-vets-records #mostGamesPlayer'
         );
         this.tuesVetsWinRecord = page.locator(
-            '#team-select-tabs-tabpane-tuevets #mostWins'
+            '#leeds-tuesday-vets-records #mostWins'
         );
         this.tuesVetsWinsRecordPlayer = page.locator(
-            '#team-select-tabs-tabpane-tuevets #mostWinsPlayer'
+            '#leeds-tuesday-vets-records #mostWinsPlayer'
         );
         this.tuesVetsWinPercRecord = page.locator(
-            '#team-select-tabs-tabpane-tuevets #bestWinPerc'
+            '#leeds-tuesday-vets-records #bestWinPerc'
         );
         this.tuesVetsWinPercRecordPlayer = page.locator(
-            '#team-select-tabs-tabpane-tuevets #bestWinPercPlayer'
+            '#leeds-tuesday-vets-records #bestWinPercPlayer'
         );
         this.tuesVetsAverageRecord = page.locator(
-            '#team-select-tabs-tabpane-tuevets #bestAverage'
+            '#leeds-tuesday-vets-records #bestAverage'
         );
         this.tuesVetsAverageRecordPlayer = page.locator(
-            '#team-select-tabs-tabpane-tuevets #bestAveragePlayer'
+            '#leeds-tuesday-vets-records #bestAveragePlayer'
         );
 
         // Thursday Vets locators
         this.thurVetsGameRecord = page.locator(
-            '#team-select-tabs-tabpane-thuvets #mostGames'
+            '#leeds-thursday-vets-records #mostGames'
         );
         this.thurVetsGamesRecordPlayer = page.locator(
-            '#team-select-tabs-tabpane-thuvets #mostGamesPlayer'
+            '#leeds-thursday-vets-records #mostGamesPlayer'
         );
         this.thurVetsWinRecord = page.locator(
-            '#team-select-tabs-tabpane-thuvets #mostWins'
+            '#leeds-thursday-vets-records #mostWins'
         );
         this.thurVetsWinsRecordPlayer = page.locator(
-            '#team-select-tabs-tabpane-thuvets #mostWinsPlayer'
+            '#leeds-thursday-vets-records #mostWinsPlayer'
         );
         this.thurVetsWinPercRecord = page.locator(
-            '#team-select-tabs-tabpane-thuvets #bestWinPerc'
+            '#leeds-thursday-vets-records #bestWinPerc'
         );
         this.thurVetsWinPercRecordPlayer = page.locator(
-            '#team-select-tabs-tabpane-thuvets #bestWinPercPlayer'
+            '#leeds-thursday-vets-records #bestWinPercPlayer'
         );
         this.thurVetsAverageRecord = page.locator(
-            '#team-select-tabs-tabpane-thuvets #bestAverage'
+            '#leeds-thursday-vets-records #bestAverage'
         );
         this.thurVetsAverageRecordPlayer = page.locator(
-            '#team-select-tabs-tabpane-thuvets #bestAveragePlayer'
+            '#leeds-thursday-vets-records #bestAveragePlayer'
         );
     }
 

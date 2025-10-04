@@ -3,30 +3,6 @@ import {
     PlayerStatsTeamSummary,
 } from '../types/interfaces';
 
-export function returnTabName(teamName: string) {
-    const leagueDay = teamName.split(' ')[1];
-
-    if (leagueDay === undefined) {
-        return teamName.substring(0, 3).toUpperCase();
-    }
-
-    let displayName = leagueDay.substring(0, 3).toUpperCase();
-
-    if (teamName.toLowerCase().includes(' vets')) {
-        displayName += ' (VETS)';
-    }
-    if (teamName.toLowerCase().includes(' pairs')) {
-        displayName += ' (PAIRS)';
-    }
-    if (teamName.toLowerCase().includes('half holiday')) {
-        displayName = 'WED';
-    }
-    if (teamName.toLowerCase().includes('ladies')) {
-        displayName = 'LADIES';
-    }
-    return displayName;
-}
-
 export function isPlayerStatsSummaryType(
     stats: PlayerStatsSummary | PlayerStatsTeamSummary
 ): stats is PlayerStatsSummary {

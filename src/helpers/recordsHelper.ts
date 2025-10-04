@@ -20,9 +20,15 @@ export function findLeaguesAvailableInData(
         const possibleTeamNames = config.allTeamsInLeaguesSince2013;
 
         const propertyNames = Object.keys(p);
-        teamsFound = propertyNames.filter((property) =>
+        const foundTeams = propertyNames.filter((property) =>
             possibleTeamNames.includes(property.toLowerCase())
         );
+
+        foundTeams.forEach((team) => {
+            if (!teamsFound.includes(team)) {
+                teamsFound.push(team);
+            }
+        });
 
         possibleTeamNames.forEach((team) => {
             initialTeamRecords[team] = {
@@ -238,38 +244,43 @@ export function findPlayerRecords(
     };
 }
 
-export function findTeamRecords(teamNames: string[], teamRecords: TeamRecords) {
-    let teamName = '';
-    let teamRecord = null;
+export function findAllTeamRecords(
+    teamNames: string[],
+    teamRecords: TeamRecords
+) {
+    const teamsWithRecords: {
+        teamName: string;
+        teamRecord: RecordStats;
+        bTeamRecord: RecordStats | null;
+    }[] = [];
 
-    // Find A team stats
     for (const team of teamNames) {
         const nameLowerCase = team.toLowerCase();
+        let teamRecord = null;
+        let bTeamRecord = null;
+        let teamName = '';
+
+        // Find A team records
         const tr = teamRecords[nameLowerCase];
-        if (tr) {
-            if (tr.bestAverage > -21) {
-                teamRecord = tr;
+        if (tr && tr.bestAverage > -21) {
+            teamRecord = tr;
+            teamName = nameLowerCase;
+        } else {
+            // Check for a team with an (a) suffix if no team found
+            const trWithASuffix = teamRecords[nameLowerCase + ' (a)'];
+            if (trWithASuffix && trWithASuffix.bestAverage > -21) {
+                teamRecord = trWithASuffix;
                 teamName = nameLowerCase;
-                break;
             }
         }
 
-        // Check for a team with an (a) suffix if no team found
-        const trWithASuffix = teamRecords[nameLowerCase + ' (a)'];
-        if (trWithASuffix && trWithASuffix.bestAverage > -21) {
-            teamRecord = trWithASuffix;
-            teamName = nameLowerCase;
-            break;
+        // If we found a team with records, look for B team
+        if (teamRecord) {
+            bTeamRecord =
+                teamRecords[teamName.replace(' (a)', '') + ' (b)'] || null;
+            teamsWithRecords.push({ teamName, teamRecord, bTeamRecord });
         }
     }
 
-    // Find B team stats if they exist
-    let bTeamRecord: RecordStats | null =
-        teamRecords[teamName.replace(' (a)', '') + ' (b)'];
-
-    if (!bTeamRecord) {
-        bTeamRecord = null;
-    }
-
-    return { teamName, teamRecord, bTeamRecord };
+    return teamsWithRecords;
 }

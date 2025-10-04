@@ -100,53 +100,58 @@ export function returnPlayerStatsForTeam(
     return allPlayerStats;
 }
 
-export function findTeamStats(
+export function findAllTeamStats(
     teamData: string[],
     teamResults: TeamResultsStatsFile[] | undefined
 ) {
-    let teamName = '';
-    let teamStats = null;
-    let bTeamStats = null;
+    const teamsWithStats: {
+        teamName: string;
+        teamStats: TeamResultsStatsFile;
+        bTeamStats: TeamResultsStatsFile | null;
+    }[] = [];
 
-    // Find A team stats
     for (const team of teamData) {
         const teamLowerCase = team.toLowerCase();
+        let teamStats = null;
+        let bTeamStats = null;
+        let teamName = '';
+
+        // Find A team stats
         const teamResult = teamResults?.find((team: TeamResultsStatsFile) => {
             return team.day.toLowerCase() === teamLowerCase;
         });
 
-        if (teamResult) {
-            if (teamResult.totalGamesPlayed > 0) {
-                teamStats = teamResult;
-                teamName = teamLowerCase;
-                break;
-            }
-        }
-
-        // Check for a team with an (a) suffix if no team found
-        const statsWithASuffix = teamResults?.find(
-            (teamResult: TeamResultsStatsFile) => {
-                return teamResult.day.toLowerCase() === teamLowerCase + ' (a)';
-            }
-        );
-        if (statsWithASuffix && statsWithASuffix.totalGamesPlayed > 0) {
-            teamStats = statsWithASuffix;
+        if (teamResult && teamResult.totalGamesPlayed > 0) {
+            teamStats = teamResult;
             teamName = teamLowerCase;
-            break;
+        } else {
+            // Check for a team with an (a) suffix if no team found
+            const statsWithASuffix = teamResults?.find(
+                (teamResult: TeamResultsStatsFile) => {
+                    return (
+                        teamResult.day.toLowerCase() === teamLowerCase + ' (a)'
+                    );
+                }
+            );
+            if (statsWithASuffix && statsWithASuffix.totalGamesPlayed > 0) {
+                teamStats = statsWithASuffix;
+                teamName = teamLowerCase;
+            }
+        }
+
+        // If we found a team with stats, look for B team
+        if (teamStats) {
+            bTeamStats =
+                teamResults?.find((teamResult: TeamResultsStatsFile) => {
+                    return (
+                        teamResult.day.toLowerCase() ===
+                        teamName.replace(' (a)', '') + ' (b)'
+                    );
+                }) || null;
+
+            teamsWithStats.push({ teamName, teamStats, bTeamStats });
         }
     }
 
-    // Find B team stats if they exist
-    bTeamStats = teamResults?.find((teamResult: TeamResultsStatsFile) => {
-        return (
-            teamResult.day.toLowerCase() ===
-            teamName.replace(' (a)', '') + ' (b)'
-        );
-    });
-
-    if (!bTeamStats) {
-        bTeamStats = null;
-    }
-
-    return { teamName, teamStats, bTeamStats };
+    return teamsWithStats;
 }
