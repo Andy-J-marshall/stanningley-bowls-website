@@ -4,6 +4,7 @@ import {
     findMinNumberOfGames,
     findPlayerRecords,
     findTeamRecords,
+    findAllTeamRecords,
 } from '../recordsHelper';
 import { config } from '../../config';
 import stats2022 from '../../data/stanningleyStats2022.json';
@@ -122,7 +123,7 @@ describe('#RecordsHelper Tests', () => {
             expect(bestAverage).to.equal(11.666666666666666);
             expect(bestAveragePlayer).to.deep.equal(['john armitage']);
 
-            expect(teamsInTeamRecords).to.have.length(39);            
+            expect(teamsInTeamRecords).to.have.length(39);
             expect(teamsInRecordsWithGames).to.have.length(4);
         });
     });
@@ -228,6 +229,99 @@ describe('#RecordsHelper Tests', () => {
                 bestAveragePlayer: ['alison woodfine'],
                 bestWinPercPlayer: ['paul leonard'],
             });
+        });
+    });
+
+    describe('findAllTeamRecords', () => {
+        const { initialTeamRecords, teamsFound } =
+            findLeaguesAvailableInData(playerResults24);
+
+        const { teamRecordsWithMinGames, highestTotalGames } =
+            findMinNumberOfGames(
+                playerResults24,
+                teamsFound,
+                initialTeamRecords
+            );
+
+        const { teamRecords } = findPlayerRecords(
+            playerResults24,
+            teamsFound,
+            teamRecordsWithMinGames,
+            highestTotalGames
+        );
+
+        const teams = [
+            'leeds monday combined',
+            'leeds saturday',
+            'leeds tuesday',
+            'leeds thursday vets',
+            'leeds tuesday vets',
+            'leeds half holiday',
+        ];
+
+        it('Should return records for all teams with data', () => {
+            const allRecords = findAllTeamRecords(teams, teamRecords);
+
+            expect(allRecords).to.be.an('array');
+            expect(allRecords.length).to.be.greaterThan(0);
+
+            allRecords.forEach((teamRecord) => {
+                expect(teamRecord).to.have.property('teamName');
+                expect(teamRecord).to.have.property('teamRecord');
+                expect(teamRecord).to.have.property('bTeamRecord');
+                expect(teamRecord.teamName).to.be.a('string');
+            });
+        });
+
+        it('Should include both A and B team records when B teams exist', () => {
+            const allRecords = findAllTeamRecords(teams, teamRecords);
+
+            const saturdayTeam = allRecords.find(
+                (team) => team.teamName === 'leeds saturday'
+            );
+
+            expect(saturdayTeam).to.not.be.undefined;
+            expect(saturdayTeam!.teamRecord).to.not.be.null;
+            expect(saturdayTeam!.bTeamRecord).to.not.be.null;
+        });
+
+        it('Should have null B team records when no B team exists', () => {
+            const allRecords = findAllTeamRecords(teams, teamRecords);
+
+            const tuesdayTeam = allRecords.find(
+                (team) => team.teamName === 'leeds tuesday'
+            );
+
+            if (tuesdayTeam) {
+                expect(tuesdayTeam.bTeamRecord).to.be.null;
+            }
+        });
+
+        it('Should return correct team names', () => {
+            const allRecords = findAllTeamRecords(teams, teamRecords);
+            const teamNames = allRecords.map((record) => record.teamName);
+
+            expect(teamNames).to.include('leeds monday combined');
+            expect(teamNames).to.include('leeds saturday');
+            expect(teamNames).to.include('leeds tuesday');
+            expect(teamNames).to.include('leeds thursday vets');
+        });
+
+        it('Should only return teams with actual records (bestAverage > -21)', () => {
+            const allRecords = findAllTeamRecords(teams, teamRecords);
+
+            allRecords.forEach((teamRecord) => {
+                expect(teamRecord.teamRecord.bestAverage).to.be.greaterThan(
+                    -21
+                );
+            });
+        });
+
+        it('Should handle empty team list gracefully', () => {
+            const allRecords = findAllTeamRecords([], teamRecords);
+
+            expect(allRecords).to.be.an('array');
+            expect(allRecords.length).to.equal(0);
         });
     });
 });
