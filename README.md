@@ -181,3 +181,4 @@ A number of manual changes are required at the end of each calendar year.
 
 1. Update the `clubCupWinners.json` file with the club cup winner
 2. Add fixtures to Google calendar for all teams
+3. Consider manually adding league reports at the end of the year for leagues that weren't automatically updated e.g. Crossgates
