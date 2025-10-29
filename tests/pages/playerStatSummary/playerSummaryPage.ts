@@ -3,6 +3,7 @@ import { expect, Locator, Page } from '@playwright/test';
 export class PlayerSummaryPage {
     public readonly page: Page;
 
+    public readonly header: Locator;
     public readonly playerRows: Locator;
     public readonly noGamesMessage: Locator;
 
@@ -14,8 +15,12 @@ export class PlayerSummaryPage {
     constructor(page: Page) {
         this.page = page;
 
+        this.header = page.locator('h1');
+
         this.playerRows = page.locator('#player-stats-per-team tbody');
-        this.noGamesMessage = page.getByText('no stats available for the selected year');
+        this.noGamesMessage = page.getByText(
+            'no stats available for the selected year'
+        );
 
         this.games = page.locator('#steve-gardner-games');
         this.wins = page.locator('#steve-gardner-wins');
@@ -25,6 +30,9 @@ export class PlayerSummaryPage {
 
     async goto() {
         await this.page.goto('/#/stats/player');
+        await expect(this.header).toContainText('player stats', {
+            ignoreCase: true,
+        });
     }
 
     setPlayerToFind(name: string) {

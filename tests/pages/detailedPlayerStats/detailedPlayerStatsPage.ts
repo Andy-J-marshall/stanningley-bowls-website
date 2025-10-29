@@ -1,9 +1,11 @@
-import { Locator, Page } from '@playwright/test';
+import { Locator, Page, expect } from '@playwright/test';
 
 export class DetailedPlayerStatsPage {
     public readonly page: Page;
     public readonly playerStats: Locator;
     public readonly title: Locator;
+
+    public readonly totalSubHeader: Locator;
 
     public readonly overviewAccordion: Locator;
     public readonly winLossAccordion: Locator;
@@ -19,18 +21,16 @@ export class DetailedPlayerStatsPage {
     constructor(page: Page) {
         this.page = page;
 
+        this.totalSubHeader = page.getByRole('heading', { name: 'total' });
+
         this.playerStats = page.locator('#detailed-player-stats');
         this.title = page.locator('#playerNameTitle');
 
-        this.overviewAccordion = page.getByRole('heading', {
-            name: 'OVERVIEW',
-        });
-        this.winLossAccordion = page.getByRole('heading', {
-            name: 'WINS & LOSSES',
-        });
-        this.aggAccordion = page.getByRole('heading', { name: 'AGGREGATES' });
-        this.teamAccordion = page.getByRole('heading', { name: 'TEAMS' });
-        this.resultsAccordion = page.getByRole('heading', { name: 'RESULTS' });
+        this.overviewAccordion = page.locator('#stats-overview > button');
+        this.winLossAccordion = page.locator('#stats-wl > button');
+        this.aggAccordion = page.locator('#stats-aggregate > button');
+        this.teamAccordion = page.locator('#stats-teams > button');
+        this.resultsAccordion = page.locator('#stats-results > button');
         this.accordions = page.locator(
             '#detailed-player-stats .accordion-button'
         );
@@ -41,31 +41,49 @@ export class DetailedPlayerStatsPage {
     }
 
     async clickWinsAndLossesAccordion() {
-        await this.page.waitForTimeout(500);
         await this.winLossAccordion.click();
+        await expect(this.winLossAccordion).toHaveAttribute(
+            'aria-expanded',
+            'true'
+        );
     }
 
     async clickAggAccordion() {
         await this.aggAccordion.click();
+        await expect(this.aggAccordion).toHaveAttribute(
+            'aria-expanded',
+            'true'
+        );
     }
 
     async clickTeamAccordion() {
         await this.teamAccordion.click();
+        await expect(this.teamAccordion).toHaveAttribute(
+            'aria-expanded',
+            'true'
+        );
     }
 
     async clickResultsAccordion() {
         await this.resultsAccordion.click();
+        await expect(this.resultsAccordion).toHaveAttribute(
+            'aria-expanded',
+            'true'
+        );
     }
 
     async clickAllButton() {
         await this.allButton.click();
+        await expect(this.totalSubHeader).toBeVisible();
     }
 
     async clickSinglesButton() {
         await this.singlesButton.click();
+        await expect(this.totalSubHeader).toBeVisible();
     }
 
     async clickPairsButton() {
         await this.pairsButton.click();
+        await expect(this.totalSubHeader).toBeVisible();
     }
 }

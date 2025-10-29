@@ -49,8 +49,11 @@ export class YearSelectPage {
     }
 
     async clickAllYearsDropDown() {
-        await this.page.waitForTimeout(750);
         await this.yearSelectDropdown.click();
+        await expect(this.yearSelectDropdown).toHaveAttribute(
+            'aria-expanded',
+            'true'
+        );
     }
 
     async checkYearDropdownHasEveryYearOption() {

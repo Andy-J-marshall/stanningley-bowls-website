@@ -1,7 +1,9 @@
-import { Locator, Page } from '@playwright/test';
+import { Locator, Page, expect } from '@playwright/test';
 
 export class RecordsPage {
     public readonly page: Page;
+
+    public readonly header: Locator;
 
     public readonly mondayTeamRecords: Locator;
 
@@ -34,6 +36,8 @@ export class RecordsPage {
 
     constructor(page: Page) {
         this.page = page;
+
+        this.header = page.locator('h1');
 
         this.mondayTeamRecords = page.locator(
             '#team-select-tabs-tabpane-monday .team-records'
@@ -120,5 +124,8 @@ export class RecordsPage {
 
     async goto() {
         await this.page.goto('/#/stats/records');
+        await expect(this.header).toContainText('records', {
+            ignoreCase: true,
+        });
     }
 }

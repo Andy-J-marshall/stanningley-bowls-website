@@ -1,4 +1,4 @@
-import { Locator, Page } from '@playwright/test';
+import { Locator, Page, expect } from '@playwright/test';
 
 export class PlayerStatOptionsPage {
     public readonly page: Page;
@@ -70,13 +70,13 @@ export class PlayerStatOptionsPage {
 
     async selectTeamFromDropdown(team: string) {
         await this.teamSelectDropdown.click();
+        await expect(this.teamSelectDropdown).toHaveAttribute(
+            'aria-expanded',
+            'true'
+        );
         await this.page
             .getByRole('button', { exact: true, name: team })
             .click();
-    }
-
-    async selectAllTeamsFromTeamDropdown() {
-        await this.teamSelectDropdown.click();
     }
 
     async selectAllClubsFromDropdown() {
@@ -85,6 +85,10 @@ export class PlayerStatOptionsPage {
 
     async selectClubFromDropdown(club: string) {
         await this.clubSelectDropdown.click();
+        await expect(this.clubSelectDropdown).toHaveAttribute(
+            'aria-expanded',
+            'true'
+        );
         await this.page
             .getByRole('button', { exact: true, name: club })
             .click();

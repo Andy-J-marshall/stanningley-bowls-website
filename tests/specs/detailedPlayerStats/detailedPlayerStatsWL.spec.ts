@@ -127,8 +127,8 @@ test.describe('Player detailed stats - wins and losses', () => {
         await yearSelectPage.selectAllYears();
 
         await playerSearchPage.searchForPlayer('Mabel Shaw');
+        
         await detailedPlayerStatsPage.clickWinsAndLossesAccordion();
-
         await expect(playerStatsWLPage.gamesPlayed).toHaveText('636');
         await expect(playerStatsWLPage.average).toHaveText('2.75');
         await expect(playerStatsWLPage.wins).toHaveText('397');

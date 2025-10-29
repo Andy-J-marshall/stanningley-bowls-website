@@ -1,7 +1,9 @@
-import { Locator, Page } from '@playwright/test';
+import { Locator, Page, expect } from '@playwright/test';
 
 export class TeamStatsPage {
     public readonly page: Page;
+
+    public readonly header: Locator;
 
     public readonly noStatsMessage: Locator;
 
@@ -36,6 +38,8 @@ export class TeamStatsPage {
 
     constructor(page: Page) {
         this.page = page;
+
+        this.header = page.locator('h1');
 
         this.noStatsMessage = page.getByText(
             'No stats available for the selected year'
@@ -123,5 +127,8 @@ export class TeamStatsPage {
 
     async goto() {
         await this.page.goto('/#/stats/team');
+        await expect(this.header).toContainText('team stats', {
+            ignoreCase: true,
+        });
     }
 }

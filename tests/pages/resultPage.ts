@@ -1,7 +1,9 @@
-import { Locator, Page } from '@playwright/test';
+import { Locator, Page, expect } from '@playwright/test';
 
 export class ResultPage {
     public readonly page: Page;
+
+    public readonly header: Locator;
 
     public readonly noResultsMessage: Locator;
 
@@ -14,6 +16,8 @@ export class ResultPage {
 
     constructor(page: Page) {
         this.page = page;
+
+        this.header = page.locator('h1');
 
         this.noResultsMessage = page.getByText(
             'No results available for the selected year'
@@ -37,5 +41,8 @@ export class ResultPage {
 
     async goto() {
         await this.page.goto('/#/results');
+        await expect(this.header).toContainText('results', {
+            ignoreCase: true,
+        });
     }
 }
