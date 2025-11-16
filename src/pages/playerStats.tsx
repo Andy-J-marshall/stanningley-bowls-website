@@ -19,7 +19,7 @@ import {
 import { returnPlayerStatSummary } from '../helpers/playerStatsSummaryHelper';
 import { config } from '../config';
 
-const defaultClubNameForStats = config.teamNames.shortName;
+const defaultClubNameForStats = config.clubsForPlayersStats[0];
 
 function PlayerStats(props: PlayerStatsProps) {
     const clubStats = props.clubStats;
