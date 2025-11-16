@@ -21,24 +21,16 @@ import YearSelectDropdown from './components/homePage/yearSelectDropdown';
 import { ClubStatsMap, FullStatsFile } from './types/interfaces';
 import statsData from './statsData';
 
-const allYearStanningleyStats: ClubStatsMap = statsData.allYearStanningleyStats;
-const allYearLittlemoorStats: ClubStatsMap = statsData.allYearLittlemoorStats;
-const allYearPudseyStats: ClubStatsMap = statsData.allYearPudseyStats;
+const allYearClubStats: ClubStatsMap = statsData.allYearClubStats;
 const allYearAllClubsStats: ClubStatsMap = statsData.allYearAllClubsStats;
 
+const currentClubStats = allYearClubStats.year2025;
+const currentAllClubsStats = allYearAllClubsStats.year2025;
+
 function App() {
-    const [stanningleyStats, setStanningleyStats] = useState<FullStatsFile>(
-        statsData.allYearStanningleyStats.year2025
-    );
-    const [littlemoorStats, setLittlemoorStats] = useState<FullStatsFile>(
-        statsData.allYearLittlemoorStats.year2025
-    );
-    const [pudseyStats, setPudseyStats] = useState<FullStatsFile>(
-        statsData.allYearPudseyStats.year2025
-    );
-    const [allClubsStats, setAllClubsStats] = useState<FullStatsFile>(
-        statsData.allYearAllClubsStats.year2025
-    );
+    const [clubStats, setClubStats] = useState<FullStatsFile>(currentClubStats);
+    const [allClubsStats, setAllClubsStats] =
+        useState<FullStatsFile>(currentAllClubsStats);
     const [yearToDisplay, setYearToDisplay] = useState('2025');
 
     useEffect(() => {
@@ -55,14 +47,10 @@ function App() {
             : `year${year}`;
 
         if (
-            allYearStanningleyStats[statsYearsProperty] &&
-            allYearLittlemoorStats[statsYearsProperty] &&
-            allYearPudseyStats[statsYearsProperty] &&
+            allYearClubStats[statsYearsProperty] &&
             allYearAllClubsStats[statsYearsProperty]
         ) {
-            setStanningleyStats(allYearStanningleyStats[statsYearsProperty]);
-            setLittlemoorStats(allYearLittlemoorStats[statsYearsProperty]);
-            setPudseyStats(allYearPudseyStats[statsYearsProperty]);
+            setClubStats(allYearClubStats[statsYearsProperty]);
             setAllClubsStats(allYearAllClubsStats[statsYearsProperty]);
 
             setYearToDisplay(year.toString());
@@ -90,7 +78,7 @@ function App() {
                                     displayAllYearsOption={false}
                                 />
                                 <Results
-                                    stats={stanningleyStats}
+                                    stats={clubStats}
                                     yearToDisplay={yearToDisplay}
                                 />
                             </div>
@@ -106,9 +94,7 @@ function App() {
                                     displayAllYearsOption={true}
                                 />
                                 <PlayerStats
-                                    stanningleyStats={stanningleyStats}
-                                    littlemoorStats={littlemoorStats}
-                                    pudseyStats={pudseyStats}
+                                    clubStats={clubStats}
                                     allClubsStats={allClubsStats}
                                 />
                             </div>
@@ -124,7 +110,7 @@ function App() {
                                     displayAllYearsOption={true}
                                 />
                                 <TeamStats
-                                    stats={stanningleyStats}
+                                    stats={clubStats}
                                     statsSelectCallback={statsSelectCallback}
                                     yearToDisplay={yearToDisplay}
                                 />
@@ -141,7 +127,7 @@ function App() {
                                     displayAllYearsOption={true}
                                 />
                                 <Records
-                                    stats={stanningleyStats}
+                                    stats={clubStats}
                                     statsSelectCallback={statsSelectCallback}
                                     yearToDisplay={yearToDisplay}
                                 />

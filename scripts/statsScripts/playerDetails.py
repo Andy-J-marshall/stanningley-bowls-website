@@ -1,18 +1,8 @@
 import playerStatsHelper
-import stanningleyDetails
-import littlemoorDetails
-import pudseyDetails
+import clubDetails
 
-players = list(
-    set(stanningleyDetails.players + littlemoorDetails.players + pudseyDetails.players)
-)
-duplicatePlayerNames = list(
-    set(
-        stanningleyDetails.duplicatePlayerNames
-        + littlemoorDetails.duplicatePlayerNames
-        + pudseyDetails.duplicatePlayerNames
-    )
-)
+players = clubDetails.players
+duplicatePlayerNames = clubDetails.duplicatePlayerNames
 
 
 # Add alternative names for players (lowercase)

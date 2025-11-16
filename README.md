@@ -81,10 +81,8 @@ The script that collates stats from all club teams can be found in the `/scripts
 
 Four JSON files will be generated after running the scripts:
 
--   `stanningleyStats{year}.json` - contains the stats for all Stanningley players
--   `littlemoorStats{year}.json` - contains the stats for Littlemoor players who also play for Stanningley
--   `pudseyStats{year}.json` - contains the stats for Pudsey players who also play for Stanningley
--   `allClubsStats{year}.json` - contains the stats for all Stanningley players, including other clubs they play for
+-   `stanningleyStats{year}.json` - contains the stats for all players
+-   `allClubsStats{year}.json` - contains the stats for all players, including other clubs they play for
 
 ## Update the player stats
 
@@ -138,7 +136,7 @@ A number of manual changes are required at the end of each calendar year.
 
 ## Scripts
 
-1. Update `stanningleyDetails.py`, `pudseyDetails.py` and `littlemoorDetails.py`:
+1. Update `clubDetails.py`:
 
     - Update the player information:
         - `players` - players who play for the club
@@ -165,7 +163,7 @@ A number of manual changes are required at the end of each calendar year.
 ## Web application
 
 1. Import the new stats files into `statsData.ts` and update the exported objects and arrays with the new files
-2. Update `statsSelectCallback` in `App.tsx` with the reference to the new year's stats file. Also update the default stats and year to display in the useState hook
+2. Update `currentClubStats` and `currentAllClubsStats` in `App.tsx` with the reference to the new year's stats file.
 3. Add a dropdown item for the new year in the `yearSelectDropdown.tsx` component
 4. If there are any new teams added, update the `records.tsx` and `teamStats.tsx`. Make sure `returnTabName` in `statsHelper.ts` displays the team name correctly. Check the team stats appear in the dropdown in the `playerStats.tsx` component, and in `playerStatsTeams.tsx`
 5. Update the `teamInfo.tsx` component with any new team and captain information. Also check BowlsNet URLs are correct

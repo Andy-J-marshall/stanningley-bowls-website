@@ -1,4 +1,4 @@
-import { assert, expect } from 'chai';
+import { expect } from 'chai';
 import {
     combineTeamStats,
     returnPlayerStatsForTeam,
@@ -6,7 +6,6 @@ import {
     findAllTeamStats,
 } from '../teamStatsHelper';
 import { PlayerResultsStatsFile } from '../../types/interfaces';
-import { config } from '../../config';
 import stats2022 from '../../data/stanningleyStats2022.json';
 import stats2023 from '../../data/stanningleyStats2023.json';
 import stats2024 from '../../data/stanningleyStats2024.json';

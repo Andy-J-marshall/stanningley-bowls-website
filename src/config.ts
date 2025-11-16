@@ -3,7 +3,7 @@ export const config = {
         fullName: 'Stanningley Park Bowling Club',
         shortName: 'Stanningley',
     },
-    clubsForPlayersStats: ['stanningley', 'littlemoor', 'pudsey'],
+    clubsForPlayersStats: ['stanningley'],
     socialLinks: {
         instagramUrl: 'https://www.instagram.com/StanningleyParkBowls',
         facebookUrl: 'https://www.facebook.com/StanningleyBowlsClub',
