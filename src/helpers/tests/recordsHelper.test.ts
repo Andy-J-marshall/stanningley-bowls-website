@@ -1,11 +1,10 @@
-import { assert, expect } from 'chai';
+import { expect } from 'chai';
 import {
     findLeaguesAvailableInData,
     findMinNumberOfGames,
     findPlayerRecords,
     findAllTeamRecords,
 } from '../recordsHelper';
-import { config } from '../../config';
 import stats2022 from '../../data/stanningleyStats2022.json';
 import stats2024 from '../../data/stanningleyStats2024.json';
 

@@ -22,19 +22,11 @@ import { ClubStatsMap, FullStatsFile } from './types/interfaces';
 import statsData from './statsData';
 
 const allYearStanningleyStats: ClubStatsMap = statsData.allYearStanningleyStats;
-const allYearLittlemoorStats: ClubStatsMap = statsData.allYearLittlemoorStats;
-const allYearPudseyStats: ClubStatsMap = statsData.allYearPudseyStats;
 const allYearAllClubsStats: ClubStatsMap = statsData.allYearAllClubsStats;
 
 function App() {
     const [stanningleyStats, setStanningleyStats] = useState<FullStatsFile>(
         statsData.allYearStanningleyStats.year2025
-    );
-    const [littlemoorStats, setLittlemoorStats] = useState<FullStatsFile>(
-        statsData.allYearLittlemoorStats.year2025
-    );
-    const [pudseyStats, setPudseyStats] = useState<FullStatsFile>(
-        statsData.allYearPudseyStats.year2025
     );
     const [allClubsStats, setAllClubsStats] = useState<FullStatsFile>(
         statsData.allYearAllClubsStats.year2025
@@ -56,13 +48,9 @@ function App() {
 
         if (
             allYearStanningleyStats[statsYearsProperty] &&
-            allYearLittlemoorStats[statsYearsProperty] &&
-            allYearPudseyStats[statsYearsProperty] &&
             allYearAllClubsStats[statsYearsProperty]
         ) {
             setStanningleyStats(allYearStanningleyStats[statsYearsProperty]);
-            setLittlemoorStats(allYearLittlemoorStats[statsYearsProperty]);
-            setPudseyStats(allYearPudseyStats[statsYearsProperty]);
             setAllClubsStats(allYearAllClubsStats[statsYearsProperty]);
 
             setYearToDisplay(year.toString());
@@ -107,8 +95,6 @@ function App() {
                                 />
                                 <PlayerStats
                                     stanningleyStats={stanningleyStats}
-                                    littlemoorStats={littlemoorStats}
-                                    pudseyStats={pudseyStats}
                                     allClubsStats={allClubsStats}
                                 />
                             </div>

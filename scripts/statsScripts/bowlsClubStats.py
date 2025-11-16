@@ -1,6 +1,7 @@
 import re
 import argparse
 from datetime import datetime
+import clubDetails
 
 from teamStatsHelper import (
     checkTeamName,
@@ -30,23 +31,13 @@ from playerStatsHelper import (
 parser = argparse.ArgumentParser()
 parser.add_argument(
     "--club",
-    choices=["littlemoor", "stanningley", "pudsey"],
-    required=True,
+    choices=[clubDetails.displayTeamName],
+    default=clubDetails.displayTeamName,
     help="Specify the club details to use.",
 )
-args = parser.parse_args()
 
-# Import the appropriate club details module based on the argument
-generateTeamStats = True
-if args.club == "stanningley":
-    generateTeamStats = True
-    import stanningleyDetails as clubDetails
-elif args.club == "littlemoor":
-    generateTeamStats = False
-    import littlemoorDetails as clubDetails
-elif args.club == "pudsey":
-    generateTeamStats = False
-    import pudseyDetails as clubDetails
+# If generating for a different club to the default (clubDetails.py), import the relevant details
+generateTeamStats = True  # set to false if you only want player stats
 
 playerStats = returnListOfPlayerStats(clubDetails.teamDays, True, clubDetails.players)
 teamsProcessed = []
@@ -75,7 +66,9 @@ for team in clubDetails.teamDays:
         if teamNameUsedForLeague is None or teamNameToUse is None:
             # Checks the team name appears in the league file if it is after the 1st of May
             if datetime.now().month > 4:
-                raise Exception(f"{args.club} not found in league file for {team}")
+                raise Exception(
+                    f"{clubDetails.displayTeamName} not found in league file for {team}"
+                )
             continue
 
         continueGeneratingStats = checkTeamName(
@@ -89,7 +82,6 @@ for team in clubDetails.teamDays:
         cupGameRows = findCupGameRows(allRowsInFile)
 
         #### TEAM STATS ####
-        # Team stats are only generated for Stanningley
         if generateTeamStats:
             # Find team's home and away games
             homeRows, awayRows = findHomeAndAwayTeamGameRows(

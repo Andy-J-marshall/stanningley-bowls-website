@@ -1,9 +1,9 @@
 import { expect } from 'chai';
-import stats2022 from '../../data/stanningleyStats2022.json';
 import {
     returnPlayerStatSummary,
     returnPlayerSummaryDisplayStats,
 } from '../playerStatsSummaryHelper';
+import stats2022 from '../../data/stanningleyStats2022.json';
 
 describe('#playersStatsSummaryHelper Tests', () => {
     describe('#returnPlayerStatSummary()', () => {

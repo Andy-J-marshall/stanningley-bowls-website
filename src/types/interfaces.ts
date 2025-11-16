@@ -59,8 +59,6 @@ export interface PlayerStatsOptionsProps {
 
 export interface PlayerStatsProps {
     stanningleyStats: FullStatsFile;
-    littlemoorStats: FullStatsFile;
-    pudseyStats: FullStatsFile;
     allClubsStats: FullStatsFile;
 }
 

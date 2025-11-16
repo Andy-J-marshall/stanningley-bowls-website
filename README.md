@@ -81,10 +81,8 @@ The script that collates stats from all club teams can be found in the `/scripts
 
 Four JSON files will be generated after running the scripts:
 
--   `stanningleyStats{year}.json` - contains the stats for all Stanningley players
--   `littlemoorStats{year}.json` - contains the stats for Littlemoor players who also play for Stanningley
--   `pudseyStats{year}.json` - contains the stats for Pudsey players who also play for Stanningley
--   `allClubsStats{year}.json` - contains the stats for all Stanningley players, including other clubs they play for
+-   `stanningleyStats{year}.json` - contains the stats for all players
+-   `allClubsStats{year}.json` - contains the stats for all players, including other clubs they play for
 
 ## Update the player stats
 
@@ -138,7 +136,7 @@ A number of manual changes are required at the end of each calendar year.
 
 ## Scripts
 
-1. Update `stanningleyDetails.py`, `pudseyDetails.py` and `littlemoorDetails.py`:
+1. Update `clubDetails.py`:
 
     - Update the player information:
         - `players` - players who play for the club

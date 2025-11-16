@@ -20,8 +20,6 @@ import { returnPlayerStatSummary } from '../helpers/playerStatsSummaryHelper';
 
 function PlayerStats(props: PlayerStatsProps) {
     const stanningleyStats = props.stanningleyStats;
-    const littlemoorStats = props.littlemoorStats;
-    const pudseyStats = props.pudseyStats;
     const allClubsStats = props.allClubsStats;
 
     const [searchedPlayerName, setSearchedPlayerName] = useState('');
@@ -58,8 +56,6 @@ function PlayerStats(props: PlayerStatsProps) {
             setPlayers(Object.keys(allClubsStats?.playerResults).sort());
         } else {
             const clubStatsMap: ClubPlayerStatsMap = {
-                pudsey: pudseyStats?.playerResults,
-                littlemoor: littlemoorStats?.playerResults,
                 stanningley: stanningleyStats?.playerResults,
             };
 
@@ -82,8 +78,6 @@ function PlayerStats(props: PlayerStatsProps) {
         );
     }, [
         stanningleyStats,
-        littlemoorStats,
-        pudseyStats,
         showAllClubsStats,
         clubNameForStats,
         loaded,
