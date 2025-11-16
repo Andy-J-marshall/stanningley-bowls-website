@@ -21,16 +21,16 @@ import YearSelectDropdown from './components/homePage/yearSelectDropdown';
 import { ClubStatsMap, FullStatsFile } from './types/interfaces';
 import statsData from './statsData';
 
-const allYearClubStats: ClubStatsMap = statsData.allYearStanningleyStats;
+const allYearClubStats: ClubStatsMap = statsData.allYearClubStats;
 const allYearAllClubsStats: ClubStatsMap = statsData.allYearAllClubsStats;
 
+const currentClubStats = allYearClubStats.year2025;
+const currentAllClubsStats = allYearAllClubsStats.year2025;
+
 function App() {
-    const [clubStats, setClubStats] = useState<FullStatsFile>(
-        statsData.allYearStanningleyStats.year2025
-    );
-    const [allClubsStats, setAllClubsStats] = useState<FullStatsFile>(
-        statsData.allYearAllClubsStats.year2025
-    );
+    const [clubStats, setClubStats] = useState<FullStatsFile>(currentClubStats);
+    const [allClubsStats, setAllClubsStats] =
+        useState<FullStatsFile>(currentAllClubsStats);
     const [yearToDisplay, setYearToDisplay] = useState('2025');
 
     useEffect(() => {

@@ -163,7 +163,7 @@ A number of manual changes are required at the end of each calendar year.
 ## Web application
 
 1. Import the new stats files into `statsData.ts` and update the exported objects and arrays with the new files
-2. Update `statsSelectCallback` in `App.tsx` with the reference to the new year's stats file. Also update the default stats and year to display in the useState hook
+2. Update `currentClubStats` and `currentAllClubsStats` in `App.tsx` with the reference to the new year's stats file.
 3. Add a dropdown item for the new year in the `yearSelectDropdown.tsx` component
 4. If there are any new teams added, update the `records.tsx` and `teamStats.tsx`. Make sure `returnTabName` in `statsHelper.ts` displays the team name correctly. Check the team stats appear in the dropdown in the `playerStats.tsx` component, and in `playerStatsTeams.tsx`
 5. Update the `teamInfo.tsx` component with any new team and captain information. Also check BowlsNet URLs are correct
