@@ -1,10 +1,10 @@
 import { useState, useEffect } from 'react';
+import 'react-bootstrap-typeahead/css/Typeahead.css';
+
 import IndividualPlayerStats from '../components/playerStats/IndividualPlayerStats';
 import PlayerStatSummary from '../components/playerStats/playerStatSummary';
 import PlayerStatsOptions from '../components/playerStats/playerStatsOptions';
 import Search from '../components/playerStats/search';
-
-import 'react-bootstrap-typeahead/css/Typeahead.css';
 import {
     ClubPlayerStatsMap,
     PlayerStatsProps,
@@ -17,20 +17,23 @@ import {
     returnTeamNamesWithGames,
 } from '../helpers/teamStatsHelper';
 import { returnPlayerStatSummary } from '../helpers/playerStatsSummaryHelper';
+import { config } from '../config';
+
+const defaultClubNameForStats = config.teamNames.shortName;
 
 function PlayerStats(props: PlayerStatsProps) {
-    const stanningleyStats = props.stanningleyStats;
+    const clubStats = props.clubStats;
     const allClubsStats = props.allClubsStats;
 
     const [searchedPlayerName, setSearchedPlayerName] = useState('');
     const [value, setValue] = useState(['']);
     const [loaded, setLoaded] = useState(false);
     const [showAllClubsStats, setShowAllClubsStats] = useState(false);
-    const [statsToUse, setStatsToUse] = useState(
-        stanningleyStats?.playerResults
-    );
+    const [statsToUse, setStatsToUse] = useState(clubStats?.playerResults);
     const [teamNameForStats, setTeamNameForStats] = useState('');
-    const [clubNameForStats, setClubNameForStats] = useState('stanningley');
+    const [clubNameForStats, setClubNameForStats] = useState(
+        defaultClubNameForStats
+    );
 
     const [showSinglesOnlyBool, setShowSinglesOnlyBool] = useState(false);
     const [showPairsOnlyBool, setShowPairsOnlyBool] = useState(false);
@@ -38,7 +41,7 @@ function PlayerStats(props: PlayerStatsProps) {
     const [showAwayOnlyBool, setShowAwayOnlyBool] = useState(false);
     const [showCupOnlyBool, setShowCupOnlyBool] = useState(false);
     const [teamNames, setTeamNames] = useState(
-        returnTeamNamesWithGames(stanningleyStats?.playerResults)
+        returnTeamNamesWithGames(clubStats?.playerResults)
     );
     const [players, setPlayers] = useState(['']);
     const [yearInTitle, setYearInTitle] = useState('');
@@ -56,11 +59,12 @@ function PlayerStats(props: PlayerStatsProps) {
             setPlayers(Object.keys(allClubsStats?.playerResults).sort());
         } else {
             const clubStatsMap: ClubPlayerStatsMap = {
-                stanningley: stanningleyStats?.playerResults,
+                [defaultClubNameForStats]: clubStats?.playerResults,
             };
 
             const selectedStats =
-                clubStatsMap[clubNameForStats] || clubStatsMap['stanningley'];
+                clubStatsMap[clubNameForStats] ||
+                clubStatsMap[defaultClubNameForStats];
 
             setPlayers(Object.keys(selectedStats).sort());
 
@@ -71,17 +75,12 @@ function PlayerStats(props: PlayerStatsProps) {
         // Find the title and players list fo the selected stats
 
         setYearInTitle(
-            !isNaN(Number(stanningleyStats.statsYear)) &&
-                new Date().getFullYear() !== Number(stanningleyStats.statsYear)
+            !isNaN(Number(clubStats.statsYear)) &&
+                new Date().getFullYear() !== Number(clubStats.statsYear)
                 ? allClubsStats.statsYear.toLowerCase()
                 : ''
         );
-    }, [
-        stanningleyStats,
-        showAllClubsStats,
-        clubNameForStats,
-        loaded,
-    ]);
+    }, [clubStats, showAllClubsStats, clubNameForStats, loaded]);
 
     function scrollToBottom() {
         setTimeout(() => {

@@ -21,11 +21,11 @@ import YearSelectDropdown from './components/homePage/yearSelectDropdown';
 import { ClubStatsMap, FullStatsFile } from './types/interfaces';
 import statsData from './statsData';
 
-const allYearStanningleyStats: ClubStatsMap = statsData.allYearStanningleyStats;
+const allYearClubStats: ClubStatsMap = statsData.allYearStanningleyStats;
 const allYearAllClubsStats: ClubStatsMap = statsData.allYearAllClubsStats;
 
 function App() {
-    const [stanningleyStats, setStanningleyStats] = useState<FullStatsFile>(
+    const [clubStats, setClubStats] = useState<FullStatsFile>(
         statsData.allYearStanningleyStats.year2025
     );
     const [allClubsStats, setAllClubsStats] = useState<FullStatsFile>(
@@ -47,10 +47,10 @@ function App() {
             : `year${year}`;
 
         if (
-            allYearStanningleyStats[statsYearsProperty] &&
+            allYearClubStats[statsYearsProperty] &&
             allYearAllClubsStats[statsYearsProperty]
         ) {
-            setStanningleyStats(allYearStanningleyStats[statsYearsProperty]);
+            setClubStats(allYearClubStats[statsYearsProperty]);
             setAllClubsStats(allYearAllClubsStats[statsYearsProperty]);
 
             setYearToDisplay(year.toString());
@@ -78,7 +78,7 @@ function App() {
                                     displayAllYearsOption={false}
                                 />
                                 <Results
-                                    stats={stanningleyStats}
+                                    stats={clubStats}
                                     yearToDisplay={yearToDisplay}
                                 />
                             </div>
@@ -94,7 +94,7 @@ function App() {
                                     displayAllYearsOption={true}
                                 />
                                 <PlayerStats
-                                    stanningleyStats={stanningleyStats}
+                                    clubStats={clubStats}
                                     allClubsStats={allClubsStats}
                                 />
                             </div>
@@ -110,7 +110,7 @@ function App() {
                                     displayAllYearsOption={true}
                                 />
                                 <TeamStats
-                                    stats={stanningleyStats}
+                                    stats={clubStats}
                                     statsSelectCallback={statsSelectCallback}
                                     yearToDisplay={yearToDisplay}
                                 />
@@ -127,7 +127,7 @@ function App() {
                                     displayAllYearsOption={true}
                                 />
                                 <Records
-                                    stats={stanningleyStats}
+                                    stats={clubStats}
                                     statsSelectCallback={statsSelectCallback}
                                     yearToDisplay={yearToDisplay}
                                 />
